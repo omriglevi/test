@@ -4,7 +4,7 @@ require('dotenv').config()
 const { connectDB } = require("./db")
 const authRouter = require("./auth/router")
 const errorHandler = require("./error-handler")
-const router  = require("./data/router")
+const auctionsRouter  = require("./auctions/router")
 const app = express()
 const cookieParser = require("cookie-parser");
 
@@ -13,7 +13,7 @@ app.use(express.json())
 app.use(cookieParser());
 // app.use(express.urlencoded({ extended: true }))
 app.use(authRouter) // Router for register and login
-app.use(router)// here will be the admin routes
+app.use(auctionsRouter)// here will be the admin routes
 app.use(errorHandler) // Error handler middleware
 
 

@@ -7,7 +7,6 @@ const adminAuth = (req, res, next) => {
     const token = req.cookies?.jwt
     if (token) {
       jwt.verify(token, jwtSecret, (err, decodedToken) => {
-        console.log('decodedToken', decodedToken);
         if (err) {
           throw new Error(err.message)
         } else {

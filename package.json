@@ -4,7 +4,8 @@
   "description": "just a generic template for creating react and nodejs apps",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-dev": "nodemon src/index.js"
   },
   "author": "Omri Levy",
   "license": "ISC",
