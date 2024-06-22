@@ -1,4 +1,6 @@
 const express = require("express")
+const path = require("path")
+const cors = require("cors")
 require('dotenv').config()
 
 const { connectDB } = require("./db")
@@ -9,9 +11,11 @@ const app = express()
 const cookieParser = require("cookie-parser");
 
 
+app.use(express.static(path.join(__dirname, "public")));
+app.use(cors())
 app.use(express.json())
 app.use(cookieParser());
-// app.use(express.urlencoded({ extended: true }))
+app.use(express.urlencoded({ extended: true }))
 app.use(authRouter) // Router for register and login
 app.use(auctionsRouter)// here will be the admin routes
 app.use(errorHandler) // Error handler middleware
