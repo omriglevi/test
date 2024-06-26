@@ -63,11 +63,14 @@ const login = async (req, res, next) => {
 
 
             const maxAge = 3 * 60 * 60 // 30hrs in sec
+            const today = new Date();
+            const thirtyHoursFromNow = today.setDate(today.getDate() + 30/24);
+
             const token = jwt.sign(
                 { id: user._id, username, role: user.role },
                 jwtSecret,
                 {
-                    expiresIn: maxAge,
+                    expiresIn: '30h'
                 }
             );
             res.cookie("jwt", token, {
@@ -79,6 +82,7 @@ const login = async (req, res, next) => {
                 user: user._id,
                 username: user.username,
                 token,
+                expiresIn: thirtyHoursFromNow,
             });
 
         }
