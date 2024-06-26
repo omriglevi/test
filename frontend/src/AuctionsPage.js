@@ -197,6 +197,11 @@ export default function EnhancedTable () {
   const [previousCursor, setPreviousCursor] = React.useState(null)
   const [loading, setLoading] = React.useState(false)
 
+  const visibleRows = React.useMemo(
+    () =>
+      stableSort(rows, getComparator(order, orderBy)),
+    [order, orderBy, rows],
+  );
 
   React.useEffect(() => {
     async function fetchData () {
@@ -278,7 +283,7 @@ export default function EnhancedTable () {
               rowCount={rows?.length || 0}
             />
             <TableBody>
-              {rows.map((row, index) => {
+              {visibleRows.map((row, index) => {
                 const labelId = `enhanced-table-checkbox-${index}`;
 
                 return (
