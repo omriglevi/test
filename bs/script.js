@@ -18,7 +18,7 @@ const numberFields = [
 
 const namesMap = {
     ['caseNumber(Count)']: 'caseNumber',
-    // ['siteAddress']: 'address',
+    ['siteAddress']: 'address',
 }
 
 /** @type { (data: object) => object} */
@@ -39,22 +39,16 @@ const normalizeData = (data) => {
             if (auction[field] && typeof auction[field] === 'string') {
                 fieldVal = auction[field].replace(/[$,]/g, '')
                 const value = parseFloat(fieldVal)
-                // if (!isNaN(value)) {
-                //     auction[field] = value
-                // }
                 auction[field] = !isNaN(value) ? value : null
-
-
             }
         })
         return auction
     })
     return normalizedData
 }
+
 const normalizedData = normalizeData(data)
 connectDB().then(()=> {
     return Promise.all(normalizedData.map(a => insert(a).catch(console.error)))
 })
-// console.log(normalizedData);
-// connectDB().then(insertBulk(normalizedData).catch(console.error))
-// console.log(normalizeData(data));
+console.log(normalizedData);

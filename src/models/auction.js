@@ -104,8 +104,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     address: {
         type: String,
-        required: false,
-        // set default value ''
+        required: true,
         default: ''
     },
     totalValue: {

@@ -10,11 +10,17 @@ const auctionsRouter  = require("./auctions/router")
 const app = express()
 const cookieParser = require("cookie-parser");
 
+const corsConfig = {
+    origin: true,
+    credentials: true,
+  };
 
+  // server the build from ./frontend/build
+// app.use(express.static(path.join(__dirname, "/../frontend/build")));
 app.use(express.static(path.join(__dirname, "public")));
-app.use(cors())
-app.use(express.json())
+app.use(cors(corsConfig))
 app.use(cookieParser());
+app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(authRouter) // Router for register and login
 app.use(auctionsRouter)// here will be the admin routes

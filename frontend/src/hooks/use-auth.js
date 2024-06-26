@@ -2,12 +2,12 @@
 import { createContext, useContext, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import { useLocalStorage } from "./use-storage";
+import Cookies from 'universal-cookie';
 const AuthContext = createContext();
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useLocalStorage("user", null);
-  const [token, setToken] = useLocalStorage("token", null);
-  const [username, setUsername] = useLocalStorage("token", null);
+  const [username, setUsername] = useLocalStorage("username", null);
   const navigate = useNavigate();
 
 
@@ -16,15 +16,24 @@ export const AuthProvider = ({ children }) => {
     user,
     token
   }) => {
+// set cookies here
+console.log('Login token ======>', token);
+console.log('Login user ======>', user);
+console.log('Login user ======>', username);
+
+
+
+  const cookies = new Cookies();
+  cookies.set('jwt', token, { secure: true});
+
     setUser(user);
-    setToken(token);
     setUsername(username);
     navigate("/");
   };
 
   const logout = () => {
+    new Cookies();
     setUser(null);
-    setToken(null);
     setUsername(null);
     navigate("/login", { replace: true });
   };
@@ -32,11 +41,10 @@ export const AuthProvider = ({ children }) => {
   const value = useMemo(
     () => ({
       user,
-      token,
       username,
       login,
       logout,
-    }),[user, token, username]
+    }),[user, username]
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

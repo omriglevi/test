@@ -1,5 +1,4 @@
-import * as React from 'react';
-import axios from 'axios';
+import { useEffect, useState } from 'react';
 import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -9,6 +8,8 @@ import Box from '@mui/material/Box';
 import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
+import Alert from '@mui/material/Alert';
+
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { useAuth } from './hooks/use-auth'
 
@@ -28,33 +29,46 @@ function Copyright(props) {
 const theme = createTheme();
 
 export default function SignIn() {
-  const { login } = useAuth();
+  const [error , setError] = useState(null)
+  const { login, user } = useAuth();
+
+  useEffect(() => {
+      if (user) {
+        window.location.href = '/'
+      }
+
+  }, [user]);
+
   const handleSubmit = async (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    const config = {
-      url: 'http://localhost:3000/login',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      data: {
-        username: data.get('username'),
-        password: data.get('password'),
-      },
-    };
+    try {
+      const response = await fetch('http://localhost:3000/login', {
+        body: JSON.stringify({
+          username: data.get('username'),
+          password: data.get('password'),
+        }),
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        method: 'POST',
+      })
+      .then(response => response.json())
 
-    const response = await axios(config)
-    login({
-      username: response.data.username,
-      user: response.data.user,
-      token: response.data.token,
-    });
+      login({ // set the state to logged in
+        username: response.username,
+        user: response.user,
+        token: response.token,
+      });
+      setError(null)
+    } catch (error) {
+      setError(error.message)
+    }
 
   };
 
   return (
-    <ThemeProvider theme={theme}>
+    <ThemeProvider theme={theme} >
       <Container component="main" maxWidth="xs">
         <CssBaseline />
         <Box
@@ -72,6 +86,7 @@ export default function SignIn() {
             Sign in
           </Typography>
           <Box component="form" onSubmit={handleSubmit} noValidate sx={{ mt: 1 }}>
+          {error && <Alert severity="error">Wrong Username or Password</Alert>}
             <TextField
               margin="normal"
               required

@@ -13,8 +13,8 @@ const getAuctionsWithFilter = async (req, res, next) => {
             }
         }
 
-        const auctions = await getAuctions({ filter,cursor, limit })
-        res.status(200).json({ auctions })
+        const data = await getAuctions({ filter,cursor, limit })
+        res.status(200).json(data)
     } catch (error) {
         next(error)
     }

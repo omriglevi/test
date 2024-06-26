@@ -73,19 +73,23 @@ const getAuctions = async ({ cursor, filter ,limit = LIMIT }) => {
       query._id = query._id ? {...query._id, $gt: cursor } : { $gt: cursor };
     }
 
+    const queryLimit = Number(limit) || LIMIT;
     const auctions = await Auction
         .find(query)
-        .limit(Number(limit) || LIMIT)
+        .limit(queryLimit)
         .exec();
 
     // Extract the next and previous cursor from the result
-    const prevCursor = cursor && auctions.length > 0 ? auctions[0]._id : null;
-    const nextCursor = auctions.length > 0 ? auctions[auctions.length - 1]._id : null;
+    // const prevCursor = cursor && auctions.length > 0 ? auctions[0]._id : null;
+    let nextCursor = auctions.length > 0 ? auctions[auctions.length - 1]._id : null;
 
-    // Return the paginated data
+    if (auctions?.length < queryLimit){
+        nextCursor = null
+    }
+
     return {
       nextCursor,
-      prevCursor,
+    //   prevCursor,
       totalResults: auctions.length,
       auctions,
       filter,

@@ -1,8 +1,9 @@
 import './App.css';
-import LoginPage from './Login';
+import LoginPage from './LoginPage';
 import { Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './hooks/use-auth'
 import { ProtectedRoute } from './ProtectedRoute';
+import AuctionsPage from './AuctionsPage';
 import Navbar from './Navbar';
 
 function App() {
@@ -13,9 +14,7 @@ function App() {
         <Routes>
           <Route path="/" element={
             <ProtectedRoute>
-            <div>
-              <h1>Home</h1>
-            </div>
+                <AuctionsPage />
             </ProtectedRoute>
           } />
           <Route path="/login" element={<LoginPage />} />
