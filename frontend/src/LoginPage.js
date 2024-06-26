@@ -59,7 +59,7 @@ export default function SignIn() {
         username: response.username,
         user: response.user,
         token: response.token,
-        expiredIn: response.expiresIn,
+        expiresIn: response.expiresIn,
       });
       setError(null)
     } catch (error) {

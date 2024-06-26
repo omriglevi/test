@@ -18,6 +18,10 @@ import Tooltip from '@mui/material/Tooltip';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import Switch from '@mui/material/Switch';
 import CircularProgress from '@mui/material/CircularProgress';
+import KeyboardArrowUp from '@mui/icons-material/KeyboardArrowUp';
+import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown';
+
+
 
 import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
@@ -251,11 +255,11 @@ export default function EnhancedTable () {
       .finally(() => setLoading(false))
 
     setRows(newRows.auctions)
-    if (!newRows?.nextCursor){
+    if (!newRows?.nextCursor) {
       setNextCursor(null)
     } else {
-       setPreviousCursor(nextCursor)
-       setNextCursor(newRows.nextCursor)
+      setPreviousCursor(nextCursor)
+      setNextCursor(newRows.nextCursor)
     }
   }
 
@@ -285,43 +289,12 @@ export default function EnhancedTable () {
             <TableBody>
               {visibleRows.map((row, index) => {
                 const labelId = `enhanced-table-checkbox-${index}`;
-
                 return (
-                  <TableRow
-                    hover
-                    // onClick={(event) => handleClick(event, row.id)}
-                    tabIndex={-1}
-                    key={row.id}
-                    sx={{ cursor: 'pointer' }}
-
-                  >
-                    <TableCell
-                      component="th"
-                      id={labelId}
-                      scope="row"
-                      padding="normal"
-                      align={'center'}>
-                      {
-                        row.liked?.includes('myuser-------------------------t4rgfergid') ?
-                          <Favorite />
-                          :
-                          <FavoriteBorder />
-                      }
-                    </TableCell>
-
-                    <TableCell align="center">{row.parcelID}</TableCell>
-                    <TableCell align="center">{row.caseNumber}</TableCell>
-
-                    <TableCell> {row.address} </TableCell>
-                    <TableCell align="center">{row.assessedValue + '$'}</TableCell>
-                    <TableCell align="center">{row.auctionDate}</TableCell>
-                    <TableCell align="center">{row.caseType}</TableCell>
-                    <TableCell align="center">{row.description}</TableCell>
-                  </TableRow>
+                  <ExpandableTableRow row={row} key={row.id} labelId={labelId} />
                 );
               })}
             </TableBody>
-          </Table>}
+          </Table>
         </TableContainer>
         <Box
           sx={{
@@ -350,4 +323,183 @@ export default function EnhancedTable () {
       />
     </Box>
   );
+}
+
+// create ExpandableTableRow component
+
+const ExpandableTableRow = ({ row, labelId }) => {
+  const [isExpanded, setIsExpanded] = React.useState(false);
+  const toggleExpanded = () => setIsExpanded(!isExpanded);
+
+  return (
+    <>
+      <TableRow
+        hover
+        onClick={toggleExpanded}
+        tabIndex={-1}
+        key={row.id}
+        sx={{ cursor: 'pointer' }}
+
+      >
+        <TableCell
+          component="th"
+          id={labelId}
+          scope="row"
+          padding="normal"
+          align={'center'}>
+          {
+            row.liked?.includes('myuser-------------------------t4rgfergid') ?
+              <Favorite />
+              :
+              <FavoriteBorder />
+          }
+        </TableCell>
+
+        <TableCell align="center">{row.parcelID}</TableCell>
+        <TableCell align="center">{row.caseNumber}</TableCell>
+
+        <TableCell> {row.address} </TableCell>
+        <TableCell align="center">{row.assessedValue + '$'}</TableCell>
+        <TableCell align="center">{row.auctionDate}</TableCell>
+        <TableCell align="center">{row.caseType}</TableCell>
+        <TableCell align="center">{row.description}</TableCell>
+      </TableRow>
+
+      {isExpanded && (
+        <>
+          <TableRow>
+            {/* show all the details of the auction in this row, it should look like a document */}
+            <TableCell colSpan={4}>
+              <Typography>
+                auctionDate: {row.auctionDate}
+              </Typography>
+              <Typography>
+                caseNumber: {row.caseNumber}
+              </Typography>
+              <Typography>
+                caseType {row.caseType}
+              </Typography>
+              <Typography>
+                openingBid: {row.parcelID}
+              </Typography>
+              <Typography>
+                certificateNumber: {row.certificateNumber}
+              </Typography>
+              <Typography>
+                assessedValue : {row.assessedValue}
+              </Typography>
+              <Typography>
+                propertyAppraiserLegalDescription: {row.propertyAppraiserLegalDescription}
+              </Typography>
+                <Typography>
+                  Party Details :
+                  {
+                    row.partyDetails.map((obj, index) => {
+                      const property = Object.keys(obj)[0]
+                      return (
+                        <Typography key={index}>
+                          {property} : {obj[property]}
+                        </Typography>
+                      )
+                    })
+                  }
+                </Typography>
+                <Typography>
+                  Url : {row.url}
+                </Typography>
+                <Typography>
+                  Bedrooms : {row.bedrooms}
+                </Typography>                <Typography>
+                  Bathrooms : {row.bathrooms}
+                </Typography>
+                <Typography>
+                municipality : {row.municipality}
+                </Typography>
+                <Typography>
+                lotSize : {row.lotSize}
+                </Typography>                <Typography>
+                primaryLandUse : {row.primaryLandUse}
+                </Typography>
+                <Typography>
+                livingArea : {row.livingArea}
+                </Typography>
+                <Typography>
+                yearBuilt : {row.yearBuilt}
+                </Typography><Typography>
+                primaryZone : {row.primaryZone}
+                </Typography><Typography>
+                subdivision : {row.subdivision}
+                </Typography>
+                <Typography>
+                neighborhood : {row.neighborhood}
+                </Typography>
+                <Typography>
+                buildingArea : {row.buildingArea}
+                </Typography><Typography>
+                description : {row.description}
+                </Typography><Typography>
+                units : {row.units}
+                </Typography>
+                <Typography>
+                address : {row.address}
+                </Typography>
+                <Typography>
+                owners : {
+                  row.owners?.map((owner, index) => {
+                    return (
+                      <Typography key={index}>
+                        Name: {owner.name} <br /> percentage: {owner.percentage}
+                      </Typography>
+                    )
+                  })
+                }
+                </Typography>
+                <Typography>
+                taxCollectorDebt : {row.taxCollectorDebt}
+                </Typography>
+                <Typography>
+                violations : 'Need to find an example to look at, come back later'
+                </Typography>
+                <Typography>
+                qualifiedOwners : 'Need to find an example to look at, come back later'
+                </Typography>
+                <Typography>
+                legalDocuments : 'Need to find an example to look at, come back later'
+                </Typography>
+                <Typography>
+                liked : 'Need to find an example to look at, come back later'
+                </Typography>
+                <Typography>
+                liens : 'Need to find an example to look at, come back later'
+                </Typography>
+
+            </TableCell>
+            <TableCell colSpan={4}>
+              <Typography>
+                Description: {row.description}
+              </Typography>
+              <Typography>
+                Auction Date: {row.date}
+              </Typography>
+              <Typography>
+                Case Type: {row.caseType}
+              </Typography>
+              <Typography>
+                Case Number: {row.caseNumber}
+              </Typography>
+            </TableCell>
+
+
+          </TableRow>
+
+        </>
+      )}
+    </>
+  );
+};
+
+
+function ExpandedContent (row) {
+  // show all the details of the auction
+
 }

@@ -19,12 +19,13 @@ export const AuthProvider = ({ children }) => {
     token,
     expiresIn,
   }) => {
+    console.log('Login expired in', expiresIn);
   const cookies = new Cookies();
   cookies.set('jwt', token, { secure: true});
 
     setUser(user);
     setUsername(username);
-    setExpiresAt(expiresAt);
+    setExpiresAt(expiresIn);
     navigate("/");
   };
 
