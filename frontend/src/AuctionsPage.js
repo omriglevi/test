@@ -18,8 +18,16 @@ import Tooltip from '@mui/material/Tooltip';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import Switch from '@mui/material/Switch';
 import CircularProgress from '@mui/material/CircularProgress';
-import KeyboardArrowUp from '@mui/icons-material/KeyboardArrowUp';
-import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown';
+import PersonIcon from '@mui/icons-material/Person';
+import MoneyIcon from '@mui/icons-material/AttachMoney';
+import DescriptionIcon from '@mui/icons-material/Description';
+import StateIcon from '@mui/icons-material/AccountBalance';
+import StatusIcon from '@mui/icons-material/PaidOutlined';
+
+
+
+
+
 
 
 
@@ -27,7 +35,8 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Button } from '@mui/material';
+import { Avatar, Button, List, ListItem, ListItemAvatar } from '@mui/material';
+import { Link } from 'react-router-dom';
 
 
 function descendingComparator (a, b, orderBy) {
@@ -370,121 +379,205 @@ const ExpandableTableRow = ({ row, labelId }) => {
           <TableRow>
             {/* show all the details of the auction in this row, it should look like a document */}
             <TableCell colSpan={4}>
-              <Typography>
+              <Typography m={1} p={1} >
                 auctionDate: {row.auctionDate}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 caseNumber: {row.caseNumber}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
+              openingBid: {row.openingBid}
+              </Typography>
+              <Typography m={1} p={1} >
                 caseType {row.caseType}
               </Typography>
-              <Typography>
-                openingBid: {row.parcelID}
+              <Typography m={1} p={1} >
+                parcelID: {row.parcelID}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 certificateNumber: {row.certificateNumber}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 assessedValue : {row.assessedValue}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 propertyAppraiserLegalDescription: {row.propertyAppraiserLegalDescription}
               </Typography>
-                <Typography>
-                  Party Details :
-                  {
-                    row.partyDetails.map((obj, index) => {
-                      const property = Object.keys(obj)[0]
-                      return (
-                        <Typography key={index}>
-                          {property} : {obj[property]}
-                        </Typography>
-                      )
-                    })
-                  }
-                </Typography>
-                <Typography>
-                  Url : {row.url}
-                </Typography>
-                <Typography>
-                  Bedrooms : {row.bedrooms}
-                </Typography>                <Typography>
-                  Bathrooms : {row.bathrooms}
-                </Typography>
-                <Typography>
+              <Typography m={1} p={1} >
+                Party Details :
+                {row.partyDetails?.length &&
+                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    {
+                      row.partyDetails.map((obj, index) => {
+                        const property = Object.keys(obj)[0]
+                        return (
+                          <ListItem>
+                            <ListItemAvatar>
+                              <Avatar>
+                                <PersonIcon />
+                              </Avatar>
+                            </ListItemAvatar>
+                            {property} : {obj[property]}
+                          </ListItem>
+                        )
+                      })
+                    }
+                  </List>
+                }
+              </Typography>
+              <Typography m={1} p={1} >
+                Link:
+              <Link href={row.url}>
+              {row.url}
+              </Link>
+              </Typography>
+              <Typography m={1} p={1} >
+                Bedrooms : {row.bedrooms}
+              </Typography>
+              <Typography m={1} p={1} >
+                Bathrooms : {row.bathrooms}
+              </Typography>
+              <Typography m={1} p={1} >
                 municipality : {row.municipality}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 lotSize : {row.lotSize}
-                </Typography>                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 primaryLandUse : {row.primaryLandUse}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 livingArea : {row.livingArea}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 yearBuilt : {row.yearBuilt}
-                </Typography><Typography>
+              </Typography >
+              <Typography m={1} p={1} >
                 primaryZone : {row.primaryZone}
-                </Typography><Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 subdivision : {row.subdivision}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 neighborhood : {row.neighborhood}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 buildingArea : {row.buildingArea}
-                </Typography><Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 description : {row.description}
-                </Typography><Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 units : {row.units}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 address : {row.address}
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 owners : {
                   row.owners?.map((owner, index) => {
                     return (
-                      <Typography key={index}>
+                      <Typography m={1} p={1}  key={index}>
                         Name: {owner.name} <br /> percentage: {owner.percentage}
                       </Typography>
                     )
                   })
                 }
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 taxCollectorDebt : {row.taxCollectorDebt}
-                </Typography>
-                <Typography>
-                violations : 'Need to find an example to look at, come back later'
-                </Typography>
-                <Typography>
-                qualifiedOwners : 'Need to find an example to look at, come back later'
-                </Typography>
-                <Typography>
+              </Typography>
+                {row.violations?.length > 0 &&
+                  <Typography m={1} p={1}>
+                    violations :<br />
+                    {row.violations.map((violation, index) => {
+                      return (
+                        <>
+                          Violation #{index + 1}
+                          <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                            <ListItem>
+                              <ListItemAvatar>
+                                <Avatar>
+                                  <MoneyIcon />
+                                  </Avatar>
+                              </ListItemAvatar>
+                              amount: {violation.amount}
+                            </ListItem>
+                            <ListItem>
+                            <ListItemAvatar>
+                                <Avatar>
+                                  <StatusIcon
+                                    color={violation?.status?.trim().toLowerCase() === 'closed'
+                                      ? 'success'
+                                      : 'error'
+                                      } />
+
+                                  </Avatar>
+                              </ListItemAvatar>
+                              status: {violation.status}
+                            </ListItem>
+                            <ListItem>
+                            <ListItemAvatar>
+                                <Avatar>
+                                  <DescriptionIcon />
+                                  </Avatar>
+                              </ListItemAvatar>
+                              description: {violation.description}
+                            </ListItem>
+                            <ListItem>
+                            <ListItemAvatar>
+                                <Avatar>
+                                  <StateIcon />
+                                  </Avatar>
+                              </ListItemAvatar>
+                              codeSection: {violation.codeSection}
+                            </ListItem>
+                          </List>
+                        </>
+                      )
+                    })
+                    }
+                  </Typography>
+                }
+                { row.qualifiedOwners?.length > 0 &&
+                  <Typography m={1} p={1}>
+                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    {
+                      row.qualifiedOwners.map((owner, index) => {
+                        return (
+                          <ListItem>
+                            <ListItemAvatar>
+                              <Avatar>
+                                <PersonIcon />
+                              </Avatar>
+                            </ListItemAvatar>
+                            Name: {owner}
+                          </ListItem>
+                        )
+                      })
+                    }
+                    </List>
+                    </Typography>
+                }
+              <Typography m={1} p={1} >
                 legalDocuments : 'Need to find an example to look at, come back later'
-                </Typography>
-                <Typography>
-                liked : 'Need to find an example to look at, come back later'
-                </Typography>
-                <Typography>
+              </Typography>
+              <Typography m={1} p={1} >
                 liens : 'Need to find an example to look at, come back later'
-                </Typography>
+              </Typography>
 
             </TableCell>
             <TableCell colSpan={4}>
-              <Typography>
+              <Typography m={1} p={1} >
                 Description: {row.description}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 Auction Date: {row.date}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 Case Type: {row.caseType}
               </Typography>
-              <Typography>
+              <Typography m={1} p={1} >
                 Case Number: {row.caseNumber}
               </Typography>
             </TableCell>
