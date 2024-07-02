@@ -23,7 +23,7 @@ import MoneyIcon from '@mui/icons-material/AttachMoney';
 import DescriptionIcon from '@mui/icons-material/Description';
 import StateIcon from '@mui/icons-material/AccountBalance';
 import StatusIcon from '@mui/icons-material/PaidOutlined';
-
+import Details from '@mui/icons-material/Details';
 
 
 
@@ -35,8 +35,9 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Avatar, Button, List, ListItem, ListItemAvatar } from '@mui/material';
+import { Avatar, Badge, Button, Divider, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemText, Modal, Tab, TextField } from '@mui/material';
 import { Link } from 'react-router-dom';
+import { blue } from '@mui/material/colors';
 
 
 function descendingComparator (a, b, orderBy) {
@@ -209,6 +210,14 @@ export default function EnhancedTable () {
   const [nextCursor, setNextCursor] = React.useState(null)
   const [previousCursor, setPreviousCursor] = React.useState(null)
   const [loading, setLoading] = React.useState(false)
+  const [modalOpen, setModalOpen] = React.useState(false)
+  const [modalDocuments, setModalDocuments] = React.useState([])
+  const closeDocumentsModal = () => setModalOpen(false)
+  const openDocumentsModal = (documents) => {
+    setModalDocuments(documents)
+    setModalOpen(true)
+  }
+
 
   const visibleRows = React.useMemo(
     () =>
@@ -273,70 +282,78 @@ export default function EnhancedTable () {
   }
 
   return (
-    <Box sx={{ width: '100%' }}>
-      <Paper sx={{ width: '100%', mb: 2 }}>
-        <EnhancedTableToolbar />
-        <TableContainer>
-          {loading && (<Backdrop
-            sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1 }}
-            open={loading}
-          >
-            <CircularProgress color="inherit" />
-          </Backdrop>)
-          }
-          <Table
-            sx={{ minWidth: 750 }}
-            aria-labelledby="tableTitle"
-            size={dense ? 'small' : 'medium'}
-          >
-            <EnhancedTableHead
-              order={order}
-              orderBy={orderBy}
-              onRequestSort={handleRequestSort}
-              rowCount={rows?.length || 0}
-            />
-            <TableBody>
-              {visibleRows.map((row, index) => {
-                const labelId = `enhanced-table-checkbox-${index}`;
-                return (
-                  <ExpandableTableRow row={row} key={row.id} labelId={labelId} />
-                );
-              })}
-            </TableBody>
-          </Table>
-        </TableContainer>
-        <Box
-          sx={{
-            display: 'flex',
-            justifyContent: 'center',
-            mt: 2,
-          }}>
-          <Button
-            onClick={() => onChangePage(page - 1)}
-            disabled={!previousCursor} >
-            Prev
-          </Button>
-
-          <Button
-            onClick={(event) => onChangePage(page + 1)}
-            disabled={!nextCursor}
-          >
-            Next
-          </Button>
-        </Box>
-
-      </Paper>
-      <FormControlLabel
-        control={<Switch checked={dense} onChange={handleChangeDense} />}
-        label="Dense padding"
+    <>
+      <DocumentsModal
+        documents={modalDocuments}
+        handleClose={closeDocumentsModal}
+        open={modalOpen}
+        key={`Document-modal-${modalOpen}`}
       />
-    </Box>
+      <Box sx={{ width: '100%' }}>
+        <Paper sx={{ width: '100%', mb: 2 }}>
+          <EnhancedTableToolbar />
+          <TableContainer>
+            {loading && (<Backdrop
+              sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1 }}
+              open={loading}
+            >
+              <CircularProgress color="inherit" />
+            </Backdrop>)
+            }
+            <Table
+              sx={{ minWidth: 750 }}
+              aria-labelledby="tableTitle"
+              size={dense ? 'small' : 'medium'}
+            >
+              <EnhancedTableHead
+                order={order}
+                orderBy={orderBy}
+                onRequestSort={handleRequestSort}
+                rowCount={rows?.length || 0}
+              />
+              <TableBody>
+                {visibleRows.map((row, index) => {
+                  const labelId = `enhanced-table-checkbox-${index}`;
+                  return (
+                    <ExpandableTableRow openModalDocsModal={openDocumentsModal} row={row} key={row.id} labelId={labelId} />
+                  );
+                })}
+              </TableBody>
+            </Table>
+          </TableContainer>
+          <Box
+            sx={{
+              display: 'flex',
+              justifyContent: 'center',
+              mt: 2,
+            }}>
+            <Button
+              onClick={() => onChangePage(page - 1)}
+              disabled={!previousCursor} >
+              Prev
+            </Button>
+
+            <Button
+              onClick={(event) => onChangePage(page + 1)}
+              disabled={!nextCursor}
+            >
+              Next
+            </Button>
+          </Box>
+
+        </Paper>
+        <FormControlLabel
+          control={<Switch checked={dense} onChange={handleChangeDense} />}
+          label="Dense padding"
+        />
+      </Box>
+    </>
   );
 }
 
 // create ExpandableTableRow component
 
-const ExpandableTableRow = ({ row, labelId }) => {
+const ExpandableTableRow = ({ row, labelId, openModalDocsModal }) => {
   const [isExpanded, setIsExpanded] = React.useState(false);
   const toggleExpanded = () => setIsExpanded(!isExpanded);
 
@@ -377,44 +394,46 @@ const ExpandableTableRow = ({ row, labelId }) => {
       {isExpanded && (
         <>
           <TableRow>
-            {/* show all the details of the auction in this row, it should look like a document */}
-            <TableCell colSpan={4}>
-              <Typography m={1} p={1} >
-                auctionDate: {row.auctionDate}
-              </Typography>
-              <Typography m={1} p={1} >
-                caseNumber: {row.caseNumber}
-              </Typography>
-              <Typography m={1} p={1} >
-              openingBid: {row.openingBid}
-              </Typography>
-              <Typography m={1} p={1} >
-                caseType {row.caseType}
-              </Typography>
-              <Typography m={1} p={1} >
-                parcelID: {row.parcelID}
-              </Typography>
-              <Typography m={1} p={1} >
-                certificateNumber: {row.certificateNumber}
-              </Typography>
-              <Typography m={1} p={1} >
-                assessedValue : {row.assessedValue}
-              </Typography>
-              <Typography m={1} p={1} >
-                propertyAppraiserLegalDescription: {row.propertyAppraiserLegalDescription}
-              </Typography>
-              <Typography m={1} p={1} >
-                Party Details :
-                {row.partyDetails?.length &&
+            <TableCell colSpan={8}>
+          <Grid container>
+
+            <Grid item xs={7}>
+            {row.owners?.length > 0 &&
+                <>
                   <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    Owners:
+
+                    {
+                      row.owners?.map((owner, index) => {
+                        return (
+                          <ListItem>
+                            <ListItemAvatar>
+                              <Avatar sx={{ bgcolor: blue[500] }}>
+                                <PersonIcon />
+                              </Avatar>
+                            </ListItemAvatar>
+                            {owner.name} <br />
+                          </ListItem>
+                        )
+                      })
+                    }
+                  </List>
+                </>
+              }
+              <Divider />
+
+              {row.partyDetails?.length > 0 &&
+                <>
+                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    Party Details :
                     {
                       row.partyDetails.map((obj, index) => {
                         const property = Object.keys(obj)[0]
                         return (
                           <ListItem>
                             <ListItemAvatar>
-                              <Avatar>
-                                <PersonIcon />
+                              <Avatar sx={{ bgcolor: blue[500] }}>
+                                <Details />
                               </Avatar>
                             </ListItemAvatar>
                             {property} : {obj[property]}
@@ -423,71 +442,36 @@ const ExpandableTableRow = ({ row, labelId }) => {
                       })
                     }
                   </List>
-                }
-              </Typography>
-              <Typography m={1} p={1} >
-                Link:
-              <Link href={row.url}>
-              {row.url}
-              </Link>
-              </Typography>
-              <Typography m={1} p={1} >
-                Bedrooms : {row.bedrooms}
-              </Typography>
-              <Typography m={1} p={1} >
-                Bathrooms : {row.bathrooms}
-              </Typography>
-              <Typography m={1} p={1} >
-                municipality : {row.municipality}
-              </Typography>
-              <Typography m={1} p={1} >
-                lotSize : {row.lotSize}
-              </Typography>
-              <Typography m={1} p={1} >
-                primaryLandUse : {row.primaryLandUse}
-              </Typography>
-              <Typography m={1} p={1} >
-                livingArea : {row.livingArea}
-              </Typography>
-              <Typography m={1} p={1} >
-                yearBuilt : {row.yearBuilt}
-              </Typography >
-              <Typography m={1} p={1} >
-                primaryZone : {row.primaryZone}
-              </Typography>
-              <Typography m={1} p={1} >
-                subdivision : {row.subdivision}
-              </Typography>
-              <Typography m={1} p={1} >
-                neighborhood : {row.neighborhood}
-              </Typography>
-              <Typography m={1} p={1} >
-                buildingArea : {row.buildingArea}
-              </Typography>
-              <Typography m={1} p={1} >
-                description : {row.description}
-              </Typography>
-              <Typography m={1} p={1} >
-                units : {row.units}
-              </Typography>
-              <Typography m={1} p={1} >
-                address : {row.address}
-              </Typography>
-              <Typography m={1} p={1} >
-                owners : {
-                  row.owners?.map((owner, index) => {
+                  <Divider />
+                </>
+              }
+              { row.legalDocuments?.length > 0 && row.legalDocuments.some(array => array.length > 0) &&
+                <>
+                Legal Documents:
+                {
+                  row.legalDocuments.map((arrayOfDocs, index) => {
+                    if (arrayOfDocs.length === 0) return null
                     return (
-                      <Typography m={1} p={1}  key={index}>
-                        Name: {owner.name} <br /> percentage: {owner.percentage}
-                      </Typography>
+                      <ListItem>
+                        <ListItemAvatar onClick={() => openModalDocsModal(arrayOfDocs)}>
+
+                          <Badge badgeContent={arrayOfDocs.length} color="primary">
+                            <Avatar sx={{ bgcolor: blue[500] }}>
+                              <DescriptionIcon />
+                            </Avatar>
+                          </Badge>
+                        </ListItemAvatar>
+                        {arrayOfDocs[0]?.firstParty}
+                      </ListItem>
                     )
                   })
                 }
-              </Typography>
-              <Typography m={1} p={1} >
-                taxCollectorDebt : {row.taxCollectorDebt}
-              </Typography>
-                {row.violations?.length > 0 &&
+                <Divider />
+                </>
+              }
+              <Divider />
+              {row.violations?.length > 0 &&
+                <>
                   <Typography m={1} p={1}>
                     violations :<br />
                     {row.violations.map((violation, index) => {
@@ -497,93 +481,296 @@ const ExpandableTableRow = ({ row, labelId }) => {
                           <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
                             <ListItem>
                               <ListItemAvatar>
-                                <Avatar>
+                                <Avatar sx={{ bgcolor: blue[500] }}>
                                   <MoneyIcon />
-                                  </Avatar>
+                                </Avatar>
                               </ListItemAvatar>
                               amount: {violation.amount}
                             </ListItem>
                             <ListItem>
-                            <ListItemAvatar>
-                                <Avatar>
+                              <ListItemAvatar>
+                                <Avatar sx={{ bgcolor: blue[500] }}>
                                   <StatusIcon
                                     color={violation?.status?.trim().toLowerCase() === 'closed'
                                       ? 'success'
-                                      : 'error'
-                                      } />
+                                      : 'error'} />
 
-                                  </Avatar>
+                                </Avatar>
                               </ListItemAvatar>
                               status: {violation.status}
                             </ListItem>
                             <ListItem>
-                            <ListItemAvatar>
-                                <Avatar>
+                              <ListItemAvatar>
+                                <Avatar sx={{ bgcolor: blue[500] }}>
                                   <DescriptionIcon />
-                                  </Avatar>
+                                </Avatar>
                               </ListItemAvatar>
                               description: {violation.description}
                             </ListItem>
                             <ListItem>
-                            <ListItemAvatar>
-                                <Avatar>
+                              <ListItemAvatar>
+                                <Avatar sx={{ bgcolor: blue[500] }}>
                                   <StateIcon />
-                                  </Avatar>
+                                </Avatar>
                               </ListItemAvatar>
                               codeSection: {violation.codeSection}
                             </ListItem>
                           </List>
                         </>
-                      )
-                    })
-                    }
+                      );
+                    })}
                   </Typography>
-                }
-                { row.qualifiedOwners?.length > 0 &&
-                  <Typography m={1} p={1}>
+                  <Divider />
+                </>
+
+              }
+
+              <List>
+
+                <ListItem>
+                <ListItemText primary="Auction Date" secondary={row.auctionDate} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Case Number" secondary={row.caseNumber} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Opening Bid" secondary={row.openingBid} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Case Type" secondary={row.caseType} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Parcel ID" secondary={row.parcelID} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Certificate Number" secondary={row.certificateNumber} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Assessed Value" secondary={row.assessedValue} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Property Appraiser Description" secondary={row.propertyAppraiserLegalDescription} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Address" secondary={row.address} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Bedrooms" secondary={row.bedrooms} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Bathrooms" secondary={row.bathrooms} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Municipality" secondary={row.municipality} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Lot size" secondary={row.lotSize} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Primary Land Use" secondary={row.primaryLandUse} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Living Area" secondary={row.livingArea} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Year Built" secondary={row.yearBuilt} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Primary Zone" secondary={row.primaryZone} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Subdivision" secondary={row.subdivision} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Neighborhood" secondary={row.neighborhood} />
+                </ListItem>
+                <Divider />
+
+
+                <ListItem>
+                  <ListItemText primary="Building Area" secondary={row.buildingArea} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Description" secondary={row.description} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Units" secondary={row.units} />
+                </ListItem>
+                <Divider />
+              </List>
+
+            </Grid>
+
+            <Grid spacing={2} item xs={5}>
+
+              {row.qualifiedOwners?.length > 0 &&
+                <>
                   <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    Qualified Owners:
                     {
                       row.qualifiedOwners.map((owner, index) => {
                         return (
                           <ListItem>
                             <ListItemAvatar>
-                              <Avatar>
+                              <Avatar sx={{ bgcolor: blue[500] }}>
                                 <PersonIcon />
                               </Avatar>
                             </ListItemAvatar>
-                            Name: {owner}
+                            {owner}
                           </ListItem>
                         )
                       })
                     }
-                    </List>
-                    </Typography>
-                }
-              <Typography m={1} p={1} >
-                legalDocuments : 'Need to find an example to look at, come back later'
-              </Typography>
-              <Typography m={1} p={1} >
-                liens : 'Need to find an example to look at, come back later'
-              </Typography>
+                  </List>
+                  <Divider />
+                </>
+              }
+                <>
+                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                  </List>
+                  <List>
+                <ListItem>
+                  <ListItemText primary="Tax Collector Debt" secondary={row?.taxCollectorDebt || 'None'} />
+                </ListItem>
+                <Divider />
 
+                <ListItem>
+                  <ListItemText primary="Light" secondary={row?.light || 'None'} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Liens" secondary={row.liens || 'None'} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="Status" secondary={row.status || 'None'} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="DD Market Value Assessment" secondary={row?.ddMarketValueAssessment || 'None'} />
+                </ListItem>
+                <Divider />
+
+                <ListItem>
+                  <ListItemText primary="DD Title" secondary={row?.dDTitle || 'None'} />
+                </ListItem>
+                <Divider />
+
+              <EditableField primaryText={'DD Zoning'} secondaryText={row.dDZoning || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'DD Property Appraiser'} secondaryText={row.dDPropertyAppraiser || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'DD Lien Assessment'} secondaryText={row.dDLienAssessment || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'DD Code Enforcement'} secondaryText={row.dDCodeEnforcement || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'DD Corporate Of Divisions'} secondaryText={row.dDCorporateOfDivisions || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Keyword'} secondaryText={row.keyword || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'As Is Value'} secondaryText={row.asIsValue || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'ARV'} secondaryText={row.arv || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'BRR 70%'} secondaryText={row.brr70Percent || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'60% Of Current Value'} secondaryText={row.sixtyPercentageCurrentValue || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Rehab Costs'} secondaryText={row.rehabCosts || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Max Bid'} secondaryText={row.maxBid || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Max Bid Based On As Is Value'} secondaryText={row.maxBidBasedOnAsIsValue || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Profit As Percentage'} secondaryText={row.profitAsPercentage || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Lien Type'} secondaryText={row.lienType || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Total Liens'} secondaryText={row.totalLiens || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Strategy'} secondaryText={row.strategy || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Strategy2'} secondaryText={row.strategy2 || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Owner'} secondaryText={row.owner || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Owner Contact'} secondaryText={row.ownerContact || 'None'} />
+              <Divider />
+
+              <EditableField primaryText={'Noted'} secondaryText={row.noted || 'None'} />
+              <Divider />
+              </List>
+
+                </>
+            </Grid>
+
+
+          </Grid>
             </TableCell>
-            <TableCell colSpan={4}>
-              <Typography m={1} p={1} >
-                Description: {row.description}
-              </Typography>
-              <Typography m={1} p={1} >
-                Auction Date: {row.date}
-              </Typography>
-              <Typography m={1} p={1} >
-                Case Type: {row.caseType}
-              </Typography>
-              <Typography m={1} p={1} >
-                Case Number: {row.caseNumber}
-              </Typography>
-            </TableCell>
-
-
           </TableRow>
+
 
         </>
       )}
@@ -591,8 +778,57 @@ const ExpandableTableRow = ({ row, labelId }) => {
   );
 };
 
+function EditableField ({ primaryText, secondaryText }) {
 
-function ExpandedContent (row) {
-  // show all the details of the auction
 
+
+
+  return (
+    <ListItem>
+      <ListItemText  primary={primaryText} secondary={secondaryText} />
+    </ListItem>
+  );
+
+}
+
+
+function DocumentsModal ({ handleClose, open, documents }) {
+  const style = {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: 800,
+    // bgcolor: 'black',
+    backgroundColor: 'white',
+    border: '2px solid #000',
+    boxShadow: 24,
+    p: 4,
+  };
+
+  return (
+    <Modal
+      open={open}
+      onClose={handleClose}
+      aria-labelledby="modal-modal-title"
+      aria-describedby="modal-modal-description"
+      style={style}
+    >
+      <List>
+        {documents.map((document, index) => {
+          return (
+            <ListItem>
+              <ListItemAvatar>
+                <Avatar>
+                  <DescriptionIcon />
+                </Avatar>
+              </ListItemAvatar>
+              <ListItemText primary={document.firstParty} secondary={document.secondParty} />
+            </ListItem>
+          )
+        })}
+      </List>
+    </Modal>
+
+  );
 }

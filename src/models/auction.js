@@ -169,7 +169,7 @@ const AuctionSchema = new Mongoose.Schema({
         type: String,
         required: false,
     },
-    dDCodeEnforcment: {
+    dDCodeEnforcement: {
         type: String,
         required: false,
     },
@@ -218,7 +218,7 @@ const AuctionSchema = new Mongoose.Schema({
         required: false,
     },
     liens: {
-        type: Array,
+        type: String,
         required: false,
     },
     totalLiens: {
