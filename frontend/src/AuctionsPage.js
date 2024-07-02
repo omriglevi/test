@@ -35,8 +35,7 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Avatar, Badge, Button, Divider, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemText, Modal, Tab, TextField } from '@mui/material';
-import { Link } from 'react-router-dom';
+import { Avatar, Badge, Button, Dialog, Divider, Grid, List, ListItem, ListItemAvatar, ListItemText,} from '@mui/material';
 import { blue } from '@mui/material/colors';
 
 
@@ -210,12 +209,12 @@ export default function EnhancedTable () {
   const [nextCursor, setNextCursor] = React.useState(null)
   const [previousCursor, setPreviousCursor] = React.useState(null)
   const [loading, setLoading] = React.useState(false)
-  const [modalOpen, setModalOpen] = React.useState(false)
-  const [modalDocuments, setModalDocuments] = React.useState([])
-  const closeDocumentsModal = () => setModalOpen(false)
-  const openDocumentsModal = (documents) => {
-    setModalDocuments(documents)
-    setModalOpen(true)
+  const [dialogOpen, setDialogOpen] = React.useState(false)
+  const [dialogDocuments, setDialogDocuments] = React.useState([])
+  const closeDocumentsDialog = () => setDialogOpen(false)
+  const openDocumentsDialog = (documents) => {
+    setDialogDocuments(documents)
+    setDialogOpen(true)
   }
 
 
@@ -283,12 +282,6 @@ export default function EnhancedTable () {
 
   return (
     <>
-      <DocumentsModal
-        documents={modalDocuments}
-        handleClose={closeDocumentsModal}
-        open={modalOpen}
-        key={`Document-modal-${modalOpen}`}
-      />
       <Box sx={{ width: '100%' }}>
         <Paper sx={{ width: '100%', mb: 2 }}>
           <EnhancedTableToolbar />
@@ -300,6 +293,12 @@ export default function EnhancedTable () {
               <CircularProgress color="inherit" />
             </Backdrop>)
             }
+            <DocumentsDialog
+            documents={dialogDocuments}
+            handleClose={closeDocumentsDialog}
+            open={dialogOpen}
+            key={`Document-dialog-${dialogOpen}`}
+          />
             <Table
               sx={{ minWidth: 750 }}
               aria-labelledby="tableTitle"
@@ -315,7 +314,7 @@ export default function EnhancedTable () {
                 {visibleRows.map((row, index) => {
                   const labelId = `enhanced-table-checkbox-${index}`;
                   return (
-                    <ExpandableTableRow openModalDocsModal={openDocumentsModal} row={row} key={row.id} labelId={labelId} />
+                    <ExpandableTableRow openDocsDialog={openDocumentsDialog} row={row} key={row.id} labelId={labelId} />
                   );
                 })}
               </TableBody>
@@ -353,7 +352,7 @@ export default function EnhancedTable () {
 
 // create ExpandableTableRow component
 
-const ExpandableTableRow = ({ row, labelId, openModalDocsModal }) => {
+const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
   const [isExpanded, setIsExpanded] = React.useState(false);
   const toggleExpanded = () => setIsExpanded(!isExpanded);
 
@@ -453,7 +452,7 @@ const ExpandableTableRow = ({ row, labelId, openModalDocsModal }) => {
                     if (arrayOfDocs.length === 0) return null
                     return (
                       <ListItem>
-                        <ListItemAvatar onClick={() => openModalDocsModal(arrayOfDocs)}>
+                        <ListItemAvatar onClick={() => openDocsDialog(arrayOfDocs)}>
 
                           <Badge badgeContent={arrayOfDocs.length} color="primary">
                             <Avatar sx={{ bgcolor: blue[500] }}>
@@ -792,43 +791,28 @@ function EditableField ({ primaryText, secondaryText }) {
 }
 
 
-function DocumentsModal ({ handleClose, open, documents }) {
-  const style = {
-    position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: 800,
-    // bgcolor: 'black',
-    backgroundColor: 'white',
-    border: '2px solid #000',
-    boxShadow: 24,
-    p: 4,
-  };
+function DocumentsDialog ({ handleClose, open, documents }) {
 
   return (
-    <Modal
+    <Dialog
       open={open}
       onClose={handleClose}
-      aria-labelledby="modal-modal-title"
-      aria-describedby="modal-modal-description"
-      style={style}
     >
       <List>
         {documents.map((document, index) => {
           return (
             <ListItem>
-              <ListItemAvatar>
+              <ListItemAvatar onClick={() => window.open(document?.url, '_blank').focus()}>
                 <Avatar>
                   <DescriptionIcon />
                 </Avatar>
               </ListItemAvatar>
-              <ListItemText primary={document.firstParty} secondary={document.secondParty} />
+              <ListItemText primary={document?.firstParty} secondary={document?.secondParty} />
             </ListItem>
           )
         })}
       </List>
-    </Modal>
+    </Dialog>
 
   );
 }
