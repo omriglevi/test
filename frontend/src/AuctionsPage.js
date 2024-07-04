@@ -37,6 +37,7 @@ import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
 import { Avatar, Badge, Button, Dialog, Divider, Grid, List, ListItem, ListItemAvatar, ListItemText,} from '@mui/material';
 import { blue } from '@mui/material/colors';
+import { getAuctions } from './api';
 
 
 function descendingComparator (a, b, orderBy) {
@@ -206,8 +207,9 @@ export default function EnhancedTable () {
   const [page, setPage] = React.useState(0);
   const [dense, setDense] = React.useState(false);
   const [rows, setRows] = React.useState([])
-  const [nextCursor, setNextCursor] = React.useState(null)
-  const [previousCursor, setPreviousCursor] = React.useState(null)
+  const [cursors, setCursors] = React.useState({
+    '0': null,
+  })
   const [loading, setLoading] = React.useState(false)
   const [dialogOpen, setDialogOpen] = React.useState(false)
   const [dialogDocuments, setDialogDocuments] = React.useState([])
@@ -217,6 +219,8 @@ export default function EnhancedTable () {
     setDialogOpen(true)
   }
 
+  const hasPreviousCursor = page > 0 && cursors[page - 1]
+  const hasNextCursor = cursors[page + 1]
 
   const visibleRows = React.useMemo(
     () =>
@@ -228,14 +232,15 @@ export default function EnhancedTable () {
     async function fetchData () {
       try {
         setLoading(true)
-        const response = await fetch('http://localhost:3000/auctions', {
-          credentials: "include",
-        })
-          .then(response => response.json())
+        const response = await getAuctions()
 
         setRows(response.auctions)
-        setPreviousCursor(nextCursor)
-        setNextCursor(response.nextCursor)
+        if (response.nextCursor) {
+          setCursors({
+            ...cursors,
+            '1': response.nextCursor
+          })
+        }
       } catch (error) {
         setRows([])
         console.error(error)
@@ -263,20 +268,19 @@ export default function EnhancedTable () {
   const onChangePage = async (newPage) => {
     setPage(newPage)
     setLoading(true)
-    const cursor = newPage > page ? nextCursor : previousCursor
-    const newRows = await fetch(`http://localhost:3000/auctions?cursor=${cursor}`, {
-      credentials: "include",
-    })
-      .then(response => response.json())
+    const cursor = cursors[newPage]
+    const newRows = await getAuctions(cursor)
       .catch(error => console.error(error))
       .finally(() => setLoading(false))
 
+
     setRows(newRows.auctions)
-    if (!newRows?.nextCursor) {
-      setNextCursor(null)
-    } else {
-      setPreviousCursor(nextCursor)
-      setNextCursor(newRows.nextCursor)
+    console.log('Got new rows ====>', newRows.auctions);
+    if (newRows.nextCursor) {
+      setCursors({
+        ...cursors,
+        [newPage + 1]: newRows.nextCursor
+      })
     }
   }
 
@@ -328,13 +332,13 @@ export default function EnhancedTable () {
             }}>
             <Button
               onClick={() => onChangePage(page - 1)}
-              disabled={!previousCursor} >
+              disabled={!hasPreviousCursor || loading} >
               Prev
             </Button>
 
             <Button
-              onClick={(event) => onChangePage(page + 1)}
-              disabled={!nextCursor}
+              onClick={() => onChangePage(page + 1)}
+              disabled={!hasNextCursor || loading}
             >
               Next
             </Button>
