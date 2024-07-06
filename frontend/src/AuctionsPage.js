@@ -206,7 +206,8 @@ function EnhancedTableToolbar (props) {
   );
 }
 
-function SearchBar () {
+function SearchBar ({ searchByAddress }) {
+  const [address, setAddress] = React.useState('')
   return (
     <Paper elevation={2} sx={{ padding: '2%', margin: '2%', backgroundColor: '#DEEFF5' }}>
       <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -216,8 +217,12 @@ function SearchBar () {
           label="Search By Address"
           placeholder="Search By Address"
           sx={{ width: '80%', backgroundColor: 'white' }}
+          value={address}
+          onChange={(event) => setAddress(event.target.value)}
         />
-        <Button>
+        <Button
+        onClick={() => searchByAddress(address)}
+        >
           Search <SearchIcon />
         </Button>
       </div>
@@ -283,6 +288,7 @@ export default function EnhancedTable () {
     page,
     onChangePage,
     updateAuctionField,
+    searchByAddress,
   } = useAuctions()
 
   const [dialogOpen, setDialogOpen] = React.useState(false)
@@ -319,7 +325,7 @@ export default function EnhancedTable () {
   return (
     <>
 
-    <SearchBar />
+    <SearchBar  searchByAddress={searchByAddress}/>
       <Box sx={{ width: '100%' }}>
         <Paper sx={{ width: '100%', mb: 2 }}>
           <EnhancedTableToolbar toggleFilters={toggleFilters} />

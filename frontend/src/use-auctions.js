@@ -11,7 +11,7 @@ const useAuctions = () => {
         async function fetchData() {
             try {
                 setLoading(true);
-                const response = await getAuctions();
+                const response = await getAuctions({});
 
                 setAuctions(response.auctions);
                 if (response.nextCursor) {
@@ -25,19 +25,18 @@ const useAuctions = () => {
                 console.error(error);
             } finally {
                 setLoading(false);
+                return null;
             }
         }
 
-        if (page === 0 && auctions.length === 0) {
             fetchData();
-        }
-    }, [page, auctions.length]);
+    }, []);
 
     const onChangePage = useCallback(async (newPage) => {
         setPage(newPage);
         setLoading(true);
         const cursor = cursors[newPage];
-        const response = await getAuctions(cursor).catch(error => console.error(error)).finally(() => setLoading(false));
+        const response = await getAuctions({ cursor }).catch(error => console.error(error)).finally(() => setLoading(false));
 
         setAuctions(response.auctions);
 
@@ -72,8 +71,34 @@ const useAuctions = () => {
         } catch (error) {
             console.error(error);
         }
-    }, []);
+    }, [auctions]);
 
+    const searchByAddress = useCallback(async (address) => {
+        try {
+            setLoading(true);
+            const filter = {
+                address: { $regex: `.*${address}.*`, $options: 'i'}
+            }
+            const response = await getAuctions({ filter })
+                .catch(error => console.error(error))
+            setPage(0);
+
+            console.log('Response from search by address ===>', response);
+            setAuctions(response.auctions || []);
+
+            if (response.nextCursor) {
+                setCursors({
+                    0: null,
+                    '1': response.nextCursor
+                });
+            }
+        } catch (error) {
+            setAuctions([]);
+            console.error(error);
+        } finally {
+            setLoading(false);
+        }
+    }, []);
     return {
         auctions,
         setAuctions,
@@ -85,6 +110,7 @@ const useAuctions = () => {
         onChangePage,
         setPage,
         page,
+        searchByAddress,
     };
 }
 

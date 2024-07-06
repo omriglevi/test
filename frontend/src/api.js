@@ -10,7 +10,7 @@ const config = {
 
 }
 
-const getAuctions = async (cursor) => {
+const getAuctions = async ({ cursor, filter } ) => {
     const url = new URL(config.apiUrl)
     const options = config.options
 
@@ -18,6 +18,11 @@ const getAuctions = async (cursor) => {
         cursor = encodeURIComponent(cursor)
         url.searchParams.append('cursor', cursor)
 
+    }
+
+    if (filter && typeof filter === 'object') {
+        // add filters to the url
+        url.searchParams.append('filter', JSON.stringify(filter))
     }
     return fetch(url, options)
         .then(response => response.json())
