@@ -22,7 +22,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     parcelID: {
         type: String,
-        required: true,
+        required: false,
         unique: true,
     },
     certificateNumber: {

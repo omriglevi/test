@@ -1,4 +1,4 @@
-const { getAuctions } = require('./controller')
+const { list, update } = require('./controller')
 
 const getAuctionsWithFilter = async (req, res, next) => {
     try {
@@ -13,11 +13,31 @@ const getAuctionsWithFilter = async (req, res, next) => {
             }
         }
 
-        const data = await getAuctions({ filter,cursor, limit })
+        const data = await list({ filter,cursor, limit })
         res.status(200).json(data)
     } catch (error) {
         next(error)
     }
 }
 
-module.exports = { getAuctionsWithFilter }
+const updateAuction = async (req, res, next) => {
+    try {
+        const { id } = req.params
+        const changes  = req.body
+
+        if (!id) {
+            throw new Error('Missing id')
+        }
+        if (!changes || Object.keys(changes).length === 0) {
+            throw new Error('Missing changes')
+        }
+
+        const updated = await update(id, changes)
+        res.status(200).json(updated)
+    } catch (error) {
+        next(error)
+    }
+
+}
+
+module.exports = { getAuctionsWithFilter, updateAuction }

@@ -3,7 +3,11 @@ const config = {
     apiUrl: 'http://localhost:3000/auctions',
     options: {
         credentials: "include",
+        headers: {
+            "Content-Type": "application/json"
+        },
       },
+
 }
 
 const getAuctions = async (cursor) => {
@@ -19,6 +23,22 @@ const getAuctions = async (cursor) => {
         .then(response => response.json())
 }
 
+const updateAuction = async (id, changes) => {
+    console.log('Updating auction with id ===>', id, ' with changes ===>', changes);
+    const url = `${config.apiUrl}/${id}`
+    console.log('Hitting url ===>', url);
+    const options = config?.options
+
+
+    return fetch(url, {
+        method: 'PUT',
+        body: JSON.stringify(changes),
+        ...options,
+    })
+        .then(response => response.json())
+}
+
 export {
-    getAuctions
+    getAuctions,
+    updateAuction,
 }

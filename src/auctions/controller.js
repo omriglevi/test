@@ -1,7 +1,7 @@
 const Auction = require('../models/auction')
 
 /** @typedef { import('../models/auction') } Auction */
-const LIMIT = 10;
+const LIMIT = 100;
 
 const insertBulk = async (auctions) => {
     try {
@@ -61,7 +61,7 @@ const findById = async (id) => {
  * @param { GetAuctionsParams } params
  * @returns { Promise<GetAuctionsResults>
  */
-const getAuctions = async ({ cursor, filter ,limit = LIMIT }) => {
+const list = async ({ cursor, filter ,limit = LIMIT }) => {
     let query = {};
 
     if (filter) {
@@ -89,7 +89,6 @@ const getAuctions = async ({ cursor, filter ,limit = LIMIT }) => {
 
     return {
       nextCursor,
-    //   prevCursor,
       totalResults: auctions.length,
       auctions,
       filter,
@@ -98,6 +97,16 @@ const getAuctions = async ({ cursor, filter ,limit = LIMIT }) => {
 }
 
 
+const update = async (id, changes) => {
+    try {
+        const auction = await Auction.findByIdAndUpdate(id, changes)
+        return auction
+}
+    catch (error) {
+        console.log('Error on updating auction', error)
+        throw error
+    }
+}
 
 
-module.exports = { insertBulk, insert, getAuctions }
+module.exports = { insertBulk, insert, list, update }

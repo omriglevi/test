@@ -19,10 +19,12 @@ import FormControlLabel from '@mui/material/FormControlLabel';
 import Switch from '@mui/material/Switch';
 import CircularProgress from '@mui/material/CircularProgress';
 import PersonIcon from '@mui/icons-material/Person';
+import SearchIcon from '@mui/icons-material/Search';
 import MoneyIcon from '@mui/icons-material/AttachMoney';
 import DescriptionIcon from '@mui/icons-material/Description';
 import StateIcon from '@mui/icons-material/AccountBalance';
 import StatusIcon from '@mui/icons-material/PaidOutlined';
+import EditIcon from '@mui/icons-material/Edit';
 import Details from '@mui/icons-material/Details';
 
 
@@ -35,9 +37,12 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Avatar, Badge, Button, Dialog, Divider, Grid, List, ListItem, ListItemAvatar, ListItemText,} from '@mui/material';
-import { blue } from '@mui/material/colors';
-import { getAuctions } from './api';
+import { Avatar, Badge, Button, Card, Container, Dialog, Divider, FormControl, FormHelperText, FormLabel, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemIcon, ListItemText, styled, TextField, } from '@mui/material';
+import { blue, green } from '@mui/material/colors';
+import Layout from './Layout';
+import useAuctions from './use-auctions';
+import { useAuth } from './hooks/use-auth';
+
 
 
 function descendingComparator (a, b, orderBy) {
@@ -167,11 +172,12 @@ EnhancedTableHead.propTypes = {
 };
 
 function EnhancedTableToolbar (props) {
-  const { numSelected } = props;
+  const { numSelected, toggleFilters } = props;
 
   return (
     <Toolbar
       sx={{
+        backgroundColor: '#DEEFF5',
         pl: { sm: 2 },
         pr: { xs: 1, sm: 1 },
         ...(numSelected > 0 && {
@@ -190,8 +196,9 @@ function EnhancedTableToolbar (props) {
         Auctions
       </Typography>
 
+
       <Tooltip title="Filter list">
-        <IconButton>
+        <IconButton onClick={toggleFilters}>
           <FilterListIcon />
         </IconButton>
       </Tooltip>
@@ -199,18 +206,85 @@ function EnhancedTableToolbar (props) {
   );
 }
 
+function SearchBar () {
+  return (
+    <Paper elevation={2} sx={{ padding: '2%', margin: '2%', backgroundColor: '#DEEFF5' }}>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
+        <TextField
+          size='small'
+          id="outlined-multiline-flexible"
+          label="Search By Address"
+          placeholder="Search By Address"
+          sx={{ width: '80%', backgroundColor: 'white' }}
+        />
+        <Button>
+          Search <SearchIcon />
+        </Button>
+      </div>
+    </Paper>
+  )
+}
+function FilterComponent ({
+  open,
+  onMinChange,
+  onMaxChange,
+}) {
+  //  IF open, show filter component
+  // Filter component will shoe the available filters
+  // Filter component will have a button to apply the filters
 
+  return (open ? (
+    <Card
+      component="form"
+      sx={{
+        backgroundColor: '#DEEFF5',
+        padding: '1%',
+      }}
+      noValidate
+      autoComplete="off"
+    >
+      <Paper elevation={2} sx={{ margin: '2%', padding: '2%', backgroundColor: '#DEEFF5' }}>
+        <div style={{ display: 'block' }}>
+          <InlinedLabel variant='subtitle1' > Filters </InlinedLabel>
+          <TextField
+            size='small'
+            id="outlined-multiline-flexible"
+            label="Minimum Price"
+            placeholder="Minimum Price"
+            sx={{ backgroundColor: 'white' }}
+          />
+
+          <TextField
+            size='small'
+            id="outlined-textarea"
+            label="Maximum Price"
+            placeholder="Maximum Price"
+            sx={{ backgroundColor: 'white' }}
+          />
+        </div>
+      </Paper>
+    </Card>
+  ) : null
+  )
+}
 
 export default function EnhancedTable () {
   const [order, setOrder] = React.useState('asc');
-  const [orderBy, setOrderBy] = React.useState('calories');
-  const [page, setPage] = React.useState(0);
+  const [orderBy, setOrderBy] = React.useState('auctionDate');
   const [dense, setDense] = React.useState(false);
-  const [rows, setRows] = React.useState([])
-  const [cursors, setCursors] = React.useState({
-    '0': null,
-  })
-  const [loading, setLoading] = React.useState(false)
+  const [filterOpen, setFilterOpen] = React.useState(false);
+
+  const toggleFilters = () => setFilterOpen(!filterOpen)
+
+  const {
+    auctions: rows,
+    cursors,
+    loading,
+    page,
+    onChangePage,
+    updateAuctionField,
+  } = useAuctions()
+
   const [dialogOpen, setDialogOpen] = React.useState(false)
   const [dialogDocuments, setDialogDocuments] = React.useState([])
   const closeDocumentsDialog = () => setDialogOpen(false)
@@ -219,7 +293,7 @@ export default function EnhancedTable () {
     setDialogOpen(true)
   }
 
-  const hasPreviousCursor = page > 0 && cursors[page - 1]
+  const hasPreviousCursor = page > 0
   const hasNextCursor = cursors[page + 1]
 
   const visibleRows = React.useMemo(
@@ -228,30 +302,6 @@ export default function EnhancedTable () {
     [order, orderBy, rows],
   );
 
-  React.useEffect(() => {
-    async function fetchData () {
-      try {
-        setLoading(true)
-        const response = await getAuctions()
-
-        setRows(response.auctions)
-        if (response.nextCursor) {
-          setCursors({
-            ...cursors,
-            '1': response.nextCursor
-          })
-        }
-      } catch (error) {
-        setRows([])
-        console.error(error)
-      } finally {
-        setLoading(false)
-      }
-    }
-
-    fetchData()
-
-  }, []);
 
   const handleRequestSort = (event, property) => {
     const isAsc = orderBy === property && order === 'asc';
@@ -265,30 +315,14 @@ export default function EnhancedTable () {
   };
 
 
-  const onChangePage = async (newPage) => {
-    setPage(newPage)
-    setLoading(true)
-    const cursor = cursors[newPage]
-    const newRows = await getAuctions(cursor)
-      .catch(error => console.error(error))
-      .finally(() => setLoading(false))
-
-
-    setRows(newRows.auctions)
-    console.log('Got new rows ====>', newRows.auctions);
-    if (newRows.nextCursor) {
-      setCursors({
-        ...cursors,
-        [newPage + 1]: newRows.nextCursor
-      })
-    }
-  }
 
   return (
     <>
+
+    <SearchBar />
       <Box sx={{ width: '100%' }}>
         <Paper sx={{ width: '100%', mb: 2 }}>
-          <EnhancedTableToolbar />
+          <EnhancedTableToolbar toggleFilters={toggleFilters} />
           <TableContainer>
             {loading && (<Backdrop
               sx={{ color: '#fff', zIndex: (theme) => theme.zIndex.drawer + 1 }}
@@ -297,15 +331,19 @@ export default function EnhancedTable () {
               <CircularProgress color="inherit" />
             </Backdrop>)
             }
+
             <DocumentsDialog
-            documents={dialogDocuments}
-            handleClose={closeDocumentsDialog}
-            open={dialogOpen}
-            key={`Document-dialog-${dialogOpen}`}
-          />
-            <Table
+              documents={dialogDocuments}
+              onClose={closeDocumentsDialog}
+              open={dialogOpen}
+              key={`document-dialog-${dialogOpen}`}
+            />
+
+
+            <FilterComponent open={filterOpen} />
+            <StyledTable
               sx={{ minWidth: 750 }}
-              aria-labelledby="tableTitle"
+              aria-labelledby="Auctions"
               size={dense ? 'small' : 'medium'}
             >
               <EnhancedTableHead
@@ -318,11 +356,15 @@ export default function EnhancedTable () {
                 {visibleRows.map((row, index) => {
                   const labelId = `enhanced-table-checkbox-${index}`;
                   return (
-                    <ExpandableTableRow openDocsDialog={openDocumentsDialog} row={row} key={row.id} labelId={labelId} />
+                    <ExpandableTableRow
+                      updateAuctionField={updateAuctionField}
+                      openDocsDialog={openDocumentsDialog}
+                      row={row}
+                      labelId={labelId} />
                   );
                 })}
               </TableBody>
-            </Table>
+            </StyledTable>
           </TableContainer>
           <Box
             sx={{
@@ -356,9 +398,29 @@ export default function EnhancedTable () {
 
 // create ExpandableTableRow component
 
-const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
+const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }) => {
   const [isExpanded, setIsExpanded] = React.useState(false);
   const toggleExpanded = () => setIsExpanded(!isExpanded);
+  const { user } = useAuth()
+  const onFavoriteAdd = async (event) => {
+    event.stopPropagation()
+    try {
+      await updateAuctionField(row._id, 'liked', [...row.liked, user])
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  const onFavoriteRemove = async (event) => {
+    event.stopPropagation()
+    try {
+      await updateAuctionField(row._id, 'liked', row.liked.filter(liked => liked !== user))
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  const liked = row.liked?.includes(user)
 
   return (
     <>
@@ -375,9 +437,12 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
           id={labelId}
           scope="row"
           padding="normal"
-          align={'center'}>
+          align={'center'}
+          onClick={liked ? onFavoriteRemove : onFavoriteAdd}
+        >
+
           {
-            row.liked?.includes('myuser-------------------------t4rgfergid') ?
+            liked ?
               <Favorite />
               :
               <FavoriteBorder />
@@ -389,7 +454,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
 
         <TableCell> {row.address} </TableCell>
         <TableCell align="center">{row.assessedValue + '$'}</TableCell>
-        <TableCell align="center">{row.auctionDate}</TableCell>
+        <TableCell align="center">{formatDate(row.auctionDate)}</TableCell>
         <TableCell align="center">{row.caseType}</TableCell>
         <TableCell align="center">{row.description}</TableCell>
       </TableRow>
@@ -398,379 +463,474 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
         <>
           <TableRow>
             <TableCell colSpan={8}>
-          <Grid container>
+              <Grid container>
 
-            <Grid item xs={7}>
-            {row.owners?.length > 0 &&
-                <>
-                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
-                    Owners:
+                <Grid item xs={7}>
+                  {row.owners?.length > 0 &&
+                    <>
+                      <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                        Owners:
 
-                    {
-                      row.owners?.map((owner, index) => {
-                        return (
-                          <ListItem>
-                            <ListItemAvatar>
-                              <Avatar sx={{ bgcolor: blue[500] }}>
-                                <PersonIcon />
-                              </Avatar>
-                            </ListItemAvatar>
-                            {owner.name} <br />
-                          </ListItem>
-                        )
-                      })
-                    }
-                  </List>
-                </>
-              }
-              <Divider />
-
-              {row.partyDetails?.length > 0 &&
-                <>
-                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
-                    Party Details :
-                    {
-                      row.partyDetails.map((obj, index) => {
-                        const property = Object.keys(obj)[0]
-                        return (
-                          <ListItem>
-                            <ListItemAvatar>
-                              <Avatar sx={{ bgcolor: blue[500] }}>
-                                <Details />
-                              </Avatar>
-                            </ListItemAvatar>
-                            {property} : {obj[property]}
-                          </ListItem>
-                        )
-                      })
-                    }
-                  </List>
+                        {
+                          row.owners?.map((owner, index) => {
+                            return (
+                              <ListItem key={`${owner.name - index}`}>
+                                <ListItemAvatar>
+                                  <Avatar sx={{ bgcolor: blue[500] }}>
+                                    <PersonIcon />
+                                  </Avatar>
+                                </ListItemAvatar>
+                                {owner.name} <br />
+                              </ListItem>
+                            )
+                          })
+                        }
+                      </List>
+                    </>
+                  }
                   <Divider />
-                </>
-              }
-              { row.legalDocuments?.length > 0 && row.legalDocuments.some(array => array.length > 0) &&
-                <>
-                Legal Documents:
-                {
-                  row.legalDocuments.map((arrayOfDocs, index) => {
-                    if (arrayOfDocs.length === 0) return null
-                    return (
-                      <ListItem>
-                        <ListItemAvatar onClick={() => openDocsDialog(arrayOfDocs)}>
 
-                          <Badge badgeContent={arrayOfDocs.length} color="primary">
-                            <Avatar sx={{ bgcolor: blue[500] }}>
-                              <DescriptionIcon />
-                            </Avatar>
-                          </Badge>
-                        </ListItemAvatar>
-                        {arrayOfDocs[0]?.firstParty}
-                      </ListItem>
-                    )
-                  })
-                }
-                <Divider />
-                </>
-              }
-              <Divider />
-              {row.violations?.length > 0 &&
-                <>
-                  <Typography m={1} p={1}>
-                    violations :<br />
-                    {row.violations.map((violation, index) => {
-                      return (
-                        <>
-                          Violation #{index + 1}
-                          <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                  {row.partyDetails?.length > 0 &&
+                    <>
+                      <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                        Party Details :
+                        {
+                          row.partyDetails.map((obj, index) => {
+                            const property = Object.keys(obj)[0]
+                            return (
+                              <ListItem key={`party-details-${index}`}>
+                                <ListItemAvatar>
+                                  <Avatar sx={{ bgcolor: blue[300] }}>
+                                    <Details />
+                                  </Avatar>
+                                </ListItemAvatar>
+                                {property} : {obj[property]}
+                              </ListItem>
+                            )
+                          })
+                        }
+                      </List>
+                      <Divider />
+                    </>
+                  }
+                  {row.legalDocuments?.length > 0 && row.legalDocuments.some(array => array.length > 0) &&
+                    <>
+                      Legal Documents:
+                      {
+                        row.legalDocuments.map((arrayOfDocs, index) => {
+                          if (arrayOfDocs.length === 0) return null
+                          return (
                             <ListItem>
-                              <ListItemAvatar>
-                                <Avatar sx={{ bgcolor: blue[500] }}>
-                                  <MoneyIcon />
-                                </Avatar>
-                              </ListItemAvatar>
-                              amount: {violation.amount}
-                            </ListItem>
-                            <ListItem>
-                              <ListItemAvatar>
-                                <Avatar sx={{ bgcolor: blue[500] }}>
-                                  <StatusIcon
-                                    color={violation?.status?.trim().toLowerCase() === 'closed'
-                                      ? 'success'
-                                      : 'error'} />
+                              <ListItemAvatar onClick={() => openDocsDialog(arrayOfDocs)}>
 
-                                </Avatar>
+                                <Badge badgeContent={arrayOfDocs.length} color="primary">
+                                  <Avatar sx={{ bgcolor: green[300] }}>
+                                    <DescriptionIcon />
+                                  </Avatar>
+                                </Badge>
                               </ListItemAvatar>
-                              status: {violation.status}
+                              {arrayOfDocs[0]?.firstParty}
                             </ListItem>
-                            <ListItem>
-                              <ListItemAvatar>
-                                <Avatar sx={{ bgcolor: blue[500] }}>
-                                  <DescriptionIcon />
-                                </Avatar>
-                              </ListItemAvatar>
-                              description: {violation.description}
-                            </ListItem>
-                            <ListItem>
-                              <ListItemAvatar>
-                                <Avatar sx={{ bgcolor: blue[500] }}>
-                                  <StateIcon />
-                                </Avatar>
-                              </ListItemAvatar>
-                              codeSection: {violation.codeSection}
-                            </ListItem>
-                          </List>
-                        </>
-                      );
-                    })}
-                  </Typography>
+                          )
+                        })
+                      }
+                      <Divider />
+                    </>
+                  }
                   <Divider />
-                </>
+                  {row.violations?.length > 0 &&
+                    <>
+                      <Typography m={1} p={1}>
+                        violations :<br />
+                        {row.violations.map((violation, index) => {
+                          return (
+                            <>
+                              Violation #{index + 1}
+                              <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                                <ListItem>
+                                  <ListItemAvatar>
+                                    <Avatar sx={{ bgcolor: blue[500] }}>
+                                      <MoneyIcon />
+                                    </Avatar>
+                                  </ListItemAvatar>
+                                  amount: {violation.amount}
+                                </ListItem>
+                                <ListItem>
+                                  <ListItemAvatar>
+                                    <Avatar sx={{ bgcolor: blue[500] }}>
+                                      <StatusIcon
+                                        color={violation?.status?.trim().toLowerCase() === 'closed'
+                                          ? 'success'
+                                          : 'error'} />
 
-              }
+                                    </Avatar>
+                                  </ListItemAvatar>
+                                  status: {violation.status}
+                                </ListItem>
+                                <ListItem>
+                                  <ListItemAvatar>
+                                    <Avatar sx={{ bgcolor: blue[500] }}>
+                                      <DescriptionIcon />
+                                    </Avatar>
+                                  </ListItemAvatar>
+                                  description: {violation.description}
+                                </ListItem>
+                                <ListItem>
+                                  <ListItemAvatar>
+                                    <Avatar sx={{ bgcolor: blue[500] }}>
+                                      <StateIcon />
+                                    </Avatar>
+                                  </ListItemAvatar>
+                                  codeSection: {violation.codeSection}
+                                </ListItem>
+                              </List>
+                            </>
+                          );
+                        })}
+                      </Typography>
+                      <Divider />
+                    </>
 
-              <List>
+                  }
 
-                <ListItem>
-                <ListItemText primary="Auction Date" secondary={row.auctionDate} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Case Number" secondary={row.caseNumber} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Opening Bid" secondary={row.openingBid} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Case Type" secondary={row.caseType} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Parcel ID" secondary={row.parcelID} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Certificate Number" secondary={row.certificateNumber} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Assessed Value" secondary={row.assessedValue} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Property Appraiser Description" secondary={row.propertyAppraiserLegalDescription} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Address" secondary={row.address} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Bedrooms" secondary={row.bedrooms} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Bathrooms" secondary={row.bathrooms} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Municipality" secondary={row.municipality} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Lot size" secondary={row.lotSize} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Primary Land Use" secondary={row.primaryLandUse} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Living Area" secondary={row.livingArea} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Year Built" secondary={row.yearBuilt} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Primary Zone" secondary={row.primaryZone} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Subdivision" secondary={row.subdivision} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Neighborhood" secondary={row.neighborhood} />
-                </ListItem>
-                <Divider />
-
-
-                <ListItem>
-                  <ListItemText primary="Building Area" secondary={row.buildingArea} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Description" secondary={row.description} />
-                </ListItem>
-                <Divider />
-
-                <ListItem>
-                  <ListItemText primary="Units" secondary={row.units} />
-                </ListItem>
-                <Divider />
-              </List>
-
-            </Grid>
-
-            <Grid spacing={2} item xs={5}>
-
-              {row.qualifiedOwners?.length > 0 &&
-                <>
-                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
-                    Qualified Owners:
-                    {
-                      row.qualifiedOwners.map((owner, index) => {
-                        return (
-                          <ListItem>
-                            <ListItemAvatar>
-                              <Avatar sx={{ bgcolor: blue[500] }}>
-                                <PersonIcon />
-                              </Avatar>
-                            </ListItemAvatar>
-                            {owner}
-                          </ListItem>
-                        )
-                      })
-                    }
-                  </List>
-                  <Divider />
-                </>
-              }
-                <>
-                  <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
-                  </List>
                   <List>
-                <ListItem>
-                  <ListItemText primary="Tax Collector Debt" secondary={row?.taxCollectorDebt || 'None'} />
-                </ListItem>
-                <Divider />
 
-                <ListItem>
-                  <ListItemText primary="Light" secondary={row?.light || 'None'} />
-                </ListItem>
-                <Divider />
+                    <ListItem>
+                      <ListItemText primary="Auction Date" secondary={formatDate(row.auctionDate)} />
+                    </ListItem>
+                    <Divider />
 
-                <ListItem>
-                  <ListItemText primary="Liens" secondary={row.liens || 'None'} />
-                </ListItem>
-                <Divider />
+                    <ListItem>
+                      <ListItemText primary="Case Number" secondary={row.caseNumber} />
+                    </ListItem>
+                    <Divider />
 
-                <ListItem>
-                  <ListItemText primary="Status" secondary={row.status || 'None'} />
-                </ListItem>
-                <Divider />
+                    <ListItem>
+                      <ListItemText primary="Opening Bid" secondary={row.openingBid + '$'} />
+                    </ListItem>
+                    <Divider />
 
-                <ListItem>
-                  <ListItemText primary="DD Market Value Assessment" secondary={row?.ddMarketValueAssessment || 'None'} />
-                </ListItem>
-                <Divider />
+                    <ListItem>
+                      <ListItemText primary="Case Type" secondary={row.caseType} />
+                    </ListItem>
+                    <Divider />
 
-                <ListItem>
-                  <ListItemText primary="DD Title" secondary={row?.dDTitle || 'None'} />
-                </ListItem>
-                <Divider />
+                    <ListItem>
+                      <ListItemText primary="Parcel ID" secondary={row.parcelID} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'DD Zoning'} secondaryText={row.dDZoning || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Certificate Number" secondary={row.certificateNumber} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'DD Property Appraiser'} secondaryText={row.dDPropertyAppraiser || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Assessed Value" secondary={row.assessedValue + '$'} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'DD Lien Assessment'} secondaryText={row.dDLienAssessment || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Property Appraiser Description" secondary={row.propertyAppraiserLegalDescription} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'DD Code Enforcement'} secondaryText={row.dDCodeEnforcement || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Address" secondary={row.address} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'DD Corporate Of Divisions'} secondaryText={row.dDCorporateOfDivisions || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Tax Collector Debt" secondary={row?.taxCollectorDebt + "$" || 'None'} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Keyword'} secondaryText={row.keyword || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Bedrooms" secondary={row.bedrooms} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'As Is Value'} secondaryText={row.asIsValue || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Bathrooms" secondary={row.bathrooms} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'ARV'} secondaryText={row.arv || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Municipality" secondary={row.municipality} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'BRR 70%'} secondaryText={row.brr70Percent || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Lot size" secondary={row.lotSize} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'60% Of Current Value'} secondaryText={row.sixtyPercentageCurrentValue || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Primary Land Use" secondary={row.primaryLandUse} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Rehab Costs'} secondaryText={row.rehabCosts || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Living Area" secondary={row.livingArea} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Max Bid'} secondaryText={row.maxBid || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Year Built" secondary={row.yearBuilt} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Max Bid Based On As Is Value'} secondaryText={row.maxBidBasedOnAsIsValue || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Primary Zone" secondary={row.primaryZone} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Profit As Percentage'} secondaryText={row.profitAsPercentage || 'None'} />
-              <Divider />
+                    <ListItem>
+                      <ListItemText primary="Subdivision" secondary={row.subdivision} />
+                    </ListItem>
+                    <Divider />
 
-              <EditableField primaryText={'Lien Type'} secondaryText={row.lienType || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Total Liens'} secondaryText={row.totalLiens || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Strategy'} secondaryText={row.strategy || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Strategy2'} secondaryText={row.strategy2 || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Owner'} secondaryText={row.owner || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Owner Contact'} secondaryText={row.ownerContact || 'None'} />
-              <Divider />
-
-              <EditableField primaryText={'Noted'} secondaryText={row.noted || 'None'} />
-              <Divider />
-              </List>
-
-                </>
-            </Grid>
+                    <ListItem>
+                      <ListItemText primary="Neighborhood" secondary={row.neighborhood} />
+                    </ListItem>
+                    <Divider />
 
 
-          </Grid>
+                    <ListItem>
+                      <ListItemText primary="Building Area" secondary={row.buildingArea} />
+                    </ListItem>
+                    <Divider />
+
+                    <ListItem>
+                      <ListItemText primary="Description" secondary={row.description} />
+                    </ListItem>
+                    <Divider />
+
+                    <ListItem>
+                      <ListItemText primary="Units" secondary={row.units} />
+                    </ListItem>
+                    <Divider />
+
+                  </List>
+
+                </Grid>
+
+                <Grid item xs={5}>
+
+                  {row.qualifiedOwners?.length > 0 &&
+                    <>
+                      <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                        Qualified Owners:
+                        {
+                          row.qualifiedOwners.map((owner, index) => {
+                            return (
+                              <ListItem>
+                                <ListItemAvatar>
+                                  <Avatar sx={{ bgcolor: green[200] }}>
+                                    <PersonIcon />
+                                  </Avatar>
+                                </ListItemAvatar>
+                                {owner}
+                              </ListItem>
+                            )
+                          })
+                        }
+                      </List>
+                      <Divider />
+                    </>
+                  }
+                  <>
+                    <List sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+                    </List>
+                    <List>
+                      <EditableField
+                        primaryText={'Light'}
+                        secondaryText={row?.light}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'light')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Liens'}
+                        secondaryText={row?.liens}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'liens')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Status'}
+                        secondaryText={row?.status}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'status')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Market Value Assessment'}
+                        secondaryText={row?.ddMarketValueAssessment}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'ddMarketValueAssessment')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Title'}
+                        secondaryText={row.dDTitle}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDTitle')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Zoning'}
+                        secondaryText={row.dDZoning}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDZoning')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Property Appraiser'}
+                        secondaryText={row.dDPropertyAppraiser}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDPropertyAppraiser')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Lien Assessment'}
+                        secondaryText={row.dDLienAssessment}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDLienAssessment')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Code Enforcement'}
+                        secondaryText={row.dDCodeEnforcement}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDCodeEnforcement')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'DD Corporate Of Divisions'}
+                        secondaryText={row.dDCorporateOfDivisions}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'dDCorporateOfDivisions')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Keyword'}
+                        secondaryText={row.keyword}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'keyword')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'As Is Value'}
+                        secondaryText={row.asIsValue}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'asIsValue')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'ARV'}
+                        secondaryText={row.arv}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'arv')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'BRR 70%'}
+                        secondaryText={row.brr70Percent}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'brr70Percent')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'60% Of Current Value'}
+                        secondaryText={row.sixtyPercentageCurrentValue}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'sixtyPercentageCurrentValue')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Rehab Costs'}
+                        secondaryText={row.rehabCosts}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'rehabCosts')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Max Bid'}
+                        secondaryText={row.maxBid}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'maxBid')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Max Bid Based On As Is Value'}
+                        secondaryText={row.maxBidBasedOnAsIsValue}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'maxBidBasedOnAsIsValue')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Profit As Percentage'}
+                        secondaryText={row.profitAsPercentage}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'profitAsPercentage')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Lien Type'}
+                        secondaryText={row.lienType}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'lienType')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Total Liens'}
+                        secondaryText={row.totalLiens}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'totalLiens')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Strategy'}
+                        secondaryText={row.strategy}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'strategy')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Strategy2'}
+                        secondaryText={row.strategy2}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'strategy2')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Owner'}
+                        secondaryText={row.owner}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'owner')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Owner Contact'}
+                        secondaryText={row.ownerContact}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'ownerContact')}
+                      />
+                      <Divider />
+
+                      <EditableField
+                        primaryText={'Noted'}
+                        secondaryText={row.noted}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'noted')}
+                      />
+                      <Divider />
+                    </List>
+
+                  </>
+                </Grid>
+
+
+              </Grid>
             </TableCell>
           </TableRow>
 
@@ -781,29 +941,100 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog }) => {
   );
 };
 
-function EditableField ({ primaryText, secondaryText }) {
+/**
+ * EditableField component props
+ * @typedef { Object } EditableFieldProps
+ * @property { string } primaryText
+ * @property { string } secondaryText
+ * @property { string } fieldName
+ * @property { string } auctionId
+ */
+/** @type {React.FC<EditableFieldProps>} */
+function EditableField ({
+  primaryText,
+  secondaryText,
+  updateAuctionField,
+}) {
+  const [loading, setLoading] = React.useState(false)
+  const [editing, setEditing] = React.useState(false)
+  const [newText, setNewText] = React.useState(secondaryText || '')
+  const saveChanges = async (newText) => {
 
+    try {
+      await updateAuctionField(newText)
+    } catch (error) {
+      console.log(error);
+    }
+  }
 
+  const onClick = () => {
+    setEditing(true)
+  }
 
+  const onSave = async () => {
+    try {
+      setLoading(true)
+      await saveChanges(newText)
+      setEditing(false)
+    } catch (error) {
+      console.log(error);
+    }
+    finally {
+      setLoading(false)
+    }
+  }
+
+  const onCancel = () => {
+    setEditing(false)
+  }
 
   return (
     <ListItem>
-      <ListItemText  primary={primaryText} secondary={secondaryText} />
+      <ListItemText primary={primaryText} secondary={
+        editing ?
+          <>
+            <TextField
+              size='small'
+              variant="outlined"
+              onChange={(event) => setNewText(event.target.value)}
+              defaultValue={secondaryText || ''}
+              focused
+              multiline
+            />
+            <Button disabled={loading} onClick={onSave}> Save </Button>
+            <Button disabled={loading} onClick={onCancel}> Cancel </Button>
+
+          </>
+          :
+          (secondaryText || 'None')
+      } />
+      <ListItemIcon onClick={onClick}>
+        {
+          loading ?
+            <CircularProgress size={20} />
+            :
+            <EditIcon fontSize="small" />
+        }
+      </ListItemIcon>
     </ListItem>
   );
 
 }
 
 
-function DocumentsDialog ({ handleClose, open, documents }) {
+function DocumentsDialog ({
+  onClose,
+  open,
+  documents,
+}) {
 
   return (
     <Dialog
       open={open}
-      onClose={handleClose}
+      onClose={onClose}
     >
       <List>
-        {documents.map((document, index) => {
+        {documents.map((document) => {
           return (
             <ListItem>
               <ListItemAvatar onClick={() => window.open(document?.url, '_blank').focus()}>
@@ -812,6 +1043,21 @@ function DocumentsDialog ({ handleClose, open, documents }) {
                 </Avatar>
               </ListItemAvatar>
               <ListItemText primary={document?.firstParty} secondary={document?.secondParty} />
+              <Layout>
+
+                <Typography variant="subtitle1" color="textSecondary">
+                  {document?.type}
+                </Typography>
+
+                <Typography variant="subtitle1" color="textSecondary">
+                  {document?.date}
+                </Typography>
+
+                <Typography variant="subtitle2" color="textSecondary">
+                  {document?.fileNumber}
+                </Typography>
+              </Layout>
+
             </ListItem>
           )
         })}
@@ -820,3 +1066,24 @@ function DocumentsDialog ({ handleClose, open, documents }) {
 
   );
 }
+
+const formatDate = (date) => {
+  // split on T and return the first part, make sure date is Date
+  return new Date(date).toISOString().split('T')[0];
+
+}
+// style Table component
+// .MuiTableHead-root background color #ADD8E6 and #tableTitle id should have color #DEEFF5
+const StyledTable = styled(Table)`
+  .MuiTableHead-root {
+    background-color: #BCE6FF;
+  }
+  .MuiToolbar-root {
+     color: #DEEFF5 !important;
+  }
+`;
+
+const InlinedLabel = styled(InputLabel)`
+  display: block;
+  padding-bottom: 2%;
+`;
