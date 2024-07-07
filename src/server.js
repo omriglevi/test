@@ -16,7 +16,7 @@ const corsConfig = {
   };
 
   // server the build from ./frontend/build
-// app.use(express.static(path.join(__dirname, "/../frontend/build")));
+app.use(express.static(path.join(__dirname, "/../frontend/build")));
 app.use(express.static(path.join(__dirname, "public")));
 app.use(cors(corsConfig))
 app.use(cookieParser());
