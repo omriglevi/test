@@ -6,6 +6,7 @@ const useAuctions = () => {
     const [loading, setLoading] = useState(false);
     const [page, setPage] = useState(0);
     const [cursors, setCursors] = useState({ '0': null });
+    const [filter, setFilter] = useState({});
 
     useEffect(() => {
         async function fetchData() {
@@ -36,7 +37,7 @@ const useAuctions = () => {
         setPage(newPage);
         setLoading(true);
         const cursor = cursors[newPage];
-        const response = await getAuctions({ cursor }).catch(error => console.error(error)).finally(() => setLoading(false));
+        const response = await getAuctions({ cursor, filter }).catch(error => console.error(error)).finally(() => setLoading(false));
 
         setAuctions(response.auctions);
 
@@ -99,6 +100,32 @@ const useAuctions = () => {
             setLoading(false);
         }
     }, []);
+
+    const searchWithFilter = useCallback(async (filter) => {
+        try {
+            setFilter(filter);
+            setLoading(true);
+            const response = await getAuctions({ filter })
+                .catch(error => console.error(error))
+            setPage(0);
+
+            setAuctions(response.auctions || []);
+
+            if (response.nextCursor) {
+                setCursors({
+                    0: null,
+                    '1': response.nextCursor
+                });
+            }
+        } catch (error) {
+            setAuctions([]);
+            console.error(error);
+        } finally {
+            setLoading(false);
+        }
+    }
+    , []);
+
     return {
         auctions,
         setAuctions,
@@ -111,6 +138,7 @@ const useAuctions = () => {
         setPage,
         page,
         searchByAddress,
+        searchWithFilter,
     };
 }
 

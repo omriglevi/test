@@ -37,7 +37,7 @@ import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Avatar, Badge, Button, Card, Container, Dialog, Divider, FormControl, FormHelperText, FormLabel, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemIcon, ListItemText, styled, TextField, } from '@mui/material';
+import { Avatar, Badge, Button, Card, Checkbox, Container, Dialog, Divider, FormControl, FormHelperText, FormLabel, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemIcon, ListItemText, styled, TextField, } from '@mui/material';
 import { blue, green } from '@mui/material/colors';
 import Layout from './Layout';
 import useAuctions from './use-auctions';
@@ -221,7 +221,9 @@ function SearchBar ({ searchByAddress }) {
           onChange={(event) => setAddress(event.target.value)}
         />
         <Button
-        onClick={() => searchByAddress(address)}
+          sx={{ marginLeft: '2%' }}
+          variant='contained'
+          onClick={() => searchByAddress(address)}
         >
           Search <SearchIcon />
         </Button>
@@ -231,12 +233,62 @@ function SearchBar ({ searchByAddress }) {
 }
 function FilterComponent ({
   open,
-  onMinChange,
-  onMaxChange,
+  search,
 }) {
-  //  IF open, show filter component
-  // Filter component will shoe the available filters
-  // Filter component will have a button to apply the filters
+
+
+
+  const onApplyFilters = async () => {
+    let maxOpeningBid = document.getElementById('maximum-opening-bid')?.value;
+    maxOpeningBid?.trim() === '' && (maxOpeningBid = 0)
+    let minOpeningBid = document.getElementById('minimum-opening-bid')?.value;
+    minOpeningBid?.trim() === '' && (minOpeningBid = 0)
+    const enableOpeningBid = document.getElementById('checkbox-opening-bid')?.checked;
+
+    let maxAssessedValue = document.getElementById('maximum-assessed-value')?.value;
+    maxAssessedValue?.trim() === '' && (maxAssessedValue = 0)
+    let minAssessedValue = document.getElementById('minimum-assessed-value')?.value;
+    minAssessedValue?.trim() === '' && (minAssessedValue = 0)
+    const enableAssessedValue = document.getElementById('checkbox-assessed-value')?.checked;
+
+    let maxTotalPrice = document.getElementById('max-total-price')?.value;
+    maxTotalPrice?.trim() === '' && (maxTotalPrice = 0)
+    let minTotalPrice = document.getElementById('minimum-total-price')?.value;
+    minTotalPrice?.trim() === '' && (minTotalPrice = 0)
+    const enableTotalPrice = document.getElementById('checkbox-total-price')?.checked;
+
+    const filter = {}
+
+    if (enableOpeningBid) {
+      if (!isNaN(maxOpeningBid)) {
+        filter.openingBid = { ...filter.openingBid,$lt: maxOpeningBid }
+      }
+      if (!isNaN(minOpeningBid)) {
+        filter.openingBid = {...filter.openingBid, $gt: minOpeningBid }
+      }
+    }
+
+    if (enableAssessedValue) {
+      if (!isNaN(maxAssessedValue)) {
+        filter.assessedValue = {...filter.assessedValue, $lt: maxAssessedValue }
+      }
+      if (!isNaN(minAssessedValue)) {
+        filter.assessedValue = { ...filter.assessedValue, $gt: minAssessedValue }
+      }
+    }
+
+    if (enableTotalPrice) {
+      if (!isNaN(maxTotalPrice)) {
+        filter.totalPrice = {...filter.totalPrice, $lt: maxTotalPrice }
+      }
+      if (!isNaN(minTotalPrice)) {
+        filter.totalPrice = {...filter.totalPrice, $gt: minTotalPrice }
+      }
+    }
+    // searchWithFilter(filter)
+    console.log(filter);
+    await search(filter)
+  }
 
   return (open ? (
     <Card
@@ -249,24 +301,79 @@ function FilterComponent ({
       autoComplete="off"
     >
       <Paper elevation={2} sx={{ margin: '2%', padding: '2%', backgroundColor: '#DEEFF5' }}>
-        <div style={{ display: 'block' }}>
-          <InlinedLabel variant='subtitle1' > Filters </InlinedLabel>
+
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+        <Checkbox id='checkbox-assessed-value' />
+        <InlinedLabel variant='subtitle1' > Assessed Value </InlinedLabel>
           <TextField
             size='small'
-            id="outlined-multiline-flexible"
-            label="Minimum Price"
-            placeholder="Minimum Price"
-            sx={{ backgroundColor: 'white' }}
+            id="minimum-assessed-value"
+            label="Minimum"
+            placeholder="Minimum"
+            type='number'
           />
 
           <TextField
             size='small'
-            id="outlined-textarea"
-            label="Maximum Price"
-            placeholder="Maximum Price"
-            sx={{ backgroundColor: 'white' }}
+            id="maximum-assessed-value"
+            label="Maximum"
+            placeholder="Maximum"
+            type='number'
           />
         </div>
+
+
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+        <Checkbox id='checkbox-total-price' />
+        <InlinedLabel variant='subtitle1' > Total Price (Property upraiser)</InlinedLabel>
+
+          <TextField
+            size='small'
+            id="minimum-total-price"
+            label="Minimum"
+            placeholder="Minimum"
+            type='number'
+          />
+
+          <TextField
+            size='small'
+            id="max-total-price"
+            label="Maximum"
+            placeholder="Maximum"
+            type='number'
+          />
+        </div>
+
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+        <Checkbox id='checkbox-opening-bid' />
+        <InlinedLabel variant='subtitle1' > Opening Bid</InlinedLabel>
+
+          <TextField
+            size='small'
+            id="minimum-opening-bid"
+            label="Minimum"
+            placeholder="Minimum"
+            type='number'
+          />
+
+          <TextField
+            size='small'
+            id="maximum-opening-bid"
+            label="Maximum"
+            placeholder="Maximum"
+            type='number'
+          />
+        </div>
+
+        <div
+          style={{
+            display: 'inline',
+            margin: '1% 1% 1% 0',
+            padding: '1% 1% 1%, 0',
+          }}>
+          <Button variant='contained' color='primary' onClick={onApplyFilters}> Apply Filters </Button>
+        </div>
+
       </Paper>
     </Card>
   ) : null
@@ -279,7 +386,15 @@ export default function EnhancedTable () {
   const [dense, setDense] = React.useState(false);
   const [filterOpen, setFilterOpen] = React.useState(false);
 
-  const toggleFilters = () => setFilterOpen(!filterOpen)
+
+  const toggleFilters = () => {
+    const isFilterOpen = !filterOpen
+    if (!isFilterOpen) {
+      //  clear filters
+    }
+
+    setFilterOpen(isFilterOpen)
+  }
 
   const {
     auctions: rows,
@@ -289,6 +404,7 @@ export default function EnhancedTable () {
     onChangePage,
     updateAuctionField,
     searchByAddress,
+    searchWithFilter,
   } = useAuctions()
 
   const [dialogOpen, setDialogOpen] = React.useState(false)
@@ -325,7 +441,7 @@ export default function EnhancedTable () {
   return (
     <>
 
-    <SearchBar  searchByAddress={searchByAddress}/>
+      <SearchBar searchByAddress={searchByAddress} />
       <Box sx={{ width: '100%' }}>
         <Paper sx={{ width: '100%', mb: 2 }}>
           <EnhancedTableToolbar toggleFilters={toggleFilters} />
@@ -346,7 +462,11 @@ export default function EnhancedTable () {
             />
 
 
-            <FilterComponent open={filterOpen} />
+            <FilterComponent
+            open={filterOpen}
+            search={searchWithFilter}
+            />
+
             <StyledTable
               sx={{ minWidth: 750 }}
               aria-labelledby="Auctions"
@@ -1090,6 +1210,7 @@ const StyledTable = styled(Table)`
 `;
 
 const InlinedLabel = styled(InputLabel)`
-  display: block;
-  padding-bottom: 2%;
+  padding: 2%;
+  margin: '2%'
+  font-size: 1rem;
 `;
