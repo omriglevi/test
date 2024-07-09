@@ -3,9 +3,6 @@ const config = {
     apiUrl: 'http://localhost:3000/auctions',
     options: {
         credentials: "include",
-        headers: {
-            "Content-Type": "application/json"
-        },
       },
 
 }
