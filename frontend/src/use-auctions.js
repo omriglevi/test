@@ -57,7 +57,7 @@ const useAuctions = () => {
             }
 
             const index = auctions.findIndex(auction => auction._id === id);
-            if (index > -1) {
+            if (index === -1) {
                 throw new Error('Auction not found');
             }
 
