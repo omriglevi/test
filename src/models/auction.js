@@ -8,7 +8,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     caseNumber: {
         type: String,
-        required: true,
+        required: false,
         unique: true,
     },
     caseType: {
@@ -31,7 +31,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     assessedValue: {
         type: Number,
-        required: true,
+        required: false,
     },
     propertyAppraiserLegalDescription: {
         type: String,
@@ -44,7 +44,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     url: {
         type: String,
-        required: true,
+        required: false,
     },
     bathrooms: {
         type: Number,
@@ -104,7 +104,7 @@ const AuctionSchema = new Mongoose.Schema({
     },
     address: {
         type: String,
-        required: true,
+        required: false,
         default: ''
     },
     totalValue: {

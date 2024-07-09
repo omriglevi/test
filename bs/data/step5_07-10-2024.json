@@ -1,0 +1,2334 @@
+[
+  {
+    "caseNumber(Count)": "2022-018422-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$1,191,629.87",
+    "parcelID": "MULTIPLE PARCELS",
+    "propertyAppraiserLegalDescription": "SEE FINAL JUDGMENT FOR FULL LEGAL DESCRIPTION",
+    "partyDetails": [
+      {
+        "DEFENDANT": "C & C INDUSTRIAL SUPPLIES AND SERVICES, INC."
+      },
+      {
+        "DEFENDANT": "CASTILLO PADRON, JOSE M."
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Diaz, Luis E."
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Diaz, Luis E."
+      },
+      {
+        "PLAINTIFF": "BENWORTH CAPITAL PARTNERS LLC"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Alvarez, Alejandro R"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=MULTIPLE PARCELS",
+    "bathrooms": 0,
+    "bedrooms": 0,
+    "floors": 0,
+    "municipality": null,
+    "lotSize": 0,
+    "primaryLandUse": 0,
+    "livingArea": 0,
+    "yearBuilt": null,
+    "primaryZone": null,
+    "subdivision": null,
+    "neighborhood": null,
+    "buildingArea": 0,
+    "description": null,
+    "units": 0,
+    "qualifiedOwner": [],
+    "owners": [],
+    "taxCollectorDebt": 0,
+    "violations": [],
+    "legalDocuments": [
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIpBmINyrGXkjwBTvkUJk2XthfBjFrOvpQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "CASTILLO PADRON JOSE M (R)",
+          "secondParty": "FONTAINEBLEAU SINGLE FAMILY HOMES W LLC",
+          "date": "11/9/2012",
+          "fileNumber": "2012 R 810214"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIpBmINyrGXkHPHxiUGMcV19xR6DxNNnvQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "CASTILLO PADRON JOSE M (D)",
+          "secondParty": "BAC FLA BNK",
+          "date": "11/9/2012",
+          "fileNumber": "2012 R 810215"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTnUdUFGpEw6HTRSkN7Keb%2f6O1FD2F5pXOQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "CASTILLO PADRON JOSE M (D)",
+          "date": "2/6/2017",
+          "fileNumber": "2017 R 68965"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTitUit7JyQmmEdPMCM%2fpMbOayniKqAtWrg%3d%3d",
+          "type": "MOR",
+          "firstParty": "CASTILLO PADRON JOSE M (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "12/12/2017",
+          "fileNumber": "2017 R 696662"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnWRHYubLlIrrfHahPVQSQzSBAgHkXicIeQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "CASTILLO PADRON JOSE M (D)",
+          "secondParty": "JEAN CHARLES FOURCADE REVOCABLE TRUST TRU FOR",
+          "date": "10/26/2019",
+          "fileNumber": "2019 R 672913"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7X%2fsoDqwEpAZD9lbVw8LVLnfkWGLaQrw6w%3d%3d",
+          "type": "MOR",
+          "firstParty": "CASTILLO PADRON JOSE MARCOS (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "12/21/2021",
+          "fileNumber": "2021 R 954951"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGfPjpo42GVNKSrfvF5KVL9rQheU6S3utdQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "CASTILLO PADRON JOSE MARCOS (R)",
+          "secondParty": "FOURCADE TR JEAN CHARLES",
+          "date": "10/25/2022",
+          "fileNumber": "2022 R 814359"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp240aOaOlBVLQjA%2f3aWZ2Wd0ysGDX8NuUw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CASTILLO PADRON JOSE MARCOS (R)",
+          "secondParty": "CASTELLANOS BARRERA BETTSY B",
+          "date": "4/20/2023",
+          "fileNumber": "2023 R 265776"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp0CPMs3zil%2fizOi0UqegO1M6fMyxG6b4sg%3d%3d",
+          "type": "DCP",
+          "firstParty": "CASTILLO PADRON JOSE MARCOS (R)",
+          "secondParty": "FOURCADE TR JEAN CHARLES",
+          "date": "7/7/2023",
+          "fileNumber": "2023 R 467111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpzpXb4yAr6nHQdd1QanvvNqJXhOkYiO0yw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CASTILLO PADRON JOSE MARCOS (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "8/28/2023",
+          "fileNumber": "2023 R 599289"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8qkjHGntrXtca2lQvjcxPBfqkOGCTtnsw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CASTILLO PADRON JOSE M (R)",
+          "secondParty": "BENWORTH CAPITAL PARTNERS LLC",
+          "date": "4/11/2024",
+          "fileNumber": "2024 R 276744"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkVj%2fwjxbPOG3qHWJ36joEVlidDw1Z1iFVw%3d%3d",
+          "type": "DEE",
+          "firstParty": "DIAZ LUIS E &W (R)",
+          "secondParty": "COUNTY LINE LAND CO",
+          "date": "10/5/1972",
+          "fileNumber": "1972 R 224674"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c61z8VueMK3C%2buGGMzVJJHyiLMfVTgE0jLQ%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "LONBERGER NORMAN GEORGE ET AL",
+          "date": "10/4/1974",
+          "fileNumber": "1974 R 230958"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOiTa%2brMjhj3e0hZAjlv9TfI6Bf3LX%2b07qCw%3d%3d",
+          "type": "DEE",
+          "firstParty": "DIAZ LUIS E &W MABEL T (D)",
+          "secondParty": "WOODARD MELVINA L",
+          "date": "11/2/1977",
+          "fileNumber": "1977 R 272083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOiZCnQIqcndJczGr70MeUgnWMJP9t4dV%2bJA%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MABEL T (D)",
+          "secondParty": "SECURITY FED SV&L ASSN",
+          "date": "11/18/1977",
+          "fileNumber": "1977 R 286858"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOiQlfCXjls4UcrjpP8taaXr84U6%2bkpu%2f8yQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "DIAZ LUIS E &W MABEL T (R)",
+          "secondParty": "JORDAN RALEIGH N &W MARGARET L",
+          "date": "12/14/1977",
+          "fileNumber": "1977 R 308846"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOiQlfCXjls4UcrdeZo2ZULPjnjWNsohGYbw%3d%3d",
+          "type": "AFF",
+          "firstParty": "DIAZ LUIS E & MABEL T (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "12/14/1977",
+          "fileNumber": "1977 R 308847"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOiWyBdQW7N0yF7AxO9ul2qkZesalYRaT93A%3d%3d",
+          "type": "SMO",
+          "firstParty": "DIAZ LUIS E &W MABEL T (R)",
+          "secondParty": "BENEFICIAL MUTUAL SV BNK",
+          "date": "12/22/1977",
+          "fileNumber": "1977 R 317406"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfB5oN0bEHaZvZOfPMBo5TBPbcCuuNF8Cd9g%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "HOUSEHOLD FIN CORP",
+          "date": "6/4/1981",
+          "fileNumber": "1981 R 149245"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfBz3F8Buh9ieKXhtpeSQLExRDSHHaYgnnrw%3d%3d",
+          "type": "DEE",
+          "firstParty": "DIAZ LUIS E &W MARIA D (R)",
+          "secondParty": "TWITCHELL DOUGLAS N &W LINDA I",
+          "date": "8/6/1981",
+          "fileNumber": "1981 R 208323"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfBz3F8Buh9ieKYGI5Bg6tna64NAJw1o96vQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MARIA D (D)",
+          "secondParty": "CITICORP PERSON TO PERSON FIN CENTER OF FLA INC",
+          "date": "8/6/1981",
+          "fileNumber": "1981 R 208328"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfBz3F8Buh9ieKgqeS%2bhy6tNuA2VpEz4ZRnA%3d%3d",
+          "type": "AFF",
+          "firstParty": "DIAZ LUIS E &W MARIA D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "8/6/1981",
+          "fileNumber": "1981 R 208329"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfBzbMIAkBStH%2bQuP6vKC9TgCyBOpsWf5%2fzw%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MABEL T (D)",
+          "secondParty": "FIRST STATE BNK",
+          "date": "8/26/1981",
+          "fileNumber": "1981 R 225865"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAnyFGW0Icue20qQEswYzmJe9vMRSdqX6C8aK5n14mDFg%3d%3d",
+          "type": "SJU",
+          "firstParty": "DIAZ LUIS E & CAROL (R)",
+          "secondParty": "HOUSEHOLD FIN CORP OF FLA",
+          "date": "10/8/1982",
+          "fileNumber": "1982 R 230246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDmfq22O9Jlzs53GzBBJ%2fJe0mGSol%2fDXWAz0uqSUmbDXA%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MARIA D (D)",
+          "secondParty": "CITICORP PERSON TO PERSON FIN CENTER OF FLA INC",
+          "date": "7/5/1983",
+          "fileNumber": "1983 R 177888"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDmfq22O9Jlzs53GzBBJ%2fJeKZM7Etb58SoH%2f7ODi0%2fNlg%3d%3d",
+          "type": "AGR",
+          "firstParty": "DIAZ LUIS E & MARIA D (D)",
+          "secondParty": "CITICORP PERSON TO PERSON FIN CENTER OF FLA INC",
+          "date": "7/5/1983",
+          "fileNumber": "1983 R 177889"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDmfq22O9Jlzl6X9jTN0bTxjz9bfzn5V81aU9ZBLSpopA%3d%3d",
+          "type": "AFF",
+          "firstParty": "DIAZ LUIS E & MARIA D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "7/19/1983",
+          "fileNumber": "1983 R 192751"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDmfq22O9JlztMMLlCe2rKo16PGueT%2fHXwlORSdapwlhw%3d%3d",
+          "type": "SMO",
+          "firstParty": "DIAZ LUIS E &W MARIA D (R)",
+          "secondParty": "CITICORP PERSON TO PERSON FIN CENTER OF FLA INC",
+          "date": "7/22/1983",
+          "fileNumber": "1983 R 197390"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDiMVylbNsUPCPAkufQHvSBFwsD3CNZv5xVAnYGwF1W3A%3d%3d",
+          "type": "CVP",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "INTERCONTINENTAL BANK",
+          "date": "8/15/1984",
+          "fileNumber": "1984 R 122420655"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hkWA0rmygR3WTF1mG5mLsL5YqGXteJEQOQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "AMERIFIRST FED SV&L ASSN",
+          "date": "4/14/1986",
+          "fileNumber": "1986 R 117740"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hm6u1a4DvvpooaRrEhptfOqqlKdpKB7YXg%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MABEL T (D)",
+          "secondParty": "BARNETT BNK",
+          "date": "6/23/1986",
+          "fileNumber": "1986 R 205280"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hqYB7Yv%2fOIUY6KroQUgO1fZeksbIAv5Lew%3d%3d",
+          "type": "SMO",
+          "firstParty": "DIAZ LUIS E &W MABEL T (R)",
+          "secondParty": "BARNETT BNK",
+          "date": "7/14/1986",
+          "fileNumber": "1986 R 232411"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hrTgx13QRKWBac3qZq2tJlywY2bkIoyQ7A%3d%3d",
+          "type": "QCD",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "PINO SILVIO P &W OLGA",
+          "date": "7/31/1986",
+          "fileNumber": "1986 R 256784"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuZZKKV3kx662wstPsRJ1JHxOsOl96I8L7Q%3d%3d",
+          "type": "FST",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "DIAZ VIDAL & CARMEN",
+          "date": "3/31/1987",
+          "fileNumber": "1987 R 119928"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGufW8eLT7POBOVnHzambxyqW6MuKdX7iLgw%3d%3d",
+          "type": "CMO",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "DIAZ VIDAL &W CARMEN",
+          "date": "4/1/1987",
+          "fileNumber": "1987 R 122280"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuZpN2JD6qeKEGHKr7UsBWkNW1OywzfxxJQ%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS E ET AL (R)",
+          "secondParty": "INTERCONTINENTAL BNK",
+          "date": "12/31/1987",
+          "fileNumber": "1987 R 495123"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuTezknvvP3yfH0IOn%2flCrM2tLly84bPHcQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "SHELL OIL CO",
+          "date": "4/22/1987",
+          "fileNumber": "1987 R 132543248"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuVcBIBxVh2yN5pazqJWlPIGG%2f5Yy93FwRQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "DIAZ BELIKS A QUEZADA",
+          "date": "6/1/1987",
+          "fileNumber": "1987 R 133040140"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQORJiXHAi1L0tFCHJ0NkGlqo%2fJOVQ3IBoA%3d%3d",
+          "type": "LIE",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "MIAMI DADE WATER & SEWER AUTHORITY DEPT",
+          "date": "3/25/1988",
+          "fileNumber": "1988 R 104269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQFFaU%2fNc%2fKsoGl3YDciFb2byM2esxrYYeQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "DIAZ LUIS ENRIQUE (D)",
+          "secondParty": "DIAZ BARBARA",
+          "date": "11/3/1988",
+          "fileNumber": "1988 R 138822225"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmSBkamygm5tkvlBSMQ7AaiBxb0DqF9mc3A%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "UNITED STATES OF AMERICA",
+          "date": "6/15/1989",
+          "fileNumber": "1989 R 212281"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmbLTAtrqPkMag2Hm%2fWSqkMtYlmDox1bWVw%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "12/29/1989",
+          "fileNumber": "1989 R 473555"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmXWCZf1lNhPQlVlqCztRr8lwKnYskt5Ycg%3d%3d",
+          "type": "CVP",
+          "firstParty": "DIAZ LUIS ENRIQUE (R)",
+          "secondParty": "MILLIEN JOSIANE LAURE",
+          "date": "5/10/1989",
+          "fileNumber": "1989 R 141080786"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmU3nK43cFOr3z9IZy8JGKpupOP50eUIXJg%3d%3d",
+          "type": "CVP",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "NCNB NATIONAL BANK OF FLA",
+          "date": "12/11/1989",
+          "fileNumber": "1989 R 143592784"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhgKUMO91WiAL664LyJjZMiAdaPyQDaRZ6Q%3d%3d",
+          "type": "LIE",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "3/28/1990",
+          "fileNumber": "1990 R 114159"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjVoPTXLlorX5gHxV47XeAk6uJ7HhDZMSQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "SECURITY PACIFIC FIN SERV INC",
+          "date": "6/1/1990",
+          "fileNumber": "1990 R 203918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjVoPTXLlorXpFf%2b5dLnqJgfF9LJDE8Y%2fQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "6/1/1990",
+          "fileNumber": "1990 R 203920"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuWg8keWrw4%2bi1CuLmJWNqZcKQayBqM79g%3d%3d",
+          "type": "REL",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "6/18/1990",
+          "fileNumber": "1990 R 225228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhvroH9JvR0KR5Dp9%2b91NJfAdBd8pBNtC3A%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E & MABEL T (D)",
+          "secondParty": "BARNETT BNK",
+          "date": "8/28/1990",
+          "fileNumber": "1990 R 318954"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhq1YCblDRzq54FPLzeaPZZdr5y12%2fjohCw%3d%3d",
+          "type": "JUD",
+          "firstParty": "DIAZ LUIS ET AL (R)",
+          "secondParty": "STATE FARM MUTUAL AUTO INS CO",
+          "date": "9/5/1990",
+          "fileNumber": "1990 R 326337"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhmnbmwdZI20yyWtH%2fvL35H4YxUwJBjlJ5g%3d%3d",
+          "type": "SMO",
+          "firstParty": "DIAZ LUIS E &W MABEL T (R)",
+          "secondParty": "BARNETT BNK OF S FLA N A",
+          "date": "9/24/1990",
+          "fileNumber": "1990 R 350082"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhost0zRfz8Vdq4Xp1uv3yBfQYz%2bzJTXwKg%3d%3d",
+          "type": "SJU",
+          "firstParty": "DIAZ LUIS E ET AL (R)",
+          "secondParty": "INTERCONTINENTAL BNK",
+          "date": "9/26/1990",
+          "fileNumber": "1990 R 353308"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuXo11Gt%2f5rSY8pqtnNQu9V1Y%2bfCJcziCA%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E &W MABEL T (D)",
+          "secondParty": "BARNETT BNK OF S FLA",
+          "date": "10/4/1990",
+          "fileNumber": "1990 R 364374"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhhDe%2fT27pMXT1yHq%2bbqZjj5SeCuH0SCqbA%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS E & LYLIA E (R)",
+          "secondParty": "PINZON JUAN & NILDA",
+          "date": "11/9/1990",
+          "fileNumber": "1990 R 411400"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhss7UoMYIED1YV4o6OB2O9iPlraOZOmRqQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "DIAZ LUIS ENRIQUE (R)",
+          "secondParty": "DIAZ YAMILET",
+          "date": "7/24/1990",
+          "fileNumber": "1990 R 146450958"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74r2u2lADbDnZ2nT1eF2%2fJzCSgLJ1lGU%2bTA%3d%3d",
+          "type": "AFF",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "10/23/1991",
+          "fileNumber": "1991 R 372353"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74tIgau6rm%2f%2bLxlSf3eGYTdCAQw0gA%2b%2fRHg%3d%3d",
+          "type": "AMO",
+          "firstParty": "DIAZ LUIS E &W MABEL T ET AL (D)",
+          "secondParty": "FEDERAL HOME LOAN MTG CORP",
+          "date": "11/15/1991",
+          "fileNumber": "1991 R 400843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74k4vPqcpnLHyJvMEzw%2fTZtjYT3Ep4ADDTA%3d%3d",
+          "type": "FCP",
+          "firstParty": "DIAZ LUIS E (R)",
+          "secondParty": "DIAZ CAROLYN",
+          "date": "8/1/1991",
+          "fileNumber": "1991 R 151323031"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74u71F%2fZGtx8Fy76QjsWqj7Nn%2bmc3L4Wu2A%3d%3d",
+          "type": "CVP",
+          "firstParty": "DIAZ LUIS EDUARDO (R)",
+          "secondParty": "SUN BANK/MIAMI N.A.",
+          "date": "9/13/1991",
+          "fileNumber": "1991 R 151941232"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijuFOP6F%2fZrcQhglnZmwI50Rk3le7R7RLVg%3d%3d",
+          "type": "FTL",
+          "firstParty": "DIAZ LUIS E & CAROLYN R (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "2/26/1992",
+          "fileNumber": "1992 R 68311"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijswURGyDk9KTGUpON1GEMxMs4JfzkagkQQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "DIAZ LUIS ET AL (D)",
+          "secondParty": "RAURELL JOSE &W ELENA",
+          "date": "3/11/1992",
+          "fileNumber": "1992 R 87542"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYBRmlIacuoTOipPKPA9Ux0yIDsjgKa9DIg%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "ILEANA A VARAS REVOCABLE LIVING TRUST TRU OF",
+          "date": "6/7/2011",
+          "fileNumber": "2011 R 368347"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYJ%2bPdMpGC9BEyVRe1Jwry9Yl9xcQXnujAw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SUSANA MENENDEZ IRREVOCABLE TRUST",
+          "date": "9/8/2011",
+          "fileNumber": "2011 R 603337"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP5fRy2K95XMW8WudKKfHN5WS3xH3uqQpw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "GONZAVA LLC",
+          "date": "8/9/2012",
+          "fileNumber": "2012 R 561269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAm06neAAzOPeBaFmuIeKidnuNY0MGJZMw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "VERISA CAPITAL LLC",
+          "date": "10/31/2012",
+          "fileNumber": "2012 R 778869"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLESDXouIsjLsk5FsP5kqNRp9u8HW35NmRg%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "LEVY GEORGE",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 803855"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLESDXouIsjLsNpLYUvWe%2blFx2t7O%2fpKCEA%3d%3d",
+          "type": "ASG",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "LEVY GEORGE",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 803856"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJODDQ5Uu5sra1eLjdkdB5xYruziiNFy1g%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "TITTELBAUM EARL S",
+          "date": "11/14/2012",
+          "fileNumber": "2012 R 817836"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJODDQ5Uu5srzCdRZuqygK28ooR8gOHy8g%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "INVESTOR EQUITY LENDERS LLC",
+          "date": "11/14/2012",
+          "fileNumber": "2012 R 817841"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPH0GEsPOinRVdZjeIiTP7OlviC7Sluoxg%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "CUNNINGHAM NICOLE",
+          "date": "11/21/2012",
+          "fileNumber": "2012 R 838816"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIW8pTh5CAauRJVOovxS161hnNZWbYMFIg%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "LUCASER HOLDINGS LLC",
+          "date": "11/30/2012",
+          "fileNumber": "2012 R 861751"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIcb5ORYsdpMa%2brn2n37eEbwl68vxC%2fFFA%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "MORALES MANUEL R JR",
+          "date": "12/4/2012",
+          "fileNumber": "2012 R 867097"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLO0dNRNjUlxv%2fQQv9MT8HbpaaYAwDH5P5A%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "MOREJON MAYKEL",
+          "date": "12/10/2012",
+          "fileNumber": "2012 R 883775"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMafKxOCUqQl3DAozg8Gqf2DQMTFMeRUVg%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "NICOLAS RENE",
+          "date": "12/19/2012",
+          "fileNumber": "2012 R 912060"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIQY4hTKb84%2bJAb4JK0OpMEtbS3e%2bS5cFA%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "CEM INVESTMENTS LLC",
+          "date": "12/20/2012",
+          "fileNumber": "2012 R 915622"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLK16CkTN3%2fG0l%2bqmC0mOAG8%2bcntaVfBSBA%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SARDINA GUSTAVO",
+          "date": "12/20/2012",
+          "fileNumber": "2012 R 920560"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAiR%2fP%2fcTJjtEZXqIEXVTEa6Gt0jBsY4Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "FERNANDEZ CRISTINA",
+          "date": "12/26/2012",
+          "fileNumber": "2012 R 927439"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtGydvoevEuG8t%2bIeLyt0qnCHB%2f8qNE0Sg%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "TITLEBAUM EARL S",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 13919"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbn%2fEtpChoEjX%2b7LFdRDxMaTzadXI0j36yA%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SALINAS FIORELLA",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 14116"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhIQEnBtiIzuI33xcQRvRPSLgzptBnysZw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "WEKWIT INC",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 14130"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjtG2LSa7I2LkFcseqF3rxeaodP7X8ePGQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "KLETZENBAUER HERIBERT",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 15026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjtG2LSa7I2LkFcseqF3rxeaodP7X8ePGQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "KLETZENBAUER HERIBERT",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 15026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhc1rAP%2fU3ejGo0ej6LEKUxbh3X7M%2ftlSQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "VILLA MGMT CORP",
+          "date": "1/8/2013",
+          "fileNumber": "2013 R 17146"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbijaWSHl6JIkisd9s%2bkPVcOHa2K2poZh4A%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "JM SERVICING LLC",
+          "date": "1/16/2013",
+          "fileNumber": "2013 R 41305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbrSMkSvewLNoGSPe8AmUXOn0q57gGTjNPg%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "COLOMBO GERARDO",
+          "date": "1/28/2013",
+          "fileNumber": "2013 R 67994"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhZLTX%2fR98CrB5Ex00f7b1yH7gCw3dGBRw%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "JARA FRANCISTO L",
+          "date": "1/28/2013",
+          "fileNumber": "2013 R 68077"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhZLTX%2fR98CrrzTQSAvh%2fAhJccO2vRCFww%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "VALDES MARIA DEL CARMEN",
+          "date": "1/28/2013",
+          "fileNumber": "2013 R 68078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbg7vQri65R5x05ep%2fnkjJU7FRsCW2lBjIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SUSANA MENENDEZ IRREVOCABLE TRUST TRU FOR",
+          "date": "1/29/2013",
+          "fileNumber": "2013 R 74334"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbp4zaHMnGEq6lZPPXGJ5%2fGZgQZamMgj8LA%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "ALONSO ROCIO",
+          "date": "4/9/2013",
+          "fileNumber": "2013 R 271002"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmiDwnaqFWIMHB4xllQjBvbgsJCBWKmQqA%3d%3d",
+          "type": "DEE",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "FRUCTUS LLC",
+          "date": "5/14/2013",
+          "fileNumber": "2013 R 377853"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmx7cKgde0erjwgYrKOakWTTsoBdIzrutg%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SARDINA GUSTAVO",
+          "date": "5/30/2013",
+          "fileNumber": "2013 R 426415"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbsxC7UMfo371sb0VHjnoAbI9uHUolc0J%2bQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "MENENDEZ SUSAN I",
+          "date": "5/30/2013",
+          "fileNumber": "2013 R 427477"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbsxC7UMfo371gIOFicRPCNjK1Ljwe6oqjA%3d%3d",
+          "type": "ASG",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "MENENDEZ SUSAN I",
+          "date": "5/30/2013",
+          "fileNumber": "2013 R 427478"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjCFsXemAOuRZfQTZuDinQGktDmyafkhOQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "BONNEVAL JORGE A",
+          "date": "5/31/2013",
+          "fileNumber": "2013 R 434313"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpqHmxj07yvEFiVZzncWVbP4JNnjquogiQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "METELUS REMONA",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 435958"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpqHmxj07yvEd4ltbqAI3nbRcEypxN6WEQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "METELUS REMONA",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 435959"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbvGce%2btinPv9xHSCVK6sRJPSgkbXANUqlQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "MARTINEZ IVON",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 437149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqhzRRKqA9xfWqjX3bPIBt1%2fTZB549vKfg%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "BEN NAV LLC",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 438358"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqhzRRKqA9xf2ioeBTaYbGXw3KPyirTGpg%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "BENFAM HOLDINGS LLC",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 438361"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtstHtAuRaSURISMk4EeROmGsACCb1Cn%2bw%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "JM SERVICING LLC",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 450985"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbregjNJgTjNxy15pcw%2bZ8LvaqUOqQfheyg%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "SARRIA MILADY",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 451030"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbl9Hra0yH954k%2bjZwd7QvkLNaP7y43i%2bTQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "BENFAM HOLDINGS LLC",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 451106"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbl9Hra0yH954A7xjY9OnqLBhIqCJvXY7Zg%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "LUCASER HOLDINGS LLC",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 451120"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbl9Hra0yH954rA7mQd3Y4shBDL%2fxypCb8g%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "LUCASER HOLDINGS LLC",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 451135"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhhNZBjn0I2avej2cHeXSfcZMX%2bua7d%2fsw%3d%3d",
+          "type": "SMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "TRUJILLO ENRIQUE",
+          "date": "6/7/2013",
+          "fileNumber": "2013 R 453383"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtN7xkCTIcEZIUrxuDmqlyH%2f3AoatZ05IA%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "DRESQ INVEST LLC",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 459724"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboos%2b%2bMhFzUt3LzYiheohmsVZxWdoLvkjw%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "ALFONSO ALINA",
+          "date": "6/12/2013",
+          "fileNumber": "2013 R 469908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboos%2b%2bMhFzUt6iVVrchWy7nJBrMN5WkF9g%3d%3d",
+          "type": "ASG",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "ALFONSO ALINA",
+          "date": "6/12/2013",
+          "fileNumber": "2013 R 469909"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblX7814dOqcd%2btzNkrpaMc5s6zOOW3zGSA%3d%3d",
+          "type": "AMO",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (D)",
+          "secondParty": "HALCYON INVEST CORP",
+          "date": "6/17/2013",
+          "fileNumber": "2013 R 477320"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblX7814dOqcdZvV9R7DMdtQbkqbGZwOCFQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "KHARFAN EDNA K",
+          "date": "6/17/2013",
+          "fileNumber": "2013 R 477328"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblX7814dOqcdnK1KhO0fwH9VDrfQXRBe6A%3d%3d",
+          "type": "ASG",
+          "firstParty": "BENWORTH CAPITAL PARTNERS LLC (R)",
+          "secondParty": "KHARFAN EDNA K",
+          "date": "6/17/2013",
+          "fileNumber": "2013 R 477329"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBf%2baZ5erRrziBIr9h5OFUcatOiG7f%2fFnY065IhkLyZxw%3d%3d",
+          "type": "FST",
+          "firstParty": "ALVAREZ ALEJANDRO R & JOSEFINA (D)",
+          "secondParty": "EAGLE FIN CORP",
+          "date": "2/2/1979",
+          "fileNumber": "1979 R 34217"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbDavd6VQfB33l7m2hkdTGrPNfNOIof9k65HZZKtSMDw%3d%3d",
+          "type": "JUD",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "KEMPER INS CO",
+          "date": "3/11/1981",
+          "fileNumber": "1981 R 67492"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hsoE73io%2bU6BMHAXgSeDUmql2pyFpzw7Ug%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (D)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "10/17/1986",
+          "fileNumber": "1986 R 357142"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hsoE73io%2bU6Bl%2b4Jb4YahRYIEIxqH4%2fzGg%3d%3d",
+          "type": "AFF",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "10/17/1986",
+          "fileNumber": "1986 R 357143"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuffPIOosU5FG3H3yOHL7Mw1EIAuSVlgVFQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (D)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "7/17/1987",
+          "fileNumber": "1987 R 274509"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuTHxesFokrb%2f4%2fIFyqAFSTedI6QLuQGzJw%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (D)",
+          "secondParty": "ACCREDITED SURETY & CASUALTY CO INC",
+          "date": "8/10/1987",
+          "fileNumber": "1987 R 307780"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuTbYSN6u7xWbmdim8D7ai3ZfRIjvrX6jsw%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (R)",
+          "secondParty": "ACCREDITED SURETY & CASUALTY CO INC",
+          "date": "12/3/1987",
+          "fileNumber": "1987 R 455751"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmbDFZNzJpbJPFtR%2b2i20Owgtyg5MGMRiBQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (R)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "9/7/1989",
+          "fileNumber": "1989 R 321627"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpiygEggU%2fyv05Vz7ZYcWU6TVUtPSMLeGQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (R)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "10/2/1990",
+          "fileNumber": "1990 R 360613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhiB8xH9E8DA1VyC%2fgmo4uMl6AKSUUhERIQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FEDERAL S & L ASSN",
+          "date": "1/9/1990",
+          "fileNumber": "1990 R 143872916"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhhwvK8BdrQv2yTeovBdnkedIT3LA8QlyhA%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FEDERAL S & L ASSN",
+          "date": "1/22/1990",
+          "fileNumber": "1990 R 144042071"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhvu3xYgaFw5xcPDmRDc3KY6edqNNdlkJVg%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FEDERAL S & L ASSN",
+          "date": "3/9/1990",
+          "fileNumber": "1990 R 144621168"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74jijJI5gMUe3Yqv0zQSKegquuQ18X1etCQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FED S & L ASSN",
+          "date": "4/30/1991",
+          "fileNumber": "1991 R 150060227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijusj025MyJj7Yt5dR%2fAyU1fYZO2C1v4RDw%3d%3d",
+          "type": "CLP",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (R)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "1/14/1992",
+          "fileNumber": "1992 R 13487"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijuwrKImvBGFztGmGh2kDIzttsqIcaTYfDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FED S & L ASSN",
+          "date": "1/27/1992",
+          "fileNumber": "1992 R 153621692"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijkgaDIWe%2bRZjq%2fxpBfWRj1XTu0kVF1Dzxg%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PONCE DE LEON FED S & L ASSN",
+          "date": "2/6/1992",
+          "fileNumber": "1992 R 153790416"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCmuYeVdf1lq5obRV2paUdQyp5y5jtdUNlZxSqwcBK8ow%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PARKER JOHN M",
+          "date": "9/14/1993",
+          "fileNumber": "1993 R 160550229"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZrotKkpTxEFZjwPewJTxJ0fPD5tGfGpWHg%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (R)",
+          "secondParty": "PONCE DE LEON FED SV&L ASSN",
+          "date": "3/28/1994",
+          "fileNumber": "1994 R 146019"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytqQks%2bsIba4FJaqv%2fo88SwXmKJaxGoU09w%3d%3d",
+          "type": "FST",
+          "firstParty": "ALVAREZ ALEJANDRO R ET AL (D)",
+          "secondParty": "KEYBANK USA NA",
+          "date": "7/27/1999",
+          "fileNumber": "1999 R 387531"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D5md%2fpdPaBBNZTuxqsQiqOPJzE9fgqpCmQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "GINORIO NANCY",
+          "date": "10/18/2001",
+          "fileNumber": "2001 R 199672190"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8TuFks96oDWjaHqfL9iTk%2fC6JPRsAcWmDQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "2/15/2005",
+          "fileNumber": "2005 R 153639"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8TuFks96oDWjPYxMNmQ3gd4VB5myZ4GrBQ%3d%3d",
+          "type": "AGR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "2/15/2005",
+          "fileNumber": "2005 R 153640"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SzpvPpQ82RLcXVCHHhtD5WDb9IIseleZpw%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "3/6/2006",
+          "fileNumber": "2006 R 233496"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxmX%2bQRUlBwe9730IAxHRJejwei28udRCQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "GE MONEY BANK",
+          "date": "3/14/2006",
+          "fileNumber": "2006 R 271237"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S4w0pgqEh%2b6zgK5Vs4taBo1%2fwkrGmqWbSw%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "SMALL BUSN ADMIN",
+          "date": "8/9/2006",
+          "fileNumber": "2006 R 864131"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpakQjLGyYVIjPd8%2bncXzyeBtnA7Hzwb5j1Q%3d%3d",
+          "type": "DEE",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "CUVILLY ROLLANDE J",
+          "date": "7/26/2007",
+          "fileNumber": "2007 R 740227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpakQjLGyYVIjP%2fjnFSYufxTiVlPpDRQf4Ow%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/26/2007",
+          "fileNumber": "2007 R 740228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpakQjLGyYVIjPNGh1I6mp56EZ%2fJBEwc44rg%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/26/2007",
+          "fileNumber": "2007 R 740229"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpauqKEsraG%2bKS1fgI5MKORvIBhU7V6y1K9w%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "9/11/2007",
+          "fileNumber": "2007 R 899036"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mn7F1OPRV0zEnsiK4hN%2fMHV1c6DxbTjxrQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R &W (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "1/6/2010",
+          "fileNumber": "2010 R 6660"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mpR7%2b1ZpWI8tuwMBeGu%2bAAO9xCtiS4eFlw%3d%3d",
+          "type": "AMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "BAC HOME LOANS SERVICING LP",
+          "date": "2/24/2010",
+          "fileNumber": "2010 R 123666"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mpHUovdaCtCV3h1qlVdSwhJFGajBA3ubKQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BAC HOME LOANS SERVICING LP",
+          "date": "3/1/2010",
+          "fileNumber": "2010 R 133922"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYNv%2fQRzBEVHReOHTj6v8nv1FqBAgXrHOUQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "1/7/2011",
+          "fileNumber": "2011 R 15577"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAUJF2D2%2bnY%2bcd6U5YNMsHJYIPua10JvYg%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R &W (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "2/22/2012",
+          "fileNumber": "2012 R 121876"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN1wRjqpc0VDf9yn2LGIUFL4eTfbOJnX9w%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "3/5/2012",
+          "fileNumber": "2012 R 155815"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLm37m9E9BkzWegcAaGGKFFVUWT7AVxZbg%3d%3d",
+          "type": "AMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "6/18/2012",
+          "fileNumber": "2012 R 426885"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPXvkRcvuB48ltK7PHTo055n%2bsS0JoVdxw%3d%3d",
+          "type": "CVP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "B A C HOME LOANS SERVICING (LP)",
+          "date": "9/10/2012",
+          "fileNumber": "2012 R 638616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLiwJBivjlZUv5p97ejS4Z2p7A%2bmmy431w%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "10/24/2012",
+          "fileNumber": "2012 R 762160"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdD2JYdRcsOz6rA8ZdPQEjEZlELWHqBMGGQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "ALVAREZ ALEJANDRO R (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/11/2014",
+          "fileNumber": "2014 R 488627"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMiYclMHjn0MZtndmDkFd2WFSV4A2sMrXjg%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "PARAMOUNT RESIDENTIAL MORTGAGE GROUP INC",
+          "date": "4/25/2016",
+          "fileNumber": "2016 R 240447"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMlNHAbx4xf%2bGqx7oP1vOWqoVW9441i2Meg%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "REGIONS BANK",
+          "date": "4/28/2016",
+          "fileNumber": "2016 R 249424"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMk1XkMz2thst4spO7jIssuDkvH5grMZypg%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "SOUTH FLORIDA EDUCATIONAL FEDERAL CREDIT",
+          "date": "11/29/2016",
+          "fileNumber": "2016 R 682208"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTvi9REK%2bn4ainpRkk2VO39in%2bpkYiApj%2bA%3d%3d",
+          "type": "DCP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "SOUTH FLORIDA EDUCATIONAL FEDERAL CREDIT UNION",
+          "date": "8/21/2017",
+          "fileNumber": "2017 R 485694"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTka8q6Lf169hEn6Y7qFssiFIwV%2fipwW%2f6w%3d%3d",
+          "type": "SMO",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "8/22/2017",
+          "fileNumber": "2017 R 486457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5FZ8hkto0rjdQBDp3Hmh4Uzp%2boEyVwCBg%3d%3d",
+          "type": "DCP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "SOUTH FLORIDA EDUCATIONAL FEDERAL CREDIT UNION",
+          "date": "5/2/2018",
+          "fileNumber": "2018 R 261726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3B72hn48l15FhJ6ilfHUX%2bNexRRgB2zmA%3d%3d",
+          "type": "JUD",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "SOUTH FLA EDUCATIONAL FEDERAL CREDIT UNION",
+          "date": "5/10/2018",
+          "fileNumber": "2018 R 280696"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy0IkITyeGYZ97kuLgMqhbqW263daz7wj6g%3d%3d",
+          "type": "DCP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "10/4/2018",
+          "fileNumber": "2018 R 607570"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy0LIyfyN%2bYsKCzbPHtvwODBdY%2f%2bHUSWOZQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "10/17/2018",
+          "fileNumber": "2018 R 633563"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyz3gXzkpoSkyYr5sIgbwW6ufHTxOf69VmQ%3d%3d",
+          "type": "SJU",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "SOUTH FLA EDUCATIONAL FEDERAL CREDIT UNION",
+          "date": "11/14/2018",
+          "fileNumber": "2018 R 692059"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnefbwYZjnyFsHD5ogZEVp%2fm4wEJn3ls5Jw%3d%3d",
+          "type": "DCP",
+          "firstParty": "ALVAREZ ALEJANDRO R (R)",
+          "secondParty": "BARCLAYS BANK DELAWARE",
+          "date": "3/13/2019",
+          "fileNumber": "2019 R 161775"
+        }
+      ]
+    ]
+  },
+  {
+    "caseNumber(Count)": "2022-024157-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$385,049.67",
+    "parcelID": "30-5913-026-3810",
+    "assessedValue": "$244,195.00",
+    "propertyAppraiserLegalDescription": "LOT 9, BLOCK 50, OF KENDALL BREEZE, ACCORDING TO THE PLAT THEREOF, AS RECORDED IN PLAT BOOK 159, AT PAGE 17, OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA. PROPERTY ADDRESS: 12190 SW 124TH PATH, MIAMI, FL, 33186",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Farquharson, Audrey"
+      },
+      {
+        "DEFENDANT": "Farrell, Nicole"
+      },
+      {
+        "DEFENDANT": "KENDALL BREEZE HOMEOWNERS' ASSOCIATION, INC,"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Houston, Kathy L"
+      },
+      {
+        "PLAINTIFF": "WELLS FARGO BANK, N.A., AS TRUSTEE, FOR PARK PLACE"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Rosaler, Brian L"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=3059130263810",
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "floors": 2,
+    "municipality": "Unincorporated County",
+    "lotSize": 1430,
+    "primaryLandUse": "0410RESIDENTIAL - TOTAL VALUE : TOWNHOUSE",
+    "livingArea": 1602,
+    "yearBuilt": "2002",
+    "primaryZone": "MODIFIED SINGLE FAM RES",
+    "subdivision": "KENDALL BREEZE",
+    "neighborhood": "TAMIAMI - LINGREN AC",
+    "buildingArea": 1902,
+    "description": "RESIDENTIAL - TOTAL VALUE : TOWNHOUSE",
+    "units": 1,
+    "siteAddress": "12190 SW 124 PATH, Unincorporated County, FL 33186-5447",
+    "totalValue": 401000,
+    "qualifiedOwner": [],
+    "owners": [
+      {
+        "name": "AUDREY FARQUHARSON",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      },
+      {
+        "name": "NICOLE FARRELL",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "violations": [],
+    "legalDocuments": [
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmYkzSc61E1SB9XgQ00bVZ6RM%2bHIcqSljyg%3d%3d",
+          "type": "JUD",
+          "firstParty": "FARQUHARSON AUDREY & ALAN (R)",
+          "secondParty": "MOUNT SINAI MED CENTER OF GREATER MIA",
+          "date": "4/12/1989",
+          "fileNumber": "1989 R 127384"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCGdv3AfUVEmae%2fnOL1rWvIPm6K40UzQGW6WRvQBJ06ig%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "MOUNT SINAI MEDICAL CENTER OF GREATER MI",
+          "date": "3/21/1989",
+          "fileNumber": "1989 R 140431310"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijpFl8LkqX1%2f77nuAydlxktvufJkihjOAdQ%3d%3d",
+          "type": "SJU",
+          "firstParty": "FARQUHARSON AUDREY & ALAN (R)",
+          "secondParty": "MOUNT SINAI MED CENTER GREATER MIA INC",
+          "date": "3/25/1992",
+          "fileNumber": "1992 R 108025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijmCbZcgGxiHzW03cZshQegh6CPlxtGyTHQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "MOUNT SINAI MEDICAL CENTER OF GREATER MI",
+          "date": "3/18/1992",
+          "fileNumber": "1992 R 154451197"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCmuYeVdf1lq20g7bV4HPb0GEOiIQilG1TKcxpt5UByFA%3d%3d",
+          "type": "NCO",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "5/25/1993",
+          "fileNumber": "1993 R 259942"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCmuYeVdf1lqzNPNRJfMwLRJV7tTRuISJm6jJd7%2fYo%2b5w%3d%3d",
+          "type": "NCO",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "7/21/1993",
+          "fileNumber": "1993 R 359881"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVJPR46h44j3Ul3cnLR79sLgsD%2bzO7yHcg%3d%3d",
+          "type": "AGR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "EXECUTIVE NATL BNK",
+          "date": "12/18/2000",
+          "fileNumber": "2000 R 606811"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behByLbV9RAPEnUUMi2QRw%2bAe3oYMyaFqlA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "FARQUHARSON FARRAH K",
+          "date": "1/28/2002",
+          "fileNumber": "2002 R 51064"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2betwEtWPYk4XEnOaqG6kEiJHSmtCysPoQew%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "AMERICAS WHOLESALE LENDER CORP",
+          "date": "7/11/2002",
+          "fileNumber": "2002 R 428328"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beoWCxF%2ffjQiz64n2wC%2biNNWhEdynccNueA%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "CHASE MANHATTAN BNK TRU",
+          "date": "7/30/2002",
+          "fileNumber": "2002 R 472130"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2bekWVF89M4D3utOK%2b9JXIbpxp0xbtDGyiSw%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "WASSIL MARY B",
+          "date": "12/26/2002",
+          "fileNumber": "2002 R 807535"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fO9fv0b1VzaC7mszn8HgRLyUKuJtNhHmrg%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "CENTURY HOMEBUILDERS LLC",
+          "date": "1/31/2003",
+          "fileNumber": "2003 R 69510"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fO9fv0b1VzaC2qej33fshHO0bNq2iOy0lQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY &H (D)",
+          "secondParty": "OPTION ONE MTG CORP",
+          "date": "1/31/2003",
+          "fileNumber": "2003 R 69511"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fGMES6kFjwew%2fFRpdN7KI64mrDiKgosLbw%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "CENTRURY HOMEBUILDERS LLC",
+          "date": "7/10/2003",
+          "fileNumber": "2003 R 469325"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fGMES6kFjwew7XBND0O9VLhMy%2b2gjnYYaQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "POPULAR MORTGAGE CORP",
+          "date": "7/10/2003",
+          "fileNumber": "2003 R 469326"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fJE44ONNDfk6vUeJ9cFVEQ3%2f%2bxFIphaZMw%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "FARQUHARSON ALAN J",
+          "date": "11/5/2003",
+          "fileNumber": "2003 R 827753"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbHd8zt0TZZ27b%2b6RdMldTAw%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "CASA DEL SOL LLC",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938403"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbcvEAeNNGZ6cECsYv6ae6QA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938404"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbheF8ELcn3AvJt1uFJEeZCw%3d%3d",
+          "type": "AFF",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938405"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbWzLKP8qdlim%2bu4yTBB32uw%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "CASA DEL SOL LLC",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938420"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbOFOiICesk3arFBX%2fCZIPDw%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938421"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fFIvcRRq15zbvwH5Po5awbCHXbGVkTobfw%3d%3d",
+          "type": "AFF",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 938423"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fGW1B7UzHuUAQvkC9PaGNZdWNN1IPF%2f4rQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "FARQUHARSON ALAN J",
+          "date": "12/23/2003",
+          "fileNumber": "2003 R 951029"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fGW1B7UzHuUA9%2b5gCMMSEktOHejkhCvZTw%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J &H (D)",
+          "secondParty": "FLICK MTG INVEST INC",
+          "date": "12/23/2003",
+          "fileNumber": "2003 R 951030"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfsC3hzke68V7LvIfYGj4wCzOOf6QEEKE7A%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "R & E AT PALM VISTA INC",
+          "date": "2/10/2004",
+          "fileNumber": "2004 R 92776"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfsC3hzke68V7VuYwiIOrGRGBgQFoO5dYQQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "2/10/2004",
+          "fileNumber": "2004 R 92777"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjKMm4DgxZbLfBbJyX0VpX6cV0cNC15LQQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "R & E AT PALM VISTA INC",
+          "date": "2/10/2004",
+          "fileNumber": "2004 R 94071"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjKMm4DgxZbLJPpXBDAbdoNUVV1MmGhqTQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "2/10/2004",
+          "fileNumber": "2004 R 94072"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtft9pMG%2fY9H3dEwcsiXpEldsFMsHCwve2eA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "4/2/2004",
+          "fileNumber": "2004 R 226692"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfp24cjCE5Qp3bydLzxOZXAjNg3A4uvSviw%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "4/8/2004",
+          "fileNumber": "2004 R 243677"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfhL6DsG1VELxXhp4H2TgnJV51tj6HVoujw%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY J (R)",
+          "secondParty": "FARRELL GRAHAM M &W",
+          "date": "4/30/2004",
+          "fileNumber": "2004 R 309592"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfhL6DsG1VELx9ITQiTVRXYzuaACELr%2b3fA%3d%3d",
+          "type": "AFF",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "4/30/2004",
+          "fileNumber": "2004 R 309593"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfhL6DsG1VELxX5%2bVQ6GTZ2I637Wmoh%2fXbw%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "NEW CENTURY MTG CORP",
+          "date": "4/30/2004",
+          "fileNumber": "2004 R 309595"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfumvQEXx1DzwUMCynKPnoua4sewrEjbvOw%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "5/6/2004",
+          "fileNumber": "2004 R 328562"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfumvQEXx1DzwZ30Loy4n3u2Z%2bFJ7%2beWX5A%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "5/6/2004",
+          "fileNumber": "2004 R 328581"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfmG97BHnTmRvVD%2fDadU7Qk%2fGuj4o8leaIA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "FARQUHARSON AUDREY",
+          "date": "9/24/2004",
+          "fileNumber": "2004 R 838290"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfmG97BHnTmRvVD%2fDadU7Qk%2fGuj4o8leaIA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "KLOSZEWSKI GUSTAV W JR",
+          "date": "9/24/2004",
+          "fileNumber": "2004 R 838290"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfu9dQGJjx0NLBBwiuQy7ft0RYytUFOByqg%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "GONZALEZ ANA",
+          "date": "9/29/2004",
+          "fileNumber": "2004 R 852409"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfuTwxKjg%2bukuxlmKlPc2L8VakFhvGRSkWQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "LUCKY START AT SOUTHLAND LLC",
+          "date": "12/8/2004",
+          "fileNumber": "2004 R 1091730"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfuTwxKjg%2bukutDeG3IcYgDUsu72EkTBXTQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "POPULAR MTG CORP",
+          "date": "12/8/2004",
+          "fileNumber": "2004 R 1091731"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8Uvz2aP8SEV88QLrJtWLg3I9%2bimwogNk%2bA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "2/25/2005",
+          "fileNumber": "2005 R 187274"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XMeWb19rdTT1lgEt0OwbH%2fNa6jl6K7CWg%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "OPTION ONE MTG CORP",
+          "date": "3/1/2005",
+          "fileNumber": "2005 R 203025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8Z1dsgDP9JfrwR5aAMESJ6P3Edt%2b2%2feIww%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "WESTBROOKE HOMES",
+          "date": "5/11/2005",
+          "fileNumber": "2005 R 480967"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8Z1dsgDP9Jfr0J2ZYuDoN1k0BN%2bj4Pi%2fBA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARQUHARSON AUDREY (D)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "5/11/2005",
+          "fileNumber": "2005 R 480969"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fxJd7eJih6cF1r3axc5RH%2fNK7floXxkHw%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "BUSTAMANTE ADRIANNE",
+          "date": "7/12/2005",
+          "fileNumber": "2005 R 719740"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8cTmfcRaQWyBfoCdSAQNBYA%2b1y6J5K1lWA%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "ARGENT MTG CO LLC",
+          "date": "7/19/2005",
+          "fileNumber": "2005 R 745468"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8eUirTDatwh9OciBU3noso7lzImMeIO8Tg%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARQUHARSON AUDREY J (D)",
+          "secondParty": "GONZALEZ ANA G",
+          "date": "9/15/2005",
+          "fileNumber": "2005 R 975756"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8WWYRpK30x7TaA3ESiKmvepI6Zp0m64LGQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARQUHARSON AUDREY &H (D)",
+          "secondParty": "GAETA OSWALDO",
+          "date": "11/2/2005",
+          "fileNumber": "2005 R 1133165"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8WEe7%2b6sJdYarq8DnnVw82QvPIJz7wMqag%3d%3d",
+          "type": "LIE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "RIVERSIDE VILLAS AT BISC NATL PK PROP OWNERS ASSN",
+          "date": "12/2/2005",
+          "fileNumber": "2005 R 1246017"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8bh6JjZHhW1ihlALc7U56ZI83W1JEQgvYQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "FARQUHARSON AUDREY (R)",
+          "secondParty": "KENDALL BREEZE HOMEOWNERS ASSN INC",
+          "date": "12/8/2005",
+          "fileNumber": "2005 R 1265652"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D9YDDzPKbIvgQI46ltMH3uXn2In5EgztBQ%3d%3d",
+          "type": "DOR",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "11/9/2001",
+          "fileNumber": "2001 R 619652"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beien1Ip13AmTaOqcSttoBeZ0FAnQM%2bi%2bkA%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "HOUSEHOLD BNK FSB",
+          "date": "2/23/2002",
+          "fileNumber": "2002 R 111387"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfkBQW0pu44Hdx3EJNapXYUW3eYlbQFXINw%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "3/29/2004",
+          "fileNumber": "2004 R 212918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfhL6DsG1VELxXhp4H2TgnJV51tj6HVoujw%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "FARQUHARSON AUDREY J",
+          "date": "4/30/2004",
+          "fileNumber": "2004 R 309592"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfhL6DsG1VELxuSUYMTPM%2fV7F42TUds9sDQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "4/30/2004",
+          "fileNumber": "2004 R 309594"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjby74msvffSdOKGuUqzxcMVzHuH1Waasg%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "HOUSEHOLD FIN CORP III",
+          "date": "6/30/2004",
+          "fileNumber": "2004 R 536411"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfj7oDzLYYvsBmyv%2beOng%2fNp5O5AxJqAfbg%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/9/2004",
+          "fileNumber": "2004 R 569225"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8UlFObl7RqY1CWcSDS2gnGCpLgrDKVklRg%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "WESTBROOKE HOMES",
+          "date": "5/11/2005",
+          "fileNumber": "2005 R 480313"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8UlFObl7RqY1QdjyPxklXxV8D67nhMgeiA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "HOMES COM",
+          "date": "5/11/2005",
+          "fileNumber": "2005 R 480315"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8WR6YPQWqXGCtimcGkkI3hpm9Nu0nETEBA%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "DE LIMA DANIEL",
+          "date": "6/21/2005",
+          "fileNumber": "2005 R 640632"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8R7HiQHl5y2vcg3PZtlS185sq1IO8s3c0w%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "NEW CENTURY MTG CORP",
+          "date": "11/14/2005",
+          "fileNumber": "2005 R 1176277"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8R7HiQHl5y2vMt9OFxI0BX7yQLifjbszzQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "NEW CENTURY MTG CORP",
+          "date": "11/14/2005",
+          "fileNumber": "2005 R 1176278"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S5fi63yUlHj6jMZLhxVtgFIB9jUcTuI%2bfg%3d%3d",
+          "type": "FCP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "FARRELL GRAHAM",
+          "date": "3/10/2006",
+          "fileNumber": "2006 R 258764"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S6rP8nbR8EiX4vUnwPBI%2fSVKz9z%2fRaMjYA%3d%3d",
+          "type": "FCP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "FARRELL GRAHAM",
+          "date": "3/29/2006",
+          "fileNumber": "2006 R 339241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S6AqQsdMi2NCbb0ytYBVld85tiNVK59z5w%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "FARQUHARSON AUDREY J",
+          "date": "4/4/2006",
+          "fileNumber": "2006 R 360221"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S6AqQsdMi2NCwgkcloVO3A8CETQXz8yk1A%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "FARQUHARSON AUDREY J",
+          "date": "4/4/2006",
+          "fileNumber": "2006 R 360222"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S2HV8gOTU2fPhWia9%2fg5NMT0vUIMpy5bzg%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE M (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "6/7/2006",
+          "fileNumber": "2006 R 618809"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S7euosnNpDVNQAix7Pp5BOGM524jiS9fzA%3d%3d",
+          "type": "SMO",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "FARQUHARSON AUDREY",
+          "date": "7/11/2006",
+          "fileNumber": "2006 R 743205"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S9PXGuvTBY1dHFDX3o9Gww4fqYfrFS0h8w%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "GREC HOMES V LLC",
+          "date": "8/8/2006",
+          "fileNumber": "2006 R 858377"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S9PXGuvTBY1de0vz2hmCyFJ2SvoTv8vAIQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "8/8/2006",
+          "fileNumber": "2006 R 858378"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S9PXGuvTBY1deWDWp1oY9X78MKvpqYwUSA%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "8/8/2006",
+          "fileNumber": "2006 R 858379"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S258ZQ59AVfs8Cd9s6PMf%2fry60Mg00QXYg%3d%3d",
+          "type": "DEE",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "PARRIS ROGER",
+          "date": "11/8/2006",
+          "fileNumber": "2006 R 1198958"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S258ZQ59AVfszN7%2bEKjZykrElY0Uxijt4w%3d%3d",
+          "type": "MOR",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "11/8/2006",
+          "fileNumber": "2006 R 1198959"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jUzsd2ZmkHEpgkl7zAnZV3mIgvIOlwSjxw%3d%3d",
+          "type": "FCP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "FARRELL GRAHAM",
+          "date": "3/3/2008",
+          "fileNumber": "2008 R 170379"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfjE0Vbg1ROhtBvAfSjceuY7y9MMrzSSpA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "LEE DAVID",
+          "date": "4/9/2008",
+          "fileNumber": "2008 R 291814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfjE0Vbg1ROhLuIpez1TdkkwP15bz1YqRA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "LEE MARLENE",
+          "date": "4/9/2008",
+          "fileNumber": "2008 R 291815"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfjE0Vbg1ROh9%2fZ7m77zN1IxJnB7zoQHWA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "LEE MARLENE",
+          "date": "4/9/2008",
+          "fileNumber": "2008 R 291816"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfjE0Vbg1ROh7gLBdu6GAs3M0ZWRHMCRRA%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "LEE MARLENE",
+          "date": "4/9/2008",
+          "fileNumber": "2008 R 291817"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfjE0Vbg1ROhxfVkStUf7isOZTcO3N8ZCg%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "LEE MARLENE",
+          "date": "4/9/2008",
+          "fileNumber": "2008 R 291818"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfH2vpqxtuqk3Owdc%2bcqY6sUM1x3VyaBlg%3d%3d",
+          "type": "FCP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "FARRELL GRAHAM",
+          "date": "5/8/2008",
+          "fileNumber": "2008 R 378953"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jSramzeW7JAkrCERtNti1JUCMZwpwxJ%2fiw%3d%3d",
+          "type": "LIS",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "LASALLE BNK NA TRU FOR",
+          "date": "5/20/2008",
+          "fileNumber": "2008 R 412698"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jasMxOZkm46MSAxKOh6z7MqZbdMK%2bZCb8A%3d%3d",
+          "type": "LIS",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "HSBC BNK USA TRU",
+          "date": "5/22/2008",
+          "fileNumber": "2008 R 423546"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jU8VMuW8gRTLUu8C67ezY5lTvBFrKo%2fikg%3d%3d",
+          "type": "FCP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "FARRELL GRAHAM",
+          "date": "6/5/2008",
+          "fileNumber": "2008 R 463646"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jS98XONbq7TYyO5NmIj1L924YzD%2fyEMR0Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "WELLS FARGO BNK N A",
+          "date": "6/20/2008",
+          "fileNumber": "2008 R 509519"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfetJLRKLBTkw5%2bX95l0%2bMok8QiFDXno%2fw%3d%3d",
+          "type": "LIS",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "HSBC BNK USA NA TRU",
+          "date": "6/23/2008",
+          "fileNumber": "2008 R 513377"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZhbe35i6uHOtvs46JAbLKkLg%2fCWAZWF6g%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "HSBC BNK USA N A TRU",
+          "date": "7/9/2008",
+          "fileNumber": "2008 R 561918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jU1jGlQLus7XcsZeJtqtv6CLuSPF33YIZw%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "HSBC BANK USA (NA) (TR)",
+          "date": "7/31/2008",
+          "fileNumber": "2008 R 625233"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jaeydMtyl7Et0LLS2FQNYiF5wmS2U8EX9w%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "LASALLE BANK (NA)",
+          "date": "8/25/2008",
+          "fileNumber": "2008 R 692556"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfIkG9BW3H1GnD1MLSqBKxqQyuY%2f%2bBTLHg%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "HSBC BANK USA (NA) (TR)",
+          "date": "9/4/2008",
+          "fileNumber": "2008 R 722882"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jSifiN2fBoLsv66T39E%2btKOfI57dQmeqdA%3d%3d",
+          "type": "LIE",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "WINDY POINTE HOMEOWNERS ASSN INC",
+          "date": "10/1/2008",
+          "fileNumber": "2008 R 800249"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jVApuQEJlNNdHOaSZhsYD0cTit%2fYmdHf6Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "LASALLE BANK (NA)",
+          "date": "11/4/2008",
+          "fileNumber": "2008 R 898325"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jYEOBBClZn%2fZMlKCVgax60HlmjCnJBw66Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "HSBC BNK USA TRU",
+          "date": "12/4/2008",
+          "fileNumber": "2008 R 973282"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jQ02ZhXPDcH6ucjVy514pmtvnycV3JxItw%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "HSBC BANK USA (TR)",
+          "date": "12/5/2008",
+          "fileNumber": "2008 R 976564"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jQIbG3XRdocVh9PBOg3vcOYmOoz%2fwYiDwg%3d%3d",
+          "type": "LIE",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "OLD CUTLER LK BY THE BAY COMMUNITY ASSN INC",
+          "date": "12/29/2008",
+          "fileNumber": "2008 R 1034291"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7qw43AOtbMzMuKOR7SK%2fAIT2SzZ%2fGt3Gsw%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "HSBC BANK USA (NA) (TR)",
+          "date": "1/10/2009",
+          "fileNumber": "2009 R 19206"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7qyGGrbPfvGLHp99t6iUGIsU0ftPRKtFJg%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "LEE MARLENE",
+          "date": "1/13/2009",
+          "fileNumber": "2009 R 26282"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7qyGGrbPfvGLXj9CLubGWipDj7euNieNpw%3d%3d",
+          "type": "QCD",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "LEE MARLENE",
+          "date": "1/13/2009",
+          "fileNumber": "2009 R 26283"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7kxPowkhTarfrBWDd8kmWUQ5j6fnzKkLiA%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE M (R)",
+          "secondParty": "LASALLE BANK (NA)",
+          "date": "4/2/2009",
+          "fileNumber": "2009 R 239718"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7tdTT%2fgmQUL6zS5%2fJjMIvxFOpblUfvRhUw%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE (D)",
+          "secondParty": "IBARRA YUDIANA",
+          "date": "6/17/2009",
+          "fileNumber": "2009 R 438723"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7o%2fqfphzHgwaVn1on5zLerF8RHM8%2bFIKSQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "FARRELL NICOLE (R)",
+          "secondParty": "COUNTRYWIDE BANK (FSB)",
+          "date": "7/2/2009",
+          "fileNumber": "2009 R 478539"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCmuYeVdf1lq2f2gLJB5qrokYVwnvs54o11SbUraKFpkg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WARREN JOHN M",
+          "date": "5/11/1993",
+          "fileNumber": "1993 R 159151744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDbiGBdfx93cpR%2bemVfSsA3aUpcR5f8kO3q8qr4f8L3ug%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WARREN JOHN MCKNIGHT",
+          "date": "9/4/1998",
+          "fileNumber": "1998 R 182604375"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5Dw%2b3EDt5f%2fLSbVHujaW2zSnpGGLTRbZjeA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "FIRST UNION NATL BNK",
+          "date": "12/27/2001",
+          "fileNumber": "2001 R 718538"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fLb7WDoULejoSdVTKB%2bhGYVjkwdm58%2f9rA%3d%3d",
+          "type": "SMO",
+          "firstParty": "HOUSTON KATHY L (R)",
+          "secondParty": "WACHOVIA BNK NA",
+          "date": "5/20/2003",
+          "fileNumber": "2003 R 326427"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SwKCxUFPu6F3RXxDwnp2twYE8igGrM%2fQlg%3d%3d",
+          "type": "MOR",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "4/15/2006",
+          "fileNumber": "2006 R 406669"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYHGmohOTMuR3Dob8OhZmF29Q0cxggABqfw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "7/1/2011",
+          "fileNumber": "2011 R 436045"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOP5AlmIETl79mjpCBokqBXRfQQht0MHVg%3d%3d",
+          "type": "AFF",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "8/1/2011",
+          "fileNumber": "2011 R 506479"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYM4UM%2bmPoon%2fPdFoEGnsXhoLg9QfO5Hnwg%3d%3d",
+          "type": "AFF",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "8/23/2011",
+          "fileNumber": "2011 R 562011"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOS3vyPYnu4avoaJyjBbLqylzYnR6kG2yw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HOUSTON KATHY L (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "6/20/2014",
+          "fileNumber": "2014 R 443083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrT7TVU0rfvaUwR3fOGYhmX8aQvZMCwQvnA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HOUSTON KATHY L (R)",
+          "secondParty": "CAVALRY SPV I LLC AS ASSIGNEE OF CITIBANK NA",
+          "date": "10/6/2020",
+          "fileNumber": "2020 R 569659"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7Xi4njrrjCq9wt7FpHG4BriM7Yo4bBUGAA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HOUSTON KATHY L (R)",
+          "secondParty": "CAPITAL ONE BANK USA N A",
+          "date": "10/27/2021",
+          "fileNumber": "2021 R 806211"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7bG3slRP9IqNYqFa%2f5whdYD%2ffa0%2bS%2fN%2bOQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "HOUSTON KATHY L (R)",
+          "secondParty": "CAPITAL ONE BANK USA NA",
+          "date": "10/28/2021",
+          "fileNumber": "2021 R 807055"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAr%2f%2bHT7gBn0LNprsPNmv2A95Zscz0ts0Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "ROSALER BRIAN L (R)",
+          "secondParty": "OPELLA SSTEVEN RAY",
+          "date": "8/6/2012",
+          "fileNumber": "2012 R 549386"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7ZKHgbEKRFfxKBQ7EN7mY2AAoWIL8mkHUw%3d%3d",
+          "type": "LIS",
+          "firstParty": "ROSALER BRIAN L (D)",
+          "secondParty": "SUAREZ EVELIO",
+          "date": "8/3/2021",
+          "fileNumber": "2021 R 558556"
+        }
+      ]
+    ]
+  }
+]

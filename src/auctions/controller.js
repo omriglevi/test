@@ -1,7 +1,7 @@
 const Auction = require('../models/auction')
 
 /** @typedef { import('../models/auction') } Auction */
-const LIMIT = 10;
+const LIMIT = 50;
 
 const insertBulk = async (auctions) => {
     try {

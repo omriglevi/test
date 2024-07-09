@@ -1,0 +1,3943 @@
+[
+  {
+    "caseNumber": "2024A00185",
+    "caseType": "TAXDEED",
+    "openingBid": "$19,468.60",
+    "parcelID": "07-2216-017-0530",
+    "certificateNumber": "9791",
+    "assessedValue": "$278,635.00",
+    "propertyAppraiserLegalDescription": "FULFORD HOMES PB 55-55 LOT 26 BLK 2 LOT SIZE 82.280 X 105 OR 21097-3059 02 2003 4 COC 24829-0059 08 2006 1",
+    "partyDetails": [
+      {
+        "APPLICANT": "FNA DZ, LLC"
+      },
+      {
+        "LIEN HOLDER": "CITY OF NORTH MIAMI BEACH"
+      },
+      {
+        "LIEN HOLDER": "DANIEL HAYMAN C/O MIAMI-DADE COUNTY TAX COLLECTOR"
+      },
+      {
+        "LIEN HOLDER": "MIKON FINANCIAL SERVICES INC AND OCEAN BANK C/O MIAMI-DADE COUNTY TAX COLLECTOR"
+      },
+      {
+        "OCCUPANT": "OCCUPANT"
+      },
+      {
+        "OWNER": "DANIEL HAYMAN"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=0722160170530",
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "floors": 1,
+    "municipality": "North Miami Beach",
+    "lotSize": 8639.4,
+    "primaryLandUse": "0101RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "livingArea": 1341,
+    "yearBuilt": "Multiple (See Building Info.)",
+    "primaryZone": "SGL FAMILY - 1201-1400 SQ",
+    "subdivision": "FULFORD HOMES",
+    "neighborhood": "SOUTH - N MIA BEACH",
+    "buildingArea": 1425,
+    "description": "RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "units": 1,
+    "siteAddress": "1981 NE 157 TER, North Miami Beach, FL 33162-5741",
+    "totalValue": 427146,
+    "qualifiedOwner": [],
+    "owners": [
+      {
+        "name": "DANIEL HAYMAN",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrR3d0dSTsOlNMAXVDjNzRYcWp0YbHjIb4A%3d%3d",
+          "type": "REL",
+          "firstParty": "DANIEL HAYMAN (R)",
+          "secondParty": "MIAMI DADE CTY REGULATORY AND ECONOMIC RESOURCES DEPT",
+          "date": "3/6/2020",
+          "fileNumber": "2020 R 143071"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBbpw1yFFTRq3JHWIVqPeFv%2f11HjSXEk8%2fJsPy%2fKeZDnw%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "ADAMS HENRY H",
+          "date": "11/26/1958",
+          "fileNumber": "1958 R 183569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9D9L%2bA64Jqp05srUFKhaiKzMTUopcHjFpw%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "MAN CONST CORP",
+          "date": "6/26/1961",
+          "fileNumber": "1961 R 109420"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Fs19Lgb4EGXWZfSaeXUadxmezxH3YFg2A%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "MERIL HOMES INC",
+          "date": "6/27/1961",
+          "fileNumber": "1961 R 110368"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Ftm1D%2bCSqV8Tb6siam9AVdy1FBcRh5EuQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "KEEFE JOHN F",
+          "date": "8/24/1961",
+          "fileNumber": "1961 R 142272"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Ftm1D%2bCSqV80b7IIEx9ioEU8FyDa3kf8g%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "KEEFE ENTERPRISES INC",
+          "date": "8/24/1961",
+          "fileNumber": "1961 R 142273"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Ftm1D%2bCSqV8W9v5bXuz0G4quToGwB%2bUvw%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "COLE ROBERT B",
+          "date": "8/24/1961",
+          "fileNumber": "1961 R 142274"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Ftm1D%2bCSqV8%2fH8rbRp7rBdBhyMwAWI2tA%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "SPERBER PAUL",
+          "date": "8/24/1961",
+          "fileNumber": "1961 R 142275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYB63LV%2fpozF9Ftm1D%2bCSqV8ijIYmwnJSs%2b8xfkutKN3TQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "LITTLE ROBERT M",
+          "date": "8/24/1961",
+          "fileNumber": "1961 R 142276"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAYpIMq6RuWpc4hrPnHk15Pw1zNjT4wK%2fDBnHUtuIsSoA%3d%3d",
+          "type": "EAS",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "TULIP REALTY CO OF FLORIDA",
+          "date": "4/9/1964",
+          "fileNumber": "1964 R 58380"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDiMVylbNsUPOemaimcGCLXNBkpV6x3XI0HHrhb8iL0xQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "SALM ILSE",
+          "date": "10/19/1984",
+          "fileNumber": "1984 R 123030131"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FLD%2bCQaPyIbshf1QsKbwceltEvK5JsLJVQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "IACOVELLI VITA",
+          "date": "3/25/1985",
+          "fileNumber": "1985 R 124552124"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FPxP73Puwk%2bBCBE4BcSQH4I1r3PEeX677Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DESMEDT JOHN",
+          "date": "4/8/1985",
+          "fileNumber": "1985 R 124701059"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FPxP73Puwk%2bBHValQlXUqPvcl6se3ISZyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "AMERICAN FEDERATION OF ETC",
+          "date": "4/15/1985",
+          "fileNumber": "1985 R 124781762"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FC1wnOKa%2fyjC6vqyXxhkdsadya4GyMbB7A%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "JACOBY SYLVIA",
+          "date": "12/26/1985",
+          "fileNumber": "1985 R 127392426"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hrYIdc5okLiMyzQHhVceQirQ2ADvJlS7jQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "EIGLARSH LAWRENCE",
+          "date": "2/7/1986",
+          "fileNumber": "1986 R 127850820"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hkgGhrCbRPwM%2bmNKPACbU0Tj4EjwI3OY9Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HAMN PATRICIA K",
+          "date": "2/18/1986",
+          "fileNumber": "1986 R 127990861"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hqHV7OaWqX0L01Pr8Y68KSlliTr3vLGJLg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HAMN PATRICIA K",
+          "date": "3/10/1986",
+          "fileNumber": "1986 R 128161009"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hqPE%2fU%2bFd1E4JsjEgKqmBK8XBXsITDU2Wg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HAMN PATRICIA K",
+          "date": "3/14/1986",
+          "fileNumber": "1986 R 128241240"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hlHa8H3207YqfbA78JHKzrKcAig6tT5PSA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "RIFKIND KENNETH",
+          "date": "3/27/1986",
+          "fileNumber": "1986 R 128342229"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hnKbasV1mhwa72dZOVFIfcDIaMvnN%2bFEnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "COHEN NORMAN (TR)",
+          "date": "4/7/1986",
+          "fileNumber": "1986 R 128452237"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hnKbasV1mhwaS9xbs2NhqEcJyaK3PX70yg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DIXON JAMES",
+          "date": "4/9/1986",
+          "fileNumber": "1986 R 128492142"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hg47209GQ2grIwb5sraC%2fPU4zLHNwcOXMA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "COHEN NORMAN (TR)",
+          "date": "5/23/1986",
+          "fileNumber": "1986 R 129030314"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hkjjDF12qgwi8R1BbXX5kBIz%2bJtX4OI%2f9g%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "EIGLARSH LAWRENCE",
+          "date": "7/24/1986",
+          "fileNumber": "1986 R 129651777"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hsYiv2x5gW3XC9xfuh7gSslM0siS7WMTwA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "BENTON ROSEMARY",
+          "date": "8/4/1986",
+          "fileNumber": "1986 R 129742426"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hjIQGR256YPUS%2fGu9xi%2fDeGnrkgwYHK1Mw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HAMN PATRICIA K",
+          "date": "8/27/1986",
+          "fileNumber": "1986 R 130012356"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hluKnf9Zn13g0t%2f7NUfhJhlfa15jvWRAhA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "CITY OF NORTH MIAMI",
+          "date": "9/10/1986",
+          "fileNumber": "1986 R 130150624"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22huKpF2HL%2f59FDGHPW5zfUs1w2aZdb2JjEA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HALL DARRYL E",
+          "date": "10/6/1986",
+          "fileNumber": "1986 R 130430006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hhaB%2fG%2fZBUUzyrVVVfJNjktjnmoLMDqpJA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DADE COUNTY (PUBLIC HEALTH TRUST)",
+          "date": "10/23/1986",
+          "fileNumber": "1986 R 130602407"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hmF6v9qm3pUM8v3Yr0VUkyuVOpx5nmGfqg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "HALL DARRYL E",
+          "date": "11/4/1986",
+          "fileNumber": "1986 R 130750296"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hnPXb%2fYzgYE9MxsCvgNh0tbDyk3Pkskgxw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "POLLACK ISRAEL",
+          "date": "11/18/1986",
+          "fileNumber": "1986 R 130872206"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hrTMnyl40W9%2fxbkakh2joVAwGWu7fZgtlg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "BENTON ROSEMARY",
+          "date": "12/12/1986",
+          "fileNumber": "1986 R 131112844"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hoIGenbSNSfQ0weKNTNkhSFnvFdUiG8rCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DONNELLY JOANNE",
+          "date": "12/18/1986",
+          "fileNumber": "1986 R 131202015"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuWgTXAFQ8jeJttObCdYtvJgUYm%2fw3HKwog%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DONNELLY JOANNE",
+          "date": "1/5/1987",
+          "fileNumber": "1987 R 131410483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuWgTXAFQ8jeJaS4h%2blMu9xsb7csdSfO2Wg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "KELLER INDUSTRIES INC",
+          "date": "1/8/1987",
+          "fileNumber": "1987 R 131411949"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuXj0jjY6KM8pPTg7XfjHhLA%2bLZ1wPkQ%2fRQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "NEWMAN ROSE",
+          "date": "2/2/1987",
+          "fileNumber": "1987 R 131702414"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuWLoh5usLxHknwHA1upMCiDjIK7Rj2%2fMuA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "KELLER INDUSTRIES INC",
+          "date": "2/18/1987",
+          "fileNumber": "1987 R 131851617"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuQ4knSXVSCtYZ4W004lJHwNK7ffJbyHebA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "GOLDAPPLE FAYE",
+          "date": "3/2/1987",
+          "fileNumber": "1987 R 131951488"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuQ4knSXVSCtYFo5f8cSUUcREuZwENgnpeQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "SINGER ELAYNE",
+          "date": "3/2/1987",
+          "fileNumber": "1987 R 131951533"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuZivCaDw6SLHE7327ohr3Y2K3hu6KOYuEg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "KELLER INDUSTRIES INC",
+          "date": "4/7/1987",
+          "fileNumber": "1987 R 132400323"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuTezknvvP3yfhI075JXqT7HsirECkuZkEg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "RUBENSTEIN ANNA",
+          "date": "4/17/1987",
+          "fileNumber": "1987 R 132501568"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuetMRMlPVL3acheDA9XFp1UAxqbwbYemNA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "STRAUSS BETTY",
+          "date": "5/5/1987",
+          "fileNumber": "1987 R 132672863"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuSPojsgXR6iZcfeVjwX%2bXRLqUXHrvzfObQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "AMERICAN CASUALTY INS CO",
+          "date": "2/17/1987",
+          "fileNumber": "1987 R 133470379"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuWOswcMpeT24OTH1l6%2bcC%2bkuE%2fahWsOEqg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "LAFORTUNE WESLY",
+          "date": "7/29/1987",
+          "fileNumber": "1987 R 133602976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuae3dIzxGoEJz330mNJ0VXLIyM2HyDnl4w%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "CITY OF NORTH MIAMI",
+          "date": "8/10/1987",
+          "fileNumber": "1987 R 133741257"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuae3dIzxGoEJhGbeZv5sYS1xy%2bDst%2fnalw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "CITY OF NORTH MIAMI",
+          "date": "8/10/1987",
+          "fileNumber": "1987 R 133741348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuae3dIzxGoEJVNCqw6Loapy6Qkw%2fi%2fnfKA%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "CITY OF NORTH MIAMI",
+          "date": "8/10/1987",
+          "fileNumber": "1987 R 133741350"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuaEQPHDWD9I%2feg13JJPlXkqNm2hX7FnApQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "FRIEDMAN MICHAEL",
+          "date": "9/1/1987",
+          "fileNumber": "1987 R 133980577"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuaEQPHDWD9I%2f7qF0m5UvvWwY3NRTuDfbUQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "FRIEDMAN MICHAEL",
+          "date": "9/1/1987",
+          "fileNumber": "1987 R 133980581"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuYyIw%2bzcCspCySAm99LmYtLjwolSAe6mxg%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "POINCIANA ISLAND YACHT & ETC",
+          "date": "11/2/1987",
+          "fileNumber": "1987 R 134642219"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuUHLFnzlspu%2fiWoaKfgHzM1%2f8ttiLO3B8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "CITY OF NORTH MIAMI BEACH (R)",
+          "secondParty": "DESMEDT JOHN",
+          "date": "11/17/1987",
+          "fileNumber": "1987 R 134820844"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDiMVylbNsUPClDSFemjAqmHWyMT9twPDyC%2fls4oEUvNA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "AMENEIRO JUAN",
+          "date": "5/10/1984",
+          "fileNumber": "1984 R 121450616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FPjZoTsoVI5qBVDCL9%2bP1gtj2VuGbaJQ1A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT WHOSE TRUE NAME IS UNKNOWN (R)",
+          "secondParty": "ELAL CORP",
+          "date": "11/4/1985",
+          "fileNumber": "1985 R 126881612"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOyjIAWkyxHOS3JNtKP23wdRA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF UNIT NO 11B (R)",
+          "secondParty": "AMENEIRO DORA",
+          "date": "11/1/1985",
+          "fileNumber": "1985 R 127160831"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOy4gtM8Ns%2bNtNMDa7nIMcSsw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "VON ZAMFT SPIKE",
+          "date": "11/27/1985",
+          "fileNumber": "1985 R 127161184"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FIsx2iURw4%2ffMYuCQ53qTDzgLJgKs4YAvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "12/12/1985",
+          "fileNumber": "1985 R 127281275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hgwhAUyU2iLdBu9HfBQE2aChoHc88C3ZDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "4/9/1986",
+          "fileNumber": "1986 R 128532259"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGudbRBUHnlNiTU3LPq7uiH4mJ3m5RegPg0g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "WISEMAN FRED G (ESTATE)",
+          "date": "1/30/1987",
+          "fileNumber": "1987 R 132051637"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuaEQPHDWD9I%2fgi8%2bOhL%2fgPbLJxf7v1P72Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3342 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "9/2/1987",
+          "fileNumber": "1987 R 133981417"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuQ6Iy%2fHktMDx%2beU3OFK6lpE3Kmj5fj9p8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "TWELFTH AVENUE PROPERTIES INC",
+          "date": "10/9/1987",
+          "fileNumber": "1987 R 134781003"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQMss7StYbjRtaLpzE%2bY9wX72b3llK2Qgyw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3340 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "4/26/1988",
+          "fileNumber": "1988 R 136570687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQPi6ecC7eaUfT7AK4X50z%2fb95M6yGnocQg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PRELAZ ROBERT",
+          "date": "10/26/1988",
+          "fileNumber": "1988 R 138730321"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpFEgp33Qninz%2f%2bA5TxuU0YJUzsraBcPVQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT UNIT 162B OF ROYALE GREEN ETC (R)",
+          "secondParty": "ROYALE GREEN CONDO ASSN INC",
+          "date": "12/24/1990",
+          "fileNumber": "1990 R 148341873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74joxLhu1R1yXvWO8qZ4IhZ54cWAQg1Abnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "ARIAS JACK",
+          "date": "6/25/1991",
+          "fileNumber": "1991 R 150911226"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijtTxn2dD78QRYgWf%2bqRpYGleSZVpkW7GUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "GROSS B G (TRUSTEE)",
+          "date": "3/18/1992",
+          "fileNumber": "1992 R 154342073"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8Ni%2b6D80OwVd2tJ%2fyvw4FfvBphzMJuo4yw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT IN POSSESSION (R)",
+          "secondParty": "FAITH TEMPLE CHURCH OF CHRIST INC",
+          "date": "9/25/1996",
+          "fileNumber": "1996 R 173662784"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8LpQXoP5Tqj3mbi7YKOFL0mtpXFuiEiyAw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "10/15/1996",
+          "fileNumber": "1996 R 173941066"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41umlBIWgAd6pEgZgWr%2ffGjlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (ERIC) (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "2/18/1997",
+          "fileNumber": "1997 R 175794346"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZuFKjUgWGOVmbUYfbFX1epw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184904746"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZgkVCawLp6vRaAk25RyZxaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184954078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZwvlQDvFlwxeFqfUDK5FAJA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/26/1999",
+          "fileNumber": "1999 R 184954198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytq6mN0YpJc7RcACaP8R3%2bdMFKWkEuAWKQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "3/5/1999",
+          "fileNumber": "1999 R 185050275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D%2bMIrxFL7s%2bJ66UjmE%2b758x95H4yu4agag%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "N R INVESTMENTS",
+          "date": "6/8/2001",
+          "fileNumber": "2001 R 197073976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5Dx41OLiiMpXFpBkp2XlAzefOgpvHSVTGgA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PASSALACQUA FLA REALTY TRUST",
+          "date": "8/28/2001",
+          "fileNumber": "2001 R 198624083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfp58WesTZypLkpblX2TvIB12EmvB%2fzEUDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF 1610 NW 120 ST (R)",
+          "secondParty": "PROSPER BIEN-AIME",
+          "date": "1/12/2004",
+          "fileNumber": "2004 R 219121899"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8U28zF5CtLs9gYhgzmpxjOPH6fIpN8S7BA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE BCH DEVELOPMENT (LLC)",
+          "date": "2/8/2005",
+          "fileNumber": "2005 R 125711"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8aF8h6Ec%2fQdFTnzcN9oaj%2fi%2fEZW2bO%2fvWg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE LANDOWNERS (LC)",
+          "date": "6/24/2005",
+          "fileNumber": "2005 R 657181"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5Syp1PLcQvl86jAQon6xtmL1b8FkQPkuxPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS & TRESPASSER(S) (R)",
+          "secondParty": "KILLENS EVANS BRENDA",
+          "date": "2/16/2006",
+          "fileNumber": "2006 R 175757"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S2BuoSYVzZ9ATUlDw4iEcgwjwhmJkC0bwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/6/2006",
+          "fileNumber": "2006 R 1296873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SzNsiw2TScECIlyhRIsdDnixaFqOt7blxg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/20/2006",
+          "fileNumber": "2006 R 1353445"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpark3anGp%2bDV87v%2baWfYSNDm97HvIrtES%2bQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "5/10/2007",
+          "fileNumber": "2007 R 475556"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahtUfgNCkh7s05KPhxnJtBiFQOwWGaSpUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "8/21/2007",
+          "fileNumber": "2007 R 829843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQaOSOYpWLbbBFVDHAacbOiQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQTzkGbxJdiG1Gy4p%2fu%2fXJ%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031849"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLL0Uq0J8u%2bt%2f07QQlnh%2f89vm7QSp8unTg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "7/15/2011",
+          "fileNumber": "2011 R 469006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLolCBlQsAxms05o1dFFrEfo72%2bQSV2sIg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/4/2011",
+          "fileNumber": "2011 R 664243"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYFMEMKKkl1PSfjc%2b%2fh1I9D3%2fKVHWSLrz5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/27/2011",
+          "fileNumber": "2011 R 725410"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOQyEKOJJDSXaQI%2fp2ijg%2bfCcpRDFbqTjQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "4/19/2012",
+          "fileNumber": "2012 R 280373"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKQEeAjHOrj4g%2fAX7m4%2b5YXcHajWMlp5ww%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "5/3/2012",
+          "fileNumber": "2012 R 315127"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP1fpT6tZnt7vvec6tTeS7L1VSg3JvhKhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/1/2012",
+          "fileNumber": "2012 R 387315"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKPD10g8SMdX6O8Tv7VQYUBp0nFSzumQUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/28/2012",
+          "fileNumber": "2012 R 458996"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNdQwoRKbXdxNavk354imAMNgfKL8d8NaQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (2911 SE 13TH ROD #204-40) ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "11/1/2012",
+          "fileNumber": "2012 R 781698"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCISafLD8%2fOSqwFxVah2BUFWNnIS399YXA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS 13726 NE 6TH AVE #205 NO ETC (R)",
+          "secondParty": "GGH 40 (LLC)",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 848772"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPy4jhrfcQzoJASuIbMcFOKbRMsmlIqGqw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "12/24/2012",
+          "fileNumber": "2012 R 926457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbm%2b4j1UAvIDhOxYBiopNVX3sZGBAaYxRZQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS UNIT 202 1245 SW 24TH ST HIAL (R)",
+          "secondParty": "GGH 48 LLC A FLORIDA LIMITED LIABILITY",
+          "date": "12/26/2013",
+          "fileNumber": "2013 R 1007119"
+        }
+      ]
+    ]
+  },
+  {
+    "caseNumber": "2024A00187",
+    "caseType": "TAXDEED",
+    "openingBid": "$7,519.95",
+    "parcelID": "34-2115-001-1930",
+    "certificateNumber": "24685",
+    "assessedValue": "$252,650.00",
+    "propertyAppraiserLegalDescription": "BUNCHE PARK 1ST ADDN PB 53-61 LOT 7 BLK 44 LOT SIZE 7800 SQ FT CF 75R-8508 F/A/U 30-2115-001-1930 COC 23001-2248 12 2004 4",
+    "partyDetails": [
+      {
+        "APPLICANT": "FNA DZ, LLC"
+      },
+      {
+        "LIEN HOLDER": "MIAMI-DADE COUNTY STORMWATER UTILITY"
+      },
+      {
+        "LIEN HOLDER": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2015-B, MORTGAGE-BACKED NOTES, SERIES 2015-B C/O THE SOLOMON LAW GROUP, P.A."
+      },
+      {
+        "MORTGAGEE": "HOUSEHOLD FINANCE CORPORATION, III"
+      },
+      {
+        "MORTGAGEE": "U.S. BANK NATIONAL ASSOCIATION"
+      },
+      {
+        "MORTGAGEE": "U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE ON BEHALF OF AND WITH RESPECT TO AJAX MORTGAGE LOAN TRUST 2015-B, MORTGAGE-BACKED NOTES, SERIES 2015-B"
+      },
+      {
+        "OCCUPANT": "OCCUPANT"
+      },
+      {
+        "OWNER": "ANDREINA E. ARAYA"
+      },
+      {
+        "OWNER": "HEIRS AND/OR BENEFICIARIES OF THE ESTATE OF MAURICE MOUNTAIN"
+      },
+      {
+        "OWNER": "HEIRS AND/OR BENEFICIARIES OF THE ESTATE OF MAURICE MOUNTAIN C/O MICHAEL GREENWALD, ESQ."
+      },
+      {
+        "OWNER": "SEMMIE L HESTER"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=3421150011930",
+    "bathrooms": 1,
+    "bedrooms": 4,
+    "floors": 1,
+    "municipality": "Miami Gardens",
+    "lotSize": 7800,
+    "primaryLandUse": "0101RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "livingArea": 2064,
+    "yearBuilt": "Multiple (See Building Info.)",
+    "primaryZone": "SINGLE FAMILY - GENERAL",
+    "subdivision": "BUNCHE PARK 1ST ADDN",
+    "neighborhood": "BUNCHE PARK",
+    "buildingArea": 2392,
+    "description": "RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "units": 1,
+    "siteAddress": "16051 NW 18 PL, Miami Gardens, FL 33054-2157",
+    "totalValue": 395901,
+    "qualifiedOwner": [
+      "SEMMIE L HESTER"
+    ],
+    "owners": [
+      {
+        "name": "SEMMIE L HESTER",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mm9yBSBRdnncQS706LQZdQBdfoF%2bQbslOg%3d%3d",
+          "type": "CVP",
+          "firstParty": "MIAMI-DADE COUNTY STORMWATER UTILITY (R)",
+          "secondParty": "INTERCREDIT BANK (NA)",
+          "date": "2/3/2010",
+          "fileNumber": "2010 R 73484"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbomUyee3QXjjeoVxHxh3sCTpiLUrqe2QPg%3d%3d",
+          "type": "CVP",
+          "firstParty": "MIAMI-DADE COUNTY STORMWATER UTILITY (R)",
+          "secondParty": "INTERCREDIT BANK (NA)",
+          "date": "1/16/2013",
+          "fileNumber": "2013 R 43294"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbul3WwW4F%2bhL%2b%2fmwAd4%2bNSkFnEuONVuiSA%3d%3d",
+          "type": "CVP",
+          "firstParty": "MIAMI-DADE COUNTY STORMWATER UTILITY (R)",
+          "secondParty": "INTERCREDIT BANK (NA)",
+          "date": "8/28/2013",
+          "fileNumber": "2013 R 684392"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmTo3tXyqlGuXv3JnNPslWfoccIqUQbTLQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "MIAMI-DADE COUNTY STORMWATER UTILITY (R)",
+          "secondParty": "GMAC MORTGAGE LLC",
+          "date": "12/23/2013",
+          "fileNumber": "2013 R 1000013"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCID2QKut3G3bsS%2bH2OS4VcInmX7IenyFQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "MIAMI-DADE COUNTY STORMWATER UTILITY (R)",
+          "secondParty": "WELLS FARGO BANK NATIONAL ASSOCIATION",
+          "date": "9/9/2014",
+          "fileNumber": "2014 R 627059"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhqfNR5f1mfBIwbIGL8YwIEhgctY2%2f0L%2bhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "RESCIGNO LYNDA",
+          "date": "9/18/1990",
+          "fileNumber": "1990 R 147080954"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhiYxZoX%2b61CwWFeNRBYqhfILn6XVbRIxiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "A & B PIPE & SUPPLY CO",
+          "date": "10/3/1990",
+          "fileNumber": "1990 R 147350739"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhiYxZoX%2b61CwWG%2fN1QjdTRwvoyEG8JfuEw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "ALFONSO AGNES",
+          "date": "9/25/1990",
+          "fileNumber": "1990 R 147350806"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhiYxZoX%2b61Cwx7K%2boWPA2kM9%2frCjCH2r4w%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BALLOVERAS GINA",
+          "date": "9/17/1990",
+          "fileNumber": "1990 R 147350807"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhiYxZoX%2b61Cwa21g1YHnCxJ2lOC%2fSKpCCA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "ROSADO LUIS",
+          "date": "10/3/1990",
+          "fileNumber": "1990 R 147350810"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfGD7b%2fufAWkPYLeCjEFCybg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "A & B PIPE & SUPPLY CO",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451767"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCf0JwOTxeivM4QsAB%2bJRQFew%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "FARRINGTON SANDRA A",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451789"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfcKCGrtWmnIR3Uxh9qrB7Hw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "DOMINGUEZ MADLIN",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451800"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCf08UjXOp1LR4%2fuTvS9wZP7A%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "GIBSON LORRICE R",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451801"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfPTXO22uVaiDAUse7hBQNtA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "WILLIAMS DAISY",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451810"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfOZXeUGGFCif9oqvMid%2fLDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "ORTEGA MARIO",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451811"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfmGzdYuxQ7JKIfaEb31HtAQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "WELLINGHOFF GREGORY",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451812"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCf%2fW5Viqa6hffzY9yWCmiAGw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "AMERICAN TELEPHONE AND TELEGRAPH COMPANY",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451813"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCfk2O1ED5FcFrQCxneYlcMLA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MARTINEZ RENE",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWho3c7XTBtYCf2U1joEei0NvSpU%2b4eZ3tMQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "SMALL SAMUEL L",
+          "date": "10/16/1990",
+          "fileNumber": "1990 R 147451816"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhrg0BJ2giYKT5fVsZRe8PmzS%2fZhm5XBKsw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MONTERO GERMAN",
+          "date": "10/24/1990",
+          "fileNumber": "1990 R 147600113"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhrg0BJ2giYKTL0PRAQU%2bQg0yBiLp9qbzuQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "TORRES JUAN",
+          "date": "10/24/1990",
+          "fileNumber": "1990 R 147600408"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhrg0BJ2giYKTrrcnCtt7l9Nu9E1FIHQi7g%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BURKE ELIZABETH E",
+          "date": "10/24/1990",
+          "fileNumber": "1990 R 147600409"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhhhRLdPs1uqRf2kvrb6dIZYbWmXaKtaQhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "SEAMAN SCOTT A",
+          "date": "10/29/1990",
+          "fileNumber": "1990 R 147711594"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjA4Rhv%2fAHg2WwhOHGELcj7EFrGSLzE22A%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "J I KISLAK MORTAGE",
+          "date": "11/6/1990",
+          "fileNumber": "1990 R 147831021"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjA4Rhv%2fAHg2U7RMAnxppyQAqpmHS%2bklDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "TURNER OSWALD",
+          "date": "11/6/1990",
+          "fileNumber": "1990 R 147831022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjA4Rhv%2fAHg2qgihrMXVnEebLm8y1EA%2fLA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "OLIVA GLENN R",
+          "date": "11/6/1990",
+          "fileNumber": "1990 R 147831023"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhjA4Rhv%2fAHg2Q1R4Mv5ZQQmbMd2z4wnwWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MENA ROBERTO A",
+          "date": "11/14/1990",
+          "fileNumber": "1990 R 147891075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpFEgp33QninDvuXK4uJUJiwgVrl%2bZ%2brsg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "CRAWFORD & CO",
+          "date": "12/19/1990",
+          "fileNumber": "1990 R 148342368"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpFEgp33QninF0tPZ3SWJKLDIc0AlBdvCA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "FARRINGTON SANDRA A",
+          "date": "12/20/1990",
+          "fileNumber": "1990 R 148371980"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74iixb3DlgkT3xbtIGmvBjxfPR7h6kAR%2bUQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "GRAB SORAYA",
+          "date": "1/9/1991",
+          "fileNumber": "1991 R 148561297"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74tDm9o0qNbY5OkQZ98cntXP8mF5a%2fu%2bm8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "CRAWFORD & CO",
+          "date": "1/23/1991",
+          "fileNumber": "1991 R 148742166"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74tDm9o0qNbY5k%2fnxx6QitEZBIyhlFwdHdg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BURKE ELIZABETH E",
+          "date": "1/17/1991",
+          "fileNumber": "1991 R 148742169"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74rl9XMM4V5H7k4n62%2foWAqNq%2bFeT8gN7Eg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MENA ROBERTO A",
+          "date": "1/29/1991",
+          "fileNumber": "1991 R 148881970"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74lWJrEDRGSdFLSzjE3kH%2bwqJNUGkcJ5LeQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MARTINEZ SONIA",
+          "date": "2/7/1991",
+          "fileNumber": "1991 R 149012469"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74lWJrEDRGSdFHxiv75B0XvtAbzoSKtO3eg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MARTINEZ SONIA",
+          "date": "2/13/1991",
+          "fileNumber": "1991 R 149012470"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74kX9VY6R7S0kzM3qBc3yozQxZAiTcboDwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BURKE ELIZABETH E",
+          "date": "2/21/1991",
+          "fileNumber": "1991 R 149300975"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74kX9VY6R7S0kQIBALmiulqRPkgIWThcAdQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "FARRINGTON SANDRA A",
+          "date": "3/5/1991",
+          "fileNumber": "1991 R 149321379"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74kX9VY6R7S0kk4hslRMV7jslC%2fTVf107cw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "FARRINGTON SANDRA A",
+          "date": "3/5/1991",
+          "fileNumber": "1991 R 149321380"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74s02mGiHSUD2KXoZ3Rw13YCTpSFLutmjVA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BURCE TURKEL ADVERTISING INC",
+          "date": "4/3/1991",
+          "fileNumber": "1991 R 149822548"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74s02mGiHSUD2mpQ%2boEV47ot43XRNgVjKgg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "AMERICAN TELEPHONE AND TELEGRAPH COMPANY",
+          "date": "4/5/1991",
+          "fileNumber": "1991 R 149822558"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74k%2fub3BvbKlaBNKlxKUw%2bumUHrJ7%2fGNevQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "AMERICAN TELEPHONE AND TELEGRAPH COMPANY",
+          "date": "5/20/1991",
+          "fileNumber": "1991 R 150322436"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74k%2fub3BvbKlakTZlwCbkHs4fLaH3Lu%2bxww%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "AMERICAN TELEPHONE AND TELEGRAPH COMPANY",
+          "date": "5/20/1991",
+          "fileNumber": "1991 R 150322437"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74izxyWoCXN222MgxikWktf4hN%2fM4NYxwcQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "BURCE TURKEL ADVERTISING INC",
+          "date": "6/6/1991",
+          "fileNumber": "1991 R 150640728"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74lYMbDHWinuNt6S3bgPNz4V%2fWY%2fPppWeiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "LYONS ROBERT J",
+          "date": "6/20/1991",
+          "fileNumber": "1991 R 150871908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2bel2bXhTqOr%2faEfTZYlAnxg543SLMNlJGZw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "YANES JUAN A.",
+          "date": "6/10/2002",
+          "fileNumber": "2002 R 204464213"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2bemL9xoIHMTqZOvwoKJxtFQ%2bsZkI4KzGc9A%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "ABUD MARIA",
+          "date": "7/1/2002",
+          "fileNumber": "2002 R 204853652"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behn3QY2LIgUaQRPzk7vkFlxxI8doQJjkWw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "GATTAMORTA ARMANDO J",
+          "date": "7/3/2002",
+          "fileNumber": "2002 R 205021299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behn3QY2LIgUaOqaa7K1QfVtBULUHHcqwuw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "HARRIS DORIS L.",
+          "date": "7/3/2002",
+          "fileNumber": "2002 R 205021446"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behn3QY2LIgUa0zqC8MRlPLpvDjAWrzgKiA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "GOMEZ KAREL",
+          "date": "7/10/2002",
+          "fileNumber": "2002 R 205051343"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2bejn2om9ebFhjLcyb0X284z8lYxeeb0DrUw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "GOMEZ KAREL",
+          "date": "7/16/2002",
+          "fileNumber": "2002 R 205172210"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behC%2bbA59DTu%2bHo2OnThit3WwYPSsh1k1Ew%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "CITY OF NORTH MIAMI BEACH",
+          "date": "7/18/2002",
+          "fileNumber": "2002 R 205241479"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2behC%2bbA59DTu%2b%2bzU2RyWiBIOs46YgAUd9Vw%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "CHATILA RAMI",
+          "date": "7/23/2002",
+          "fileNumber": "2002 R 205291896"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2belPMkwLuJiCWLky1mRUpaGOdigryJdYArA%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "MARENCO ADRIAN D.",
+          "date": "7/24/2002",
+          "fileNumber": "2002 R 205363491"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2begEL%2fdn%2b7rlH97b%2bJbVkZfdK3R7xhZopYg%3d%3d",
+          "type": "CVP",
+          "firstParty": "HOUSEHOLD FINANCE CORPORATION III (D)",
+          "secondParty": "EL RANCHO GRANDE RESTAURANT INC",
+          "date": "7/30/2002",
+          "fileNumber": "2002 R 205471195"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjLWkPX4GEmUS3CMfhQ24QVR7xYKbuXGkw%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "HART JOHN ALLEN (JR)",
+          "date": "3/17/2004",
+          "fileNumber": "2004 R 221371674"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjzSiQSKRWQDx7rg%2fmoBD%2fZ2JKqujvta9w%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "HERNANDEZ OSEINY",
+          "date": "3/8/2010",
+          "fileNumber": "2010 R 153299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mj7NF6LDpGiQEPsxGJDu34Lm8DM2ijTx8g%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "HERNANDEZ OSEINY",
+          "date": "6/11/2010",
+          "fileNumber": "2010 R 393406"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYEY2yfBwKwH3KYtX7U07pma3K8GGxNtXIQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GOULD DAVID M",
+          "date": "1/18/2011",
+          "fileNumber": "2011 R 35772"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYFGgW6HlkAQ1oW33h8hjIg74vGCKPAeoDA%3d%3d",
+          "type": "NOT",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "1/20/2011",
+          "fileNumber": "2011 R 43880"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYPgP88mTCZd1uWFFrhsFE1QEMZwznfnsFQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ORF BENZION",
+          "date": "8/30/2011",
+          "fileNumber": "2011 R 579903"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLI82Ckh3srObhssKQ8YXAnFK4qpFmScrww%3d%3d",
+          "type": "NOT",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "3/28/2012",
+          "fileNumber": "2012 R 217934"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLE1vCBTqqfglSrA%2bRcEVyuQadlz%2fNMFz6g%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GONZALEZ SONIA P",
+          "date": "3/29/2012",
+          "fileNumber": "2012 R 221889"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ0uvrx7hMDirgP6V1EY0fIaeHOAq%2b%2fX%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ALLEN CAROLYN",
+          "date": "5/15/2012",
+          "fileNumber": "2012 R 346967"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDcUOjsCzpm%2bMyNDEe3GlJ%2f3cZX9VfmeOQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "FRIDAY MARK S",
+          "date": "5/16/2012",
+          "fileNumber": "2012 R 348242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBweipiIeAcFwKONy1SIE70UgDndnuI7zw%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "5/16/2012",
+          "fileNumber": "2012 R 349872"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMNi%2bOCS0fLl0AzTf8uvvd9GY3GPQyM2MA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "VELOZ SOVEIDA",
+          "date": "5/18/2012",
+          "fileNumber": "2012 R 357032"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLD%2b6eFcR0s2RhPbx2Sqp1gloCOp2SdJh3A%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "LP LITTON LOAN",
+          "date": "5/25/2012",
+          "fileNumber": "2012 R 371750"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOg3hReIUmoOzw2Gc9eYDjnCfD8ZpNhRlw%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "6/29/2012",
+          "fileNumber": "2012 R 462494"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN2iDxkAuhgNS8m%2bGy5BlziOO4zo9gCkyA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "BNC MTG INC",
+          "date": "7/17/2012",
+          "fileNumber": "2012 R 500900"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLCWO11dCriFd85dv0DNWdyI7626fIjwdA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CARIBE LAKES HOMEOWNERS ASSN INC",
+          "date": "10/22/2012",
+          "fileNumber": "2012 R 751489"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFl%2bwkGRhoygZjMHhCdQKlDwO7LRjCVOYQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "TAYLOR CHERYL",
+          "date": "10/29/2012",
+          "fileNumber": "2012 R 771322"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLD3IN%2fPjEFIftApuv6Y2kF%2fKC9mc24WgxA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CABRERA TANIA M",
+          "date": "10/30/2012",
+          "fileNumber": "2012 R 774840"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGCD2cMO0MjNorEqDGPWXIkR7q8oTsFdKA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "IIT N AMERICAN IND FD I LTD PARTNERSHIP",
+          "date": "11/5/2012",
+          "fileNumber": "2012 R 793441"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNtIU7Be01ke3ldDyCqJ%2b5F2j63TLYEZHw%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "VARAS OSMEL J",
+          "date": "11/5/2012",
+          "fileNumber": "2012 R 794817"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLJqcSkUeImcEtwTlrtb90gRNos%2fWCDERQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GONZALEZ BRYAN",
+          "date": "11/16/2012",
+          "fileNumber": "2012 R 827221"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGuLO4ZecQMajBCqqRR09hP%2b9tfNiQxhzg%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CABRERA TANIA M",
+          "date": "11/20/2012",
+          "fileNumber": "2012 R 834629"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJQpIPvYa4rgSvqWBvtLqh9UzONOCS6QMA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "BNC MTG INC",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 849534"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPJgl%2fspkQkvgFCDK3N9nnQWwycDIZfyWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FLORIDIAN ISLES AT WATERSTONE II",
+          "date": "12/17/2012",
+          "fileNumber": "2012 R 904566"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbm7xgCRfx%2bKLQGoHjX9Sxaf8cf%2f0jEj%2buA%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GARCIA ISAURA E",
+          "date": "5/29/2013",
+          "fileNumber": "2013 R 425315"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbk1740p6SYNIkUCvBT8XzjYvbl1TN2OO7w%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "RIVIERE JOSE D",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 452906"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbszb1mflYK7qC%2fp9jqUXqjS219ZH2kwlzw%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GONZALEZ BRYAN",
+          "date": "6/11/2013",
+          "fileNumber": "2013 R 463613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgXklDpfmZS0r5NX87sGiIrXkb81wknUCg%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "JPMORGAN CHASE BANK",
+          "date": "6/19/2013",
+          "fileNumber": "2013 R 486537"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhkufp6jvCZSSItE0pnNymztNHs2t6RsVA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "DONALDSON MELISSA M",
+          "date": "6/19/2013",
+          "fileNumber": "2013 R 489070"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboFpZ9mLK0BtJEpyPWOWSdWpMNefaTaELw%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CAJAL MELINA SAMANTHA",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 491569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpUio5Kpvz31IP8rCcm9Imqg03l3G%2f1TIw%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BARBA JACQUELINE",
+          "date": "6/24/2013",
+          "fileNumber": "2013 R 500190"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbioNr5XnEF6UrxyUAGjyxMnhgc%2fr3Qh6zw%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MORALES NELLY",
+          "date": "6/25/2013",
+          "fileNumber": "2013 R 504061"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbkWLJvJuGazCb8XdBTKobtH9sMFbwqy7vw%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "RODRIGUEZ ANA M",
+          "date": "6/25/2013",
+          "fileNumber": "2013 R 505497"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgbikkOqopsc9OrPfVAZBSAR6TAZAAf5Kg%3d%3d",
+          "type": "SMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "VIAMONTES ANDRES",
+          "date": "6/28/2013",
+          "fileNumber": "2013 R 517840"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblN1rloT5npwrON%2fTg4xrB42eUS7XYX09g%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CONCEPCION RITA M",
+          "date": "7/3/2013",
+          "fileNumber": "2013 R 530492"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhLYvI193AzgJYoSagEDafdMe5aSw7sEFA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MERS",
+          "date": "7/8/2013",
+          "fileNumber": "2013 R 537805"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjK8TxG1zlfUsK6bxqzRhmNVbRFaGYuKYQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MEDINA ANA M",
+          "date": "7/12/2013",
+          "fileNumber": "2013 R 550712"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbuymrXQGOkfuly1C8%2fcEdfsPA6Trufxk%2bA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "7/15/2013",
+          "fileNumber": "2013 R 553178"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbrrnjCGrfqYcoZfoEYZsrybPU8LEF0XUZg%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ARCH BAY HOLDINGS LLC SERIES 2010B",
+          "date": "7/15/2013",
+          "fileNumber": "2013 R 555367"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgTK2h5H87p71%2fba25q1WzsSCTd57%2b%2bW0g%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ARWL 2013 1 TRUST",
+          "date": "7/22/2013",
+          "fileNumber": "2013 R 571450"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgCKE8lEPFdBm8KM6Qlq76Xm%2breg8zkr0w%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ARWL 2013 1 TRUST",
+          "date": "7/24/2013",
+          "fileNumber": "2013 R 581318"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgCKE8lEPFdBHDj6kEQIXgnXrK3jPre71Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ARWL 2013 1 TRUST",
+          "date": "7/24/2013",
+          "fileNumber": "2013 R 581333"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbnIECCNy0X3ELqOshN90Z%2b6rtYr2ijfJzA%3d%3d",
+          "type": "DEE",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BRIGHT CAPITAL LLC",
+          "date": "11/27/2013",
+          "fileNumber": "2013 R 938072"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbq%2bY90bH80i3U0OytETbVoVTM6FnlydfJA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JOSE G MIRABAL",
+          "date": "12/27/2013",
+          "fileNumber": "2013 R 1009939"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmCuXRAi%2frEe9Z4gg7dxNHij4f7J3u56WA%3d%3d",
+          "type": "DEE",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GONZALEZ JORGE",
+          "date": "12/27/2013",
+          "fileNumber": "2013 R 1010280"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmCuXRAi%2frEe%2fiffuhEp9uWKc7rO0a6W6g%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SHOMA HOMES SPLENDIDO CONDOMINIUM ASSOCI",
+          "date": "12/27/2013",
+          "fileNumber": "2013 R 1010778"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmCuXRAi%2frEe7sSVR5w87O09v7lNEMosXw%3d%3d",
+          "type": "LIS",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "FLORIDA HOUSING FINANCE CORPORATION",
+          "date": "12/27/2013",
+          "fileNumber": "2013 R 1010793"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHIc%2bXE5I80UtrvbAPcemwiMo30n%2fqlJ2Q%3d%3d",
+          "type": "SMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "SANTIAGO ANGEL",
+          "date": "1/3/2014",
+          "fileNumber": "2014 R 5008"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJ%2b5EMe3VlMD5gb6uCQTvmGEPMIwvoiWkA%3d%3d",
+          "type": "AMO",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MERS",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 7753"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJ7uPULPhWww%2bFVraGWi7h3XLRqb4AefZA%3d%3d",
+          "type": "CVP",
+          "firstParty": "US BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PEREZ LUCIANO",
+          "date": "1/7/2014",
+          "fileNumber": "2014 R 13084"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDiMVylbNsUPClDSFemjAqmHWyMT9twPDyC%2fls4oEUvNA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "AMENEIRO JUAN",
+          "date": "5/10/1984",
+          "fileNumber": "1984 R 121450616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FPjZoTsoVI5qBVDCL9%2bP1gtj2VuGbaJQ1A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT WHOSE TRUE NAME IS UNKNOWN (R)",
+          "secondParty": "ELAL CORP",
+          "date": "11/4/1985",
+          "fileNumber": "1985 R 126881612"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOyjIAWkyxHOS3JNtKP23wdRA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF UNIT NO 11B (R)",
+          "secondParty": "AMENEIRO DORA",
+          "date": "11/1/1985",
+          "fileNumber": "1985 R 127160831"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOy4gtM8Ns%2bNtNMDa7nIMcSsw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "VON ZAMFT SPIKE",
+          "date": "11/27/1985",
+          "fileNumber": "1985 R 127161184"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FIsx2iURw4%2ffMYuCQ53qTDzgLJgKs4YAvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "12/12/1985",
+          "fileNumber": "1985 R 127281275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hgwhAUyU2iLdBu9HfBQE2aChoHc88C3ZDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "4/9/1986",
+          "fileNumber": "1986 R 128532259"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGudbRBUHnlNiTU3LPq7uiH4mJ3m5RegPg0g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "WISEMAN FRED G (ESTATE)",
+          "date": "1/30/1987",
+          "fileNumber": "1987 R 132051637"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuaEQPHDWD9I%2fgi8%2bOhL%2fgPbLJxf7v1P72Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3342 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "9/2/1987",
+          "fileNumber": "1987 R 133981417"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuQ6Iy%2fHktMDx%2beU3OFK6lpE3Kmj5fj9p8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "TWELFTH AVENUE PROPERTIES INC",
+          "date": "10/9/1987",
+          "fileNumber": "1987 R 134781003"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQMss7StYbjRtaLpzE%2bY9wX72b3llK2Qgyw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3340 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "4/26/1988",
+          "fileNumber": "1988 R 136570687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQPi6ecC7eaUfT7AK4X50z%2fb95M6yGnocQg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PRELAZ ROBERT",
+          "date": "10/26/1988",
+          "fileNumber": "1988 R 138730321"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpFEgp33Qninz%2f%2bA5TxuU0YJUzsraBcPVQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT UNIT 162B OF ROYALE GREEN ETC (R)",
+          "secondParty": "ROYALE GREEN CONDO ASSN INC",
+          "date": "12/24/1990",
+          "fileNumber": "1990 R 148341873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74joxLhu1R1yXvWO8qZ4IhZ54cWAQg1Abnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "ARIAS JACK",
+          "date": "6/25/1991",
+          "fileNumber": "1991 R 150911226"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijtTxn2dD78QRYgWf%2bqRpYGleSZVpkW7GUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "GROSS B G (TRUSTEE)",
+          "date": "3/18/1992",
+          "fileNumber": "1992 R 154342073"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8Ni%2b6D80OwVd2tJ%2fyvw4FfvBphzMJuo4yw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT IN POSSESSION (R)",
+          "secondParty": "FAITH TEMPLE CHURCH OF CHRIST INC",
+          "date": "9/25/1996",
+          "fileNumber": "1996 R 173662784"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8LpQXoP5Tqj3mbi7YKOFL0mtpXFuiEiyAw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "10/15/1996",
+          "fileNumber": "1996 R 173941066"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41umlBIWgAd6pEgZgWr%2ffGjlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (ERIC) (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "2/18/1997",
+          "fileNumber": "1997 R 175794346"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZuFKjUgWGOVmbUYfbFX1epw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184904746"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZgkVCawLp6vRaAk25RyZxaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184954078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZwvlQDvFlwxeFqfUDK5FAJA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/26/1999",
+          "fileNumber": "1999 R 184954198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytq6mN0YpJc7RcACaP8R3%2bdMFKWkEuAWKQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "3/5/1999",
+          "fileNumber": "1999 R 185050275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D%2bMIrxFL7s%2bJ66UjmE%2b758x95H4yu4agag%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "N R INVESTMENTS",
+          "date": "6/8/2001",
+          "fileNumber": "2001 R 197073976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5Dx41OLiiMpXFpBkp2XlAzefOgpvHSVTGgA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PASSALACQUA FLA REALTY TRUST",
+          "date": "8/28/2001",
+          "fileNumber": "2001 R 198624083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfp58WesTZypLkpblX2TvIB12EmvB%2fzEUDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF 1610 NW 120 ST (R)",
+          "secondParty": "PROSPER BIEN-AIME",
+          "date": "1/12/2004",
+          "fileNumber": "2004 R 219121899"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8U28zF5CtLs9gYhgzmpxjOPH6fIpN8S7BA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE BCH DEVELOPMENT (LLC)",
+          "date": "2/8/2005",
+          "fileNumber": "2005 R 125711"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8aF8h6Ec%2fQdFTnzcN9oaj%2fi%2fEZW2bO%2fvWg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE LANDOWNERS (LC)",
+          "date": "6/24/2005",
+          "fileNumber": "2005 R 657181"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5Syp1PLcQvl86jAQon6xtmL1b8FkQPkuxPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS & TRESPASSER(S) (R)",
+          "secondParty": "KILLENS EVANS BRENDA",
+          "date": "2/16/2006",
+          "fileNumber": "2006 R 175757"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S2BuoSYVzZ9ATUlDw4iEcgwjwhmJkC0bwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/6/2006",
+          "fileNumber": "2006 R 1296873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SzNsiw2TScECIlyhRIsdDnixaFqOt7blxg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/20/2006",
+          "fileNumber": "2006 R 1353445"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpark3anGp%2bDV87v%2baWfYSNDm97HvIrtES%2bQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "5/10/2007",
+          "fileNumber": "2007 R 475556"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahtUfgNCkh7s05KPhxnJtBiFQOwWGaSpUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "8/21/2007",
+          "fileNumber": "2007 R 829843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQaOSOYpWLbbBFVDHAacbOiQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQTzkGbxJdiG1Gy4p%2fu%2fXJ%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031849"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLL0Uq0J8u%2bt%2f07QQlnh%2f89vm7QSp8unTg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "7/15/2011",
+          "fileNumber": "2011 R 469006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLolCBlQsAxms05o1dFFrEfo72%2bQSV2sIg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/4/2011",
+          "fileNumber": "2011 R 664243"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYFMEMKKkl1PSfjc%2b%2fh1I9D3%2fKVHWSLrz5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/27/2011",
+          "fileNumber": "2011 R 725410"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOQyEKOJJDSXaQI%2fp2ijg%2bfCcpRDFbqTjQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "4/19/2012",
+          "fileNumber": "2012 R 280373"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKQEeAjHOrj4g%2fAX7m4%2b5YXcHajWMlp5ww%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "5/3/2012",
+          "fileNumber": "2012 R 315127"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP1fpT6tZnt7vvec6tTeS7L1VSg3JvhKhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/1/2012",
+          "fileNumber": "2012 R 387315"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKPD10g8SMdX6O8Tv7VQYUBp0nFSzumQUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/28/2012",
+          "fileNumber": "2012 R 458996"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNdQwoRKbXdxNavk354imAMNgfKL8d8NaQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (2911 SE 13TH ROD #204-40) ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "11/1/2012",
+          "fileNumber": "2012 R 781698"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCISafLD8%2fOSqwFxVah2BUFWNnIS399YXA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS 13726 NE 6TH AVE #205 NO ETC (R)",
+          "secondParty": "GGH 40 (LLC)",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 848772"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPy4jhrfcQzoJASuIbMcFOKbRMsmlIqGqw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "12/24/2012",
+          "fileNumber": "2012 R 926457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbm%2b4j1UAvIDhOxYBiopNVX3sZGBAaYxRZQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS UNIT 202 1245 SW 24TH ST HIAL (R)",
+          "secondParty": "GGH 48 LLC A FLORIDA LIMITED LIABILITY",
+          "date": "12/26/2013",
+          "fileNumber": "2013 R 1007119"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "caseNumber": "2024A00189",
+    "caseType": "TAXDEED",
+    "openingBid": "$15,035.95",
+    "parcelID": "30-6913-006-0162",
+    "certificateNumber": "21912",
+    "assessedValue": "$217,814.00",
+    "propertyAppraiserLegalDescription": "WILLIS SUBDIVISION PB 1-194 LOT 3 BLK 3 LOT SIZE 5000 SQ FT FAU 30 6913 006 0150 OR 18222-1420 0798 4 OR 24661-1075 0805 4",
+    "partyDetails": [
+      {
+        "APPLICANT": "FNA DZ, LLC"
+      },
+      {
+        "OCCUPANT": "OCCUPANT"
+      },
+      {
+        "OWNER": "JHON AGUIRRE"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=3069130060162",
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "floors": 1,
+    "municipality": "Unincorporated County",
+    "lotSize": 5000,
+    "primaryLandUse": "0101RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "livingArea": 1332,
+    "yearBuilt": "2015",
+    "primaryZone": "DUPLEXES - GENERAL",
+    "subdivision": "WILLIS SUB",
+    "neighborhood": "GOULDS - WEST",
+    "buildingArea": 1455,
+    "description": "RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "units": 1,
+    "siteAddress": "12050 SW 221 ST, Unincorporated County, FL 33170-0000",
+    "totalValue": 325960,
+    "qualifiedOwner": [
+      "JHON AGUIRRE"
+    ],
+    "owners": [
+      {
+        "name": "JHON AGUIRRE",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDiMVylbNsUPClDSFemjAqmHWyMT9twPDyC%2fls4oEUvNA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "AMENEIRO JUAN",
+          "date": "5/10/1984",
+          "fileNumber": "1984 R 121450616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FPjZoTsoVI5qBVDCL9%2bP1gtj2VuGbaJQ1A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT WHOSE TRUE NAME IS UNKNOWN (R)",
+          "secondParty": "ELAL CORP",
+          "date": "11/4/1985",
+          "fileNumber": "1985 R 126881612"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOyjIAWkyxHOS3JNtKP23wdRA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF UNIT NO 11B (R)",
+          "secondParty": "AMENEIRO DORA",
+          "date": "11/1/1985",
+          "fileNumber": "1985 R 127160831"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNCR1UrOVmOy4gtM8Ns%2bNtNMDa7nIMcSsw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "VON ZAMFT SPIKE",
+          "date": "11/27/1985",
+          "fileNumber": "1985 R 127161184"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FIsx2iURw4%2ffMYuCQ53qTDzgLJgKs4YAvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "12/12/1985",
+          "fileNumber": "1985 R 127281275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD1OCHWnb22hgwhAUyU2iLdBu9HfBQE2aChoHc88C3ZDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SINGER EVA",
+          "date": "4/9/1986",
+          "fileNumber": "1986 R 128532259"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGudbRBUHnlNiTU3LPq7uiH4mJ3m5RegPg0g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "WISEMAN FRED G (ESTATE)",
+          "date": "1/30/1987",
+          "fileNumber": "1987 R 132051637"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuaEQPHDWD9I%2fgi8%2bOhL%2fgPbLJxf7v1P72Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3342 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "9/2/1987",
+          "fileNumber": "1987 R 133981417"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuQ6Iy%2fHktMDx%2beU3OFK6lpE3Kmj5fj9p8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "TWELFTH AVENUE PROPERTIES INC",
+          "date": "10/9/1987",
+          "fileNumber": "1987 R 134781003"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQMss7StYbjRtaLpzE%2bY9wX72b3llK2Qgyw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS OF 3340 NW 22 AVE (R)",
+          "secondParty": "FRIEDMAN MURRAY M (TRUSTEE)",
+          "date": "4/26/1988",
+          "fileNumber": "1988 R 136570687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQPi6ecC7eaUfT7AK4X50z%2fb95M6yGnocQg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PRELAZ ROBERT",
+          "date": "10/26/1988",
+          "fileNumber": "1988 R 138730321"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhpFEgp33Qninz%2f%2bA5TxuU0YJUzsraBcPVQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT UNIT 162B OF ROYALE GREEN ETC (R)",
+          "secondParty": "ROYALE GREEN CONDO ASSN INC",
+          "date": "12/24/1990",
+          "fileNumber": "1990 R 148341873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74joxLhu1R1yXvWO8qZ4IhZ54cWAQg1Abnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "ARIAS JACK",
+          "date": "6/25/1991",
+          "fileNumber": "1991 R 150911226"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijtTxn2dD78QRYgWf%2bqRpYGleSZVpkW7GUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "GROSS B G (TRUSTEE)",
+          "date": "3/18/1992",
+          "fileNumber": "1992 R 154342073"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8Ni%2b6D80OwVd2tJ%2fyvw4FfvBphzMJuo4yw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT IN POSSESSION (R)",
+          "secondParty": "FAITH TEMPLE CHURCH OF CHRIST INC",
+          "date": "9/25/1996",
+          "fileNumber": "1996 R 173662784"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8LpQXoP5Tqj3mbi7YKOFL0mtpXFuiEiyAw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "10/15/1996",
+          "fileNumber": "1996 R 173941066"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41umlBIWgAd6pEgZgWr%2ffGjlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (ERIC) (R)",
+          "secondParty": "MERNS LAURA",
+          "date": "2/18/1997",
+          "fileNumber": "1997 R 175794346"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZuFKjUgWGOVmbUYfbFX1epw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184904746"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZgkVCawLp6vRaAk25RyZxaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/25/1999",
+          "fileNumber": "1999 R 184954078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytgPrZUoVv0wZwvlQDvFlwxeFqfUDK5FAJA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "2/26/1999",
+          "fileNumber": "1999 R 184954198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytq6mN0YpJc7RcACaP8R3%2bdMFKWkEuAWKQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS TENANTS & ALL OTHERS ETC (R)",
+          "secondParty": "SHERLON INVESTMENTS CORP (N V)",
+          "date": "3/5/1999",
+          "fileNumber": "1999 R 185050275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D%2bMIrxFL7s%2bJ66UjmE%2b758x95H4yu4agag%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "N R INVESTMENTS",
+          "date": "6/8/2001",
+          "fileNumber": "2001 R 197073976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5Dx41OLiiMpXFpBkp2XlAzefOgpvHSVTGgA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "PASSALACQUA FLA REALTY TRUST",
+          "date": "8/28/2001",
+          "fileNumber": "2001 R 198624083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfp58WesTZypLkpblX2TvIB12EmvB%2fzEUDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF 1610 NW 120 ST (R)",
+          "secondParty": "PROSPER BIEN-AIME",
+          "date": "1/12/2004",
+          "fileNumber": "2004 R 219121899"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8U28zF5CtLs9gYhgzmpxjOPH6fIpN8S7BA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE BCH DEVELOPMENT (LLC)",
+          "date": "2/8/2005",
+          "fileNumber": "2005 R 125711"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8aF8h6Ec%2fQdFTnzcN9oaj%2fi%2fEZW2bO%2fvWg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (R)",
+          "secondParty": "SOUTH SHORE LANDOWNERS (LC)",
+          "date": "6/24/2005",
+          "fileNumber": "2005 R 657181"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5Syp1PLcQvl86jAQon6xtmL1b8FkQPkuxPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS & TRESPASSER(S) (R)",
+          "secondParty": "KILLENS EVANS BRENDA",
+          "date": "2/16/2006",
+          "fileNumber": "2006 R 175757"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S2BuoSYVzZ9ATUlDw4iEcgwjwhmJkC0bwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/6/2006",
+          "fileNumber": "2006 R 1296873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SzNsiw2TScECIlyhRIsdDnixaFqOt7blxg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "12/20/2006",
+          "fileNumber": "2006 R 1353445"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpark3anGp%2bDV87v%2baWfYSNDm97HvIrtES%2bQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "5/10/2007",
+          "fileNumber": "2007 R 475556"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahtUfgNCkh7s05KPhxnJtBiFQOwWGaSpUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS (R)",
+          "secondParty": "LOPEZ CHRISTY",
+          "date": "8/21/2007",
+          "fileNumber": "2007 R 829843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQaOSOYpWLbbBFVDHAacbOiQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031843"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahpVPba1LRMQTzkGbxJdiG1Gy4p%2fu%2fXJ%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT OF (R)",
+          "secondParty": "VILLA ENTERPRISES INC",
+          "date": "10/24/2007",
+          "fileNumber": "2007 R 1031849"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh97yP2cb5jiMluh1L39pqD76k3wVRbhDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B 19116 W LAKE DR MIAMI FL (R)",
+          "secondParty": "HSBC BANK USA (NA) (INDENTURE TR)",
+          "date": "3/22/2010",
+          "fileNumber": "2010 R 190744"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkiNNgqOhPpYCIqhh4IBVZsHw9B5mVtQCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "BANK OF N Y MELLON (THE)",
+          "date": "12/20/2010",
+          "fileNumber": "2010 R 847284"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT A (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOV8%2blXQhBM4Xo2G5prkUxSDCdjv39996w%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT B (R)",
+          "secondParty": "DEUTSCHE BANK NAT TRUST CO",
+          "date": "6/13/2011",
+          "fileNumber": "2011 R 385569"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLL0Uq0J8u%2bt%2f07QQlnh%2f89vm7QSp8unTg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "7/15/2011",
+          "fileNumber": "2011 R 469006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLolCBlQsAxms05o1dFFrEfo72%2bQSV2sIg%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/4/2011",
+          "fileNumber": "2011 R 664243"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYFMEMKKkl1PSfjc%2b%2fh1I9D3%2fKVHWSLrz5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT 1230 W 54TH ST ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "10/27/2011",
+          "fileNumber": "2011 R 725410"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOQyEKOJJDSXaQI%2fp2ijg%2bfCcpRDFbqTjQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "4/19/2012",
+          "fileNumber": "2012 R 280373"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKQEeAjHOrj4g%2fAX7m4%2b5YXcHajWMlp5ww%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "5/3/2012",
+          "fileNumber": "2012 R 315127"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP1fpT6tZnt7vvec6tTeS7L1VSg3JvhKhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/1/2012",
+          "fileNumber": "2012 R 387315"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKPD10g8SMdX6O8Tv7VQYUBp0nFSzumQUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "6/28/2012",
+          "fileNumber": "2012 R 458996"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNdQwoRKbXdxNavk354imAMNgfKL8d8NaQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANT (2911 SE 13TH ROD #204-40) ETC (R)",
+          "secondParty": "GGH 48 (LLC)",
+          "date": "11/1/2012",
+          "fileNumber": "2012 R 781698"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCISafLD8%2fOSqwFxVah2BUFWNnIS399YXA%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS 13726 NE 6TH AVE #205 NO ETC (R)",
+          "secondParty": "GGH 40 (LLC)",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 848772"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPy4jhrfcQzoJASuIbMcFOKbRMsmlIqGqw%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTION MEDICAL CTR INC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "12/24/2012",
+          "fileNumber": "2012 R 926457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbm%2b4j1UAvIDhOxYBiopNVX3sZGBAaYxRZQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "OCCUPANTS UNIT 202 1245 SW 24TH ST HIAL (R)",
+          "secondParty": "GGH 48 LLC A FLORIDA LIMITED LIABILITY",
+          "date": "12/26/2013",
+          "fileNumber": "2013 R 1007119"
+        }
+      ]
+    ]
+  },
+  {
+    "caseNumber": "2024A00191",
+    "caseType": "TAXDEED",
+    "openingBid": "$21,452.64",
+    "parcelID": "35-3022-016-0010",
+    "certificateNumber": "25414",
+    "assessedValue": "$368,126.00",
+    "propertyAppraiserLegalDescription": "MARSAL WAREHOUSE CONDO UNIT 8485 UNDIV 12.50% INT IN COMMON ELEMENTS OFF REC 13076-1482 OR 20510-2690 0602 1 F/A/U 30-3022-016-0010 COC 23867-0066 09 2005 1",
+    "partyDetails": [
+      {
+        "APPLICANT": "FNA DZ, LLC"
+      },
+      {
+        "LIEN HOLDER": "FLORIDA DEPARTMENT OF REVENUE MIAMI SERVICE CENTER"
+      },
+      {
+        "LIEN HOLDER": "FLORIDA DEPARTMENT OF REVENUE RT COLLECTIONS"
+      },
+      {
+        "MORTGAGEE": "ADMINISTRATOR OF THE U.S. SMALL BUSINESS ADMINISTRATION"
+      },
+      {
+        "MORTGAGEE": "CENTERSTATE BANK, N.A. N/K/A SOUTHSTATE BANK, NATIONAL ASSOCIATION"
+      },
+      {
+        "MORTGAGEE": "SOUTHSTATE BANK, NATIONAL ASSOCIATION"
+      },
+      {
+        "OCCUPANT": "CCUPANT"
+      },
+      {
+        "OWNER": "GYLMAR DEVELOPMENTS INC"
+      },
+      {
+        "OWNER": "GYLMAR DEVELOPMENTS INC."
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=3530220160010",
+    "bathrooms": 0,
+    "bedrooms": 0,
+    "floors": 0,
+    "municipality": "Doral",
+    "lotSize": 0,
+    "primaryLandUse": "4118LIGHT MANUFACTURING : CONDOMINIUM - COMMERCIAL",
+    "livingArea": 2308,
+    "yearBuilt": "1986",
+    "primaryZone": "INDUSTRIAL - HEAVY MFG",
+    "subdivision": "MARSAL WAREHOUSE CONDO",
+    "neighborhood": "UNCLASSIFIED NEIGHBORHOOD",
+    "buildingArea": 2308,
+    "description": "LIGHT MANUFACTURING : CONDOMINIUM - COMMERCIAL",
+    "units": 0,
+    "siteAddress": "8485 NW 54 ST 8485, Doral, FL 33166-3320",
+    "totalValue": 450060,
+    "qualifiedOwner": [
+      "GYLMAR DEVELOPMENTS INC"
+    ],
+    "owners": [
+      {
+        "name": "GYLMAR DEVELOPMENTS INC",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 22424.26,
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fJVUAzvo6776dqwHpta0lbg9wUnaSvQpnA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "4/17/2003",
+          "fileNumber": "2003 R 212004242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fBtZflszuC62RVDk6HVdTRKR0Euir9h01g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "4/17/2003",
+          "fileNumber": "2003 R 212561896"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOm3%2fUmOKG3W%2fm5qbJxBDvKPlVL4HXiA8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONTELEONE RAYMOND",
+          "date": "5/29/2003",
+          "fileNumber": "2003 R 212614613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOIdl1pn5b4cpDzU%2bEO4hnkMB69bR%2bZEMw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "6/5/2003",
+          "fileNumber": "2003 R 212953026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fHyc0NAVXebtTmZU72uSOWlQOSzg7kCctg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "LUQUE ROBERTO",
+          "date": "11/24/2003",
+          "fileNumber": "2003 R 218391082"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfkohzJsgHhWmYRH50kn6XflVhAlny4svlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "8/16/2004",
+          "fileNumber": "2004 R 705876"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfqtgHR1%2fTw%2fIs4InMwhGHNM6QAjQILhdpw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "9/14/2004",
+          "fileNumber": "2004 R 802865"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtftOlouIXPjlCdn9gm0EaXb2qqAsOX9aGvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "12/2/2004",
+          "fileNumber": "2004 R 1071096"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8a2jYwsLNkmMqMgUNNTNDTEEK2vFnKLUwA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "1/10/2005",
+          "fileNumber": "2005 R 30470"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8QtdoSnZZPAFABLLO0plHesGTlzZ6Jo0%2fw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "3/15/2005",
+          "fileNumber": "2005 R 250975"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8am0axr48oR29ySOF3tF64aU8Bud1XG00g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONTELEONE RAYMOND",
+          "date": "3/21/2005",
+          "fileNumber": "2005 R 275281"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8R0rUOGwrnu88GNZFdmEADXxR6hdD6sDPQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "S & J PLASTERING & LATH INC",
+          "date": "5/26/2005",
+          "fileNumber": "2005 R 539369"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8TmX2nOM4DM2NoXsf2L0Nleyo2UEyyHJtA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "6/3/2005",
+          "fileNumber": "2005 R 570363"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpauiCDqGII4gdA9BlnmBokLhKPL%2bmW8pu%2fA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "J M Y DEVELOPERS INC",
+          "date": "12/4/2007",
+          "fileNumber": "2007 R 1148915"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpau3KkWdCyw%2fGO3kY0KERJR0Aj%2f%2bDhaPKeQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "12/19/2007",
+          "fileNumber": "2007 R 1198075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jbo%2bioa7a0Fu4DGleWoVVryMGg4KUVQJGA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "1/2/2008",
+          "fileNumber": "2008 R 2343"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jdjpxq9T6Eb7LiDoYNXgXkp7wqv58PbbpQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "3/18/2008",
+          "fileNumber": "2008 R 225219"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jTXCz6kKILluwguZHH9ChTcy%2bNdtqx%2feew%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "3/24/2008",
+          "fileNumber": "2008 R 241156"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jShp0LA86jWDZxsoB%2b4aJSIyAX2vTrcCcA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "5/27/2008",
+          "fileNumber": "2008 R 431004"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jakLP6dO9c9ybiYdMVpt5YiBoyIrxzjCKg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "7/1/2008",
+          "fileNumber": "2008 R 541300"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jakLP6dO9c9yvMUyw4MToxljbGx34Ws%2bxQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "7/1/2008",
+          "fileNumber": "2008 R 541305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jcqYgwiAF0dVB4eHhyzNUhdvga9f31kedQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "HERTZ EQUIPMENT RENTAL CORP",
+          "date": "7/14/2008",
+          "fileNumber": "2008 R 575824"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jRcNUA9dE8g7JVHPIxE0BLIZ1%2feU5RpVWA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "HERTZ EQUIPMENT RENTAL CORP",
+          "date": "8/14/2008",
+          "fileNumber": "2008 R 668986"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jRzi3tJoV5g1ACoQ8Gtk3Ag3vTi9zjQPwA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "11/25/2008",
+          "fileNumber": "2008 R 954403"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7kp6yZ4PJeXx8iN%2fLWd9Ejk0VE%2bFoBkhmA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "9/10/2009",
+          "fileNumber": "2009 R 656431"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7vp%2fhd5NRMF8ZP48c5zS%2bJaht4LPywP3Kg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "9/23/2009",
+          "fileNumber": "2009 R 686488"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7lI8NriCR4TqN62o80Kl%2bYY27VJxH8e6Pw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "9/29/2009",
+          "fileNumber": "2009 R 701665"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7v%2fAutR10d7ekXVtuQnUYMDtqMpmpF70Pg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "11/20/2009",
+          "fileNumber": "2009 R 836280"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7lIXZEA%2bcazVdB4pzIm06WCVxUfFGHNxZA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/11/2009",
+          "fileNumber": "2009 R 883916"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7ugqaUQoDlAPo%2f2Tj6OTrqrfBuTk%2fPYW6g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/15/2009",
+          "fileNumber": "2009 R 893330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7uUfhPw1jSz9XffRPu17l7Y3vxGkyf9zpA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/16/2009",
+          "fileNumber": "2009 R 894798"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mooylJMs7edybq3nZyL%2b0h3lCeUW27rOUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "S & J PLASTERING & LATH INC",
+          "date": "1/27/2010",
+          "fileNumber": "2010 R 55515"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh%2bX5p7j%2fFsYJ7Hli%2bm7Ei0Kj6I%2bbgPuyQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "3/29/2010",
+          "fileNumber": "2010 R 208352"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mlgPKIbLwvaMHmiPw%2bViGZq9WbPNlXZyqw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "VALENCIA HERNANDO",
+          "date": "7/1/2010",
+          "fileNumber": "2010 R 442976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mnagMOgQdgVVDdFY%2fKXm9lE9Jx80EBsHhQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GALENUS COMPLEX CONDO ASSN INC",
+          "date": "9/23/2010",
+          "fileNumber": "2010 R 646911"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLO99UThpentBoXijFME%2bShIdp2qkG27Gw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "5/25/2011",
+          "fileNumber": "2011 R 341437"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIc0KK%2bZAEqlc9eftjzDcppcOFjDZCP9yw%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MIAMI DADE CTY REGULATORY AND ECONOMIC RESOURCES DEPT",
+          "date": "1/21/2015",
+          "fileNumber": "2015 R 37787"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMiIqMZ9rhklHrIMZFz3EoCaDsmf5E%2bCbhA%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TRUST CO",
+          "date": "1/15/2016",
+          "fileNumber": "2016 R 29512"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMiIqMZ9rhklH4FmoyQqakj3x656qTpMgJQ%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TRUST CO",
+          "date": "1/15/2016",
+          "fileNumber": "2016 R 29513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMntcDTGlHbECr4tBuBnScWo51CNLGwxjVg%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MIAMI DADE CTY REGULATORY AND ECONOMIC RESOURCES DEPT",
+          "date": "2/24/2016",
+          "fileNumber": "2016 R 112947"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgsdJuOA2wHuDEyFHoSoYqk%2bRXQ680hX9A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "6/16/2016",
+          "fileNumber": "2016 R 351204"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgsdJuOA2wHu%2fBSQUNo9yVIVTpXFFp25AA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "6/16/2016",
+          "fileNumber": "2016 R 351207"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMnevD2pH2rVKtsKxIi4r%2feQyupQS0pML7Q%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOLLAND & KNIGHT LLP",
+          "date": "8/25/2016",
+          "fileNumber": "2016 R 498689"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMlHqiYD5pTOXsLVR%2fXjgXLb8%2bbkUlVrJ7g%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "12/14/2016",
+          "fileNumber": "2016 R 717662"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1nW1xNd%2f1VrOVrZHGuQx3Vw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONZON GILBERTO R JR",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432301"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1UaGSMZkGAfD8vVjsICj1%2fw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432303"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1rHf%2bF%2bOJczfR6HNNpDL2pA%3d%3d",
+          "type": "ASG",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432304"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1CS%2boKr4ihsJFs4DyuJB3nQ%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnWdsyCF4cB75rV5RsVZ8g1M%2bTUHv6M4C9Q%3d%3d",
+          "type": "LIE",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "3/8/2019",
+          "fileNumber": "2019 R 150022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnfimwtXp9o%2buHQVeJ5dkgf6kekR7U4Ytfw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "U S SMALL BUSINESS ADMINISTRATION",
+          "date": "7/23/2019",
+          "fileNumber": "2019 R 458715"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGfJSGBOlOABR2ZJQwNW1s0Sa633biun7Hw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DANIEL RE HOLDINGS LLC",
+          "date": "4/6/2022",
+          "fileNumber": "2022 R 281428"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGfJSGBOlOABRQK4MjbUUMxqDgIkxDjPlxQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DANIEL RE HOLDINGS LLC",
+          "date": "4/6/2022",
+          "fileNumber": "2022 R 281429"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGaPvDKE5VLgff7sxZulJGhVtzakSEx0ncw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "M3 MIAMI PROPERTIES LLC",
+          "date": "4/12/2022",
+          "fileNumber": "2022 R 301828"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGaPvDKE5VLgfozfVPhlrCsJix3vE3jdaBA%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "M3 MIAMI PROPERTIES LLC",
+          "date": "4/12/2022",
+          "fileNumber": "2022 R 301829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGd%2bSMyjJ%2bPDFsNdOwguj8daUhpHjw%2bdgKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DOLPARC HOLDINGS LLC",
+          "date": "4/19/2022",
+          "fileNumber": "2022 R 323038"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGd%2bSMyjJ%2bPDF1oUiiNgOIqebJLv5eqUaHg%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DOLPARC HOLDINGS LLC",
+          "date": "4/19/2022",
+          "fileNumber": "2022 R 323039"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGQQgCwXKfRRkufICcDzwH6m%2fAZQAuNZ6kg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "TAYLOR SOFIA F",
+          "date": "4/25/2022",
+          "fileNumber": "2022 R 342022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGSjOLkuEcapSXahP5h6rVBf74OjSS%2fuPRA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "8260 BYRON MULTI FAMILY LLC",
+          "date": "5/9/2022",
+          "fileNumber": "2022 R 377304"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGSjOLkuEcapSPdaKmuHHdZQyDQw9vcojUQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "8260 BYRON MULTI FAMILY LLC",
+          "date": "5/9/2022",
+          "fileNumber": "2022 R 377305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGR%2feXVGiqHOp88vehL%2bb3y568kweFaEUjw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "VGAZM HOLDINGS 1312 LLC",
+          "date": "5/24/2022",
+          "fileNumber": "2022 R 420245"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGR%2feXVGiqHOp6ssVa3i%2fzhB4sABIX%2biHSw%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "VGAZM HOLDINGS 1312 LLC",
+          "date": "5/24/2022",
+          "fileNumber": "2022 R 420246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcmK3aOon7%2bc5cSCRzKl8hnlLLJYwvjPKA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MENDEZ RODRIGUEZ JORGE L",
+          "date": "7/12/2022",
+          "fileNumber": "2022 R 555607"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcmK3aOon7%2bcr8Wv6CysNc09syz8sY3zVg%3d%3d",
+          "type": "AGR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MENDEZ RODRIGUEZ JORGE L",
+          "date": "7/12/2022",
+          "fileNumber": "2022 R 555608"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGZkddq7%2bnJCyNeo0wV2w9XjvCzrC%2bzcBfw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CONTINENTAL SERVICES & CARRIER INC",
+          "date": "8/2/2022",
+          "fileNumber": "2022 R 610825"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGZkddq7%2bnJCyc7VxZrXgpe%2fU7dDsTWL4Lg%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CONTINENTAL SERVICES & CARRIER INC",
+          "date": "8/2/2022",
+          "fileNumber": "2022 R 610826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGZkddq7%2bnJCyfCqa%2fFE7X%2bvaQ13Igld3Hw%3d%3d",
+          "type": "AGR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CONTINENTAL SERVICES & CARRIER INC",
+          "date": "8/2/2022",
+          "fileNumber": "2022 R 610827"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGZkddq7%2bnJCy6NgtkNcloLORIPWHkODRmQ%3d%3d",
+          "type": "FST",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CONTINENTAL SERVICES & CARRIER INC",
+          "date": "8/2/2022",
+          "fileNumber": "2022 R 610828"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGSFFfaPKNFrkftsgMntMV1n9U9hTQ1%2bxgg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "RE ARAGON 221 LLC",
+          "date": "8/26/2022",
+          "fileNumber": "2022 R 675079"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGSFFfaPKNFrknjkd3h8q%2babrsC9lDR1VRg%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "RE ARAGON 221 LLC",
+          "date": "8/26/2022",
+          "fileNumber": "2022 R 675080"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGTAtyJ5hOSXHaS%2ffqXUrH26SSEmOnbwrWw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "WEST BRETT A",
+          "date": "8/31/2022",
+          "fileNumber": "2022 R 684083"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGeeMYeCZLXhsVWzr3LAd1TuQsHEPe2pT7Q%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "U TT INTERNATIONAL INC",
+          "date": "9/9/2022",
+          "fileNumber": "2022 R 707009"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGf8P1sj4V5hLR89Lha2TXd98mtOmJLu5CA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "KEMPTEN GROUP INC",
+          "date": "9/16/2022",
+          "fileNumber": "2022 R 728387"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGf8P1sj4V5hL6HV4JYyMCH8rN9eTqIP3IQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "KEMPTEN GROUP INC",
+          "date": "9/16/2022",
+          "fileNumber": "2022 R 728388"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcgDDk7rcyrHqzPjFBEattyDRO115wff1g%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ROSENBAUM SCOTT",
+          "date": "10/17/2022",
+          "fileNumber": "2022 R 793689"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGRV%2bqsN%2b55wE2le06s12gVroCg35dtt7Mg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "BULKLEY JAMES W",
+          "date": "10/20/2022",
+          "fileNumber": "2022 R 804714"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGQBrtgxLghT70kAEaucjJRQjA53VnDMLPA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DEPASQUALE LAURA R",
+          "date": "10/21/2022",
+          "fileNumber": "2022 R 807804"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWn%2bMNOFo8FnYgjbByL%2fcGi6Mn%2b06IKjsA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MINISTERIO MANASES INC",
+          "date": "10/21/2022",
+          "fileNumber": "2022 R 809356"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWn%2bMNOFo8FnYgjbByL%2fcGi6Mn%2b06IKjsA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MINISTERIO MANASES INC",
+          "date": "10/21/2022",
+          "fileNumber": "2022 R 809356"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWn%2bMNOFo8FntyDkd4jUuWAGZpwi4IfiIw%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "MINISTERIO MANASES INC",
+          "date": "10/21/2022",
+          "fileNumber": "2022 R 809357"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGb3DvYTFYnjdIC3PizAp2pujBmljngvkLQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FAITH GF HOLDINGS 2 LLC",
+          "date": "11/4/2022",
+          "fileNumber": "2022 R 846491"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGb3DvYTFYnjdZVT6VTRvDP0WLgwwiyagrQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FAITH GF HOLDINGS 2 LLC",
+          "date": "11/4/2022",
+          "fileNumber": "2022 R 846492"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGa1kzP3h6vC5SiUyQq%2f0gJGh3Z9LQ9rWig%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "GARAY BENJAMIN",
+          "date": "11/21/2022",
+          "fileNumber": "2022 R 880804"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGbyPxWb2X%2boiSgplk8UO5uDlSKPQxRxadw%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "GAYLIS OPPORTUNITY HOLDINGS LLC",
+          "date": "11/28/2022",
+          "fileNumber": "2022 R 891700"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGbyPxWb2X%2boit%2f58z5JESm4%2byB3dPAXClA%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "GAYLIS OPPORTUNITY HOLDINGS LLC",
+          "date": "11/28/2022",
+          "fileNumber": "2022 R 891701"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWHA1MHDyGE4n2tI7nWO6leCrC7V3ym%2fPg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "RD HQ MIAMI LLC",
+          "date": "12/22/2022",
+          "fileNumber": "2022 R 953718"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWHA1MHDyGE4n2tI7nWO6leCrC7V3ym%2fPg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "RD HQ MIAMI LLC",
+          "date": "12/22/2022",
+          "fileNumber": "2022 R 953718"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGWHA1MHDyGE4jc5EfnOVcVYGoSerjztnIg%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "RD HQ MIAMI LL",
+          "date": "12/22/2022",
+          "fileNumber": "2022 R 953719"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpx6lQKqpZfLDhh0SGGRY%2fAKYGa0UB7Ih6g%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CALO ANTONIO",
+          "date": "1/20/2023",
+          "fileNumber": "2023 R 41725"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1thR8zQ9MJ2ags%2bjg7FodopCQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248017"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1th5hzNNx6I0QULa5Dm%2bSXKTg%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248018"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1th96sVcYRnpZ7DdPN73GvAAg%3d%3d",
+          "type": "AGR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248019"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1thKcndITbq4Ye20oPVT4YFig%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248020"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1thsH1%2fE89OCSogCBZEQPFX9g%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248021"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyyz4cpuf1thLh9GR8mfc1yQ6XJ%2fnsOuNQ%3d%3d",
+          "type": "AGR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SPINELLO LLC",
+          "date": "4/13/2023",
+          "fileNumber": "2023 R 248022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp7BfUp4WCH9uZJjYP52qsywFoTZ6%2f9wSDg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "AML337 LLC",
+          "date": "6/1/2023",
+          "fileNumber": "2023 R 368708"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp7BfUp4WCH9uXO5NG4YqFRsl06pC00z5aQ%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "AML337 LLC",
+          "date": "6/1/2023",
+          "fileNumber": "2023 R 368709"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2UlYDThoPj0Mqip9N3ZEmXy3v7qkpEmXA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FAHMY NESSIM ELIZABETH E",
+          "date": "6/5/2023",
+          "fileNumber": "2023 R 380492"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpz%2bvab%2bxxubm0TIKufw6M%2fgDuAitcX0tHg%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "OPHTHALMIC SURGICAL HOLDING LLC",
+          "date": "6/6/2023",
+          "fileNumber": "2023 R 385476"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpz%2bvab%2bxxubmIqwPEgPMSIF%2bGnZsL417FA%3d%3d",
+          "type": "ASG",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "OPHTHALMIC SURGICAL HOLDING LLC",
+          "date": "6/6/2023",
+          "fileNumber": "2023 R 385477"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyMO4T4Io0j4YXHfMS9ZTLVkeZcfhYFRmA%3d%3d",
+          "type": "MOR",
+          "firstParty": "SOUTHSTATE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DIAZ LUCIO J",
+          "date": "6/20/2023",
+          "fileNumber": "2023 R 415245"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fJVUAzvo6776dqwHpta0lbg9wUnaSvQpnA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "4/17/2003",
+          "fileNumber": "2003 R 212004242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fBtZflszuC62RVDk6HVdTRKR0Euir9h01g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "4/17/2003",
+          "fileNumber": "2003 R 212561896"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOm3%2fUmOKG3W%2fm5qbJxBDvKPlVL4HXiA8A%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONTELEONE RAYMOND",
+          "date": "5/29/2003",
+          "fileNumber": "2003 R 212614613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOIdl1pn5b4cpDzU%2bEO4hnkMB69bR%2bZEMw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "A B DEPENDABLE SVC INC",
+          "date": "6/5/2003",
+          "fileNumber": "2003 R 212953026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fHyc0NAVXebtTmZU72uSOWlQOSzg7kCctg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "LUQUE ROBERTO",
+          "date": "11/24/2003",
+          "fileNumber": "2003 R 218391082"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfkohzJsgHhWmYRH50kn6XflVhAlny4svlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "8/16/2004",
+          "fileNumber": "2004 R 705876"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfqtgHR1%2fTw%2fIs4InMwhGHNM6QAjQILhdpw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "9/14/2004",
+          "fileNumber": "2004 R 802865"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtftOlouIXPjlCdn9gm0EaXb2qqAsOX9aGvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "12/2/2004",
+          "fileNumber": "2004 R 1071096"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8a2jYwsLNkmMqMgUNNTNDTEEK2vFnKLUwA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "1/10/2005",
+          "fileNumber": "2005 R 30470"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8QtdoSnZZPAFABLLO0plHesGTlzZ6Jo0%2fw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "3/15/2005",
+          "fileNumber": "2005 R 250975"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8am0axr48oR29ySOF3tF64aU8Bud1XG00g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONTELEONE RAYMOND",
+          "date": "3/21/2005",
+          "fileNumber": "2005 R 275281"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8R0rUOGwrnu88GNZFdmEADXxR6hdD6sDPQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "S & J PLASTERING & LATH INC",
+          "date": "5/26/2005",
+          "fileNumber": "2005 R 539369"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8TmX2nOM4DM2NoXsf2L0Nleyo2UEyyHJtA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOWARD DEVONNE",
+          "date": "6/3/2005",
+          "fileNumber": "2005 R 570363"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpauiCDqGII4gdA9BlnmBokLhKPL%2bmW8pu%2fA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "J M Y DEVELOPERS INC",
+          "date": "12/4/2007",
+          "fileNumber": "2007 R 1148915"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpau3KkWdCyw%2fGO3kY0KERJR0Aj%2f%2bDhaPKeQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "12/19/2007",
+          "fileNumber": "2007 R 1198075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jbo%2bioa7a0Fu4DGleWoVVryMGg4KUVQJGA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "1/2/2008",
+          "fileNumber": "2008 R 2343"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jdjpxq9T6Eb7LiDoYNXgXkp7wqv58PbbpQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "3/18/2008",
+          "fileNumber": "2008 R 225219"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jTXCz6kKILluwguZHH9ChTcy%2bNdtqx%2feew%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "3/24/2008",
+          "fileNumber": "2008 R 241156"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jShp0LA86jWDZxsoB%2b4aJSIyAX2vTrcCcA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "5/27/2008",
+          "fileNumber": "2008 R 431004"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jakLP6dO9c9ybiYdMVpt5YiBoyIrxzjCKg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "7/1/2008",
+          "fileNumber": "2008 R 541300"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jakLP6dO9c9yvMUyw4MToxljbGx34Ws%2bxQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "7/1/2008",
+          "fileNumber": "2008 R 541305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jcqYgwiAF0dVB4eHhyzNUhdvga9f31kedQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "HERTZ EQUIPMENT RENTAL CORP",
+          "date": "7/14/2008",
+          "fileNumber": "2008 R 575824"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jRcNUA9dE8g7JVHPIxE0BLIZ1%2feU5RpVWA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "HERTZ EQUIPMENT RENTAL CORP",
+          "date": "8/14/2008",
+          "fileNumber": "2008 R 668986"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jRzi3tJoV5g1ACoQ8Gtk3Ag3vTi9zjQPwA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "11/25/2008",
+          "fileNumber": "2008 R 954403"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7kp6yZ4PJeXx8iN%2fLWd9Ejk0VE%2bFoBkhmA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "9/10/2009",
+          "fileNumber": "2009 R 656431"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7vp%2fhd5NRMF8ZP48c5zS%2bJaht4LPywP3Kg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "9/23/2009",
+          "fileNumber": "2009 R 686488"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7lI8NriCR4TqN62o80Kl%2bYY27VJxH8e6Pw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "9/29/2009",
+          "fileNumber": "2009 R 701665"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7v%2fAutR10d7ekXVtuQnUYMDtqMpmpF70Pg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "11/20/2009",
+          "fileNumber": "2009 R 836280"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7lIXZEA%2bcazVdB4pzIm06WCVxUfFGHNxZA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/11/2009",
+          "fileNumber": "2009 R 883916"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7ugqaUQoDlAPo%2f2Tj6OTrqrfBuTk%2fPYW6g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/15/2009",
+          "fileNumber": "2009 R 893330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7uUfhPw1jSz9XffRPu17l7Y3vxGkyf9zpA%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "12/16/2009",
+          "fileNumber": "2009 R 894798"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mooylJMs7edybq3nZyL%2b0h3lCeUW27rOUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "S & J PLASTERING & LATH INC",
+          "date": "1/27/2010",
+          "fileNumber": "2010 R 55515"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mh%2bX5p7j%2fFsYJ7Hli%2bm7Ei0Kj6I%2bbgPuyQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "3/29/2010",
+          "fileNumber": "2010 R 208352"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mlgPKIbLwvaMHmiPw%2bViGZq9WbPNlXZyqw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "VALENCIA HERNANDO",
+          "date": "7/1/2010",
+          "fileNumber": "2010 R 442976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mnagMOgQdgVVDdFY%2fKXm9lE9Jx80EBsHhQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GALENUS COMPLEX CONDO ASSN INC",
+          "date": "9/23/2010",
+          "fileNumber": "2010 R 646911"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYLO99UThpentBoXijFME%2bShIdp2qkG27Gw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "JIDY RAUL (JR)",
+          "date": "5/25/2011",
+          "fileNumber": "2011 R 341437"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIc0KK%2bZAEqlc9eftjzDcppcOFjDZCP9yw%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MIAMI DADE CTY REGULATORY AND ECONOMIC RESOURCES DEPT",
+          "date": "1/21/2015",
+          "fileNumber": "2015 R 37787"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMiIqMZ9rhklHrIMZFz3EoCaDsmf5E%2bCbhA%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TRUST CO",
+          "date": "1/15/2016",
+          "fileNumber": "2016 R 29512"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMiIqMZ9rhklH4FmoyQqakj3x656qTpMgJQ%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TRUST CO",
+          "date": "1/15/2016",
+          "fileNumber": "2016 R 29513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMntcDTGlHbECr4tBuBnScWo51CNLGwxjVg%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MIAMI DADE CTY REGULATORY AND ECONOMIC RESOURCES DEPT",
+          "date": "2/24/2016",
+          "fileNumber": "2016 R 112947"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgsdJuOA2wHuDEyFHoSoYqk%2bRXQ680hX9A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "GIBRALTAR PRIVATE BANK & TR",
+          "date": "6/16/2016",
+          "fileNumber": "2016 R 351204"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgsdJuOA2wHu%2fBSQUNo9yVIVTpXFFp25AA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HAWLEY XAVIER",
+          "date": "6/16/2016",
+          "fileNumber": "2016 R 351207"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMnevD2pH2rVKtsKxIi4r%2feQyupQS0pML7Q%3d%3d",
+          "type": "DCP",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "HOLLAND & KNIGHT LLP",
+          "date": "8/25/2016",
+          "fileNumber": "2016 R 498689"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMlHqiYD5pTOXsLVR%2fXjgXLb8%2bbkUlVrJ7g%3d%3d",
+          "type": "REL",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "12/14/2016",
+          "fileNumber": "2016 R 717662"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1nW1xNd%2f1VrOVrZHGuQx3Vw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "MONZON GILBERTO R JR",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432301"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1UaGSMZkGAfD8vVjsICj1%2fw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432303"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1rHf%2bF%2bOJczfR6HNNpDL2pA%3d%3d",
+          "type": "ASG",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432304"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTgllFrTk4nL1CS%2boKr4ihsJFs4DyuJB3nQ%3d%3d",
+          "type": "FST",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "CENTERSTATE BANK NA",
+          "date": "7/27/2017",
+          "fileNumber": "2017 R 432305"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnWdsyCF4cB75rV5RsVZ8g1M%2bTUHv6M4C9Q%3d%3d",
+          "type": "LIE",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (R)",
+          "secondParty": "STATE OF FLA",
+          "date": "3/8/2019",
+          "fileNumber": "2019 R 150022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnfimwtXp9o%2buHQVeJ5dkgf6kekR7U4Ytfw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GYLMAR DEVELOPMENTS INC (D)",
+          "secondParty": "U S SMALL BUSINESS ADMINISTRATION",
+          "date": "7/23/2019",
+          "fileNumber": "2019 R 458715"
+        }
+      ]
+    ]
+  }
+]

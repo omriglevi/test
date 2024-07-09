@@ -1,0 +1,3803 @@
+[
+  {
+    "caseNumber(Count)": "2018-033103-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$238,934.66",
+    "parcelID": "01-3113-050-0210",
+    "assessedValue": "$56,569.00",
+    "propertyAppraiserLegalDescription": "LOT 7, BLOCK 2, NORTH ROCKMOOR TRACT, ACCORDING TO THE PLAT THEREOF, RECORDED IN PLAT BOOK 4, PAGE 181, OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA. PROPERTY ADDRESS: 52 NW 61ST ST, MIAMI, FL 33127",
+    "partyDetails": [
+      {
+        "DEFENDANT": "NAISSANCE, GOLA"
+      },
+      {
+        "DEFENDANT": "UNITED STATES OF AMERICA ACTING ON BEHALF OF THE S"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Melich, Aimee T."
+      },
+      {
+        "PLAINTIFF": "NATIONSTAR MORTGAGE LLC"
+      },
+      {
+        "PLAINTIFF AKA": "CHAMPION MORTGAGE CO"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Chin- Duncan, Karissa"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Chin- Duncan, Karissa"
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=0131130500210",
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "floors": 1,
+    "municipality": "Miami",
+    "lotSize": 5617.8,
+    "primaryLandUse": "0802MULTIFAMILY 2-9 UNITS : 2 LIVING UNITS",
+    "livingArea": 1714,
+    "yearBuilt": "Multiple (See Building Info.)",
+    "primaryZone": "DUPLEXES - GENERAL",
+    "subdivision": "NORTH ROCKMOORE TR",
+    "neighborhood": "GRANADA",
+    "buildingArea": 1861,
+    "description": "MULTIFAMILY 2-9 UNITS : 2 LIVING UNITS",
+    "units": 2,
+    "siteAddress": "52 NW 61 ST, Miami, FL 33127-1240",
+    "totalValue": 355344,
+    "qualifiedOwner": [],
+    "owners": [
+      {
+        "name": "GOLA NAISSANCE",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQHtIyVv%2f%2fZ8tb5AV3%2f2kabxZDijxiO1Vfw%3d%3d",
+          "type": "DEE",
+          "firstParty": "NAISSANCE GOLA ET AL (R)",
+          "secondParty": "CLEMENS MARILYN",
+          "date": "8/3/1988",
+          "fileNumber": "1988 R 280515"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQHtIyVv%2f%2fZ8tJySniIY5wdf4swmJBvU2WA%3d%3d",
+          "type": "MOR",
+          "firstParty": "NAISSANCE GOLA ET AL (D)",
+          "secondParty": "FLORIDA GEN MTG CO OF S FLA",
+          "date": "8/3/1988",
+          "fileNumber": "1988 R 280516"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQJvI0nnJIBsaEamwC2KVnxQRg7eeAOEcZw%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA ET AL (D)",
+          "secondParty": "INVESTORS RESIDENTIAL MTG CORP",
+          "date": "8/11/1988",
+          "fileNumber": "1988 R 290983"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijssxekRrbkMq9UyvirSBv3y8UkxMH9ETag%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA ET AL (D)",
+          "secondParty": "PLATTE VALLEY FD L P",
+          "date": "10/26/1992",
+          "fileNumber": "1992 R 396879"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bz9Dl7RDPIUnviyIqnieEIB3AhpolrnWSA%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA ET AL (D)",
+          "secondParty": "SOURCE ONE MTG SERV CORP",
+          "date": "2/3/1997",
+          "fileNumber": "1997 R 44594"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDXRpbvPp1ytpuKVMEGoyTL2E6uKAfRXb%2bQ%2f9IsWLIrfw%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA ET AL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "3/19/1999",
+          "fileNumber": "1999 R 143038"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fMap1kncjAYmIJm2cF04sD3QHUepSBJrzw%3d%3d",
+          "type": "DEE",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "SIMON OLGA",
+          "date": "9/12/2003",
+          "fileNumber": "2003 R 675688"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fMap1kncjAYmxjlG8%2b9OvoAxlNdzfh7YQA%3d%3d",
+          "type": "MOR",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "OPTION ONE MTG CORP",
+          "date": "9/12/2003",
+          "fileNumber": "2003 R 675689"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fHz0pnap3LG%2bAGcpymP6GI2O9u2KCeVGEg%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "CHARLES ROSE",
+          "date": "12/2/2003",
+          "fileNumber": "2003 R 218113201"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fGouXm5RBrrF4VRPQuJmGWIdZiwkas%2fU%2bg%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "CHARLES ROSE",
+          "date": "12/19/2003",
+          "fileNumber": "2003 R 219121238"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjrncQKNxxz%2bdtfxGp1HDDuDqXuTpS9zBQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "CHARLES ROSE",
+          "date": "9/13/2004",
+          "fileNumber": "2004 R 796373"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8a%2b3TmEbTFbTXTLt35hj06LCM588nM6KFw%3d%3d",
+          "type": "QCD",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "PIERRE MITCHELL ANGELINA",
+          "date": "9/9/2005",
+          "fileNumber": "2005 R 952482"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8aFB3XluHZFY2W%2bPOWyiSRIgrCjD8y6gow%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "CHARLES ROSE",
+          "date": "11/22/2005",
+          "fileNumber": "2005 R 1214571"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S7tpyQelIOq4pZWfIJPmBWlf2p3NVnCnJQ%3d%3d",
+          "type": "NCO",
+          "firstParty": "NAISSANCE GOLAS (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "7/28/2006",
+          "fileNumber": "2006 R 816765"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpatAJZccv%2btZrCmMZK08vwTs9ORU1g8Vgig%3d%3d",
+          "type": "QCD",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "METAYAR EDER",
+          "date": "11/2/2007",
+          "fileNumber": "2007 R 1060738"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpas4ezEr5Y7Zd63aJbo6xEAQmSAgKql5RqA%3d%3d",
+          "type": "SMO",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "11/7/2007",
+          "fileNumber": "2007 R 1075944"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpasL2ySFXl4A9Mhx4Iz2STBC%2bPjZPadnRAg%3d%3d",
+          "type": "LIS",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "WELLS FARGO BNK NA TRU",
+          "date": "11/19/2007",
+          "fileNumber": "2007 R 1103552"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpajWUnsTq9LpEL61gSqK8cdtlH2Uq7B8C8Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "COUNTRYWIDE BNK FSB",
+          "date": "12/13/2007",
+          "fileNumber": "2007 R 1179899"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpajWUnsTq9LpEdITenrr6gtX4ZNBXWu9ABg%3d%3d",
+          "type": "MOR",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "HOUSING & URBAN DEV",
+          "date": "12/13/2007",
+          "fileNumber": "2007 R 1179900"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jU8YJTUsoVcDUOufU3TrDycOSS1jLSmMaw%3d%3d",
+          "type": "SMO",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "OPTION ONE MTG CORP",
+          "date": "1/3/2008",
+          "fileNumber": "2008 R 5130"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jaB7SUndkEnvQoqee4PBTgApTUt0CuDr3A%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "WELLS FARGO BANK (NA) TR",
+          "date": "1/23/2008",
+          "fileNumber": "2008 R 57395"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7sV5A%2bQky%2bJKlAz71%2fTWn%2fWUeX%2bioI3Oig%3d%3d",
+          "type": "CVP",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "DISCOVER BANK",
+          "date": "3/17/2009",
+          "fileNumber": "2009 R 192676"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHHT8JYCVIrysFE7s7zo4JQaUFB07Flixg%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "CHAMPION MORTGAGE COMPANY",
+          "date": "11/15/2012",
+          "fileNumber": "2012 R 821566"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyx0%2f6CYpY8kg8%2bFN7zDY51MY%2bItlHmrz5w%3d%3d",
+          "type": "LIS",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "10/3/2018",
+          "fileNumber": "2018 R 603387"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bneuZfAF5xaYpeVkB7aKe3U6sJCAMWrTjKA%3d%3d",
+          "type": "DCP",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "11/7/2019",
+          "fileNumber": "2019 R 702191"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrQ4wl3Rq4g8zwtD7UsNuxYEQj6H7CeP4GQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "12/11/2020",
+          "fileNumber": "2020 R 714644"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGXbaL4es08yq4Iyv9mCc3yvR6tbqppx7KQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "MORTGAGE ASSETS MANAGEMENT LLC",
+          "date": "5/6/2022",
+          "fileNumber": "2022 R 375471"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp%2fKvJFV4IY1xcjp1j9BPNtOKKKh6oVWirw%3d%3d",
+          "type": "DCP",
+          "firstParty": "NAISSANCE GOLA (R)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "8/23/2023",
+          "fileNumber": "2023 R 588866"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ4A7%2fI5srHP7yn0HClBsuarOM%2fw0hIosKA%3d%3d",
+          "type": "AMO",
+          "firstParty": "NAISSANCE GOLA (D)",
+          "secondParty": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+          "date": "4/1/2024",
+          "fileNumber": "2024 R 244354"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjRj9E917EJbn8%2beoEWkmciOK6Dfx1v7Tg%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "DUBUISSON SANDRA",
+          "date": "5/19/2010",
+          "fileNumber": "2010 R 336734"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkx%2fqDSnAzOlDGR5Jq8tiZXPRL8DOmWnPA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "TOVAR HECTOR MANUEL",
+          "date": "5/26/2010",
+          "fileNumber": "2010 R 352836"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mn0BoHRzry9LklVQE9mzNzFuQOPoHyytww%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LOPEZ JACQUELINE",
+          "date": "6/1/2010",
+          "fileNumber": "2010 R 364550"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mloEOeVOgneSrtiB9HrhI%2fQ1fGj2z0ShQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "SAN MIGUEL JAIRO J",
+          "date": "6/4/2010",
+          "fileNumber": "2010 R 375391"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkxmpP0XlrOBkF6ZVeCddlOMLPImvLOQ3w%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "STONER CHARLES K",
+          "date": "6/9/2010",
+          "fileNumber": "2010 R 387880"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkwbu3NQtPjviLRys7N0O92rmD0K%2bMJQ4g%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ECHEVARRIA ENID",
+          "date": "6/10/2010",
+          "fileNumber": "2010 R 390055"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mrk1L3J3b3xPaI873X6kEcSwqP%2bEoiLBfA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "VERGEZ LUIS MANUEL",
+          "date": "8/25/2010",
+          "fileNumber": "2010 R 577678"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYJyrRk2OwpW8UiRaPIyugwYFPjk6XFOUKg%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "FERRER LUIS",
+          "date": "8/23/2011",
+          "fileNumber": "2011 R 563139"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYCVcr0hQ6f2UQ3uaNgEN6mHSjtAJcuK0sQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "BRUSCIA BRIAN JOSEPH",
+          "date": "9/13/2011",
+          "fileNumber": "2011 R 610650"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLEkGxWFv1z4XzlrHqRUSgFUtjWfjcoJvrA%3d%3d",
+          "type": "DEE",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "COLLINS GREGORY",
+          "date": "2/28/2012",
+          "fileNumber": "2012 R 139098"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOZgKL0yQV6BTHXU9kzFL5TMki1%2ffkWVRw%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ORTIZ CORINA",
+          "date": "3/6/2012",
+          "fileNumber": "2012 R 157395"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCkbIHGWXxmelkKyzi%2brxlknrwULF14zYg%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "DIEGUEZ JUAN C",
+          "date": "3/6/2012",
+          "fileNumber": "2012 R 157661"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDQm13KQBnjpHxM%2bsH3NVqtQlDxoFoaAmQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "PRIETO CARLOS J",
+          "date": "3/6/2012",
+          "fileNumber": "2012 R 160413"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP3Y9MVm5LCKsTl%2bNgSlVck1qTu9VGy%2bTw%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LESSEM MARC",
+          "date": "3/7/2012",
+          "fileNumber": "2012 R 163391"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAmKI5drF5YlBNqlsb75GPLOtUKlRmDr%2fQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "HUNDHAUSEN NATLAIE",
+          "date": "3/8/2012",
+          "fileNumber": "2012 R 165485"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLA%2b4akloSImL7GNojE9lDyeDs6T%2fim6VYA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "GONGORA ALEXIS",
+          "date": "3/8/2012",
+          "fileNumber": "2012 R 165584"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLE7PRoZzgzjcoGQTFzj6YKJTRDNAP2jSEQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "COHL LANCE R",
+          "date": "3/8/2012",
+          "fileNumber": "2012 R 168353"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLO3jPVAMJKy0NUYE6DWM4xQr9zXv0ssTuQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "VARGAS JOHANNA",
+          "date": "3/9/2012",
+          "fileNumber": "2012 R 172017"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPIbCZaQZoV9cyD5xJW5618GzOxgBOa%2f0A%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "IZQUIERDO MICHAEL GARCIA",
+          "date": "3/12/2012",
+          "fileNumber": "2012 R 176854"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFkmV4x80HCjMpJYpnYmdHdSQgFYyE1yvA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "CASTRO MARTHA MARIA",
+          "date": "3/13/2012",
+          "fileNumber": "2012 R 181065"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFSHhGnCSduB7s%2f1M6R3qkJxb1nkWng%2f9g%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "DIAZ ALEXIS",
+          "date": "3/14/2012",
+          "fileNumber": "2012 R 184538"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIKzpwTQMU1quMPem6KSn%2bosfk5ZLTkw4A%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ESQUENAZI ISRAEL",
+          "date": "3/15/2012",
+          "fileNumber": "2012 R 186752"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLc9DjxlRzWrsNpCWyjD26BZcDu7AphbTw%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "HERNANDO LUIS A",
+          "date": "3/15/2012",
+          "fileNumber": "2012 R 187510"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLA2J1I%2fCcCk%2bhTVowfFN9zBjAC%2f1fthuEQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LLANES PDERO A",
+          "date": "3/15/2012",
+          "fileNumber": "2012 R 188242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMJ5UoU6wXN7q2wCmz9RsO99kTvlWNku0Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "LOANCITY COM",
+          "date": "3/16/2012",
+          "fileNumber": "2012 R 189911"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMJ5UoU6wXN7EVhiF9H0Be61dbAvhpHWoA%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "AEGIS WHOLESALE CORP",
+          "date": "3/16/2012",
+          "fileNumber": "2012 R 189919"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLP9Issb62NgAUI%2boj4tvdpTWCdR7ApMQ8w%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LASO ALEXIS",
+          "date": "3/16/2012",
+          "fileNumber": "2012 R 190698"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBzOhiwxWHjRFz6fCrRo6WLvqAZDuWRuFA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "GUTIERREZ AMANDA",
+          "date": "3/19/2012",
+          "fileNumber": "2012 R 192627"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNMJhBY1QGmpLqCWChLPA%2bwBDNPqliWbzA%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "GUTIERREZ AMANDA",
+          "date": "3/19/2012",
+          "fileNumber": "2012 R 193714"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAoZbigxrlEi8H%2fTdDKLBvySNYI5vFVGZQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "FLAGSTAR BANK FSB",
+          "date": "3/21/2012",
+          "fileNumber": "2012 R 199821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGe4ZOPaP%2bD3ySwoTaNJvJM3gvemr4W12A%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "TAMAYO FINANCIAL SERVICES INC",
+          "date": "3/21/2012",
+          "fileNumber": "2012 R 200095"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPXyN1hON7Kl5PD5GuMoPT0Nyt6KZlW%2fow%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC.",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 213583"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPXyN1hON7Kl1s7NrMmTIDfN1wEB9GSFhQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 213586"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPXyN1hON7Kl%2bzcHN9keKyluI56ZCT3DRg%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 213591"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPXyN1hON7KlcepZX%2bAvp5nMLZDwrX0y2Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 213599"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMeWYVU77%2b7vXhzHbQsfb5v7aJoBjqQY3w%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 213619"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLEmTC5L0U4WqvyG0vfVSVUyXHHvd4X46zg%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "PEAK FINANCIAL SERVICES",
+          "date": "3/28/2012",
+          "fileNumber": "2012 R 217199"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBnLXLeeNuTaKJ9AmkRUnTHPesXq6WVKug%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ALANIZ LUIS F",
+          "date": "3/28/2012",
+          "fileNumber": "2012 R 217680"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKFm8Zd6SJ7K3lM9JUmEZzusZ8WcxIE7Mw%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ECHEVERRI MARISOL",
+          "date": "3/28/2012",
+          "fileNumber": "2012 R 219824"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCpWF08AVuE87Jibiha%2f7VbgB4x70BrsKQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "ALONSO DAGOBERTO",
+          "date": "3/28/2012",
+          "fileNumber": "2012 R 219956"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBa3O2%2fjn9T4GiNwgSi1w9fmRfF7iyiY3g%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "PEREZ JOSE R",
+          "date": "3/29/2012",
+          "fileNumber": "2012 R 223130"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLM9przRnMM4w8tqrLeVikqFbcT98l2%2bOCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "FLUAYU DIMY",
+          "date": "3/30/2012",
+          "fileNumber": "2012 R 226104"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAf0YmqLG9dMN0OPMgoIBayRx4oGBk%2bGfQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LEAN PATRICIA",
+          "date": "4/3/2012",
+          "fileNumber": "2012 R 234709"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAf0YmqLG9dMotwf8XPqspZeQNg9CmKC3g%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "GILES SEZZIE D",
+          "date": "4/3/2012",
+          "fileNumber": "2012 R 234728"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFTgLicwgb1CSiEERot9BSsaEyFycDJZ5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "RODRIGUEZ RENE",
+          "date": "4/3/2012",
+          "fileNumber": "2012 R 236460"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLxK5tQXflXMDbR7xnTZV7XE9mNb%2f0yzUw%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "4/5/2012",
+          "fileNumber": "2012 R 242834"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLxK5tQXflXMI6A%2b%2fVdGW6X2IOZP7kVcww%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (R)",
+          "secondParty": "LIBERTY HOME LENDING INC",
+          "date": "4/5/2012",
+          "fileNumber": "2012 R 242887"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIqHN6byzhlNkJcTbOcs%2bDNoinLmW4BWjA%3d%3d",
+          "type": "DEE",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "FEDERAL HOME LOAN MTG CORP",
+          "date": "4/10/2012",
+          "fileNumber": "2012 R 254958"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLD%2fPVrVrIUe5JcBvxJRT1Isd7JaXpGpk2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "LANDRIANA STEPHANIE",
+          "date": "4/24/2012",
+          "fileNumber": "2012 R 288393"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLD%2fPVrVrIUe5XCnBMwfy458QhmYXUw9D2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "NATIONSTAR MORTGAGE LLC (D)",
+          "secondParty": "EISENBERG SHARON D",
+          "date": "4/24/2012",
+          "fileNumber": "2012 R 288394"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLARJqE4beHS4n%2fdRCIjWfMo%2fVmncNCEmyw%3d%3d",
+          "type": "CVP",
+          "firstParty": "CHAMPION MORTGAGE CO (D)",
+          "secondParty": "VALLE VICTOR",
+          "date": "6/5/2012",
+          "fileNumber": "2012 R 395300"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFOhCPLRwRmkqO6SlKkGgGLdcThE0MAg4g%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "6/19/2012",
+          "fileNumber": "2012 R 429841"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOrP%2fLozklhNKgFSlLjT6HbOCxTYeYd06Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "9/24/2012",
+          "fileNumber": "2012 R 673868"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBMcJY41yIMW61zKqZqWCbWAUvn2%2bmh8eQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "9/28/2012",
+          "fileNumber": "2012 R 690662"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNf%2bfd3p%2fjhPP7Ro5Yyo2Du58RsUW4cmEA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA N A",
+          "date": "10/2/2012",
+          "fileNumber": "2012 R 699217"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHqHlRrKbuyJgVLEHBUUaFKlnbJqgRpwFw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "10/29/2012",
+          "fileNumber": "2012 R 770348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGEAI95JIJeLNr72nEgR3ATqqtaMYfRw3g%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE CO (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "10/29/2012",
+          "fileNumber": "2012 R 773242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDYsDcKTWrXvt%2bTeI3iOnCrIv1ITYg02Og%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "METLIFE HOME LOANS",
+          "date": "10/30/2012",
+          "fileNumber": "2012 R 773651"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMU5IP4SjIbVT5tSRiTVbYR%2bSuP86lhjwg%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "METLIFE HOME LOANS",
+          "date": "10/30/2012",
+          "fileNumber": "2012 R 773801"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPvEuGQdtHkmQym1UPvSnHgIUK32Bbay7A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "11/5/2012",
+          "fileNumber": "2012 R 796006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPvEuGQdtHkm0WOCL%2b599N2AksuE2Kcp2g%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "11/5/2012",
+          "fileNumber": "2012 R 796010"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDKXQBKxaPeuW%2f5PyUvhaWxDrShW3Oe31w%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "METLIFE HOME LOANS",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 801131"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDKXQBKxaPeuQnX0rYEJ1er90mm6hD15Sw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "METLIFE HOME LOANS",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 801166"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN4WwO2V1SDYqsvuBnVIbNpJ7hSJFQJc%2fw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/12/2012",
+          "fileNumber": "2012 R 812740"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriPOPDy9WGXpy2BBFiNonk8A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813942"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQri%2fNT%2bvl5ZIckhRqyvSqP%2fXQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813945"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriyy2wG4QQ0FK14%2briNkNEyg%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813950"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriGS3SQo2mCjM9yc4nH7775A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813954"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQri%2fYHulpjCiMtDQekQvlVLAw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813964"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQri1dYVJNMYCT3chSRbXnEKng%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813969"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQrimigCkaJg38igydVU6fKq7A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813974"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriltoxgdyY9ieNwkXicSDYbQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813977"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriemlHqrisB19Lf%2f93tyyg%2fA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813982"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriBk5Cbh37tZj4pcAwbxgmAw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813986"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQriBIuP22vowdE8lDlN1T6FuA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813988"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQri8727g8XjM8rd%2f8ZiQ7p0XA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813991"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQrit3Vsg71ifKr6jm8H3CBWBQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813994"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBAyEMRjkQri06RdtN%2bYvF5dtxGKvBwAaA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 813995"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtV%2fNcmIwuPHLChFLyFRkLAg%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814007"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt3H2YfG0ekZMX92cP2DOWEA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814021"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtkVAoPVlkx9WGApzShutFeg%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814023"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtjk986zu1mmEbkrjluKXLLA%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtS82fZtE2MgDRi%2bmrAZSm8g%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814028"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt56x2MPkAGz47OhBYGxp%2f8A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814033"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYts3iOI0bvWIG5AgTk9szg%2bw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814048"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtsXrN0Z86DvqaVi9kuRrUQg%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814055"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt4WpPIpBA51%2bltUMA8zOFXQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814059"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtbnzoQSS7U%2f7HFRXnEOwATw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814060"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt%2bVPQgLftjdhnjc2Pr9jlyw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814065"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYty%2fNIEXQArGBpHbG0R19r5A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814066"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt%2bYKl%2b1es5mXj0iSAh%2bhEiQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814068"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYtRzxBSDqpv97WdoOFnsXwNw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814087"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLOYNEdQ1RuYt6IuTnGZtw3%2fRJwxteMnN1Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814091"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIadaaKZFIaAfvigQbyOz421Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814100"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIasp0FK5Em82zkn1afT8mUDQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814108"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIaozvcPFeQoU%2fX5a2Hq%2bDQ2A%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814142"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIaNLjWcNnZO%2fw0TY7r59%2bwHw%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814148"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIaf41vCZ%2fd2fzDX%2f9rqZUdaQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814151"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIahTWFhdgNGdKfcIKSP99Yng%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814152"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAk1voo%2bpEIaPm26GwfLo94%2bfut%2bbaco0g%3d%3d",
+          "type": "AMO",
+          "firstParty": "CHAMPION MORTGAGE COMPANY (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "11/13/2012",
+          "fileNumber": "2012 R 814160"
+        }
+      ],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2019-013738-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$573,915.58",
+    "propertyAppraiserLegalDescription": "CONDOMINIUM UNIT NO. A-1956, OF THE GRAND, A CONDOMINIUM, ACCORDING TO THE DECLARATION OF CONDOMINIUM THEREOF, AS RECORDED IN OFFICIAL RECORDS BOOKS 12917, AT PAGE 280, INCLUSIVE OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA, TOGETHER WITH AN UNDIVIDED INTEREST IN THE COMMON ELEMENTS APPURTENANT THERETO AS SET FORTH IN SAID DECLARATION. PROPERTY 1717 NORTH BAYSHORE DRIVE, APARTMENT 1956 ADDRESS: MIAMI, FL 33132-1156",
+    "partyDetails": [
+      {
+        "DEFENDANT": "RAVENEAU, MARCIO"
+      },
+      {
+        "DEFENDANT": "RAVENEAU, SUYAPA"
+      },
+      {
+        "DEFENDANT": "THE GRAND CONDOMINIUM ASSOCIATION INC"
+      },
+      {
+        "DEFENDANT": "AUTOVEST FINANCIAL SERVICES LLC"
+      },
+      {
+        "DEFENDANT": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Amores, Mr Caridad"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Amores, Mr Caridad"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Eisinger, Gregory Ross"
+      },
+      {
+        "PLAINTIFF": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Diskin, Lara"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Diskin, Lara"
+      }
+    ],
+    "violations": [],
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijmCbZcgGxiHzcVqcZJ6Pg8D6aDdejoDOyw%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU MARCIO AQUILES (D)",
+          "secondParty": "RAVENEAU MARGARITA ABADIN",
+          "date": "3/20/1992",
+          "fileNumber": "1992 R 154401135"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijidBaxxoUQqwdwHaw9aOclYFVw4CAZ5%2btQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU MARCIO AQUILES (D)",
+          "secondParty": "RAVENEAU MARGARITA ABADIN",
+          "date": "3/27/1992",
+          "fileNumber": "1992 R 154552331"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZtIKQG%2bya2qrjzeZA2WccwvYQcfARvlQlw%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU MARCIO AQUILES (D)",
+          "secondParty": "RAVENEAU MARGARITA ABADIN",
+          "date": "1/6/1994",
+          "fileNumber": "1994 R 162051976"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beiX9O1GlC44OMB2t7Hud5qU8%2fhXuj1Qw%2fw%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "RAVENEAU HAYDEE M",
+          "date": "4/1/2002",
+          "fileNumber": "2002 R 198392"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beiX9O1GlC44OlkHydQ78hsZFHt6J%2fuTTkA%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "4/1/2002",
+          "fileNumber": "2002 R 198393"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fLf0qYpzZp5YNDOTu6o1QxHpVlZxJdnZQg%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "YASSINE ALI",
+          "date": "8/5/2003",
+          "fileNumber": "2003 R 546054"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fBOLbdPVXLVvHrmGdB9YUUHsUbmJkVsQuQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "HORIZON BNK FSB",
+          "date": "12/11/2003",
+          "fileNumber": "2003 R 919033"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fKAjPf4WslELKw4BPKlkRakm2t1Bz1BT0A%3d%3d",
+          "type": "SMO",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "12/29/2003",
+          "fileNumber": "2003 R 959524"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtflDacohg270zm7fO7U6MSkyyTg6J0hbcWg%3d%3d",
+          "type": "SMO",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "YASSINE ALI",
+          "date": "1/28/2004",
+          "fileNumber": "2004 R 62389"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfpXRdQLM1Gtf7LcFqSpBUVSkL%2bM2dGXxKQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "2/4/2004",
+          "fileNumber": "2004 R 78623"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfjkU0fvdVEPHSPjMY0feY%2f5Scf%2fUfhaLrQ%3d%3d",
+          "type": "REL",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "3/26/2004",
+          "fileNumber": "2004 R 208267"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfnKPVyhDONOENolh82S%2fKruditQykGJDQg%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "10/25/2004",
+          "fileNumber": "2004 R 935441"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8Q8bA656Zq%2b52xYZOO5y96%2fpmtHJrEvL9Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "1/4/2005",
+          "fileNumber": "2005 R 9800"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8b4dOHGv%2b%2fQS1yR3THAuAREES6kQFf98SQ%3d%3d",
+          "type": "AGR",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK N A",
+          "date": "1/4/2005",
+          "fileNumber": "2005 R 9801"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fKNVKOo671ClKHwINNwKjzfHfWwizojVA%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "8/3/2005",
+          "fileNumber": "2005 R 807997"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8TWv6RvPv2TLusJ2lXtTFtkTI0Au%2ftjugQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "11/9/2005",
+          "fileNumber": "2005 R 1169126"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SzgHKm%2bclue9dO6WfN1vlVBnmLIF9%2bn2HA%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "4/3/2006",
+          "fileNumber": "2006 R 354730"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S71NcITXPWFE30hfI3S82%2ffAt11YGBgwQA%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "6/8/2006",
+          "fileNumber": "2006 R 624021"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S0GAo6UiI1FuWLOANX0h4iNlpsC32EiFZQ%3d%3d",
+          "type": "REL",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "7/26/2006",
+          "fileNumber": "2006 R 802343"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S6CAU5eDwkSqmWQNRD5jyl5RjG%2bfb4vL%2fA%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "8/7/2006",
+          "fileNumber": "2006 R 850769"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahUFFVEs9qMVLmbLXUUBp2bOAxuaQrOROQ%3d%3d",
+          "type": "QCD",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "RAVENEAU SUYAPA",
+          "date": "5/16/2007",
+          "fileNumber": "2007 R 496398"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZxv8BRXt69NS9LBTqwJ%2bhGGDEbXhVKEGA%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "5/7/2008",
+          "fileNumber": "2008 R 374859"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jYhBx%2b2zTOCeMtFB2h8YJxHINLXzHanDUw%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "5/12/2008",
+          "fileNumber": "2008 R 389387"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jfclYr%2bEb3uDPTk15cA5894vIvTaaXyxzw%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "5/16/2008",
+          "fileNumber": "2008 R 405153"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jWSyA4E4umQiId9UblwYNUgdicFxj9dDUA%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "9/12/2008",
+          "fileNumber": "2008 R 747766"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZqwXE1k4r%2bTnlcaidppahd0d0YC%2bmZNvQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "10/21/2008",
+          "fileNumber": "2008 R 857733"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7vvBCcxrpsakCvKFY8q%2bxtzH8tf3owRwDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK (FA)",
+          "date": "12/3/2009",
+          "fileNumber": "2009 R 865136"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mmkQuQITpPqWtO8EAzHvUJbhAzFWjQkstw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK (FA)",
+          "date": "9/3/2010",
+          "fileNumber": "2010 R 602457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYFK0KlEFg4TxzbdiJUb5Waia0%2fIKmykexw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "2/3/2011",
+          "fileNumber": "2011 R 77354"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYJTMc4Aj0posnTrqthGu309KA95u%2bJ1Jcg%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO A (R)",
+          "secondParty": "AUTOVEST FINANCIAL SERVICES (LLC)",
+          "date": "10/25/2011",
+          "fileNumber": "2011 R 720328"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLInqTQ4DA2qwPbk3R52hMpWLHYfl%2b99yEA%3d%3d",
+          "type": "JUD",
+          "firstParty": "RAVENEAU MARCIO A (R)",
+          "secondParty": "AUTOVEST FIN SERV LLC",
+          "date": "2/27/2012",
+          "fileNumber": "2012 R 132133"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLL6rDLiS5U0Jqw8h1h%2bFg5OTBaTHyKMFRw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "4/30/2012",
+          "fileNumber": "2012 R 303663"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDqMgl%2bFXjhtVNgKblvogE6%2fC4q3UaB3Zw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "5/24/2012",
+          "fileNumber": "2012 R 369138"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAw6vrGNh%2bCZzxgDUCeaU97bxU2WDXEsHw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "6/13/2012",
+          "fileNumber": "2012 R 416499"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPKCssocUrDVkWAhH5%2bjfsEG78tlGXKWFw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "6/14/2012",
+          "fileNumber": "2012 R 419630"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN9yt5mGsgHHK%2bEC81%2f1oe910ALHUzMfIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "8/28/2012",
+          "fileNumber": "2012 R 607947"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHCQkvII79RPqrRCmbTFHJwyHkbe4yHqZQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "10/20/2012",
+          "fileNumber": "2012 R 750084"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbv4cr3PNrIWPHOaIa8k4w8xhAIE6gMiycw%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "7/19/2013",
+          "fileNumber": "2013 R 567588"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdEgr5Q7b8UVqZAQq7fXb46UKC%2beVR%2fz8Dg%3d%3d",
+          "type": "SMO",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "7/31/2014",
+          "fileNumber": "2014 R 536143"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLKKY8BPNkHXvlYxmsWIeyltXJdUe4oeIg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "8/29/2014",
+          "fileNumber": "2014 R 606937"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLKKY8BPNkHXvlYxmsWIeyltXJdUe4oeIg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO A (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "8/29/2014",
+          "fileNumber": "2014 R 606937"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPcDlc0NPIjWgld%2b%2btWthT5%2byAAZIUb15w%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "10/16/2014",
+          "fileNumber": "2014 R 720357"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPcDlc0NPIjWgld%2b%2btWthT5%2byAAZIUb15w%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU MARCIO A (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "10/16/2014",
+          "fileNumber": "2014 R 720357"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5gzIrHOMthDTHvK1MyfG6WK5FC70kprmw%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "1/4/2018",
+          "fileNumber": "2018 R 7995"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy9M6mnYwzEy7O2NayKOOF4u7oXzfGdJbIg%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "GRAND CONDOMINIUM ASSN INC",
+          "date": "8/3/2018",
+          "fileNumber": "2018 R 471022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy65MwpOnlu2E3LPk%2bUUdBH1eSUwWRQ3isw%3d%3d",
+          "type": "DCP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "11/1/2018",
+          "fileNumber": "2018 R 668227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy65MwpOnlu2EGt8z8E4PIWvxn5AoD7%2f4rw%3d%3d",
+          "type": "DCP",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "11/1/2018",
+          "fileNumber": "2018 R 668230"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnbGvVSCUg4csLErbFaDKrWVa4WdfGyauAw%3d%3d",
+          "type": "QCD",
+          "firstParty": "RAVENEAU MARCIO (D)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "1/17/2019",
+          "fileNumber": "2019 R 33559"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bneo1JHQ%2fRLynGzm5A76sF1n5gs%2b46mrwpg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU MARCIO (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "5/15/2019",
+          "fileNumber": "2019 R 299393"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bna8l%2badSqIeEHo8tTLGKgiDAY7o%2bSCeDNg%3d%3d",
+          "type": "DCP",
+          "firstParty": "RAVENEAU MARCIO A (R)",
+          "secondParty": "AUTOVEST FINANCIAL SERVICES LLC",
+          "date": "9/12/2019",
+          "fileNumber": "2019 R 571891"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74pXRLBxAowUZVz6wDZlFpO3w6HqHgUqasA%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (D)",
+          "secondParty": "KREUZROITHER JOSEF KARL",
+          "date": "10/31/1991",
+          "fileNumber": "1991 R 152512805"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCmuYeVdf1lq7bLoTFJupDvASzssG7eCJoBJo0oXeFrhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (D)",
+          "secondParty": "KREUZROITHER JOSEF KARL",
+          "date": "2/26/1993",
+          "fileNumber": "1993 R 158254610"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDbiGBdfx93cvHUCu9Kxq5dCthwgHZ%2bmQu%2bxMsoNIOAuQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "REYES ANTONIA",
+          "date": "5/6/1998",
+          "fileNumber": "1998 R 181280378"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDbiGBdfx93cvHUCu9Kxq5d3qbei8vLi0bEOrWIRRS6Ag%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "REYES ANTONIA",
+          "date": "5/20/1998",
+          "fileNumber": "1998 R 181280380"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDbiGBdfx93cvHUCu9Kxq5d9WTp7wtB9ExoiBKr9Jd7Ww%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "REYES ANTONIA",
+          "date": "5/20/1998",
+          "fileNumber": "1998 R 181280382"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDbiGBdfx93cpR%2bemVfSsA32LrozbL0SGV7kpG%2fg2vUfQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "KAMANY ENTERPRISES INC",
+          "date": "9/4/1998",
+          "fileNumber": "1998 R 182602613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQMmxaTaCev7N3tPy8fKLt2IHJBIbiu%2bTA%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (PERSONAL ETC) (D)",
+          "secondParty": "R W B INCOME PROPERTIES I LTD",
+          "date": "3/21/2000",
+          "fileNumber": "2000 R 190361407"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XddwTV5S5jiviTaDim4aoAKHgpMbL7HlJw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (PERSONAL ETC) (D)",
+          "secondParty": "R W B INCOME PROPERTIES I LTD",
+          "date": "4/19/2000",
+          "fileNumber": "2000 R 190742962"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D%2bMIrxFL7s%2bJRrle7cxon5O9PLyRZdkh4Q%3d%3d",
+          "type": "FCP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "REYES ANTONIA",
+          "date": "6/12/2001",
+          "fileNumber": "2001 R 197083347"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fPrRHcQ%2fmyeDNxG7CC2xhW8d6YHW7dovlg%3d%3d",
+          "type": "JUD",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "UNIVERSITY OF MIA",
+          "date": "8/5/2003",
+          "fileNumber": "2003 R 546703"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOm3%2fUmOKG3WvPfaVmOxNKlm15QQWR%2bojQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "UNIVERSITY OF MIAMI",
+          "date": "5/29/2003",
+          "fileNumber": "2003 R 212610174"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fOIdl1pn5b4cgn7WTxMfE%2bUNUoRMVhgv8Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "UNIVERSITY OF MIAMI",
+          "date": "6/13/2003",
+          "fileNumber": "2003 R 212982971"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfpx%2bgQl%2fBX%2b1FL4rWfcSMUHqn53%2fIhaSMw%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "GUZMAN JUAN",
+          "date": "12/21/2004",
+          "fileNumber": "2004 R 1141343"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDhLkmzyoPtfpx%2bgQl%2fBX%2b1SyENy4srsSU1JM31b8AulA%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU SUYAPA M (D)",
+          "secondParty": "COUNTRYWIDE HOME LOANS INC",
+          "date": "12/21/2004",
+          "fileNumber": "2004 R 1141344"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S1MS6r42BhCpGsOmotlM%2fdL4CvdP0Eu1zg%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "GUZMAN JUAN",
+          "date": "2/14/2006",
+          "fileNumber": "2006 R 161875"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S1MS6r42BhCpdchgSAsKRrytZBbGyW4F8Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU SUYAPA M (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "2/14/2006",
+          "fileNumber": "2006 R 161877"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S%2f1FSyscFebicoe%2bR7y6soCaGrulG%2bKdRg%3d%3d",
+          "type": "SJU",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "UNIVERSITY OF MIA",
+          "date": "3/10/2006",
+          "fileNumber": "2006 R 257889"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S4IXAF28uCKmWpDOmdBWIXY8tKlYMxq9Hw%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "HALL BRETT D",
+          "date": "5/31/2006",
+          "fileNumber": "2006 R 590074"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S4IXAF28uCKmkb%2bqCyvhFZlV3lShNXX%2bqA%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU SUYAPA M (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "5/31/2006",
+          "fileNumber": "2006 R 590075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S4oCWIzH3BrdtIPBkmSfmJ51UTjUXYUi2g%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU SUYAPA M (D)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "6/20/2006",
+          "fileNumber": "2006 R 672149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpahUFFVEs9qMVLmbLXUUBp2bOAxuaQrOROQ%3d%3d",
+          "type": "QCD",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "RAVENEAU MARCIO",
+          "date": "5/16/2007",
+          "fileNumber": "2007 R 496398"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpapf2kWJQ8aY1%2fk3uRWS%2byWZ7MCsHEmUN2A%3d%3d",
+          "type": "MOR",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK",
+          "date": "9/10/2007",
+          "fileNumber": "2007 R 891991"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZxv8BRXt69NS9LBTqwJ%2bhGGDEbXhVKEGA%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "WASHINGTON MUTUAL BNK FA",
+          "date": "5/7/2008",
+          "fileNumber": "2008 R 374859"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jejiia3Q3BTpy9Ajxr9W9uLUddE7w6nyKw%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "10/2/2008",
+          "fileNumber": "2008 R 806139"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7uOBPUPEg3b3rQ%2f7uCcaxhNWVj7Hm6Lcbg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "3/2/2009",
+          "fileNumber": "2009 R 150359"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7j5xhSIniZoHC5uvnjW86N0qQcohWFqr4w%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "3/5/2009",
+          "fileNumber": "2009 R 162098"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7g7oR37KwAp4tBuJierjS5SBaXsfAUE%2ftg%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "CHASE BANK U S A (N A)",
+          "date": "7/10/2009",
+          "fileNumber": "2009 R 499546"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7tw8%2b0nfDVadmGjraYerciQ5kQIkG6edTw%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "COLLINS CONDO ASSN INC",
+          "date": "8/17/2009",
+          "fileNumber": "2009 R 594829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7kUfKg2chTQrDoJsBhtPXyxDn6MDzYVwAA%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "BANK OF NEW YORK MELLON TRU",
+          "date": "10/27/2009",
+          "fileNumber": "2009 R 776767"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7vvBCcxrpsakCvKFY8q%2bxtzH8tf3owRwDQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK (FA)",
+          "date": "12/3/2009",
+          "fileNumber": "2009 R 865136"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mkVtoLbo75Qy9AU5BQTD%2fmQh2ufkDXiSyg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "5/20/2010",
+          "fileNumber": "2010 R 340272"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mlrmiWV5iMGoxM1qSwKiLAQ7sO%2b6B0fBRw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "6/9/2010",
+          "fileNumber": "2010 R 388104"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mtxRWEPfDzcm2Heflh9bx3JkHzU%2fMy1IQg%3d%3d",
+          "type": "LIS",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "8/13/2010",
+          "fileNumber": "2010 R 550764"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mmkQuQITpPqWtO8EAzHvUJbhAzFWjQkstw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK (FA)",
+          "date": "9/3/2010",
+          "fileNumber": "2010 R 602457"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mmkQuQITpPqWQzPDq%2bRXAtIH7EZWYjdBwg%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "9/3/2010",
+          "fileNumber": "2010 R 602478"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mmNcC0zoYQOWEhfRa3QZ3kikehSpmywOIQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "BANK OF NEW YORK MELLON (THE)",
+          "date": "12/10/2010",
+          "fileNumber": "2010 R 826869"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYKgDQ870zn0sNXw%2bVL3fvZ6YS9PC3%2fAk7g%3d%3d",
+          "type": "CTI",
+          "firstParty": "RAVENEAU SUYAPA (D)",
+          "secondParty": "GRAND CONDO ASSN INC",
+          "date": "2/4/2011",
+          "fileNumber": "2011 R 81348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYM1fTy0CjYuvudROVzQswFKf2we1WHbZ5w%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "GRAND CONDO ASSN INC (THE)",
+          "date": "2/9/2011",
+          "fileNumber": "2011 R 91965"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYBWLg6kfBS4DfsbCJYWantNtr1tCfZwVcA%3d%3d",
+          "type": "REL",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "GRAND CONDOMINIUM ASSN INC",
+          "date": "2/22/2011",
+          "fileNumber": "2011 R 117619"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIasdXG4246ZLF1of%2ftiCgG1uKRbxmeTdA%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU SUYAPA M (D)",
+          "secondParty": "BANK OF NEW YORK MELLON",
+          "date": "3/22/2012",
+          "fileNumber": "2012 R 203890"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDqMgl%2bFXjhtVNgKblvogE6%2fC4q3UaB3Zw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "5/24/2012",
+          "fileNumber": "2012 R 369138"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAw6vrGNh%2bCZzxgDUCeaU97bxU2WDXEsHw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "6/13/2012",
+          "fileNumber": "2012 R 416499"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPKCssocUrDVkWAhH5%2bjfsEG78tlGXKWFw%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "JPMORGAN CHASE BANK (NA)",
+          "date": "6/14/2012",
+          "fileNumber": "2012 R 419630"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLFLqoKJ4houGQSzSb4aLX%2b5NA5AQ9t9VCA%3d%3d",
+          "type": "AMO",
+          "firstParty": "RAVENEAU SUYAPA (D)",
+          "secondParty": "BAYVIEW LOAN SERVICING LLC",
+          "date": "9/10/2012",
+          "fileNumber": "2012 R 639682"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgYuxiBmxMg37RC3JZFsqpLIh8i%2fFpMr6g%3d%3d",
+          "type": "SMO",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "JPMORGAN CHASE BNK N A",
+          "date": "3/15/2013",
+          "fileNumber": "2013 R 200429"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbnu7uIm8eeRPoaGf03uKuGVMcY987a%2b3pw%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU SUYAPA (R)",
+          "secondParty": "U S BNK N A TRU",
+          "date": "4/3/2013",
+          "fileNumber": "2013 R 251852"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtd%2bOoTbx%2f4ay7rNwQy4oP%2fdtO2aE%2fFcYA%3d%3d",
+          "type": "DEE",
+          "firstParty": "RAVENEAU SUYAPA (D)",
+          "secondParty": "PARIS IRMA",
+          "date": "5/1/2013",
+          "fileNumber": "2013 R 345322"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmiB2dwH9i5OxVbjkl6vX0lLs2CX07ORAA%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "BAYVIEW LOAN SERVICING LLC",
+          "date": "6/18/2013",
+          "fileNumber": "2013 R 483404"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblUQ%2ffqq633qMZBtEKkJ2Dhg3u2vHw3QLQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "BANK OF NEW YORK MELLON (THE)",
+          "date": "11/1/2013",
+          "fileNumber": "2013 R 871169"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKKMok1l3xCqrPe5%2f2kx%2bU7Ks%2f0J77qD6w%3d%3d",
+          "type": "LIE",
+          "firstParty": "RAVENEAU SUYAPA M (R)",
+          "secondParty": "COLLINS CONDO ASSN INC",
+          "date": "5/7/2014",
+          "fileNumber": "2014 R 327753"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mpWGiz7IIzxlU15M%2fkbriJGOsRY1hQ0cyw%3d%3d",
+          "type": "CVP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC. (R)",
+          "secondParty": "AUTOMOTIVE CR CORP",
+          "date": "9/29/2010",
+          "fileNumber": "2010 R 661475"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPdU1h1pCr8rDlHxXs%2fzpW4NJQdlxrquAQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "THE BANK OF NEW YORK MELLON",
+          "date": "5/21/2014",
+          "fileNumber": "2014 R 367582"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdO3ZtLgyxvMLjFLNKkuNZJwBmOw%2bgXStjQ%3d%3d",
+          "type": "REL",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CORNILLOT NICOLAS LAFOND",
+          "date": "7/7/2014",
+          "fileNumber": "2014 R 476219"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJXHWnfcuoJt6RE2fxnB3RJHcVvFWyuMzQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC. (R)",
+          "secondParty": "VON KAHLE PHILIP",
+          "date": "11/24/2014",
+          "fileNumber": "2014 R 808456"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdC4gKcKL%2fkt1rABwMnSiVVAtw0fjEzrrmg%3d%3d",
+          "type": "CVP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "BUENO ALBERT",
+          "date": "12/24/2014",
+          "fileNumber": "2014 R 879584"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEPcZpwUABpwlnhjGCYZL6gjcX1W2nbDTQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "JPMORGAN CHASE BANK N A",
+          "date": "9/29/2015",
+          "fileNumber": "2015 R 625888"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBEoAS2YFJChZdXC0Peen3Gf9UBVYJSzqg%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "TAVERNIER DOMINIQUE",
+          "date": "12/28/2015",
+          "fileNumber": "2015 R 814561"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKuVE3Ahblw88zY2qsGKoMHZF21pL76YEg%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "THE GRAND 3651 LLC",
+          "date": "12/30/2015",
+          "fileNumber": "2015 R 819412"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMvVsRiNhxp6CK1gpf6wnGPhRhJ%2fKLUXNxw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "INMAN JOHN",
+          "date": "8/1/2016",
+          "fileNumber": "2016 R 444208"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm3ORE9RF7wH8uVLC3uNNUhdePghRNSUsQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "INMAN JOHN",
+          "date": "8/4/2016",
+          "fileNumber": "2016 R 455106"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTkpS5I8A8cUn61lWqsS5V3utf2B6nULiug%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "HSBC BANK USA NA",
+          "date": "8/21/2017",
+          "fileNumber": "2017 R 485283"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy7Ti5a%2b958WPrgAWGfM8ipQckfrMInkDDw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CALDWELL MARIA",
+          "date": "3/7/2018",
+          "fileNumber": "2018 R 133553"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy09BV9OSCLgbTIgocBL0Un4Xdi%2f0eVQiLw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK FA",
+          "date": "4/13/2018",
+          "fileNumber": "2018 R 223647"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5VaIK6Oo0td3fhmyVqMbmjBM%2f3kVmJTiQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "WASHINGTON MUTUAL BANK FA",
+          "date": "5/22/2018",
+          "fileNumber": "2018 R 302494"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSywPWChZqg8qW%2bVriJHJaOTHnCJdNOVMslA%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC THE (R)",
+          "secondParty": "WILMINGTON TRUST N A",
+          "date": "10/5/2018",
+          "fileNumber": "2018 R 609866"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnViCY0FUV8u0vWM776noe4iEqevb2Eg7VQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "US SAPI LLC",
+          "date": "2/22/2019",
+          "fileNumber": "2019 R 113347"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnViCY0FUV8u0oMfFYRUQ%2fN%2b2ff5i3p1QnQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "GUILLEN RODOLFO",
+          "date": "2/22/2019",
+          "fileNumber": "2019 R 113351"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnViCY0FUV8u0AWN5iJbsq7qpdWLJvnUciA%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "ATABAKI KOUROSH R",
+          "date": "2/22/2019",
+          "fileNumber": "2019 R 113354"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnfWnZA9yMOUPMzA6CTB27%2fSyxjkv7zGd1g%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "THE GRAND 3651 LLC",
+          "date": "2/28/2019",
+          "fileNumber": "2019 R 130454"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnYecPwlMpUuLvHm41mX4JMQGoH7UHUuIMw%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "3/7/2019",
+          "fileNumber": "2019 R 148991"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bneo1JHQ%2fRLynGzm5A76sF1n5gs%2b46mrwpg%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "5/15/2019",
+          "fileNumber": "2019 R 299393"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnS5DKBW8AdjSlKadUJpzRXLQlqtGpWk3kw%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "9/20/2019",
+          "fileNumber": "2019 R 592523"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnbtpYxenOia%2bgADmhRvNYi05VWozY%2fiY%2bw%3d%3d",
+          "type": "AFF",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "date": "9/26/2019",
+          "fileNumber": "2019 R 601780"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnexPFanOnTP%2bvTDq7Fs%2ftXnfJkL0905iag%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "WELLS FARGO BANK NATIONAL ASSOCIATION AS TRUSTEE F",
+          "date": "10/10/2019",
+          "fileNumber": "2019 R 636337"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnUTDt52UrgNWBsjyN%2flkFdJnmgW6VSEMzw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CILINGER TAYFUN MEHMET",
+          "date": "10/10/2019",
+          "fileNumber": "2019 R 637586"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnU%2bqkd1lfWwKfd3KvF%2fMKMpSY2MooCp79w%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "11/25/2019",
+          "fileNumber": "2019 R 736354"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnR9vNHEZlr9Yd6C2bgwUL2IDAf%2bvdMGCjg%3d%3d",
+          "type": "LIS",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON THE",
+          "date": "12/31/2019",
+          "fileNumber": "2019 R 811584"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrXwNyAT4KUSdj6kxjuJ1Uy%2ftWC%2f5SFNnuA%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "DEUTSCHE BANK NATIONAL TRUST COMPANY TR",
+          "date": "1/2/2020",
+          "fileNumber": "2020 R 1353"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrSeE6BdeuKQVep9tNLdgGqh7s5FgjzBlUw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "DEUTSCHE BANK NATIONAL TRUST COMPANY TR",
+          "date": "1/2/2020",
+          "fileNumber": "2020 R 2126"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrcMFUs3gK6eiv%2f7oUmiZ7FJY6ZZKt7wiMQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON THE",
+          "date": "2/6/2020",
+          "fileNumber": "2020 R 91042"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjra9VIXWA0Z60jbQ8kNG4ujB6BUpNDqQejg%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "SLD MIAMI LLC",
+          "date": "3/4/2020",
+          "fileNumber": "2020 R 137227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrd2xfDxz2r1MuhhATYSZ0AJHFz6p7BFTHA%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CALDWELL MARIA",
+          "date": "3/16/2020",
+          "fileNumber": "2020 R 166502"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjreHa%2bnj6ldrpWjRQyNpeeo0qLnnsA0soXw%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CALDWELL MARIA",
+          "date": "3/16/2020",
+          "fileNumber": "2020 R 166836"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrdVuS1mtuXMasaLR6vzdlMen0q3FCN0smg%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC FL (D)",
+          "secondParty": "FORNARIS CARLOS",
+          "date": "3/17/2020",
+          "fileNumber": "2020 R 169077"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrUhhocm2CBGLMjA%2b7aG83tSIXODb2%2b2xcQ%3d%3d",
+          "type": "CER",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "ADRIALBE LLC",
+          "date": "3/17/2020",
+          "fileNumber": "2020 R 170825"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrSbvXJB2U81pX5CMY0v5Wdvt8S1eyoWIQg%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "HAMANO JUNNISUKE",
+          "date": "4/8/2020",
+          "fileNumber": "2020 R 215832"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrajKTWQnqXcypQMgJHb5%2bKU5eV0U3plZYw%3d%3d",
+          "type": "REL",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "DUMIT WADI",
+          "date": "4/29/2020",
+          "fileNumber": "2020 R 255530"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQAVnX2HJn6WR20b%2fVn4bVpw%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "ECO HOMES LLC",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359481"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQhQFHNLxnJ%2flSuFX5O9p7Xg%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "LEYVA JUAN",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359482"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQObs1ElMt9jOkcQw8DnJLZA%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "FERNANDEZ VERONICA",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQxqIl8QGx3OP33Zfxq9gWhw%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "U S BANK TRUST N A",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359484"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQxDJzij1yM8H1QVRqzn2flA%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CABRE YASIEL",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359485"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQ7%2b3OxsfWu8n0Kx3u3XS6Xw%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "FERRER JOSE F",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359486"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrchUFMS8PBVQge8DekvJ4LEAbzF%2b67ADIQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "MGSL LLC",
+          "date": "6/29/2020",
+          "fileNumber": "2020 R 359487"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrTlJypHwxWXpsH8d1xtWJ2GH1qaeTBNwEw%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "HAMANO JUNNISUKE",
+          "date": "7/28/2020",
+          "fileNumber": "2020 R 410244"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjraJggJdl1ASyatyoFjG5Tgs%2faWIATvdUXA%3d%3d",
+          "type": "DCP",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "PEARLMAN FRED ERIC",
+          "date": "8/19/2020",
+          "fileNumber": "2020 R 456489"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjreeeBTIdU9oDPhqTlPYCCmlf6pu%2bSfAO8w%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "KUVERA CORPORATION",
+          "date": "8/26/2020",
+          "fileNumber": "2020 R 478812"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjreeeBTIdU9oD9xRhJ5kHSsp9f8iNglpIew%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "MORA FERNANDO DE LA",
+          "date": "8/26/2020",
+          "fileNumber": "2020 R 478813"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjreeeBTIdU9oDfj9ArZVzyi5sdjsBUTXAQQ%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "CIGRILL LLC",
+          "date": "8/26/2020",
+          "fileNumber": "2020 R 478814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjreeeBTIdU9oDWjQB0%2fo5HmZ%2bV1uSaDDBDg%3d%3d",
+          "type": "LIE",
+          "firstParty": "THE GRAND CONDOMINIUM ASSOCIATION INC (D)",
+          "secondParty": "ROSENTHAL JOEL M",
+          "date": "8/26/2020",
+          "fileNumber": "2020 R 478815"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDFX61KEv0OU%2bxu7hIkTcX8c4dP9cg0B0g%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "RADA ROSA C VEGA",
+          "date": "11/9/2012",
+          "fileNumber": "2012 R 808848"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAM67iIhYkuee8S6tk75FwImOoCQIyVQUQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "BALDWIN MATTHEW L",
+          "date": "12/7/2012",
+          "fileNumber": "2012 R 881102"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCZvnZ9MlUXSZh%2bYwV3FCGGSqVEVltUmUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CHAVIANO MASIEL",
+          "date": "12/18/2012",
+          "fileNumber": "2012 R 906831"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbho231paeE91xHk8HN7Y9LUKuhCk19yx7w%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SCALZO MICHAEL",
+          "date": "1/29/2013",
+          "fileNumber": "2013 R 73531"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqE5KM81nLhsxi2YfrpK8QFeDA6v72wTyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MEDRANO VENTURA MANUEL D",
+          "date": "2/8/2013",
+          "fileNumber": "2013 R 107731"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbocwFmAR6CNu2s3F8CyV%2fleWXIUm4hCz4Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "GAMEL BARRY DAVID",
+          "date": "2/11/2013",
+          "fileNumber": "2013 R 111189"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbui57d7xMyjPs5fDaFPdlAy0SK0KccMtWg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MONTERO ORELVIS",
+          "date": "2/12/2013",
+          "fileNumber": "2013 R 115319"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbrAYqTCAeiT552rjSxXXauVMlb22c%2bLHtw%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "GAMEL BARRY DAVID",
+          "date": "7/5/2013",
+          "fileNumber": "2013 R 534725"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbnEXTUr7Ssg0P74qTnYyZnBQWK%2fJUiP9Ow%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MONTERO ORELVIS",
+          "date": "7/18/2013",
+          "fileNumber": "2013 R 564265"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhUQVQSwUrTRJDEmT3o2a5gwBLVT8k7rEQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "OUTLER NATALIE HELEN",
+          "date": "8/1/2013",
+          "fileNumber": "2013 R 605801"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhwqBRv9OX8fnGSHvDKAiHXixpQKrsqOwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MONTERO ORELVIS",
+          "date": "8/21/2013",
+          "fileNumber": "2013 R 663070"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboRuzaF8IFgeQFGh09wPyu7K2iZpZUDK4A%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SCALZO MICHAEL",
+          "date": "8/21/2013",
+          "fileNumber": "2013 R 663205"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbs8Wy3yrUqgCSlZiKaaoKEBXJZbRQKeSDw%3d%3d",
+          "type": "LIS",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "RESIDENTIAL CREDIT SOLUTIONS INC",
+          "date": "11/14/2013",
+          "fileNumber": "2013 R 902256"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhZotIWrNmeRkFk23mB9vm8CKn8hZBzqAQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "EUGENE JOHN",
+          "date": "12/16/2013",
+          "fileNumber": "2013 R 983774"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdG0Y2opb3lSFkCfuLNsvgCbsiNTUDiAf%2bg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CHAVIANO MASIEL",
+          "date": "2/24/2014",
+          "fileNumber": "2014 R 137371"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOsEANXVZkixiet0KWEV257ORls6ZXrvFQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SCHWART EVA",
+          "date": "3/10/2014",
+          "fileNumber": "2014 R 174918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJafkFuZiDs5pCVz9RLi7B2%2b1kUV5LCz1A%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SCHWART EVA",
+          "date": "3/19/2014",
+          "fileNumber": "2014 R 200418"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPg7XJzY1aFh%2fkPJxo53FuhvdHLxirEzow%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "RODRIGUEZ VICTOR VISO",
+          "date": "4/16/2014",
+          "fileNumber": "2014 R 275323"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKcQKRV%2fe4JRW%2bHe2RHtFUjCq6VVZe780w%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PEREZ ARESIO",
+          "date": "4/17/2014",
+          "fileNumber": "2014 R 279016"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLUObV5l4KWM%2fGPM7db6RAxbVmrDm4n3sA%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "RODRIGUEZ VICTOR VISO",
+          "date": "4/29/2014",
+          "fileNumber": "2014 R 306644"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCGdQhp14pKwsBY%2b6nt4PyjgPAffR9HDOA%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "GONZALEZ JOSE",
+          "date": "5/1/2014",
+          "fileNumber": "2014 R 312507"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCdWbmXOu9bCCNIa0Pdqml69E%2brpyU2Zag%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MONTERO ORELVIS",
+          "date": "5/1/2014",
+          "fileNumber": "2014 R 316037"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLKdheZcP7vmwJjL5e68Yketziwo1XDEgg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "RESIDENTIAL CREDIT SOLUTIONS INC",
+          "date": "5/2/2014",
+          "fileNumber": "2014 R 318314"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdEo1aXfXBLBGLq9TcV%2ftq5jNQDD0quP9cQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "RESIDENTIAL CREDIT SOLUTIONS INC",
+          "date": "5/16/2014",
+          "fileNumber": "2014 R 353768"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKp3vf2dDyS5smU07yHof18qFPr8hs84mw%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "RODRIGUEZ VICTOR VISO",
+          "date": "6/13/2014",
+          "fileNumber": "2014 R 423915"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAbqokMs3EhWus5Nr3BaOgCEzUbMNVNf6w%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "ANDRADE AUGUSTO R",
+          "date": "6/18/2014",
+          "fileNumber": "2014 R 434607"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdEtsLH%2bqysj2OZNFjI7GcyqqWNrtqrihuw%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "GONZALEZ MARIA MARRERO",
+          "date": "7/23/2014",
+          "fileNumber": "2014 R 518319"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLKKY8BPNkHXvlYxmsWIeyltXJdUe4oeIg%3d%3d",
+          "type": "LIS",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "8/29/2014",
+          "fileNumber": "2014 R 606937"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPcDlc0NPIjWgld%2b%2btWthT5%2byAAZIUb15w%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "10/16/2014",
+          "fileNumber": "2014 R 720357"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGktILcGDv%2buYj7rxUyLeKr%2bllU2ReW4Gg%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CLERICAL ERROR",
+          "date": "10/28/2014",
+          "fileNumber": "2014 R 744150"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdD4bjIJG9Ulwx3kL4eoR1Lb9Li6rWepOoA%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SCHWART EVA",
+          "date": "11/5/2014",
+          "fileNumber": "2014 R 766152"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOabusMfN5gLVAYpiAZMWuWaSNGLqQajPw%3d%3d",
+          "type": "LIS",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (R)",
+          "secondParty": "IBERIABANK",
+          "date": "11/24/2014",
+          "fileNumber": "2014 R 808705"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHyjZ3UxXBe4n%2b0wiXFGqA8FL3fvrHFP1Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PAZ MAIDELI LORENZO",
+          "date": "12/11/2014",
+          "fileNumber": "2014 R 850564"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMP%2fi1mTr78N%2fGAJZNdAVgB6o8waANIyyg%3d%3d",
+          "type": "SJU",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CASTELLANOS VANESSA",
+          "date": "12/19/2014",
+          "fileNumber": "2014 R 868465"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAKfXj8Y4ko6srKljhmC0qE3S00O37jDjQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SAUD JOSE",
+          "date": "12/31/2014",
+          "fileNumber": "2014 R 890245"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDJd1%2fTmNORNUyVT9m3lNhPcsUM8dyMGZQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PAZ MAIDELI LORENZO",
+          "date": "1/22/2015",
+          "fileNumber": "2015 R 41869"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsLem6G40wXe%2b%2fNpY906FDCiMwu3HGVTHmQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PRESIGA JARVIN",
+          "date": "1/23/2015",
+          "fileNumber": "2015 R 45235"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDxv3SmzSvK5elcrC3Juup9vigPndjJOdQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PRESIGA JARVIN",
+          "date": "1/26/2015",
+          "fileNumber": "2015 R 50441"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNXYC%2fYPROjK0ypm99ua11vTxKPermL3GA%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "COOKS ANDREW",
+          "date": "1/27/2015",
+          "fileNumber": "2015 R 51939"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsLlpF4sYXPLGynWcN3%2fILEIPmMT775VM6A%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CHAVEZ, FRANCISCO A",
+          "date": "2/19/2015",
+          "fileNumber": "2015 R 108346"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsA8U%2bETBjL6Yba5%2fUg6g4%2fBRgJO%2fVA46yw%3d%3d",
+          "type": "CVP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "GAMEL BARRY DAVID",
+          "date": "2/20/2015",
+          "fileNumber": "2015 R 112678"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsGjGCV%2b6AIQ%2fSuvQpHJmIYl8XaDaWQfrHg%3d%3d",
+          "type": "DCP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CORDOVI FAVIER PEREZ",
+          "date": "3/9/2015",
+          "fileNumber": "2015 R 152297"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNmYgBGydtClS1pyAQ95gy%2bBNLuIoKafHA%3d%3d",
+          "type": "DCP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MYERS SOPHIA ISABEL",
+          "date": "3/12/2015",
+          "fileNumber": "2015 R 163334"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsHAPRgkckPuisX%2b8bGHtjtTgTYE%2bYS%2b3%2fA%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SERRANO DIANE M",
+          "date": "3/19/2015",
+          "fileNumber": "2015 R 179563"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAUjdlr3uFuFnJkHoL63uotmmXOw4nNRnw%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "CACERES JORGE",
+          "date": "3/27/2015",
+          "fileNumber": "2015 R 198670"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsL836Vart1mfbaoXhcomx8uufT%2b8Tdk7Bg%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MILLER DARLENE",
+          "date": "8/4/2015",
+          "fileNumber": "2015 R 500912"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNWTnlNevDBkRsKLxh3Rtj0bhKqAsChFTg%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "PETER DELECIA",
+          "date": "8/14/2015",
+          "fileNumber": "2015 R 526371"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEFfF%2bMAxjK7%2bGuAcnIt46mnZ21ib%2ffZrA%3d%3d",
+          "type": "JUD",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MUNIZ YDIELIM",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 532471"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsOAGD7kExj%2bsI42MZKSMfxebrwTUnnoktw%3d%3d",
+          "type": "SJU",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "SUMMERS CHAPELL D",
+          "date": "8/24/2015",
+          "fileNumber": "2015 R 545226"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNCunFQhJiDZcNptrylI5XWdB09zRJCK%2fQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "AUTOVEST FINANCIAL SERVICES LLC (D)",
+          "secondParty": "MEDRANO VENTURA MANUEL D",
+          "date": "9/8/2015",
+          "fileNumber": "2015 R 579433"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7rJ4PZYoweXH0u6U%2bCYhU0e9OmGXO9eLoA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "GMAC MORTGAGE LLC",
+          "date": "12/28/2009",
+          "fileNumber": "2009 R 923286"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mnYwODzgc3NvUO7Nw7OpKPEhiwbU4gL3XQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "TORRES EVELYN",
+          "date": "6/29/2010",
+          "fileNumber": "2010 R 435598"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYDtVDOO81tujEdM1AzQZ2AoAl7amg6TyTw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FIA CARD SVC NA",
+          "date": "7/22/2011",
+          "fileNumber": "2011 R 485882"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLE7PRoZzgzjcFu5S9q4sfGcF3SJV%2bwFWHA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "PORTFOLIO RECOVERY ASSOCS LLC",
+          "date": "3/8/2012",
+          "fileNumber": "2012 R 168356"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDR6l7Wfib1bjfhRkr0pgMhIaIAOPkXhUg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CURBELO ROLANDO R",
+          "date": "3/9/2012",
+          "fileNumber": "2012 R 170581"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGvB8YKrFdL9lc1ZJgWZ0qTRxur7GHDFjg%3d%3d",
+          "type": "AMO",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "THE BANK OF NEW YORK",
+          "date": "3/15/2012",
+          "fileNumber": "2012 R 188957"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGCdHDHLGGq4a%2b6gbjAvcMfLa9nkf1M7iQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "3/16/2012",
+          "fileNumber": "2012 R 191659"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLLfmAW6jZDlwq9tpaaX2lE3aaNS0lwfkYg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK",
+          "date": "3/30/2012",
+          "fileNumber": "2012 R 229023"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ0uvrx7hMDidlW63ys4QQHcsCaJV5P3wA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) NA",
+          "date": "5/15/2012",
+          "fileNumber": "2012 R 346900"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIBDzdsSQpzgPqlipUvsnuJOXMafkwhs6Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK",
+          "date": "5/16/2012",
+          "fileNumber": "2012 R 350605"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLB1%2brCCqezBS6w%2fgu%2f9YamyP31cyzggecQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "PORTFOLIO RECOVERY ASSOCIATES L L C",
+          "date": "5/18/2012",
+          "fileNumber": "2012 R 357671"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGQMxwvWVyfDmSR952dXBuf1l7%2bkd2ddqA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EQUABLE ASCENT FINANCIAL (LLC)",
+          "date": "5/21/2012",
+          "fileNumber": "2012 R 361166"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLB5X%2f4qARKrXSvUN7Qpj5w%2b45AYj%2fw1UNw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK",
+          "date": "6/1/2012",
+          "fileNumber": "2012 R 386195"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHpaZfR%2bCTmJnPo9I6hgfl83s%2fPldbtirA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CARDO GABRIEL",
+          "date": "6/4/2012",
+          "fileNumber": "2012 R 390577"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHV9RmkrFNBDsgO4%2fZSer%2bmt9pC%2bokKz0Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "LABATUT REBITA",
+          "date": "6/4/2012",
+          "fileNumber": "2012 R 391022"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLALkODfgeBizglPf3oV9FF1HPl%2b8E7%2f49A%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CARDO GABRIEL",
+          "date": "6/6/2012",
+          "fileNumber": "2012 R 396403"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCFM%2flov6TGOiMDJOg6hlBBtu0mAru6hbg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "VASQUEZ RAUL GUALGUAN",
+          "date": "6/11/2012",
+          "fileNumber": "2012 R 408499"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLACeQuUC0BF%2bJMl17vHVf2BWS1Aj9lAGsA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "POGGIO MIGUEL ANGEL",
+          "date": "10/29/2012",
+          "fileNumber": "2012 R 772454"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNEnIItq4y0v6cK7VfyPPRrXFzNCDSCwGg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/5/2012",
+          "fileNumber": "2012 R 794317"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJODDQ5Uu5srLHqkr7exxOFZ0fvkOsad2A%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "TRUJILLO EDWARD F",
+          "date": "11/14/2012",
+          "fileNumber": "2012 R 817851"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMnZpXS%2bV36Lw%2fERXg4xReGaoWrMZER%2bXA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "TORO GUILLERMO",
+          "date": "11/15/2012",
+          "fileNumber": "2012 R 821948"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIzL16zLxF1jUsCPK7USiXuDM6JSm642gA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "EFRONI EMANUEL",
+          "date": "11/15/2012",
+          "fileNumber": "2012 R 822034"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLIqeH4pRVrPq%2bH7BLGWrbFxO%2fL%2ba9UIjhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "AGUIRREGAVIRIA JOSE CARLOS",
+          "date": "11/19/2012",
+          "fileNumber": "2012 R 829507"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKlJ98ZrmdseSFMQ2AOhTxCEK1osgUtuhw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/19/2012",
+          "fileNumber": "2012 R 829600"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKlJ98Zrmdser42MF73LchGeBYslJARKlg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/19/2012",
+          "fileNumber": "2012 R 829699"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLObrELWBDoGorcorayvMlGiA3KaqGd1VbQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/20/2012",
+          "fileNumber": "2012 R 835056"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLGwBSoSYpeAKtihhnHmiz172ClGlVeed%2bw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MESA JUAN C",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 847545"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN3EmZO2uA6tgerMA24vD1LW0YS0qpaaEA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "TELLEZ ARMANDO",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 849222"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDYIbVzGsQwkPsHOhL7YaTXxyFR6ZKsxlw%3d%3d",
+          "type": "AMO",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "AMERIMORTGAGE BNK LLC",
+          "date": "11/29/2012",
+          "fileNumber": "2012 R 858376"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjHpuMsjGfubT2v9q7E6K%2faCXyBnfR%2fwQA%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BNK N A",
+          "date": "5/29/2013",
+          "fileNumber": "2013 R 425927"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpp5SgdfW7aJ5cElqz2DXbZrwUofrerZcw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "LUACES ANGELA M",
+          "date": "5/30/2013",
+          "fileNumber": "2013 R 430265"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmZnonBVQaWMZ7saCXjhz1zc8K9Z1aJC3Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "AMERICAN HOME MTG",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 436421"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboWYUef1cNW%2b2RacsBif9B41EspsEo%2faGQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EQUABLE ASCENT FINANCIAL LLC",
+          "date": "6/3/2013",
+          "fileNumber": "2013 R 438686"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbrEa9WTIK21sk7rMS6zSkfaKV%2fQjQJzF6g%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PENA GLADYS Y",
+          "date": "6/4/2013",
+          "fileNumber": "2013 R 439579"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjAbhCccR0C%2bBpFOsBdIm3ugWAJzxLXBPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 449511"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboiXAmtZkuwhwU1qzww5mQyadD3%2fQhxMPA%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "DEUTSCHE BANK NATIONAK TRUST COMPANY",
+          "date": "6/6/2013",
+          "fileNumber": "2013 R 453178"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbncZ7zPo1YT1Ruh%2fZyBp6FD1LQv3d3IfLQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MARBELLA CONDOMINIUM ASSOCIATION AT 8TH",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 457102"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbksPdr5lVhgI1Zwy6Rq1TN4uB2tcPbaPmg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BENEDETTO ARLENE",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 458111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbksPdr5lVhgI1Zwy6Rq1TN4uB2tcPbaPmg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 458111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbogMe5HCY2bjoL%2filXaNR9%2fOAdRElv%2bcjg%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EQUABLE ASCENT FINANCIAL (LLC)",
+          "date": "6/11/2013",
+          "fileNumber": "2013 R 462406"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtbxJzMtseFxx7KhIYplf6jHQHPhka%2fW6g%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "6/11/2013",
+          "fileNumber": "2013 R 462881"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbncGwaoJ7HX8F%2bX7cMQXNfmbQZmgiw72ig%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BANK OF AMERICA NA",
+          "date": "6/13/2013",
+          "fileNumber": "2013 R 472500"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbivpw%2f1EwxaEc1uSM0TawnWPP4fVKwqYUQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "LEHMAN RICHARD",
+          "date": "6/13/2013",
+          "fileNumber": "2013 R 473798"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblX7814dOqcd0796YF%2fxDMUXLCy7f0JR%2bQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ARROW FINANCIAL SVC (LLC)",
+          "date": "6/17/2013",
+          "fileNumber": "2013 R 477369"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblX7814dOqcdnoz5YJPYN7tUQncSvcxiQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ZAMORA ERSY VANESSA",
+          "date": "6/17/2013",
+          "fileNumber": "2013 R 477388"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbikyafYDQ1ymm672I2pv%2fw6CufUMn%2bdBmw%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "DOVAL ELVIRA",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 491277"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhyTuTTynBCELsYFiRGlaR%2b0OA50yFhpDw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ROIG MAYRA",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 493613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhAfsm3MgVCDeTNJw4xBWaolBuV5PBZvlg%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "FERNANDEZ JOAQUIN",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 494039"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbutYbn5%2fcCgDfuyP6yUQNOCxChPI%2fmkKCw%3d%3d",
+          "type": "CVP",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EQUABLE ASCENT FINANCIAL (LLC)",
+          "date": "6/21/2013",
+          "fileNumber": "2013 R 494923"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqfmSWkUe%2bg%2bHozvfyLVirIdN1yNzIUf%2bQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "RODRIGUEZ JORGE L",
+          "date": "6/24/2013",
+          "fileNumber": "2013 R 500559"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2023-002949-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$8,327.50",
+    "parcelID": "10-7921-028-4420",
+    "assessedValue": "$421,851.00",
+    "propertyAppraiserLegalDescription": "LOT 8, IN BLOCK 42, OF KEYS GATE RESIDENTIAL, ACCORDING TO THE PLAT THEREOF, AS RECORDED IN PLAT BOOK 174, PAGE 97. OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA. PROPERTY ADDRESS: 2690 SE 13 COURT, HOMESTEAD, FL 33035",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Colon Villafane, Carlos Omar"
+      },
+      {
+        "PLAINTIFF": "Riviera Community Homeowners Association Inc (The)"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "James ESQ, Jennifer L."
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=1079210284420",
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "floors": 2,
+    "municipality": "Homestead",
+    "lotSize": 4389,
+    "primaryLandUse": "0101RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "livingArea": -1,
+    "yearBuilt": "2021",
+    "primaryZone": "PLANNED UNIT DEVELOPMENT",
+    "subdivision": "KEYS GATE RESIDENTIAL",
+    "neighborhood": "HOMESTEAD LAKES",
+    "buildingArea": 2925,
+    "description": "RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "units": 1,
+    "siteAddress": "2690 SE 13 CT, Homestead, FL 33035-0000",
+    "totalValue": 447992,
+    "qualifiedOwner": [
+      "CARLOS OMAR COLON VILLAFANE"
+    ],
+    "owners": [
+      {
+        "name": "CARLOS OMAR COLON VILLAFANE",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp657TYGqnVJd%2bYMYwr8C2utXWZmioPwM8g%3d%3d",
+          "type": "LIS",
+          "firstParty": "COLON VILLAFANE CARLOS OMAR (R)",
+          "secondParty": "RIVIERA COMMUNITY HOMEOWNERS ASSOCIATION INC THE",
+          "date": "2/23/2023",
+          "fileNumber": "2023 R 120375"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZx%2fTslv5qH9WPkUHgrr6Xz2WIf8Nuqm8oA%3d%3d",
+          "type": "DCP",
+          "firstParty": "COLON VILLAFANE CARLOS OMAR (R)",
+          "secondParty": "RIVIERA COMMUNITY HOMEOWNERS ASSOCIATION INC THE",
+          "date": "3/28/2024",
+          "fileNumber": "2024 R 238166"
+        }
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2023-021436-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$7,098.17",
+    "parcelID": "30-6030-001-0067",
+    "assessedValue": "$311,370.00",
+    "propertyAppraiserLegalDescription": "LOT 5, BLOCK 2, OF SOUTH ALLAPATTAH GARDENS, ACCORDING TO THE PLAT THEREOF. AS RECORDED IN PLAT BOOK 25. AT PAGE 20, OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA, LESS THE SOUTH 25 FEET THEREOF. PROPERTY ADDRESS: 25066 SW 107 COURT, PRINCETON, FL 33032",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Miranda, Elvis Luis Torres"
+      },
+      {
+        "DEFENDANT": "Aviles, Yvette Rose"
+      },
+      {
+        "PLAINTIFF": "Campo Bello Homeowners Association, Inc."
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "James ESQ, Jennifer L."
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=3060300010067",
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "floors": 2,
+    "municipality": "Unincorporated County",
+    "lotSize": 3550,
+    "primaryLandUse": "0101RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "livingArea": 1514,
+    "yearBuilt": "2020",
+    "primaryZone": "DUPLEXES - GENERAL",
+    "subdivision": "SOUTH ALLAPATTAH GARDENS",
+    "neighborhood": "NARANJA - PRINCETON - EAST OUTSIDE UDB",
+    "buildingArea": 1808,
+    "description": "RESIDENTIAL - SINGLE FAMILY : 1 UNIT",
+    "units": 1,
+    "siteAddress": "25066 SW 107 CT, Unincorporated County, FL 33032-0000",
+    "totalValue": 354934,
+    "qualifiedOwner": [
+      "ELVIS LUIS TORRES MIRANDA",
+      "YVETTE ROSE AVILES"
+    ],
+    "owners": [
+      {
+        "name": "ELVIS LUIS TORRES MIRANDA",
+        "percentage": 1,
+        "married": "No",
+        "description": ""
+      },
+      {
+        "name": "YVETTE ROSE AVILES",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 0,
+    "legalDocuments": [
+      [],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7Txe1%2fILPSh5%2bBxx8l7%2b6WVJvxBLYUXAsw%3d%3d",
+          "type": "MOR",
+          "firstParty": "MIRANDA ELVIS LUIS TORRES (D)",
+          "secondParty": "THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+          "date": "6/3/2021",
+          "fileNumber": "2021 R 392594"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyQ8CE599T2k6Jd28FPrNz%2foTdgUfSjGgA%3d%3d",
+          "type": "LIS",
+          "firstParty": "MIRANDA ELVIS LUIS TORRES (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "8/23/2023",
+          "fileNumber": "2023 R 588950"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzrIZ0hBS1%2bVAkJn9a9kTwKNY%2f8UNkozfw%3d%3d",
+          "type": "DCP",
+          "firstParty": "MIRANDA ELVIS LUIS TORRES (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "4/25/2024",
+          "fileNumber": "2024 R 316734"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ%2fx%2bT2L999GE8KSvhrkKk31BMLjz%2feIaUg%3d%3d",
+          "type": "DCP",
+          "firstParty": "MIRANDA ELVIS LUIS TORRES (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "6/12/2024",
+          "fileNumber": "2024 R 449985"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7Txe1%2fILPSh5%2bBxx8l7%2b6WVJvxBLYUXAsw%3d%3d",
+          "type": "MOR",
+          "firstParty": "AVILES YVETTE ROSE (D)",
+          "secondParty": "THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+          "date": "6/3/2021",
+          "fileNumber": "2021 R 392594"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyQ8CE599T2k6Jd28FPrNz%2foTdgUfSjGgA%3d%3d",
+          "type": "LIS",
+          "firstParty": "AVILES YVETTE ROSE (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "8/23/2023",
+          "fileNumber": "2023 R 588950"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzrIZ0hBS1%2bVAkJn9a9kTwKNY%2f8UNkozfw%3d%3d",
+          "type": "DCP",
+          "firstParty": "AVILES YVETTE ROSE (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "4/25/2024",
+          "fileNumber": "2024 R 316734"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ%2fx%2bT2L999GE8KSvhrkKk31BMLjz%2feIaUg%3d%3d",
+          "type": "DCP",
+          "firstParty": "AVILES YVETTE ROSE (R)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "6/12/2024",
+          "fileNumber": "2024 R 449985"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrYse9a%2fXltg1QqjWM%2b%2f%2bxDKTLgZXgid8Pg%3d%3d",
+          "type": "DCO",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "CALATLANTIC INC",
+          "date": "2/4/2020",
+          "fileNumber": "2020 R 81634"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrYse9a%2fXltg1QqjWM%2b%2f%2bxDKTLgZXgid8Pg%3d%3d",
+          "type": "DCO",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "CALATLANTIC INC",
+          "date": "2/4/2020",
+          "fileNumber": "2020 R 81634"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7W4zooGqmmL3TTyy2eZEMdt1rtjac4r3sg%3d%3d",
+          "type": "LIE",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "RIOL OMAR C",
+          "date": "5/27/2021",
+          "fileNumber": "2021 R 378937"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7UIcPAU74W5sMnhxHg9z7SKZXxofkUBVDw%3d%3d",
+          "type": "AGR",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "CALATLANTIC GROUP INC",
+          "date": "6/2/2021",
+          "fileNumber": "2021 R 388242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7UIcPAU74W5sMnhxHg9z7SKZXxofkUBVDw%3d%3d",
+          "type": "AGR",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC",
+          "date": "6/2/2021",
+          "fileNumber": "2021 R 388242"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7fapCWcD18c7TDmKuff7HAwmWNt5mW2YhA%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CABRERA RIOL OMAR",
+          "date": "10/22/2021",
+          "fileNumber": "2021 R 793309"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGdTZZd05zh1%2bpujAYgD1X7KUvwf9yIJ99g%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CABRERA RIOL OMAR",
+          "date": "2/25/2022",
+          "fileNumber": "2022 R 164145"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGTNSLF9BZ2%2fT39WDL2BLBnhEmVaDYFg3mw%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "4/19/2022",
+          "fileNumber": "2022 R 322880"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGe62jnzQ8tInoI1eTo6IAVB97JokZB4sWA%3d%3d",
+          "type": "AGR",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "CALATLANTIC GROUP INC",
+          "date": "4/23/2022",
+          "fileNumber": "2022 R 337986"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGRJWcz9b10fERbKq%2fd2t8d5UektDX0cPQA%3d%3d",
+          "type": "LIE",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "ALVAREZ PELEY DANIEL",
+          "date": "6/10/2022",
+          "fileNumber": "2022 R 469486"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGepP9w6EEvtPzLdceyR6dftnbfXFjUvwow%3d%3d",
+          "type": "LIE",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "AVAREZ PELEY DANIEL A",
+          "date": "6/10/2022",
+          "fileNumber": "2022 R 469500"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGepP9w6EEvtPp4SNi5CZDTKGs2jah%2bkHxA%3d%3d",
+          "type": "LIE",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "MIRANDA ELVIS L",
+          "date": "6/10/2022",
+          "fileNumber": "2022 R 469512"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcS0gCD%2fIdnCzKDVqqSjDZKiXC%2fNL8rlww%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CABRERA RIOL OMAR",
+          "date": "7/6/2022",
+          "fileNumber": "2022 R 540577"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcS0gCD%2fIdnCbTGtoh1N7Rm4Gj4GGvKOOA%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CABRERA RIOL OMAR",
+          "date": "7/6/2022",
+          "fileNumber": "2022 R 540578"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGcvUuGjr9DbU9EJY3R%2fjBxZe%2bzQWnlv%2bZg%3d%3d",
+          "type": "LIE",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "SANTIAGO DANIEL M",
+          "date": "12/2/2022",
+          "fileNumber": "2022 R 902241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGRv0QCTQGBvxRpYCbwymXlF8CtFz7qFpVQ%3d%3d",
+          "type": "REL",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "SANTIAGO DANIEL M",
+          "date": "12/23/2022",
+          "fileNumber": "2022 R 955577"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp4mamXWjqun%2bQrB75fC%2fz5SMg5TAfRcRUw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "1/25/2023",
+          "fileNumber": "2023 R 52397"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpwcY3RrIWo5tGTVj1jyLgkC0LaMj1p8EdQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "PENNYMAC LOAN SERVICES LLC",
+          "date": "4/19/2023",
+          "fileNumber": "2023 R 259752"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2N0ip3A5D%2bBZKGValf39U4%2fP4C%2bQ5TjWw%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "BATISTA MARLENE",
+          "date": "7/27/2023",
+          "fileNumber": "2023 R 522840"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2N0ip3A5D%2bBN8QGPAikUajxHyVDLC71oQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "PELEY DANIEL ALBERTO ALVAREZ",
+          "date": "7/27/2023",
+          "fileNumber": "2023 R 522842"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2N0ip3A5D%2bBqdoalxFsUkdP2s%2fAF%2b3kgA%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CRUZ JORGE MARTIN",
+          "date": "7/27/2023",
+          "fileNumber": "2023 R 522844"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp6iN2OifSBHFlKhkMdQF8anIOcO1pD4JvQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "PENNYMAC LOAN SERVICES LLC",
+          "date": "8/14/2023",
+          "fileNumber": "2023 R 565001"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp6iN2OifSBHFZBjjWUSX5Xr7zNKRWxM3ZQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "PENNYMAC LOAN SERVICES LLC",
+          "date": "8/14/2023",
+          "fileNumber": "2023 R 565003"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyQ8CE599T2k6Jd28FPrNz%2foTdgUfSjGgA%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "MIRANDA ELVIS LUIS TORRES",
+          "date": "8/23/2023",
+          "fileNumber": "2023 R 588950"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2%2bYTkq%2bfBxPfJ9phWFYBKnHQ1kpcGo4QQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "BATISTA MARLENE",
+          "date": "8/28/2023",
+          "fileNumber": "2023 R 603856"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp2%2bYTkq%2bfBxP7j4ro1%2bWL6f%2fHJIbydjQWA%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "BATISTA MARLENE",
+          "date": "8/28/2023",
+          "fileNumber": "2023 R 603857"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp26p4etkhW7%2bgNjeCOyw%2b%2bMnMa2lakjB%2bw%3d%3d",
+          "type": "REL",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "BATISTA MARLENE",
+          "date": "8/31/2023",
+          "fileNumber": "2023 R 614064"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpxf%2f0hOs8JK3kaBG84msZPaaRT7fIxzmxw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "CRUZ JORGE MARTIN",
+          "date": "10/30/2023",
+          "fileNumber": "2023 R 778320"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ52eu9fEv3XtlOjqrA5c7kpg4rgy7BqFKQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "PENNYMAC LOAN SERVICES LLC",
+          "date": "1/31/2024",
+          "fileNumber": "2024 R 80301"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8snfAE4jTEyFZ62gWSjZF8L10Dk6dXiTQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "PENNYMAC LOAN SERVICES LLC",
+          "date": "3/18/2024",
+          "fileNumber": "2024 R 204541"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ81%2f1tIU44AAMkTcFOYAj6Tjweg30LX%2fyw%3d%3d",
+          "type": "LIS",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "4/18/2024",
+          "fileNumber": "2024 R 297029"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzrIZ0hBS1%2bVAkJn9a9kTwKNY%2f8UNkozfw%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "MIRANDA ELVIS LUIS TORRES",
+          "date": "4/25/2024",
+          "fileNumber": "2024 R 316734"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZwXMLP4YU3pNsd81asJiVZkF6dMPGXkx0A%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "PELEY DANIEL ALBERTO ALVAREZ",
+          "date": "6/11/2024",
+          "fileNumber": "2024 R 446624"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ%2fx%2bT2L999GE8KSvhrkKk31BMLjz%2feIaUg%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (D)",
+          "secondParty": "MIRANDA ELVIS LUIS TORRES",
+          "date": "6/12/2024",
+          "fileNumber": "2024 R 449985"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ3lrHYwMPeqL4iaZ5o5bQehW%2fJQ%2bCHLyQQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "6/13/2024",
+          "fileNumber": "2024 R 452106"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ3lrHYwMPeqLNRL1BMwKvuAWE4M5y5y3%2bQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "CAMPO BELLO HOMEOWNERS ASSOCIATION INC (R)",
+          "secondParty": "LAKEVIEW LOAN SERVICING LLC",
+          "date": "6/13/2024",
+          "fileNumber": "2024 R 452107"
+        }
+      ],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2024-004160-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$29,743.08",
+    "parcelID": "01-4138-154-0250",
+    "assessedValue": "$251,545.00",
+    "propertyAppraiserLegalDescription": "UNIT NO. 703, OF LE PARC AT BRICKELL, A CONDOMINIUM, ACCORDING TO THE DECLARATION OF CONDOMINIUM THEREOF, AS RECORDED IN OFFICIAL RECORDS BOOK 28909, AT PAGE 96. OF THE PUBLIC RECORDS OF MIAMI-DADE COUNTY, FLORIDA, TOGETHER WITH AN UNDIVIDED 0.5461% INTEREST IN THE COMMON ELEMENTS APPURTENANT THERETO AND ALL AMENDMENTS THERETO AS SET FORTH IN SAID DECLARATION. PROPERTY ADDRESS: 1600 SW 1 AVENUE, UNIT 703, MIAMI, FL 33129",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Amarillo Brick 01, LLC"
+      },
+      {
+        "PLAINTIFF": "Le Parc at Brickell Condominium Association, Inc."
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "James ESQ, Jennifer L."
+      }
+    ],
+    "url": "https://www.miamidade.gov/Apps/PA/PApublicServiceProxy/PaServicesProxy.ashx?Operation=GetPropertySearchByFolio&clientAppName=PropertySearch&folioNumber=0141381540250",
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "floors": 0,
+    "municipality": "Miami",
+    "lotSize": 1,
+    "primaryLandUse": "0407RESIDENTIAL - TOTAL VALUE : CONDOMINIUM - RESIDENTIAL",
+    "livingArea": 659,
+    "yearBuilt": "2016",
+    "primaryZone": "MULTI-FAMILY - 5 STORY &",
+    "subdivision": "LE PARC AT BRICKELL CONDO",
+    "neighborhood": "UNCLASSIFIED NEIGHBORHOOD",
+    "buildingArea": 659,
+    "description": "RESIDENTIAL - TOTAL VALUE : CONDOMINIUM - RESIDENTIAL",
+    "units": 1,
+    "siteAddress": "1600 SW 1 AVE 703, Miami, FL 33129-1154",
+    "totalValue": 364205,
+    "qualifiedOwner": [
+      "VICTOR GARCIA MASSIMO"
+    ],
+    "owners": [
+      {
+        "name": "AMARILLO BRICK 01 LLC",
+        "percentage": 0,
+        "married": "No",
+        "description": ""
+      }
+    ],
+    "taxCollectorDebt": 6498.02,
+    "legalDocuments": [
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrRs25UMfxVB3xhmmmAYhMFKJcbA5GbiFWA%3d%3d",
+          "type": "DEE",
+          "firstParty": "AMARILLO BRICK 01 LLC (R)",
+          "secondParty": "VGM ENTERPRISE GROUP LLC",
+          "date": "7/22/2020",
+          "fileNumber": "2020 R 398925"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrRs25UMfxVB3JLmuR6yMZxXQwFT2kbLwDQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "CENTER STREET LENDING VIII SPE LLC",
+          "date": "7/22/2020",
+          "fileNumber": "2020 R 398926"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrRs25UMfxVB3WptdNrjvNZAyNIopLA0XFA%3d%3d",
+          "type": "ASG",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "CENTER STREET LENDING VIII SPE LLC",
+          "date": "7/22/2020",
+          "fileNumber": "2020 R 398927"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrYrSF80H561kJc5mZ7tjj2v2EvgEw%2fAzmg%3d%3d",
+          "type": "AMO",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "EF MTG LLC",
+          "date": "10/9/2020",
+          "fileNumber": "2020 R 578371"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrYrSF80H561ktrSVScqssnZmuzYie4PJFA%3d%3d",
+          "type": "AMO",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "EF MTG LLC",
+          "date": "10/9/2020",
+          "fileNumber": "2020 R 578372"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7YBaVJSBC12V2OHsy3cN8zuTYhgOfxwd1g%3d%3d",
+          "type": "MOR",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "GELT FINANCIAL LLC",
+          "date": "12/16/2021",
+          "fileNumber": "2021 R 942826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7YBaVJSBC12VZD9AH%2fUf6RTeWraXgP8F6w%3d%3d",
+          "type": "ASG",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "GELT FINANCIAL LLC",
+          "date": "12/16/2021",
+          "fileNumber": "2021 R 942827"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGYPC8XbFi4ByRLPz%2fPajUz0EiinhohLKCw%3d%3d",
+          "type": "REL",
+          "firstParty": "AMARILLO BRICK 01 LLC (D)",
+          "secondParty": "CENTER STREET LENDING VIII SPE LLC",
+          "date": "5/3/2022",
+          "fileNumber": "2022 R 364159"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGbwAA0UXzQKIfTGcozLNKpHkBR5jagwLiw%3d%3d",
+          "type": "MOR",
+          "firstParty": "AMARILLO BRICK 01 LLC (R)",
+          "secondParty": "GELT FINANCIAL LLC",
+          "date": "12/27/2022",
+          "fileNumber": "2022 R 961240"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp0V7Cj%2b42WE%2bouSnxf7LyX7W565yb0UdBg%3d%3d",
+          "type": "LIE",
+          "firstParty": "AMARILLO BRICK 01 LLC (R)",
+          "secondParty": "LE PARC AT BRICKELL CONDOMINIUM ASSOCIATION INC",
+          "date": "12/15/2023",
+          "fileNumber": "2023 R 899013"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ1UHGKOCirIJ1CF7XUtBMfJpisFjOjCIhw%3d%3d",
+          "type": "LIS",
+          "firstParty": "AMARILLO BRICK 01 LLC (R)",
+          "secondParty": "LE PARC AT BRICKELL CONDOMINIUM ASSOCIATION INC",
+          "date": "3/8/2024",
+          "fileNumber": "2024 R 183175"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ%2fx%2bT2L999GEb3s6igTXwhobBTfyy2DTvw%3d%3d",
+          "type": "DCP",
+          "firstParty": "AMARILLO BRICK 01 LLC (R)",
+          "secondParty": "LE PARC AT BRICKELL CONDOMINIUM ASSOCIATION INC",
+          "date": "6/12/2024",
+          "fileNumber": "2024 R 449989"
+        }
+      ],
+      [],
+      []
+    ]
+  }
+]

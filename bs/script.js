@@ -1,6 +1,7 @@
 // insrty data.json  06/06/2024
+
+const fs = require('fs')
 const { connectDB } = require('../src/db')
-const data = require('./data.json')['06/06/2024'].map((auction) => ({...auction, auctionDate: '06/06/2024'}))
 const { insertBulk, insert } = require('../src/auctions/controller')
 
 const numberFields = [
@@ -47,8 +48,41 @@ const normalizeData = (data) => {
     return normalizedData
 }
 
-const normalizedData = normalizeData(data)
-connectDB().then(()=> {
-    return Promise.all(normalizedData.map(a => insert(a).catch(console.error)))
-})
-console.log(normalizedData);
+
+// get all file names from data folder
+const main = async () => {
+    const dataDir = __dirname + '/data/'
+    const files = fs.readdirSync(dataDir)
+    console.log(files)
+    const errors = {}
+
+    for (const file of files) {
+        const data = require('./data/' + file)
+        // from file name get the auction date by removeing step5_ and .json then replace all appearances of - with /
+        const auctionDate = file.replace('step5_', '').replace('.json', '').replace(/-/g, '/')
+        console.log(auctionDate);
+        const normalizedData = normalizeData(data).map((auction) => ({ ...auction, auctionDate }))
+        console.log('Inserting data for', normalizedData[0].auctionDate);
+
+        // remove duplicates, with same date same parcelID and same caseNumber
+        const uniqueData = normalizedData.filter((auction, index, self) =>
+            index === self.findIndex((t) => (
+                t.auctionDate === auction.auctionDate && t.parcelID === auction.parcelID && t.caseNumber === auction.caseNumber
+            ))
+        )
+
+        // log ids
+        const ids = uniqueData.map((auction) => auction.parcelID)
+        console.log('Unique IDs', ids);
+
+        await insertBulk(uniqueData).catch(console.error)
+
+
+
+    }
+    console.log('All files inserted', errors);
+}
+
+connectDB().then(() =>
+    main().catch(console.error)
+).catch(console.error)
