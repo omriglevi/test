@@ -43,7 +43,7 @@ export default function SignIn() {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
     try {
-      const response = await fetch('http://localhost:3000/login', {
+      const response = await fetch('http://3.80.89.208:3000/login', {
         body: JSON.stringify({
           username: data.get('username'),
           password: data.get('password'),
