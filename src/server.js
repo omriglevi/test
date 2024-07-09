@@ -11,7 +11,6 @@ const app = express()
 const cookieParser = require("cookie-parser");
 
 const corsConfig = {
-    origin: true,
     credentials: true,
   };
 
