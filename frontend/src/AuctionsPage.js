@@ -114,10 +114,10 @@ const headCells = [
     label: 'Case Type',
   },
   {
-    id: 'description',
+    id: 'finalJudgmentAmount',
     numeric: false,
     disablePadding: false,
-    label: 'Description',
+    label: 'Final Judgment Amount',
   },
 ];
 
@@ -583,7 +583,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
         <TableCell align="center">{row.assessedValue + '$'}</TableCell>
         <TableCell align="center">{formatDate(row.auctionDate)}</TableCell>
         <TableCell align="center">{row.caseType}</TableCell>
-        <TableCell align="center">{row.description}</TableCell>
+        <TableCell align="center">{row.finalJudgmentAmount ? row.finalJudgmentAmount + '$' : '0$'}</TableCell>
       </TableRow>
 
       {isExpanded && (
@@ -764,6 +764,11 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
 
                     <ListItem>
                       <ListItemText primary="Assessed Value" secondary={row.assessedValue + '$'} />
+                    </ListItem>
+                    <Divider />
+
+                    <ListItem>
+                      <ListItemText primary="Final Judgment Amount" secondary={row.finalJudgmentAmount ? row.finalJudgmentAmount + '$' : '0$'} />
                     </ListItem>
                     <Divider />
 
@@ -1301,7 +1306,7 @@ function DocumentsDialog ({
 
 const formatDate = (date) => {
   // split on T and return the first part, make sure date is Date
-  return new Date(date).toISOString().split('T')[0];
+  return new Date(date).toDateString()
 
 }
 // style Table component

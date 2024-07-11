@@ -11,6 +11,10 @@ const AuctionSchema = new Mongoose.Schema({
         required: false,
         unique: true,
     },
+    finalJudgmentAmount: {
+        type: Number,
+        required: false,
+    },
     caseType: {
         type: String,
         required: true,
@@ -23,7 +27,6 @@ const AuctionSchema = new Mongoose.Schema({
     parcelID: {
         type: String,
         required: false,
-        unique: true,
     },
     certificateNumber: {
         type: String,
