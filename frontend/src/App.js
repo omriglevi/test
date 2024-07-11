@@ -1,7 +1,7 @@
 import './App.css';
 import LoginPage from './LoginPage';
 import { Routes, Route } from 'react-router-dom';
-import { AuthProvider, useAuth } from './hooks/use-auth'
+import { AuthProvider } from './hooks/use-auth'
 import { ProtectedRoute } from './ProtectedRoute';
 import AuctionsPage from './AuctionsPage';
 import Navbar from './Navbar';
