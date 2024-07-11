@@ -3,6 +3,7 @@
 const fs = require('fs')
 const { connectDB } = require('../src/db')
 const { insertBulk, insert } = require('../src/auctions/controller')
+const Auction = require('../src/models/auction')
 
 const numberFields = [
     'openingBid',
@@ -83,6 +84,35 @@ const main = async () => {
     console.log('All files inserted', errors);
 }
 
-connectDB().then(() =>
-    main().catch(console.error)
-).catch(console.error)
+// connectDB().then(() =>
+//     main().catch(console.error)
+// ).catch(console.error)
+
+
+const removeNotesFromEachAuction = async () => {
+    // connect to db
+    await connectDB()
+    // get all auctions
+    const auctions = await Auction.find()
+    console.log('Auctions', auctions.length);
+    // each auction who has legalDocuments field, from each array in the field remove the notes field
+    for (const auction of auctions) {
+        console.log('Auction', auction.caseNumber);
+        if (auction?.legalDocuments) {
+            auction.legalDocuments = auction.legalDocuments.map((arrays) => {
+                return arrays.map((doc) => {
+                    delete doc.notes
+                    return doc
+                })
+            })
+            try {
+                await auction.save()
+            } catch (error) {
+                console.error(error)
+            }
+
+        }
+    }
+}
+
+removeNotesFromEachAuction().catch(console.error)

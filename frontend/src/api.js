@@ -1,6 +1,8 @@
 
 const config = {
-    apiUrl: 'http://3.80.89.208:3000/auctions',
+    apiUrl: process.env?.NODE_ENV === 'development'
+        ? process.env.REACT_APP_API_URL_DEV
+        : process.env.REACT_APP_API_URL_PROD,
     options: {
         credentials: "include",
         headers: {
@@ -11,7 +13,7 @@ const config = {
 }
 
 const getAuctions = async ({ cursor, filter } ) => {
-    const url = new URL(config.apiUrl)
+    const url = new URL(config.apiUrl + '/auctions')
     const options = config.options
 
     if (cursor && typeof cursor === 'string') {
@@ -29,9 +31,7 @@ const getAuctions = async ({ cursor, filter } ) => {
 }
 
 const updateAuction = async (id, changes) => {
-    console.log('Updating auction with id ===>', id, ' with changes ===>', changes);
-    const url = `${config.apiUrl}/${id}`
-    console.log('Hitting url ===>', url);
+    const url = `${config.apiUrl}/auctions/${id}`
     const options = config?.options
 
 

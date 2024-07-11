@@ -26,18 +26,11 @@ import StateIcon from '@mui/icons-material/AccountBalance';
 import StatusIcon from '@mui/icons-material/PaidOutlined';
 import EditIcon from '@mui/icons-material/Edit';
 import Details from '@mui/icons-material/Details';
-
-
-
-
-
-
-
 import FilterListIcon from '@mui/icons-material/FilterList';
 import { visuallyHidden } from '@mui/utils';
 import Favorite from '@mui/icons-material/Favorite';
 import FavoriteBorder from '@mui/icons-material/FavoriteBorder';
-import { Avatar, Badge, Button, Card, Checkbox, Container, Dialog, Divider, FormControl, FormHelperText, FormLabel, Grid, Input, InputLabel, List, ListItem, ListItemAvatar, ListItemIcon, ListItemText, styled, TextField, } from '@mui/material';
+import { Avatar, Badge, Button, Card, Checkbox, Dialog, Divider, Grid, InputLabel, List, ListItem, ListItemAvatar, ListItemIcon, ListItemText, styled, TextField, } from '@mui/material';
 import { blue, green } from '@mui/material/colors';
 import Layout from './Layout';
 import useAuctions from './use-auctions';
@@ -285,8 +278,6 @@ function FilterComponent ({
         filter.totalPrice = {...filter.totalPrice, $gt: minTotalPrice }
       }
     }
-    // searchWithFilter(filter)
-    console.log(filter);
     await search(filter)
   }
 
@@ -405,12 +396,20 @@ export default function EnhancedTable () {
     updateAuctionField,
     searchByAddress,
     searchWithFilter,
+    updateLegalDocNotes,
   } = useAuctions()
 
   const [dialogOpen, setDialogOpen] = React.useState(false)
   const [dialogDocuments, setDialogDocuments] = React.useState([])
-  const closeDocumentsDialog = () => setDialogOpen(false)
-  const openDocumentsDialog = (documents) => {
+  const [documentParcelID, setDocumentParcelID] = React.useState(null)
+
+  const closeDocumentsDialog = () => {
+    setDocumentParcelID(null)
+    setDialogOpen(false)
+  }
+
+  const openDocumentsDialog = (documents, parcelID) => {
+    setDocumentParcelID(parcelID)
     setDialogDocuments(documents)
     setDialogOpen(true)
   }
@@ -459,6 +458,8 @@ export default function EnhancedTable () {
               onClose={closeDocumentsDialog}
               open={dialogOpen}
               key={`document-dialog-${dialogOpen}`}
+              parcelID={documentParcelID}
+              updateLegalDocNotes={updateLegalDocNotes}
             />
 
 
@@ -587,6 +588,16 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
 
       {isExpanded && (
         <>
+                  <TableRow>
+            <TableCell colSpan={8}>
+              <NotesField
+                        primaryText='Notes'
+                        secondaryText={row.noted}
+                        updateAuctionField={updateAuctionField.bind(null, row._id, 'noted')}
+                        fullWidth
+                      />
+            </TableCell>
+          </TableRow>
           <TableRow>
             <TableCell colSpan={8}>
               <Grid container>
@@ -612,9 +623,9 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                           })
                         }
                       </List>
+                  <Divider />
                     </>
                   }
-                  <Divider />
 
                   {row.partyDetails?.length > 0 &&
                     <>
@@ -647,7 +658,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                           if (arrayOfDocs.length === 0) return null
                           return (
                             <ListItem>
-                              <ListItemAvatar onClick={() => openDocsDialog(arrayOfDocs)}>
+                              <ListItemAvatar onClick={() => openDocsDialog(arrayOfDocs, row?.parcelID)}>
 
                                 <Badge badgeContent={arrayOfDocs.length} color="primary">
                                   <Avatar sx={{ bgcolor: green[300] }}>
@@ -1044,12 +1055,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                       />
                       <Divider />
 
-                      <EditableField
-                        primaryText={'Noted'}
-                        secondaryText={row.noted}
-                        updateAuctionField={updateAuctionField.bind(null, row._id, 'noted')}
-                      />
-                      <Divider />
+
                     </List>
 
                   </>
@@ -1059,8 +1065,6 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
               </Grid>
             </TableCell>
           </TableRow>
-
-
         </>
       )}
     </>
@@ -1126,9 +1130,13 @@ function EditableField ({
               defaultValue={secondaryText || ''}
               focused
               multiline
+
             />
+            <Layout>
+
             <Button disabled={loading} onClick={onSave}> Save </Button>
             <Button disabled={loading} onClick={onCancel}> Cancel </Button>
+            </Layout>
 
           </>
           :
@@ -1146,14 +1154,95 @@ function EditableField ({
   );
 
 }
+function NotesField ({
+  primaryText,
+  secondaryText,
+  updateAuctionField,
+}) {
+  const [loading, setLoading] = React.useState(false)
+  const [editing, setEditing] = React.useState(false)
+  const [newText, setNewText] = React.useState(secondaryText)
 
+  const saveChanges = async (newText) => {
+    try {
+      await updateAuctionField(newText)
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  const onClick = () => {
+    setEditing(true)
+  }
+
+  const onSave = async () => {
+    try {
+      setLoading(true)
+      await saveChanges(newText)
+      setEditing(false)
+    } catch (error) {
+      console.log(error);
+      setNewText(secondaryText)
+    }
+    finally {
+      setLoading(false)
+    }
+  }
+
+  const onCancel = () => {
+    setEditing(false)
+  }
+
+  return (
+    editing ? (
+      <>
+      <p style={{display: 'grid'}}>
+      <TextField
+        size='small'
+        variant="outlined"
+        onChange={(event) => setNewText(event.target.value)}
+        defaultValue={secondaryText || ''}
+        focused
+        multiline
+        fullWidth
+      />
+    </p>
+          <Button  disabled={loading} onClick={onSave}> Save </Button>
+          <Button disabled={loading} onClick={onCancel}> Cancel </Button>
+          </>
+    ) : (
+    <ListItem>
+      <ListItemText
+        primary={
+            <Typography  variant='subtitle2'>
+               {primaryText}
+               </Typography>
+        }
+        secondary={ newText|| 'None' }
+        secondaryTypographyProps={{ style: { whiteSpace: 'pre-wrap'}}}
+
+       />
+      <ListItemIcon onClick={onClick}>
+        {
+          loading ?
+            <CircularProgress size={20} />
+            :
+            <EditIcon fontSize="small" />
+        }
+      </ListItemIcon>
+    </ListItem>
+    )
+  );
+
+}
 
 function DocumentsDialog ({
   onClose,
   open,
   documents,
+  parcelID,
+  updateLegalDocNotes
 }) {
-
   return (
     <Dialog
       open={open}
@@ -1162,12 +1251,14 @@ function DocumentsDialog ({
       <List>
         {documents.map((document) => {
           return (
+            <>
             <ListItem>
               <ListItemAvatar onClick={() => window.open(document?.url, '_blank').focus()}>
                 <Avatar>
                   <DescriptionIcon />
                 </Avatar>
               </ListItemAvatar>
+
               <ListItemText primary={document?.firstParty} secondary={document?.secondParty} />
               <Layout>
 
@@ -1183,8 +1274,23 @@ function DocumentsDialog ({
                   {document?.fileNumber}
                 </Typography>
               </Layout>
-
             </ListItem>
+            <ListItem>
+              <Typography variant='subtitle2'> Notes</Typography>
+            <NotesField
+              primaryText=''
+              secondaryText={document?.notes}
+              updateAuctionField={(notes) => {
+                updateLegalDocNotes({
+                  parcelID,
+                  fileNumber: document?.fileNumber,
+                  notes,
+                  })
+              }}
+              />
+            </ListItem>
+            <Divider />
+            </>
           )
         })}
       </List>

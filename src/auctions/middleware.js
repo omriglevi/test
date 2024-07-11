@@ -3,7 +3,6 @@ const { list, update } = require('./controller')
 const getAuctionsWithFilter = async (req, res, next) => {
     try {
         let { filter, cursor, limit } = req.query
-        console.log('Filter ===>', filter);
         if (filter) {
             try {
             filter = JSON.parse(filter)

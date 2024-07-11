@@ -47,7 +47,39 @@ const useAuctions = () => {
                 [newPage + 1]: response.nextCursor
             }));
         }
-    }, [cursors]);
+    }, [cursors, filter]);
+
+
+    const updateLegalDocNotes = useCallback(async ({ parcelID, fileNumber, notes }) => {
+              // find parcelID in the auctions,
+              const auction = auctions.find(auction => auction.parcelID === parcelID);
+                if (!auction) {
+                    console.error('Auction not found', parcelID);
+                    return;
+                }
+
+                const updatedLegalDocuments = auction?.legalDocuments.map((arrays) => {
+                    return arrays.map((doc) => {
+                        if (doc.fileNumber === fileNumber) {
+                            doc.notes = notes;
+                        }
+                        return doc;
+                });
+            });
+
+                try {
+                    await updateAuction(auction._id, { legalDocuments: updatedLegalDocuments});
+                    setAuctions(prevAuctions => {
+                        const updatedAuctions = [...prevAuctions];
+                        const index = updatedAuctions.findIndex(a => a._id === auction._id);
+                        updatedAuctions[index] = { ...updatedAuctions[index], legalDocuments: updatedLegalDocuments };
+                        return updatedAuctions;
+                    }
+                    );
+                } catch (error) {
+                    console.error(error);
+                }
+    }, [auctions])
 
     const updateAuctionField = useCallback(async (id, field, value) => {
         try {
@@ -84,7 +116,6 @@ const useAuctions = () => {
                 .catch(error => console.error(error))
             setPage(0);
 
-            console.log('Response from search by address ===>', response);
             setAuctions(response.auctions || []);
 
             if (response.nextCursor) {
@@ -139,6 +170,7 @@ const useAuctions = () => {
         page,
         searchByAddress,
         searchWithFilter,
+        updateLegalDocNotes,
     };
 }
 

@@ -7,7 +7,6 @@ const jwtSecret = process.env.JWT_SECRET
 
 const register = async (req, res, next) => {
     const { username, password } = req.body
-    console.log(req.body);
     try {
         if (!password?.length || password.length < 6) {
             throw new Error('Password less than 6 characters')
