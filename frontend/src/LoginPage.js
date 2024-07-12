@@ -12,6 +12,7 @@ import Alert from '@mui/material/Alert';
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { useAuth } from './hooks/use-auth'
+import { getConfig } from './api'
 
 function Copyright(props) {
   return (
@@ -42,8 +43,13 @@ export default function SignIn() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
+    const { apiUrl } = getConfig()
+    if (!apiUrl) {
+      throw new Error('URL is mandatory')
+    }
+
     try {
-      const response = await fetch('http://3.80.89.208:3000/login', {
+      const response = await fetch(apiUrl+'/login', {
         body: JSON.stringify({
           username: data.get('username'),
           password: data.get('password'),

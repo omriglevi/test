@@ -12,6 +12,7 @@ const config = {
 
 }
 
+const getConfig = () => config
 const getAuctions = async ({ cursor, filter } ) => {
     const url = new URL(config.apiUrl + '/auctions')
     const options = config.options
@@ -46,4 +47,5 @@ const updateAuction = async (id, changes) => {
 export {
     getAuctions,
     updateAuction,
+    getConfig,
 }
