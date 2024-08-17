@@ -67,17 +67,19 @@ const main = async () => {
         console.log('Inserting data for', normalizedData[0].auctionDate);
 
         // remove duplicates, with same date same parcelID and same caseNumber
-        const uniqueData = normalizedData.filter((auction, index, self) =>
-            index === self.findIndex((t) => (
-                t.auctionDate === auction.auctionDate && t.parcelID === auction.parcelID && t.caseNumber === auction.caseNumber
-            ))
-        )
+        // const uniqueData = normalizedData.filter((auction, index, self) =>
+        //     index === self.findIndex((t) => (
+        //         t.auctionDate === auction.auctionDate && auction.parcelID && t.parcelID === auction.parcelID && t.caseNumber === auction.caseNumber
+        //     ))
+        // )
 
-        // log ids
-        const ids = uniqueData.map((auction) => auction.parcelID)
-        console.log('Unique IDs', ids);
+        // // log ids
+        // const ids = uniqueData.map((auction) => auction.parcelID)
+        // console.log('Unique IDs', ids);
 
-        await insertBulk(uniqueData).catch(console.error)
+        // await insertBulk(uniqueData).catch(console.error)
+        await insertBulk(normalizedData).catch(console.error)
+
 
 
 

@@ -9,7 +9,6 @@ const AuctionSchema = new Mongoose.Schema({
     caseNumber: {
         type: String,
         required: false,
-        unique: true,
     },
     finalJudgmentAmount: {
         type: Number,
