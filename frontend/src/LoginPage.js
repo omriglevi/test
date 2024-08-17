@@ -9,6 +9,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Alert from '@mui/material/Alert';
+import { login as apiLogin} from './api'
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { useAuth } from './hooks/use-auth'
@@ -43,17 +44,9 @@ export default function SignIn() {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
     try {
-      const response = await fetch('http://3.80.89.208:3000/login', {
-        body: JSON.stringify({
-          username: data.get('username'),
-          password: data.get('password'),
-        }),
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        method: 'POST',
-      })
-      .then(response => response.json())
+      const username = data.get('username')
+      const password = data.get('password')
+      const response = await apiLogin(username, password)
 
       login({ // set the state to logged in
         username: response.username,

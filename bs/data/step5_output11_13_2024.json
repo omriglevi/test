@@ -1,0 +1,4016 @@
+[
+  {
+    "caseNumber(Count)": "2018-027243-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$672,015.30",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Ginsburg, Yisroel"
+      },
+      {
+        "DEFENDANT": "Ginsburg, Ruth"
+      },
+      {
+        "DEFENDANT": "TCF National Bank"
+      },
+      {
+        "DEFENDANT": "High and Dry Roofing Contractors Inc"
+      },
+      {
+        "DEFENDANT AKA": "High and Dry Roofing"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Bruce Jacobs ,"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Bruce Jacobs ,"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Kopf, Jennifer Lynn"
+      },
+      {
+        "PLAINTIFF": "SPECIALIZED LOAN SERVICING LLC"
+      },
+      {
+        "PLAINTIFF": "SUNTRUST BANK"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Spradley, Danielle Monique"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Robinson Keith Ustler Esq,"
+      }
+    ],
+    "violations": [],
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADa6L1WMKZ2TAPgiRxfLWj3g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL &W (R)",
+          "secondParty": "LEVY REBECCA",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784435"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADnFTfWYULvhHy3pfzjGx0zw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784436"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpatXgAGn%2bDP84Hv5jJKcZxrDDAK%2fTdp8G3Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/6/2007",
+          "fileNumber": "2007 R 20814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7hj9d%2f4DmJvczjANQj%2fuqT5KgvmZgC93fA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MTG CORP",
+          "date": "3/5/2009",
+          "fileNumber": "2009 R 161081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7sXO4%2bj1RkjWKIp60%2bzCF7FDcWEbyWNWiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "5/7/2009",
+          "fileNumber": "2009 R 336025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mq2WBWEJ42orJunlu8xoB0R5kD1kHWwjRA%3d%3d",
+          "type": "LIE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "6/30/2010",
+          "fileNumber": "2010 R 440031"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYEWC3ptfVo1gxQ1KR1Y7XNk4A77xgHhLFg%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "HSBC BNK USA NA",
+          "date": "5/26/2011",
+          "fileNumber": "2011 R 344330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOJuSHQ3ezZRAQbh8nfiOwnWi%2bDZnRv%2fSw%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/22/2011",
+          "fileNumber": "2011 R 638215"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYNEMroRv1hAD1U9GRS8zNKcvr%2fj%2fZgLDgw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL &W (D)",
+          "secondParty": "FEDER RUTH",
+          "date": "9/26/2011",
+          "fileNumber": "2011 R 643616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOEvMN41HA7GKSL07L0MLV2a038sjC1A6w%3d%3d",
+          "type": "REL",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "10/6/2011",
+          "fileNumber": "2011 R 669642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYA4UkSwg7i%2fQ6vXLlIh%2f1y9kt1Ly0t9Xog%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "10/20/2011",
+          "fileNumber": "2011 R 706681"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDz0N7MGY5NZgG4jBO1sva%2ft2TfPkMxP2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "1/17/2012",
+          "fileNumber": "2012 R 33348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMAyvlQZHtXRAMVNOWhOhYT4PvfIKgmoig%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL E (R)",
+          "secondParty": "ASSET ACCEPTANCE LLC",
+          "date": "1/23/2012",
+          "fileNumber": "2012 R 47819"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbk6BtZkCw9DbhMOwsy%2fxi%2bekuDli0ejb8g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "9/13/2013",
+          "fileNumber": "2013 R 729119"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbreLK35fZ9brMdmvIid8DmR7wx6v72%2bwow%3d%3d",
+          "type": "JUD",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "10/22/2013",
+          "fileNumber": "2013 R 840165"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjfQ6l0UzIKYSKjWsMKvVxGdqBHMi%2bmdqg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "11/25/2013",
+          "fileNumber": "2013 R 930183"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAN3wu4ylXjkGdeQYX7MmMyE5fvM5utlpw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "4/11/2014",
+          "fileNumber": "2014 R 262382"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKftbFMOQWYUhQFORpL9JGKe94s6o5Ia%2fA%3d%3d",
+          "type": "SJU",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "6/22/2015",
+          "fileNumber": "2015 R 398642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKftbFMOQWYUhQFORpL9JGKe94s6o5Ia%2fA%3d%3d",
+          "type": "SJU",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "6/22/2015",
+          "fileNumber": "2015 R 398642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyU4QBOzOtp3sfLxLf9QJaU4Q%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539074"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUxiI1P%2fdxPtKcdlavykdcKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUyrn12Gdaj7tJY0EZPNtpzQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "TCF NATIONAL BANK",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539076"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMg5W2QkoxXq%2fqkM9oMY6fPRPCN7WHBtafw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "10/17/2016",
+          "fileNumber": "2016 R 597236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTow0zvuTIxBcVqhN2bKU8X%2bdpiR8cJ%2f6eA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "9/20/2017",
+          "fileNumber": "2017 R 523890"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mToE9uGipGmH0kirDEzOmRq2ZeSFPutoHeA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "10/16/2017",
+          "fileNumber": "2017 R 578047"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3XF6uyPKh1Z%2ft9zMyeGdpMh7ErFiH0pRA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "6/14/2018",
+          "fileNumber": "2018 R 351269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyzExWx2oPDM2MPSdOluyi%2bGlhofNXSWFtA%3d%3d",
+          "type": "NCO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5acoDG1L6XXfIITmilFaZP16eicjyM3Dw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3X965cQaw4WZmDMtJMgCEW9vADuoKPtKA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/20/2018",
+          "fileNumber": "2018 R 437157"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSywXcrXYkPwKiCDeeF%2b63KsDIn6zRW%2f%2bLIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "SUNTRUST MORTGAGE INC",
+          "date": "8/29/2018",
+          "fileNumber": "2018 R 524483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7b5i9Z%2bEtLc2NDqqVufzitdqHh35wBcJaA%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "TRUIST BANK",
+          "date": "12/8/2021",
+          "fileNumber": "2021 R 920871"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp6pXEvRfnlR0ha63gPT6arkRLQlHPAsU1Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "US BANK TRUST NATIONAL ASSOCIATION",
+          "date": "12/29/2023",
+          "fileNumber": "2023 R 934705"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCqflMfl1EUkXhzeTSbO5thdSwHF3kvRRAnvQCrwR3nqg%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "FORUM DEV CORP",
+          "date": "2/24/1967",
+          "fileNumber": "1967 R 29377"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBA%2bak7rtt66GtsZpHbBEcpDt4HjSzD4kSvnVbccwgkLA%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "EISENSTEIN ALFRED",
+          "date": "12/31/1969",
+          "fileNumber": "1969 R 222459"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkVdoKvznHqq997KzQRhx0wUT5lE7PFGdsA%3d%3d",
+          "type": "QCD",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GARFINKEL ABE",
+          "date": "2/2/1972",
+          "fileNumber": "1972 R 25034"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXCd0mjTqlJdeUaDXyvzJEDL5Tzk6QEpi8g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SASIC MILAN&W",
+          "date": "4/2/1973",
+          "fileNumber": "1973 R 76675"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXB2s11cABSo8xk25jB%2b1WkYlCSdrOMlLUw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GAVATIDES CHRYSOSTOMOS &W",
+          "date": "4/23/1973",
+          "fileNumber": "1973 R 93111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c64oA%2f6E4ry0O9PztVuH7CZp05bIjRR%2b6Iw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "KAPPA CORP",
+          "date": "1/28/1974",
+          "fileNumber": "1974 R 20997"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c64oA%2f6E4ry0OqeydwjhbkNw1wKub8RK7Rw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "KAPPA CORP",
+          "date": "1/28/1974",
+          "fileNumber": "1974 R 20998"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c6977dJ%2beb46zVMRzOkNpYwljeuCF84%2fuMA%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GOLDMAN MAX & HELEN",
+          "date": "5/17/1974",
+          "fileNumber": "1974 R 112872"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c6%2bSmvl9iLy3nb4Pzs%2fGAzpClN%2bTrMUcItw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "BELLOWS MAURICE G &W JOYCE H & MAURICE G T",
+          "date": "5/20/1974",
+          "fileNumber": "1974 R 114707"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUzSU9VcrAO8ug5bXXcxbhfoy9LZbGwllQvax%2fF9W6xg%3d%3d",
+          "type": "FST",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "BELLOWS MAURICE G &W JOYCE & MAURICE G TR",
+          "date": "2/19/1975",
+          "fileNumber": "1975 R 33882"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNkbsumehbIlVOqlulIBSGE%2beUbAgoq4Ng%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SEGAL ROBERTA TRU",
+          "date": "7/29/1985",
+          "fileNumber": "1985 R 228599"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQKz7bkvR8GJEXRD0v4tTGegmTMe%2bWZT5Bw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH EST OF (D)",
+          "secondParty": "ADDANTE MICHAEL &W JOYCE",
+          "date": "8/16/1988",
+          "fileNumber": "1988 R 296906"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeys9KSwtNRd1Gp9zJRvgVow%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "1/22/1988",
+          "fileNumber": "1988 R 135502705"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeUusQDGVT9l6dVUtjOt%2b4fQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "2/3/1988",
+          "fileNumber": "1988 R 135502707"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOe8XTftUJ2nvRBCniPU3P7hQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "1/22/1988",
+          "fileNumber": "1988 R 135502708"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeBX3oR6XLGSpvHinahCHJ8A%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "2/3/1988",
+          "fileNumber": "1988 R 135502712"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQB0sJ9zksGJaOx8tjK0OtP8PWwOOfqT3eg%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/5/1988",
+          "fileNumber": "1988 R 136701063"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQN1zM1YDhevqK6dIB1zn8aTFaM3CoE2V1Q%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "7/14/1988",
+          "fileNumber": "1988 R 137480673"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQG83HAHc%2fh9hi3RMHAGMwZy%2bRIUCyFRS3A%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "8/17/1988",
+          "fileNumber": "1988 R 137900168"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuCJwmUEB4YpPH9p1iptGgKCulySbRp%2fIQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/23/1990",
+          "fileNumber": "1990 R 145531897"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuCJwmUEB4Ypv04aHEKoY9eMO5CIqITbXQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/23/1990",
+          "fileNumber": "1990 R 145531898"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhm5rucIjGVi%2bX2gkYV6d1%2bXZv%2bA%2fU3wXww%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/2/1990",
+          "fileNumber": "1990 R 145820236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhnP6RwBEIUFYbdgsostWVH1i6n4JkMTgAw%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "7/13/1990",
+          "fileNumber": "1990 R 146142702"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijtr2Bcs0Ov0W%2blVsDWwaDG5%2b54GRvtmeaQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "KISLAK NATL BNK",
+          "date": "2/24/1992",
+          "fileNumber": "1992 R 64246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADa6L1WMKZ2TAPgiRxfLWj3g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "LEVY REBECCA",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784435"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADnFTfWYULvhHy3pfzjGx0zw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784436"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpatXgAGn%2bDP84Hv5jJKcZxrDDAK%2fTdp8G3Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH &H (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/6/2007",
+          "fileNumber": "2007 R 20814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7sXO4%2bj1RkjWKIp60%2bzCF7FDcWEbyWNWiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "5/7/2009",
+          "fileNumber": "2009 R 336025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mq2WBWEJ42orJunlu8xoB0R5kD1kHWwjRA%3d%3d",
+          "type": "LIE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "6/30/2010",
+          "fileNumber": "2010 R 440031"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYEWC3ptfVo1gxQ1KR1Y7XNk4A77xgHhLFg%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "HSBC BNK USA NA",
+          "date": "5/26/2011",
+          "fileNumber": "2011 R 344330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOJuSHQ3ezZRAQbh8nfiOwnWi%2bDZnRv%2fSw%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/22/2011",
+          "fileNumber": "2011 R 638215"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYNEMroRv1hAD1U9GRS8zNKcvr%2fj%2fZgLDgw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "FEDER RUTH",
+          "date": "9/26/2011",
+          "fileNumber": "2011 R 643616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOEvMN41HA7GKSL07L0MLV2a038sjC1A6w%3d%3d",
+          "type": "REL",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "10/6/2011",
+          "fileNumber": "2011 R 669642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYA4UkSwg7i%2fQ6vXLlIh%2f1y9kt1Ly0t9Xog%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "10/20/2011",
+          "fileNumber": "2011 R 706681"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDz0N7MGY5NZgG4jBO1sva%2ft2TfPkMxP2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "1/17/2012",
+          "fileNumber": "2012 R 33348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUxiI1P%2fdxPtKcdlavykdcKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUyrn12Gdaj7tJY0EZPNtpzQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "TCF NATIONAL BANK",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539076"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMg5W2QkoxXq%2fqkM9oMY6fPRPCN7WHBtafw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "10/17/2016",
+          "fileNumber": "2016 R 597236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTow0zvuTIxBcVqhN2bKU8X%2bdpiR8cJ%2f6eA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "9/20/2017",
+          "fileNumber": "2017 R 523890"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mToE9uGipGmH0kirDEzOmRq2ZeSFPutoHeA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "10/16/2017",
+          "fileNumber": "2017 R 578047"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3XF6uyPKh1Z%2ft9zMyeGdpMh7ErFiH0pRA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "6/14/2018",
+          "fileNumber": "2018 R 351269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy968dHWq4aHXMQInnN01yMnXaKGEE5Ollg%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PROPERTY ASSESSMENT CLEAN ENERGY DISTRICT",
+          "date": "6/25/2018",
+          "fileNumber": "2018 R 373586"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5acoDG1L6XXfIITmilFaZP16eicjyM3Dw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3X965cQaw4WZmDMtJMgCEW9vADuoKPtKA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/20/2018",
+          "fileNumber": "2018 R 437157"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSywXcrXYkPwKiCDeeF%2b63KsDIn6zRW%2f%2bLIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SUNTRUST MORTGAGE INC",
+          "date": "8/29/2018",
+          "fileNumber": "2018 R 524483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7b5i9Z%2bEtLc2NDqqVufzitdqHh35wBcJaA%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "TRUIST BANK",
+          "date": "12/8/2021",
+          "fileNumber": "2021 R 920871"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGUN0y%2fG6b7IPadlZsjkDapE%2fj1NmQMgRYg%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "CAVALRY SPV I LLC AS ASSIGNEE OF CITIBANK N A",
+          "date": "4/19/2022",
+          "fileNumber": "2022 R 319223"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMCCsY54CVS2NOASAUPf6rpALTWAM2TMXg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "KHURANA ASHISH",
+          "date": "10/21/2014",
+          "fileNumber": "2014 R 727664"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJpxx2GQd%2bmfFtUgZP5jOCBtY0TuyRNSnA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "CURBELO JOSE C",
+          "date": "11/12/2014",
+          "fileNumber": "2014 R 778299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJbblG21po1YYhttkGWq5v%2f%2bR5RQ9E3orA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "OGURICK MATTHEW",
+          "date": "12/10/2014",
+          "fileNumber": "2014 R 846718"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHSGuRv6RqhfSzO3fDzh4qnAVY0aRQVUjQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "FURTWAENGLER LARS",
+          "date": "12/12/2014",
+          "fileNumber": "2014 R 853527"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAlQNPfXTVc6cL3PkKtuVu%2bPiaDDrM%2bp%2bA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "FRANCESCHI DIDO",
+          "date": "12/30/2014",
+          "fileNumber": "2014 R 886419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsK7Azj3YqGt0%2fH%2b2Hmdat3H%2fKa3p%2bpdTDg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PENA ADRIAN",
+          "date": "1/5/2015",
+          "fileNumber": "2015 R 3941"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsMzCXEY%2f4wzHn%2f6ciXG4jotnNbTT4EzJTQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PINTADO STEPHANIE",
+          "date": "1/6/2015",
+          "fileNumber": "2015 R 6214"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDhMSnZZYUjGtATcWeYOyx7Lg63SMe9fdQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "WARD SANDRA M",
+          "date": "1/8/2015",
+          "fileNumber": "2015 R 13020"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEw6i0mj0ot%2b0a%2f%2fuNGgUpjXJXfWhVLbRA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NUGUES PATRICK L",
+          "date": "1/8/2015",
+          "fileNumber": "2015 R 14399"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBV7buyG%2fj6uAxXw0qQ6s0KiX68G6z%2bT5g%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RIVERO JORGE",
+          "date": "8/5/2015",
+          "fileNumber": "2015 R 504225"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAkQDi0yCHRt5MjQyEmGEI76eObDDRrIPw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BARALOTO CHRISTOPHER J",
+          "date": "8/10/2015",
+          "fileNumber": "2015 R 513268"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC0FhctYjKQ4Ox11E1nRZqWoO20VTHeJuA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SANCHEZ ANTONIO I",
+          "date": "8/14/2015",
+          "fileNumber": "2015 R 526503"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAhmZaWP8ZXxwFXsmOqfwFXfko%2ftXPI5pQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "OLIVA ALFREDO JR",
+          "date": "8/14/2015",
+          "fileNumber": "2015 R 527573"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsO%2fM986DKpELWHk9J3fBkPX%2fhmxTnbWEOQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "JIMENEZ GERALDO",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 531743"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsO%2fM986DKpELWHk9J3fBkPX%2fhmxTnbWEOQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "JIMENEZ GERALDO",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 531743"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKYuIpcUNVJ6LiUNGK835SkqirnrKRY8aA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "EMANS PATRICK C",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 533725"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIbEruWsEoGzo%2fhGswqcjFt4dvsH8gUhxg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RICH JOSEPH F",
+          "date": "8/19/2015",
+          "fileNumber": "2015 R 536702"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsB5F0AMrD6%2bnIGCt353qxqnhYTz9k5YRjg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SALAZAR EDGARDO L",
+          "date": "8/21/2015",
+          "fileNumber": "2015 R 541671"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCsnJJs%2beBzFZL1dQ%2fWf95sap2NdzZGfkg%3d%3d",
+          "type": "AMO",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "8/26/2015",
+          "fileNumber": "2015 R 551332"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBH8WwWmzT77li8sJlFV0mNOUTtdMj%2fYKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NG SALLY",
+          "date": "8/26/2015",
+          "fileNumber": "2015 R 552082"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNAf2PTOTir5d0dI46E0KOENHQ0vcVkY%2fg%3d%3d",
+          "type": "ASG",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "8/28/2015",
+          "fileNumber": "2015 R 559368"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsH%2bY%2bhm2bbdJKvr3yvYE9gVWvmzkh0F1lg%3d%3d",
+          "type": "ASG",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "9/1/2015",
+          "fileNumber": "2015 R 564364"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFMOKmvsGoW%2fGsgfQITCp%2bCxiFopMy95kg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GONZALEZ GABRIEL A",
+          "date": "9/2/2015",
+          "fileNumber": "2015 R 568866"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBDY%2fB9q7G25YaexU22QmwmUMc%2fUhRodlw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALBURQUERQUE JOSE",
+          "date": "9/2/2015",
+          "fileNumber": "2015 R 569969"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFWeiCoZSybfj9EU5XCGjgsU0M8aiZXTng%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AMER MOHAMED ADEL MOHAMED ABDELWAHAB M",
+          "date": "9/9/2015",
+          "fileNumber": "2015 R 580541"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDnZtHJ42IZ7KKbzDKzDSwgDg4dpUh%2b7Eg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ORTIZ HENRIQUEZ ANTONIO J",
+          "date": "9/10/2015",
+          "fileNumber": "2015 R 585859"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDDxBdL5gscHVrAsSeoJzr2OQIaJoE5rYQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALEXANDRE MARCELO",
+          "date": "9/14/2015",
+          "fileNumber": "2015 R 590324"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDswxQQnGLUn9Wy4PH9aul29P9LayTQpHw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BERNAL ALEXANDER",
+          "date": "9/17/2015",
+          "fileNumber": "2015 R 599523"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsLvwx5uHbNgZOyBbTbUlnpMRg1ZrM%2fvw1w%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AHMED KAISER",
+          "date": "9/17/2015",
+          "fileNumber": "2015 R 599821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIh%2bwX1aH4cfZVNzUX98%2boeCskCHLVS5uA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BLAYA MONIKA",
+          "date": "9/18/2015",
+          "fileNumber": "2015 R 604476"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIpvW45xa%2fKHYCquxaRNs4RerVCX5wTyUg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PORTOCARRERO IOLANY",
+          "date": "9/28/2015",
+          "fileNumber": "2015 R 622528"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDHSbbRY4xjbPcNRaV%2f2CRElZDFX3kwwcQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MURILLO ANABELLA",
+          "date": "9/29/2015",
+          "fileNumber": "2015 R 626167"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFhlzRSzxjK%2b7P9uqISU3glzxMHjQVCzwQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "VIVAS EDDY",
+          "date": "9/29/2015",
+          "fileNumber": "2015 R 627238"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFhlzRSzxjK%2bQdXvWhVKiOgtG9L2vIuTxw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MOHAMMED SEAN S",
+          "date": "9/30/2015",
+          "fileNumber": "2015 R 627299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJF3Z8DYM4K1vwVeyoc%2f00WtMlknbZ4voA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GUERRA JORGE E",
+          "date": "10/6/2015",
+          "fileNumber": "2015 R 640515"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAlx7A02p0jUKLtyHacrq8x%2bGL1hJIn31g%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "UGARTE EVA",
+          "date": "10/6/2015",
+          "fileNumber": "2015 R 642631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIkPrEWUDTTZF%2fQ6nIGSw0PMpv2rFDTbWA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALVAREZ MICHAEL L",
+          "date": "10/14/2015",
+          "fileNumber": "2015 R 657815"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJjBmqzxBptqgE%2b%2fVCtgx23RJOk1iismsA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NELSON ALEXANDER B",
+          "date": "10/14/2015",
+          "fileNumber": "2015 R 659771"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDiI1FUqwkzHN9v1LLjQ0FndZbjiRdsIWQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AMITRANO PASCUALE",
+          "date": "10/15/2015",
+          "fileNumber": "2015 R 660359"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsA3zm6fRm716VKMXAsP4lE9qrnABs8Ki3A%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PEREZ VICTOR",
+          "date": "10/19/2015",
+          "fileNumber": "2015 R 666687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsHU3pDESZNBUPUxN8FUR7VZGGkiPrSe1sA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BARATON CHRISTOPHE",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 670246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsOOT%2bMF8MqjeKe%2bHt8uCjw%2fRHz4b8ygF7A%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SHAOUL RALPH",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 672002"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDT3X0Wv6hep%2bZxLtHV0q1qPe9gIPzTu0Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PERROTTE RONALD",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 672201"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBBy2WxG72y5vGZQgb6BUaZcIk%2fb62CsgQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GALLAGHER MICHELLE",
+          "date": "10/23/2015",
+          "fileNumber": "2015 R 680116"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCImI4Lv2NPzjGr%2fB7QQbzkDSTgesKmqrA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MORENO SERGIO F",
+          "date": "10/23/2015",
+          "fileNumber": "2015 R 681848"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsMkuaGPTIdb59kso7xqtAmfBTP4NbLzvEg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MONGE GLORIA N",
+          "date": "10/26/2015",
+          "fileNumber": "2015 R 683342"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDtapwut5JNqBC8%2b%2fS483nzQCWWKecTKUw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ESPINO HENRY",
+          "date": "10/27/2015",
+          "fileNumber": "2015 R 685091"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBnmoSg6QP2vTXYcZvtX9RvF%2b6WOv6W6FA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "WARWAR PETER",
+          "date": "10/27/2015",
+          "fileNumber": "2015 R 685502"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDKPUAmbfxz6CA%2flW3Qt%2fb9H24s%2fkfcNLg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BITON MOSHE",
+          "date": "10/28/2015",
+          "fileNumber": "2015 R 688480"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsOkvtyPI0SPNuKI1R8lBVBG4TbWgPyWuAQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RONDON ISABEL C",
+          "date": "10/28/2015",
+          "fileNumber": "2015 R 690136"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrUu%2bvWWn%2f4MN6xWHyqHMiIoCwbvcdpFBcw%3d%3d",
+          "type": "FST",
+          "firstParty": "BRUCE JACOBS (D)",
+          "secondParty": "SERVICE FINANCE COMPANY LLC",
+          "date": "11/17/2020",
+          "fileNumber": "2020 R 663208"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGV6zkc%2fAtBPqCEElqRz8yiADLO1QoJs1%2fg%3d%3d",
+          "type": "DCP",
+          "firstParty": "BRUCE JACOBS PA (R)",
+          "secondParty": "ALFRED I DUPONT BUILDING PARTNERSHIP LLP",
+          "date": "9/20/2022",
+          "fileNumber": "2022 R 734255"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S%2fkZHq1L4X5TXaUX%2fJ0E%2f4uo7joKOidiow%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "DELGADO ICIAR",
+          "date": "3/30/2006",
+          "fileNumber": "2006 R 343094"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S%2fEyJQ4S%2fhaSm1pJ27imZSw%2fCCAKT7Mhlg%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GARRIDO JORGE A",
+          "date": "10/13/2006",
+          "fileNumber": "2006 R 1100739"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpan%2bSmL3PRk6f6fgJOq449Opm%2fX6caaws%2fA%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "JELEN JOANNA",
+          "date": "5/2/2007",
+          "fileNumber": "2007 R 442868"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpaulMNpT%2f9O90c6SoFWuh5fJDxoXRMQXRdw%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "FERNANDEZ MARIA",
+          "date": "5/3/2007",
+          "fileNumber": "2007 R 447481"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjIhPdGH%2boNnnNnyokQML0OYd3cyH7RRhg%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK NA",
+          "date": "1/25/2010",
+          "fileNumber": "2010 R 49351"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYBGUm4fBhJa18r6m1g%2fuTq749X4RwY9UWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BANK N A",
+          "date": "2/9/2011",
+          "fileNumber": "2011 R 89149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHyKuLULlEz70qNQc5YcvwlY2o7UWU%2fisg%3d%3d",
+          "type": "AMO",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "FLAGSTAR BNK FSB",
+          "date": "3/5/2012",
+          "fileNumber": "2012 R 156675"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNh%2bH5KqL7itBHvjDiP4Goag1dTZVsMAyg%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK NA TRU",
+          "date": "3/7/2012",
+          "fileNumber": "2012 R 162252"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJhpe5TMK1K4RceUgbUCzWpUF52usn6wAA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ARCH BAY HOLDINGS LLC SERIES 2010B",
+          "date": "3/10/2012",
+          "fileNumber": "2012 R 173388"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPi97NxEw42CqQBqh16vDFJ3%2b%2byyDO4c4Q%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "CITIBANK NA TRU",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 216135"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCS6%2b6xByLJDxf2Gh5PKNWu5BBv6uLsuEA%3d%3d",
+          "type": "AMO",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "FLAGSTAR BNK FSB",
+          "date": "4/23/2012",
+          "fileNumber": "2012 R 288067"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBloNr7%2fqbGu%2fauc5ZrucqRQ5xm8ZJEpoA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "CITIBANK N A",
+          "date": "6/5/2012",
+          "fileNumber": "2012 R 393809"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDRILKuG9WzAkBz0zJaohqAuD5iiLvK2mg%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "U S BNK N A TRU",
+          "date": "6/7/2012",
+          "fileNumber": "2012 R 401929"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLF%2flx0utnWc6ujE1JDPLnCfDzsta3Fk4QA%3d%3d",
+          "type": "AIN",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "DARBY AMANDA M",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 801968"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAyVK1U2p6LJ%2b5aS74n%2bqWfsX%2bd8bJLScA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "DEUTSCHE BNK NATL TRUST CO TRU",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 803133"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ7EdOmDktONlonssYpULlF%2bh8bAYZZnlQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ETRADE BNK",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 850119"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ7EdOmDktON9j1ftZNS6uHu8ua9yuHP5w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ARCH BAY HOLDINGS LLC",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 850145"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbk%2fMaO0yjK67NXkYY2yNWD1IGN4if3vwjA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "LEHMAN COMMERCIAL PAPER INC",
+          "date": "3/16/2013",
+          "fileNumber": "2013 R 204300"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjDY7b78t8iJbek3EXbgMN7mmgT2CNY7ig%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK N A TRU",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 459236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhwEEXmHh3ZjnSzqvXWOJfQl1UtsC9Vw2g%3d%3d",
+          "type": "DEE",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GURO DENIS",
+          "date": "12/4/2013",
+          "fileNumber": "2013 R 950709"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHgWN5kBtUivIiKudYDTHTZPziXZSQOYiw%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON",
+          "date": "1/29/2014",
+          "fileNumber": "2014 R 71049"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdEVYV5xqFiwAAhyYXSlSxJDQTOI7uLwMKg%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 77691"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKwehYwuAjqPxF7mL8Fh4i9z0gfPt1A7RQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "6/11/2014",
+          "fileNumber": "2014 R 419223"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOq8Gx26hcvLgVkotuGSA15VjWzGVBiqpg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "LUCA PABLO E",
+          "date": "7/22/2014",
+          "fileNumber": "2014 R 512869"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHf9WmtroYClPLh3jin%2bDW%2bZvYCmSOzDjQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "RBSHD 2013 1 TRUST",
+          "date": "10/16/2014",
+          "fileNumber": "2014 R 719111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJqy3AzUaWIdDJm0gmzm7J%2f%2b62pzc1eilQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON",
+          "date": "10/20/2014",
+          "fileNumber": "2014 R 726078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdFHnf4tiSrufgD7Kto8B4srfmP2L%2bQjjyA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "U S BNK N A",
+          "date": "10/23/2014",
+          "fileNumber": "2014 R 737717"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDdA0KnTE3PQzEvxYAtAoGDWkP4DRP4nRA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "VILLAMORE CONDOMINIUM ASSOCIATION INC",
+          "date": "10/27/2014",
+          "fileNumber": "2014 R 740994"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOPSY0y5XHcAkEARRindyfQ7442GFQGNLg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PADRON BEATRICE M",
+          "date": "10/29/2014",
+          "fileNumber": "2014 R 749613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLX1Z%2bbrVil6OPs4Q1JQjAm9uF4b5rfs8Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PADRON BEATRICE M",
+          "date": "11/3/2014",
+          "fileNumber": "2014 R 758703"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOy0%2fCKAIoNNvZZByKuQfSe140DYEZsjiA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GARCIA CAROLINA",
+          "date": "11/12/2014",
+          "fileNumber": "2014 R 781474"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuVbefTSe72fX%2f4EyEQvj9Rn7kay4ZbaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MOORS MASTER MAINTENANCE ASSN INC THE",
+          "date": "11/18/2014",
+          "fileNumber": "2014 R 794802"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdBR2CAQetU%2btZ91sPobYs9ykHQCJy9R9lg%3d%3d",
+          "type": "NOT",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "date": "11/25/2014",
+          "fileNumber": "2014 R 814567"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdE3qGMcHWSIAMei7%2fLBFEfulzvMnr5LbDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MORSE DOUGLAS III",
+          "date": "12/9/2014",
+          "fileNumber": "2014 R 840415"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIYnAGTE236GQry5%2fuqGpxatKcexxr%2f4xQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MOORS MASTER MAINTENANCE ASSN INC THE",
+          "date": "12/10/2014",
+          "fileNumber": "2014 R 845727"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdNnYEZ%2f7WdgfZeGMVnMF6HPJimYRshoSpQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PENA EMILIA",
+          "date": "12/23/2014",
+          "fileNumber": "2014 R 875488"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsG6D4v5jSpe2mkrI2XLx9Gcf8NkiHSAbRA%3d%3d",
+          "type": "DCP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "BARDALES LUIS F",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497071"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuV5HpFgR%2b%2feLnAvQ92CEGWwwfqawhEazzA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "9/15/1987",
+          "fileNumber": "1987 R 134112918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuVjGo6NuZFOrVfver6Hhh4XPMaaO54TdRg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "9/23/1987",
+          "fileNumber": "1987 R 134212006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGudzn45t438WkL5md8l4JWNJKSVrZIvwqXQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "10/1/1987",
+          "fileNumber": "1987 R 134312587"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQB0sJ9zksGJaALqDtCsdyOtzwuNHGm%2b%2f2g%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FORD MOTOR CREDIT CO",
+          "date": "5/12/1988",
+          "fileNumber": "1988 R 136771086"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74hWh5MqZBvsJAU9BjSmEcs84nk822wIhbw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "OCEAN BANK",
+          "date": "6/19/1991",
+          "fileNumber": "1991 R 150731483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74lYMbDHWinuNt%2b%2fdm406uW8MH2%2fnDGA3Tg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CITIBANK (SOUTH DAKOTA) (NA)",
+          "date": "6/25/1991",
+          "fileNumber": "1991 R 150832237"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74gKg5W2B2hg938guG6zMytntgEnyDkK2lA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CADLE CO INC (THE)",
+          "date": "11/20/1991",
+          "fileNumber": "1991 R 152811552"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZlxAiUszibp%2f3fSha1U6azwZEtoz%2bc0lHA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "NATIONAL GUARDIAN SECURITY SERV CORP",
+          "date": "1/27/1994",
+          "fileNumber": "1994 R 162283367"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZihM%2bg6VFC0ihdhVIDx9BQv2QIgQhkWWyA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "OCEAN BANK",
+          "date": "2/7/1994",
+          "fileNumber": "1994 R 162431794"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZg2fc6eP0hozxBVpYe%2f%2fTkOMyPlHkaU4mA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "6/7/1994",
+          "fileNumber": "1994 R 163974808"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b9ubZngSIW84fC8gPG8uxjqt6kAkSlZLVA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "ASSOCIATES FINANCIAL SVCS CO OF FLA INC",
+          "date": "1/28/1997",
+          "fileNumber": "1997 R 175093822"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8pAuf1vK3RCgDMxZy4n5kXs1CJaexjZhQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "PERSONNEL ONE INC",
+          "date": "1/30/1997",
+          "fileNumber": "1997 R 175133268"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8pAuf1vK3RCRNNDmzq5omFff7igSeEdBw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "2/4/1997",
+          "fileNumber": "1997 R 175180654"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bzObqo5VUjt35hWJbIrq%2fttEdf6FJDi7Qw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "SEARS ROEBUCK & CO",
+          "date": "2/6/1997",
+          "fileNumber": "1997 R 175224008"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b6eVqPAR1XMnVA3Icrd1zvvOX0TGQFYxBw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "SUNTRUST BANKCARD NA",
+          "date": "3/5/1997",
+          "fileNumber": "1997 R 175531755"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b6eVqPAR1XMnoLUvC6t6PYDqEyol8iduNg%3d%3d",
+          "type": "FCP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "TOQUICA JORDANY",
+          "date": "3/12/1997",
+          "fileNumber": "1997 R 175573565"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b3ExJW%2f9ON9vHxIneAzZPJBzFWvjY1LeGw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "WITTICH K C (JR)",
+          "date": "3/19/1997",
+          "fileNumber": "1997 R 175664160"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41uIS%2faRHxC3CigfHQsLE4Lnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "RIGO INDUSTRIES INC",
+          "date": "3/20/1997",
+          "fileNumber": "1997 R 175702981"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41up4uYTywbFqa%2boJQvhjTNAA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FORD MOTOR CR CO",
+          "date": "3/25/1997",
+          "fileNumber": "1997 R 175790440"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b54sv0jwh0n34D9eZ12HfLcL6J0u2DOiZg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "4/14/1997",
+          "fileNumber": "1997 R 175974775"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b799ysh1yOWk%2f6Q5j9l34KPzVifZ4WYs%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "LEASECOMM CORP",
+          "date": "5/20/1997",
+          "fileNumber": "1997 R 176451761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b799ysh1yOWkxjwOG%2bm9JXvo8ZmS9bHfyA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "5/20/1997",
+          "fileNumber": "1997 R 176453081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8hzrPbSCkQ8v10Qnm9lcAuWwHXtD%2fJ3mA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "5/27/1997",
+          "fileNumber": "1997 R 176514622"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2by49ElCn4aBZxLrXYEPa9wiElTqaH%2bBTQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "WITTICH K C (JR)",
+          "date": "6/4/1997",
+          "fileNumber": "1997 R 176680198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2by49ElCn4aBZb2iKmJH3VrgbWxivaEiYog%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "6/9/1997",
+          "fileNumber": "1997 R 176682372"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8fKgbGpkzBqpixrKjoH6TTlOn430joY%2bw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "6/23/1997",
+          "fileNumber": "1997 R 176891418"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmStCaomnnSGpBtI%2bM%2bfmtug%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "PORRATA MARIA F",
+          "date": "5/4/2000",
+          "fileNumber": "2000 R 191000241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmbrnCOwfSgKwaevcUP9sdQw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CITIBANK (SD) (NA)",
+          "date": "5/5/2000",
+          "fileNumber": "2000 R 191001559"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmtXnTopd%2ftYfk%2bxQZtsoRaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "RODRIGUEZ ADRIANA M",
+          "date": "5/4/2000",
+          "fileNumber": "2000 R 191001600"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmJiYRtcSvoMWlN1lYJF5dvg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "PORRATA MARIA F",
+          "date": "5/5/2000",
+          "fileNumber": "2000 R 191004155"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmzpxfG6jHyaUyyQGtknhWWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "DELGADO MARIA",
+          "date": "5/8/2000",
+          "fileNumber": "2000 R 191050198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmYi%2fT6I2yhN%2bpQX45JwpR1Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SOMEILLAN AXEL J",
+          "date": "5/9/2000",
+          "fileNumber": "2000 R 191052010"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmfLRhXnAzVyhEhbnfBpbdug%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BROADVIEW IMPORT & EXPORT (LTD) (ETC)",
+          "date": "5/11/2000",
+          "fileNumber": "2000 R 191053017"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJfvMJKjB7uKgk%2b7MvKqL6Ejg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLA AUTOMOTIVE GROUP LTD",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191104687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJftfKI7jdY6lC9gvFWNYnAwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "RANDOL GARY A",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191104873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJf6u94nbpIpKjGop4j1AJIQg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "IPINA JORGE A",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191142212"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJfSDSeTepJ6hCRPIBTOcw2%2bA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "LABORATORY CORP OF AMERICA",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191142275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoSAf81QblcWgWO2bZErWDqA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "EASTERN FINANCIAL FEDERAL CREDIT UNION",
+          "date": "5/17/2000",
+          "fileNumber": "2000 R 191242604"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoRtNTU1%2fixS9ETZ0yqsOA3Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FCC NATIONAL BANK",
+          "date": "5/22/2000",
+          "fileNumber": "2000 R 191242635"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoQEbPTAZ4nSM3lgnOk7%2bLPg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BUCHANAN EDWARD",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243049"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoG1YHLaK7Ss0ZmdtDYdpNlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "APONTE REINA L",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243072"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwso41SE0U0PkxNkG3QDtsQFyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BERNAL MARIA",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243074"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6OnCSb9yeI4xqZQvmq%2fRtiQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "DUFFY DIANN MARIE",
+          "date": "5/26/2000",
+          "fileNumber": "2000 R 191302926"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6gFHvjLeg9USZB9m6fuJnvw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BLACK BARBARA",
+          "date": "5/31/2000",
+          "fileNumber": "2000 R 191340838"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6%2b%2flD2c0TozmLWiiOfjO6zA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUNTRUST BANK S FLA (NA)",
+          "date": "5/26/2000",
+          "fileNumber": "2000 R 191341447"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6IYTE8ChG4lfKodYogJwRyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "D E T CARD L C",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191341614"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6sqccwLDfNmlsyB9RCgnxmw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "UNIVERSITY OF MIAMI",
+          "date": "5/31/2000",
+          "fileNumber": "2000 R 191342645"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6SSa%2bNXNmMEfMnNLyE%2fLQrg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "STARKS MATTHEW",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191344529"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6wVs8Y3gSdJ1bAhU8vALmMQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "GUMENICK FAMILY INVESTMENTS NO 1 (LTD)",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191390329"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6FWWQw2PQJUzVzUsi2wVm3w%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "HABANOS DISTRIBUTORS INC",
+          "date": "6/7/2000",
+          "fileNumber": "2000 R 191393328"
+        }
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2018-027243-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$672,015.30",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Ginsburg, Yisroel"
+      },
+      {
+        "DEFENDANT": "Ginsburg, Ruth"
+      },
+      {
+        "DEFENDANT": "TCF National Bank"
+      },
+      {
+        "DEFENDANT": "High and Dry Roofing Contractors Inc"
+      },
+      {
+        "DEFENDANT AKA": "High and Dry Roofing"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Bruce Jacobs ,"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Bruce Jacobs ,"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Kopf, Jennifer Lynn"
+      },
+      {
+        "PLAINTIFF": "SPECIALIZED LOAN SERVICING LLC"
+      },
+      {
+        "PLAINTIFF": "SUNTRUST BANK"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Spradley, Danielle Monique"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Robinson Keith Ustler Esq,"
+      }
+    ],
+    "violations": [],
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADa6L1WMKZ2TAPgiRxfLWj3g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL &W (R)",
+          "secondParty": "LEVY REBECCA",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784435"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADnFTfWYULvhHy3pfzjGx0zw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784436"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpatXgAGn%2bDP84Hv5jJKcZxrDDAK%2fTdp8G3Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/6/2007",
+          "fileNumber": "2007 R 20814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7hj9d%2f4DmJvczjANQj%2fuqT5KgvmZgC93fA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MTG CORP",
+          "date": "3/5/2009",
+          "fileNumber": "2009 R 161081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7sXO4%2bj1RkjWKIp60%2bzCF7FDcWEbyWNWiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "5/7/2009",
+          "fileNumber": "2009 R 336025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mq2WBWEJ42orJunlu8xoB0R5kD1kHWwjRA%3d%3d",
+          "type": "LIE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "6/30/2010",
+          "fileNumber": "2010 R 440031"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYEWC3ptfVo1gxQ1KR1Y7XNk4A77xgHhLFg%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "HSBC BNK USA NA",
+          "date": "5/26/2011",
+          "fileNumber": "2011 R 344330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOJuSHQ3ezZRAQbh8nfiOwnWi%2bDZnRv%2fSw%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/22/2011",
+          "fileNumber": "2011 R 638215"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYNEMroRv1hAD1U9GRS8zNKcvr%2fj%2fZgLDgw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL &W (D)",
+          "secondParty": "FEDER RUTH",
+          "date": "9/26/2011",
+          "fileNumber": "2011 R 643616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOEvMN41HA7GKSL07L0MLV2a038sjC1A6w%3d%3d",
+          "type": "REL",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "10/6/2011",
+          "fileNumber": "2011 R 669642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYA4UkSwg7i%2fQ6vXLlIh%2f1y9kt1Ly0t9Xog%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "10/20/2011",
+          "fileNumber": "2011 R 706681"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDz0N7MGY5NZgG4jBO1sva%2ft2TfPkMxP2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "1/17/2012",
+          "fileNumber": "2012 R 33348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLMAyvlQZHtXRAMVNOWhOhYT4PvfIKgmoig%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL E (R)",
+          "secondParty": "ASSET ACCEPTANCE LLC",
+          "date": "1/23/2012",
+          "fileNumber": "2012 R 47819"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbk6BtZkCw9DbhMOwsy%2fxi%2bekuDli0ejb8g%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "9/13/2013",
+          "fileNumber": "2013 R 729119"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbreLK35fZ9brMdmvIid8DmR7wx6v72%2bwow%3d%3d",
+          "type": "JUD",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "10/22/2013",
+          "fileNumber": "2013 R 840165"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjfQ6l0UzIKYSKjWsMKvVxGdqBHMi%2bmdqg%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "11/25/2013",
+          "fileNumber": "2013 R 930183"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAN3wu4ylXjkGdeQYX7MmMyE5fvM5utlpw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "H F C COLLECTION CENTER INC",
+          "date": "4/11/2014",
+          "fileNumber": "2014 R 262382"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKftbFMOQWYUhQFORpL9JGKe94s6o5Ia%2fA%3d%3d",
+          "type": "SJU",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "6/22/2015",
+          "fileNumber": "2015 R 398642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKftbFMOQWYUhQFORpL9JGKe94s6o5Ia%2fA%3d%3d",
+          "type": "SJU",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "HFC COLLECTION CENTER INC",
+          "date": "6/22/2015",
+          "fileNumber": "2015 R 398642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyU4QBOzOtp3sfLxLf9QJaU4Q%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539074"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUxiI1P%2fdxPtKcdlavykdcKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUyrn12Gdaj7tJY0EZPNtpzQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "TCF NATIONAL BANK",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539076"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMg5W2QkoxXq%2fqkM9oMY6fPRPCN7WHBtafw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "10/17/2016",
+          "fileNumber": "2016 R 597236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTow0zvuTIxBcVqhN2bKU8X%2bdpiR8cJ%2f6eA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "9/20/2017",
+          "fileNumber": "2017 R 523890"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mToE9uGipGmH0kirDEzOmRq2ZeSFPutoHeA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "10/16/2017",
+          "fileNumber": "2017 R 578047"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3XF6uyPKh1Z%2ft9zMyeGdpMh7ErFiH0pRA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "6/14/2018",
+          "fileNumber": "2018 R 351269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyzExWx2oPDM2MPSdOluyi%2bGlhofNXSWFtA%3d%3d",
+          "type": "NCO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5acoDG1L6XXfIITmilFaZP16eicjyM3Dw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3X965cQaw4WZmDMtJMgCEW9vADuoKPtKA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/20/2018",
+          "fileNumber": "2018 R 437157"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSywXcrXYkPwKiCDeeF%2b63KsDIn6zRW%2f%2bLIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "SUNTRUST MORTGAGE INC",
+          "date": "8/29/2018",
+          "fileNumber": "2018 R 524483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7b5i9Z%2bEtLc2NDqqVufzitdqHh35wBcJaA%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "TRUIST BANK",
+          "date": "12/8/2021",
+          "fileNumber": "2021 R 920871"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFp6pXEvRfnlR0ha63gPT6arkRLQlHPAsU1Q%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG YISROEL (D)",
+          "secondParty": "US BANK TRUST NATIONAL ASSOCIATION",
+          "date": "12/29/2023",
+          "fileNumber": "2023 R 934705"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG YISROEL (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCqflMfl1EUkXhzeTSbO5thdSwHF3kvRRAnvQCrwR3nqg%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "FORUM DEV CORP",
+          "date": "2/24/1967",
+          "fileNumber": "1967 R 29377"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBA%2bak7rtt66GtsZpHbBEcpDt4HjSzD4kSvnVbccwgkLA%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "EISENSTEIN ALFRED",
+          "date": "12/31/1969",
+          "fileNumber": "1969 R 222459"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkVdoKvznHqq997KzQRhx0wUT5lE7PFGdsA%3d%3d",
+          "type": "QCD",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GARFINKEL ABE",
+          "date": "2/2/1972",
+          "fileNumber": "1972 R 25034"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXCd0mjTqlJdeUaDXyvzJEDL5Tzk6QEpi8g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SASIC MILAN&W",
+          "date": "4/2/1973",
+          "fileNumber": "1973 R 76675"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXB2s11cABSo8xk25jB%2b1WkYlCSdrOMlLUw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GAVATIDES CHRYSOSTOMOS &W",
+          "date": "4/23/1973",
+          "fileNumber": "1973 R 93111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c64oA%2f6E4ry0O9PztVuH7CZp05bIjRR%2b6Iw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "KAPPA CORP",
+          "date": "1/28/1974",
+          "fileNumber": "1974 R 20997"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c64oA%2f6E4ry0OqeydwjhbkNw1wKub8RK7Rw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "KAPPA CORP",
+          "date": "1/28/1974",
+          "fileNumber": "1974 R 20998"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c6977dJ%2beb46zVMRzOkNpYwljeuCF84%2fuMA%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GOLDMAN MAX & HELEN",
+          "date": "5/17/1974",
+          "fileNumber": "1974 R 112872"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCT60sZSM3c6%2bSmvl9iLy3nb4Pzs%2fGAzpClN%2bTrMUcItw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "BELLOWS MAURICE G &W JOYCE H & MAURICE G T",
+          "date": "5/20/1974",
+          "fileNumber": "1974 R 114707"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUzSU9VcrAO8ug5bXXcxbhfoy9LZbGwllQvax%2fF9W6xg%3d%3d",
+          "type": "FST",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "BELLOWS MAURICE G &W JOYCE & MAURICE G TR",
+          "date": "2/19/1975",
+          "fileNumber": "1975 R 33882"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDwYMvu4Cu4FNkbsumehbIlVOqlulIBSGE%2beUbAgoq4Ng%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SEGAL ROBERTA TRU",
+          "date": "7/29/1985",
+          "fileNumber": "1985 R 228599"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQKz7bkvR8GJEXRD0v4tTGegmTMe%2bWZT5Bw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH EST OF (D)",
+          "secondParty": "ADDANTE MICHAEL &W JOYCE",
+          "date": "8/16/1988",
+          "fileNumber": "1988 R 296906"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeys9KSwtNRd1Gp9zJRvgVow%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "1/22/1988",
+          "fileNumber": "1988 R 135502705"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeUusQDGVT9l6dVUtjOt%2b4fQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "2/3/1988",
+          "fileNumber": "1988 R 135502707"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOe8XTftUJ2nvRBCniPU3P7hQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "1/22/1988",
+          "fileNumber": "1988 R 135502708"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQOuDE8gEIJOeBX3oR6XLGSpvHinahCHJ8A%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "2/3/1988",
+          "fileNumber": "1988 R 135502712"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQB0sJ9zksGJaOx8tjK0OtP8PWwOOfqT3eg%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/5/1988",
+          "fileNumber": "1988 R 136701063"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQN1zM1YDhevqK6dIB1zn8aTFaM3CoE2V1Q%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "7/14/1988",
+          "fileNumber": "1988 R 137480673"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQG83HAHc%2fh9hi3RMHAGMwZy%2bRIUCyFRS3A%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "8/17/1988",
+          "fileNumber": "1988 R 137900168"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuCJwmUEB4YpPH9p1iptGgKCulySbRp%2fIQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/23/1990",
+          "fileNumber": "1990 R 145531897"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhuCJwmUEB4Ypv04aHEKoY9eMO5CIqITbXQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/23/1990",
+          "fileNumber": "1990 R 145531898"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhm5rucIjGVi%2bX2gkYV6d1%2bXZv%2bA%2fU3wXww%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "5/2/1990",
+          "fileNumber": "1990 R 145820236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBjVk3R9XQWhnP6RwBEIUFYbdgsostWVH1i6n4JkMTgAw%3d%3d",
+          "type": "FCP",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "GINSBURG NORMAN",
+          "date": "7/13/1990",
+          "fileNumber": "1990 R 146142702"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDtgKToQpDijtr2Bcs0Ov0W%2blVsDWwaDG5%2b54GRvtmeaQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "KISLAK NATL BNK",
+          "date": "2/24/1992",
+          "fileNumber": "1992 R 64246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADa6L1WMKZ2TAPgiRxfLWj3g%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "LEVY REBECCA",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784435"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5SxnA0RUWilADnFTfWYULvhHy3pfzjGx0zw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "7/20/2006",
+          "fileNumber": "2006 R 784436"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpatXgAGn%2bDP84Hv5jJKcZxrDDAK%2fTdp8G3Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH &H (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/6/2007",
+          "fileNumber": "2007 R 20814"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7sXO4%2bj1RkjWKIp60%2bzCF7FDcWEbyWNWiw%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "5/7/2009",
+          "fileNumber": "2009 R 336025"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mq2WBWEJ42orJunlu8xoB0R5kD1kHWwjRA%3d%3d",
+          "type": "LIE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "6/30/2010",
+          "fileNumber": "2010 R 440031"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYEWC3ptfVo1gxQ1KR1Y7XNk4A77xgHhLFg%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "HSBC BNK USA NA",
+          "date": "5/26/2011",
+          "fileNumber": "2011 R 344330"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOJuSHQ3ezZRAQbh8nfiOwnWi%2bDZnRv%2fSw%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/22/2011",
+          "fileNumber": "2011 R 638215"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYNEMroRv1hAD1U9GRS8zNKcvr%2fj%2fZgLDgw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "FEDER RUTH",
+          "date": "9/26/2011",
+          "fileNumber": "2011 R 643616"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYOEvMN41HA7GKSL07L0MLV2a038sjC1A6w%3d%3d",
+          "type": "REL",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "NORTH MIA BCH CITY OF",
+          "date": "10/6/2011",
+          "fileNumber": "2011 R 669642"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYA4UkSwg7i%2fQ6vXLlIh%2f1y9kt1Ly0t9Xog%3d%3d",
+          "type": "CVP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "HSBC MORT CORP (USA)",
+          "date": "10/20/2011",
+          "fileNumber": "2011 R 706681"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDz0N7MGY5NZgG4jBO1sva%2ft2TfPkMxP2w%3d%3d",
+          "type": "SMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "1/17/2012",
+          "fileNumber": "2012 R 33348"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUxiI1P%2fdxPtKcdlavykdcKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539075"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMm2B%2bUV2yGyUyrn12Gdaj7tJY0EZPNtpzQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "TCF NATIONAL BANK",
+          "date": "9/15/2016",
+          "fileNumber": "2016 R 539076"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMg5W2QkoxXq%2fqkM9oMY6fPRPCN7WHBtafw%3d%3d",
+          "type": "DEE",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "ARANGO PABLO",
+          "date": "10/17/2016",
+          "fileNumber": "2016 R 597236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTow0zvuTIxBcVqhN2bKU8X%2bdpiR8cJ%2f6eA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "9/20/2017",
+          "fileNumber": "2017 R 523890"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mToE9uGipGmH0kirDEzOmRq2ZeSFPutoHeA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "10/16/2017",
+          "fileNumber": "2017 R 578047"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3XF6uyPKh1Z%2ft9zMyeGdpMh7ErFiH0pRA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "6/14/2018",
+          "fileNumber": "2018 R 351269"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy968dHWq4aHXMQInnN01yMnXaKGEE5Ollg%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PROPERTY ASSESSMENT CLEAN ENERGY DISTRICT",
+          "date": "6/25/2018",
+          "fileNumber": "2018 R 373586"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy5acoDG1L6XXfIITmilFaZP16eicjyM3Dw%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/9/2018",
+          "fileNumber": "2018 R 408241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSy3X965cQaw4WZmDMtJMgCEW9vADuoKPtKA%3d%3d",
+          "type": "AGR",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "GREEN CORRIDOR PACE",
+          "date": "7/20/2018",
+          "fileNumber": "2018 R 437157"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSywXcrXYkPwKiCDeeF%2b63KsDIn6zRW%2f%2bLIw%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (D)",
+          "secondParty": "SUNTRUST MORTGAGE INC",
+          "date": "8/29/2018",
+          "fileNumber": "2018 R 524483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7b5i9Z%2bEtLc2NDqqVufzitdqHh35wBcJaA%3d%3d",
+          "type": "AMO",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "TRUIST BANK",
+          "date": "12/8/2021",
+          "fileNumber": "2021 R 920871"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGUN0y%2fG6b7IPadlZsjkDapE%2fj1NmQMgRYg%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "CAVALRY SPV I LLC AS ASSIGNEE OF CITIBANK N A",
+          "date": "4/19/2022",
+          "fileNumber": "2022 R 319223"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "GINSBURG RUTH (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMCCsY54CVS2NOASAUPf6rpALTWAM2TMXg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "KHURANA ASHISH",
+          "date": "10/21/2014",
+          "fileNumber": "2014 R 727664"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJpxx2GQd%2bmfFtUgZP5jOCBtY0TuyRNSnA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "CURBELO JOSE C",
+          "date": "11/12/2014",
+          "fileNumber": "2014 R 778299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJbblG21po1YYhttkGWq5v%2f%2bR5RQ9E3orA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "OGURICK MATTHEW",
+          "date": "12/10/2014",
+          "fileNumber": "2014 R 846718"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHSGuRv6RqhfSzO3fDzh4qnAVY0aRQVUjQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "FURTWAENGLER LARS",
+          "date": "12/12/2014",
+          "fileNumber": "2014 R 853527"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdAlQNPfXTVc6cL3PkKtuVu%2bPiaDDrM%2bp%2bA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "FRANCESCHI DIDO",
+          "date": "12/30/2014",
+          "fileNumber": "2014 R 886419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsK7Azj3YqGt0%2fH%2b2Hmdat3H%2fKa3p%2bpdTDg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PENA ADRIAN",
+          "date": "1/5/2015",
+          "fileNumber": "2015 R 3941"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsMzCXEY%2f4wzHn%2f6ciXG4jotnNbTT4EzJTQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PINTADO STEPHANIE",
+          "date": "1/6/2015",
+          "fileNumber": "2015 R 6214"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDhMSnZZYUjGtATcWeYOyx7Lg63SMe9fdQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "WARD SANDRA M",
+          "date": "1/8/2015",
+          "fileNumber": "2015 R 13020"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEw6i0mj0ot%2b0a%2f%2fuNGgUpjXJXfWhVLbRA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NUGUES PATRICK L",
+          "date": "1/8/2015",
+          "fileNumber": "2015 R 14399"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBV7buyG%2fj6uAxXw0qQ6s0KiX68G6z%2bT5g%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RIVERO JORGE",
+          "date": "8/5/2015",
+          "fileNumber": "2015 R 504225"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAkQDi0yCHRt5MjQyEmGEI76eObDDRrIPw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BARALOTO CHRISTOPHER J",
+          "date": "8/10/2015",
+          "fileNumber": "2015 R 513268"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC0FhctYjKQ4Ox11E1nRZqWoO20VTHeJuA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SANCHEZ ANTONIO I",
+          "date": "8/14/2015",
+          "fileNumber": "2015 R 526503"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAhmZaWP8ZXxwFXsmOqfwFXfko%2ftXPI5pQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "OLIVA ALFREDO JR",
+          "date": "8/14/2015",
+          "fileNumber": "2015 R 527573"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsO%2fM986DKpELWHk9J3fBkPX%2fhmxTnbWEOQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "JIMENEZ GERALDO",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 531743"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsO%2fM986DKpELWHk9J3fBkPX%2fhmxTnbWEOQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "JIMENEZ GERALDO",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 531743"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsKYuIpcUNVJ6LiUNGK835SkqirnrKRY8aA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "EMANS PATRICK C",
+          "date": "8/18/2015",
+          "fileNumber": "2015 R 533725"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIbEruWsEoGzo%2fhGswqcjFt4dvsH8gUhxg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RICH JOSEPH F",
+          "date": "8/19/2015",
+          "fileNumber": "2015 R 536702"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsB5F0AMrD6%2bnIGCt353qxqnhYTz9k5YRjg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SALAZAR EDGARDO L",
+          "date": "8/21/2015",
+          "fileNumber": "2015 R 541671"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCsnJJs%2beBzFZL1dQ%2fWf95sap2NdzZGfkg%3d%3d",
+          "type": "AMO",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "8/26/2015",
+          "fileNumber": "2015 R 551332"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBH8WwWmzT77li8sJlFV0mNOUTtdMj%2fYKw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NG SALLY",
+          "date": "8/26/2015",
+          "fileNumber": "2015 R 552082"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsNAf2PTOTir5d0dI46E0KOENHQ0vcVkY%2fg%3d%3d",
+          "type": "ASG",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "8/28/2015",
+          "fileNumber": "2015 R 559368"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsH%2bY%2bhm2bbdJKvr3yvYE9gVWvmzkh0F1lg%3d%3d",
+          "type": "ASG",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BUSINESS PROPERTY LENDING INC",
+          "date": "9/1/2015",
+          "fileNumber": "2015 R 564364"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFMOKmvsGoW%2fGsgfQITCp%2bCxiFopMy95kg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GONZALEZ GABRIEL A",
+          "date": "9/2/2015",
+          "fileNumber": "2015 R 568866"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBDY%2fB9q7G25YaexU22QmwmUMc%2fUhRodlw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALBURQUERQUE JOSE",
+          "date": "9/2/2015",
+          "fileNumber": "2015 R 569969"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFWeiCoZSybfj9EU5XCGjgsU0M8aiZXTng%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AMER MOHAMED ADEL MOHAMED ABDELWAHAB M",
+          "date": "9/9/2015",
+          "fileNumber": "2015 R 580541"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDnZtHJ42IZ7KKbzDKzDSwgDg4dpUh%2b7Eg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ORTIZ HENRIQUEZ ANTONIO J",
+          "date": "9/10/2015",
+          "fileNumber": "2015 R 585859"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDDxBdL5gscHVrAsSeoJzr2OQIaJoE5rYQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALEXANDRE MARCELO",
+          "date": "9/14/2015",
+          "fileNumber": "2015 R 590324"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDswxQQnGLUn9Wy4PH9aul29P9LayTQpHw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BERNAL ALEXANDER",
+          "date": "9/17/2015",
+          "fileNumber": "2015 R 599523"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsLvwx5uHbNgZOyBbTbUlnpMRg1ZrM%2fvw1w%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AHMED KAISER",
+          "date": "9/17/2015",
+          "fileNumber": "2015 R 599821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIh%2bwX1aH4cfZVNzUX98%2boeCskCHLVS5uA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BLAYA MONIKA",
+          "date": "9/18/2015",
+          "fileNumber": "2015 R 604476"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIpvW45xa%2fKHYCquxaRNs4RerVCX5wTyUg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PORTOCARRERO IOLANY",
+          "date": "9/28/2015",
+          "fileNumber": "2015 R 622528"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDHSbbRY4xjbPcNRaV%2f2CRElZDFX3kwwcQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MURILLO ANABELLA",
+          "date": "9/29/2015",
+          "fileNumber": "2015 R 626167"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFhlzRSzxjK%2b7P9uqISU3glzxMHjQVCzwQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "VIVAS EDDY",
+          "date": "9/29/2015",
+          "fileNumber": "2015 R 627238"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsFhlzRSzxjK%2bQdXvWhVKiOgtG9L2vIuTxw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MOHAMMED SEAN S",
+          "date": "9/30/2015",
+          "fileNumber": "2015 R 627299"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJF3Z8DYM4K1vwVeyoc%2f00WtMlknbZ4voA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GUERRA JORGE E",
+          "date": "10/6/2015",
+          "fileNumber": "2015 R 640515"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsAlx7A02p0jUKLtyHacrq8x%2bGL1hJIn31g%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "UGARTE EVA",
+          "date": "10/6/2015",
+          "fileNumber": "2015 R 642631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsIkPrEWUDTTZF%2fQ6nIGSw0PMpv2rFDTbWA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ALVAREZ MICHAEL L",
+          "date": "10/14/2015",
+          "fileNumber": "2015 R 657815"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJjBmqzxBptqgE%2b%2fVCtgx23RJOk1iismsA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "NELSON ALEXANDER B",
+          "date": "10/14/2015",
+          "fileNumber": "2015 R 659771"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDiI1FUqwkzHN9v1LLjQ0FndZbjiRdsIWQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "AMITRANO PASCUALE",
+          "date": "10/15/2015",
+          "fileNumber": "2015 R 660359"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsA3zm6fRm716VKMXAsP4lE9qrnABs8Ki3A%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PEREZ VICTOR",
+          "date": "10/19/2015",
+          "fileNumber": "2015 R 666687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsHU3pDESZNBUPUxN8FUR7VZGGkiPrSe1sA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BARATON CHRISTOPHE",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 670246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsOOT%2bMF8MqjeKe%2bHt8uCjw%2fRHz4b8ygF7A%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "SHAOUL RALPH",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 672002"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDT3X0Wv6hep%2bZxLtHV0q1qPe9gIPzTu0Q%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "PERROTTE RONALD",
+          "date": "10/20/2015",
+          "fileNumber": "2015 R 672201"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBBy2WxG72y5vGZQgb6BUaZcIk%2fb62CsgQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "GALLAGHER MICHELLE",
+          "date": "10/23/2015",
+          "fileNumber": "2015 R 680116"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCImI4Lv2NPzjGr%2fB7QQbzkDSTgesKmqrA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MORENO SERGIO F",
+          "date": "10/23/2015",
+          "fileNumber": "2015 R 681848"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsMkuaGPTIdb59kso7xqtAmfBTP4NbLzvEg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "MONGE GLORIA N",
+          "date": "10/26/2015",
+          "fileNumber": "2015 R 683342"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDtapwut5JNqBC8%2b%2fS483nzQCWWKecTKUw%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "ESPINO HENRY",
+          "date": "10/27/2015",
+          "fileNumber": "2015 R 685091"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsBnmoSg6QP2vTXYcZvtX9RvF%2b6WOv6W6FA%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "WARWAR PETER",
+          "date": "10/27/2015",
+          "fileNumber": "2015 R 685502"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsDKPUAmbfxz6CA%2flW3Qt%2fb9H24s%2fkfcNLg%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "BITON MOSHE",
+          "date": "10/28/2015",
+          "fileNumber": "2015 R 688480"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsOkvtyPI0SPNuKI1R8lBVBG4TbWgPyWuAQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "TCF NATIONAL BANK (R)",
+          "secondParty": "RONDON ISABEL C",
+          "date": "10/28/2015",
+          "fileNumber": "2015 R 690136"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUVFWUfUcSyy1zobwbkJoa15mdCOK%2fHrm8itcZ6reTZA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SUNTRUST BANK",
+          "date": "8/16/2018",
+          "fileNumber": "2018 R 498726"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBnmQuTdNWFpyfO4a54d1nfI3dqeUwvcNH8KfqFLA%2fCdA%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "10/16/2023",
+          "fileNumber": "2023 R 737275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZzvLFUd2CC%2fz06vhJu35dHh7%2bU1pXk9C1A%3d%3d",
+          "type": "DCP",
+          "firstParty": "HIGH AND DRY ROOFING CONTRACTORS INC (R)",
+          "secondParty": "SPECIALIZED LOAN SERVICING LLC",
+          "date": "8/5/2024",
+          "fileNumber": "2024 R 592932"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC8aIkCEt%2bjrUu%2bvWWn%2f4MN6xWHyqHMiIoCwbvcdpFBcw%3d%3d",
+          "type": "FST",
+          "firstParty": "BRUCE JACOBS (D)",
+          "secondParty": "SERVICE FINANCE COMPANY LLC",
+          "date": "11/17/2020",
+          "fileNumber": "2020 R 663208"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYD4sjkJAvwLGV6zkc%2fAtBPqCEElqRz8yiADLO1QoJs1%2fg%3d%3d",
+          "type": "DCP",
+          "firstParty": "BRUCE JACOBS PA (R)",
+          "secondParty": "ALFRED I DUPONT BUILDING PARTNERSHIP LLP",
+          "date": "9/20/2022",
+          "fileNumber": "2022 R 734255"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S%2fkZHq1L4X5TXaUX%2fJ0E%2f4uo7joKOidiow%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "DELGADO ICIAR",
+          "date": "3/30/2006",
+          "fileNumber": "2006 R 343094"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA7%2fJlECDh5S%2fEyJQ4S%2fhaSm1pJ27imZSw%2fCCAKT7Mhlg%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GARRIDO JORGE A",
+          "date": "10/13/2006",
+          "fileNumber": "2006 R 1100739"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpan%2bSmL3PRk6f6fgJOq449Opm%2fX6caaws%2fA%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "JELEN JOANNA",
+          "date": "5/2/2007",
+          "fileNumber": "2007 R 442868"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpaulMNpT%2f9O90c6SoFWuh5fJDxoXRMQXRdw%3d%3d",
+          "type": "AFF",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "FERNANDEZ MARIA",
+          "date": "5/3/2007",
+          "fileNumber": "2007 R 447481"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjIhPdGH%2boNnnNnyokQML0OYd3cyH7RRhg%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK NA",
+          "date": "1/25/2010",
+          "fileNumber": "2010 R 49351"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYBGUm4fBhJa18r6m1g%2fuTq749X4RwY9UWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BANK N A",
+          "date": "2/9/2011",
+          "fileNumber": "2011 R 89149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLHyKuLULlEz70qNQc5YcvwlY2o7UWU%2fisg%3d%3d",
+          "type": "AMO",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "FLAGSTAR BNK FSB",
+          "date": "3/5/2012",
+          "fileNumber": "2012 R 156675"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLNh%2bH5KqL7itBHvjDiP4Goag1dTZVsMAyg%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK NA TRU",
+          "date": "3/7/2012",
+          "fileNumber": "2012 R 162252"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJhpe5TMK1K4RceUgbUCzWpUF52usn6wAA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ARCH BAY HOLDINGS LLC SERIES 2010B",
+          "date": "3/10/2012",
+          "fileNumber": "2012 R 173388"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPi97NxEw42CqQBqh16vDFJ3%2b%2byyDO4c4Q%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "CITIBANK NA TRU",
+          "date": "3/27/2012",
+          "fileNumber": "2012 R 216135"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLCS6%2b6xByLJDxf2Gh5PKNWu5BBv6uLsuEA%3d%3d",
+          "type": "AMO",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "FLAGSTAR BNK FSB",
+          "date": "4/23/2012",
+          "fileNumber": "2012 R 288067"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLBloNr7%2fqbGu%2fauc5ZrucqRQ5xm8ZJEpoA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "CITIBANK N A",
+          "date": "6/5/2012",
+          "fileNumber": "2012 R 393809"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLDRILKuG9WzAkBz0zJaohqAuD5iiLvK2mg%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "U S BNK N A TRU",
+          "date": "6/7/2012",
+          "fileNumber": "2012 R 401929"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLF%2flx0utnWc6ujE1JDPLnCfDzsta3Fk4QA%3d%3d",
+          "type": "AIN",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "DARBY AMANDA M",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 801968"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLAyVK1U2p6LJ%2b5aS74n%2bqWfsX%2bd8bJLScA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "DEUTSCHE BNK NATL TRUST CO TRU",
+          "date": "11/7/2012",
+          "fileNumber": "2012 R 803133"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ7EdOmDktONlonssYpULlF%2bh8bAYZZnlQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ETRADE BNK",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 850119"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLJ7EdOmDktON9j1ftZNS6uHu8ua9yuHP5w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "ARCH BAY HOLDINGS LLC",
+          "date": "11/27/2012",
+          "fileNumber": "2012 R 850145"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbk%2fMaO0yjK67NXkYY2yNWD1IGN4if3vwjA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "LEHMAN COMMERCIAL PAPER INC",
+          "date": "3/16/2013",
+          "fileNumber": "2013 R 204300"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjDY7b78t8iJbek3EXbgMN7mmgT2CNY7ig%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "WELLS FARGO BNK N A TRU",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 459236"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbhwEEXmHh3ZjnSzqvXWOJfQl1UtsC9Vw2g%3d%3d",
+          "type": "DEE",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GURO DENIS",
+          "date": "12/4/2013",
+          "fileNumber": "2013 R 950709"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHgWN5kBtUivIiKudYDTHTZPziXZSQOYiw%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON",
+          "date": "1/29/2014",
+          "fileNumber": "2014 R 71049"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdEVYV5xqFiwAAhyYXSlSxJDQTOI7uLwMKg%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "JPMORGAN CHASE BNK NA",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 77691"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKwehYwuAjqPxF7mL8Fh4i9z0gfPt1A7RQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "JPMORGAN CHASE BANK NA",
+          "date": "6/11/2014",
+          "fileNumber": "2014 R 419223"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOq8Gx26hcvLgVkotuGSA15VjWzGVBiqpg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "LUCA PABLO E",
+          "date": "7/22/2014",
+          "fileNumber": "2014 R 512869"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdHf9WmtroYClPLh3jin%2bDW%2bZvYCmSOzDjQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "RBSHD 2013 1 TRUST",
+          "date": "10/16/2014",
+          "fileNumber": "2014 R 719111"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJqy3AzUaWIdDJm0gmzm7J%2f%2b62pzc1eilQ%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "BANK OF NEW YORK MELLON",
+          "date": "10/20/2014",
+          "fileNumber": "2014 R 726078"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdFHnf4tiSrufgD7Kto8B4srfmP2L%2bQjjyA%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (R)",
+          "secondParty": "U S BNK N A",
+          "date": "10/23/2014",
+          "fileNumber": "2014 R 737717"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDdA0KnTE3PQzEvxYAtAoGDWkP4DRP4nRA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "VILLAMORE CONDOMINIUM ASSOCIATION INC",
+          "date": "10/27/2014",
+          "fileNumber": "2014 R 740994"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOPSY0y5XHcAkEARRindyfQ7442GFQGNLg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PADRON BEATRICE M",
+          "date": "10/29/2014",
+          "fileNumber": "2014 R 749613"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdLX1Z%2bbrVil6OPs4Q1JQjAm9uF4b5rfs8Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PADRON BEATRICE M",
+          "date": "11/3/2014",
+          "fileNumber": "2014 R 758703"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOy0%2fCKAIoNNvZZByKuQfSe140DYEZsjiA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "GARCIA CAROLINA",
+          "date": "11/12/2014",
+          "fileNumber": "2014 R 781474"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuVbefTSe72fX%2f4EyEQvj9Rn7kay4ZbaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MOORS MASTER MAINTENANCE ASSN INC THE",
+          "date": "11/18/2014",
+          "fileNumber": "2014 R 794802"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdBR2CAQetU%2btZ91sPobYs9ykHQCJy9R9lg%3d%3d",
+          "type": "NOT",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "date": "11/25/2014",
+          "fileNumber": "2014 R 814567"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdE3qGMcHWSIAMei7%2fLBFEfulzvMnr5LbDg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MORSE DOUGLAS III",
+          "date": "12/9/2014",
+          "fileNumber": "2014 R 840415"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIYnAGTE236GQry5%2fuqGpxatKcexxr%2f4xQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "MOORS MASTER MAINTENANCE ASSN INC THE",
+          "date": "12/10/2014",
+          "fileNumber": "2014 R 845727"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdNnYEZ%2f7WdgfZeGMVnMF6HPJimYRshoSpQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "PENA EMILIA",
+          "date": "12/23/2014",
+          "fileNumber": "2014 R 875488"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsG6D4v5jSpe2mkrI2XLx9Gcf8NkiHSAbRA%3d%3d",
+          "type": "DCP",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "BARDALES LUIS F",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497071"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsC%2fzPOynKDQLbVYvJUqNKeoXbvKjvrp07w%3d%3d",
+          "type": "PAY",
+          "firstParty": "SPECIALIZED LOAN SERVICING LLC (D)",
+          "secondParty": "ROONEY RONALD",
+          "date": "8/3/2015",
+          "fileNumber": "2015 R 497973"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuV5HpFgR%2b%2feLnAvQ92CEGWwwfqawhEazzA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "9/15/1987",
+          "fileNumber": "1987 R 134112918"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGuVjGo6NuZFOrVfver6Hhh4XPMaaO54TdRg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "9/23/1987",
+          "fileNumber": "1987 R 134212006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDuJFsqEqJGudzn45t438WkL5md8l4JWNJKSVrZIvwqXQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "MERCURY ENTERPRISES OF SOUTH FLORIDA INC",
+          "date": "10/1/1987",
+          "fileNumber": "1987 R 134312587"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCfqMXlGdSWQB0sJ9zksGJaALqDtCsdyOtzwuNHGm%2b%2f2g%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FORD MOTOR CREDIT CO",
+          "date": "5/12/1988",
+          "fileNumber": "1988 R 136771086"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74hWh5MqZBvsJAU9BjSmEcs84nk822wIhbw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "OCEAN BANK",
+          "date": "6/19/1991",
+          "fileNumber": "1991 R 150731483"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74lYMbDHWinuNt%2b%2fdm406uW8MH2%2fnDGA3Tg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CITIBANK (SOUTH DAKOTA) (NA)",
+          "date": "6/25/1991",
+          "fileNumber": "1991 R 150832237"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDGTQ%2fwtgC74gKg5W2B2hg938guG6zMytntgEnyDkK2lA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CADLE CO INC (THE)",
+          "date": "11/20/1991",
+          "fileNumber": "1991 R 152811552"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZlxAiUszibp%2f3fSha1U6azwZEtoz%2bc0lHA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "NATIONAL GUARDIAN SECURITY SERV CORP",
+          "date": "1/27/1994",
+          "fileNumber": "1994 R 162283367"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZihM%2bg6VFC0ihdhVIDx9BQv2QIgQhkWWyA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "OCEAN BANK",
+          "date": "2/7/1994",
+          "fileNumber": "1994 R 162431794"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAsrsk7UQGVZg2fc6eP0hozxBVpYe%2f%2fTkOMyPlHkaU4mA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "6/7/1994",
+          "fileNumber": "1994 R 163974808"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b9ubZngSIW84fC8gPG8uxjqt6kAkSlZLVA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "ASSOCIATES FINANCIAL SVCS CO OF FLA INC",
+          "date": "1/28/1997",
+          "fileNumber": "1997 R 175093822"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8pAuf1vK3RCgDMxZy4n5kXs1CJaexjZhQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "PERSONNEL ONE INC",
+          "date": "1/30/1997",
+          "fileNumber": "1997 R 175133268"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8pAuf1vK3RCRNNDmzq5omFff7igSeEdBw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "2/4/1997",
+          "fileNumber": "1997 R 175180654"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bzObqo5VUjt35hWJbIrq%2fttEdf6FJDi7Qw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "SEARS ROEBUCK & CO",
+          "date": "2/6/1997",
+          "fileNumber": "1997 R 175224008"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b6eVqPAR1XMnVA3Icrd1zvvOX0TGQFYxBw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "SUNTRUST BANKCARD NA",
+          "date": "3/5/1997",
+          "fileNumber": "1997 R 175531755"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b6eVqPAR1XMnoLUvC6t6PYDqEyol8iduNg%3d%3d",
+          "type": "FCP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "TOQUICA JORDANY",
+          "date": "3/12/1997",
+          "fileNumber": "1997 R 175573565"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b3ExJW%2f9ON9vHxIneAzZPJBzFWvjY1LeGw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "WITTICH K C (JR)",
+          "date": "3/19/1997",
+          "fileNumber": "1997 R 175664160"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41uIS%2faRHxC3CigfHQsLE4Lnw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "RIGO INDUSTRIES INC",
+          "date": "3/20/1997",
+          "fileNumber": "1997 R 175702981"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2bwdZAyPPH41up4uYTywbFqa%2boJQvhjTNAA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FORD MOTOR CR CO",
+          "date": "3/25/1997",
+          "fileNumber": "1997 R 175790440"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b54sv0jwh0n34D9eZ12HfLcL6J0u2DOiZg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "4/14/1997",
+          "fileNumber": "1997 R 175974775"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b799ysh1yOWk%2f6Q5j9l34KPzVifZ4WYs%2fg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "LEASECOMM CORP",
+          "date": "5/20/1997",
+          "fileNumber": "1997 R 176451761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b799ysh1yOWkxjwOG%2bm9JXvo8ZmS9bHfyA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "5/20/1997",
+          "fileNumber": "1997 R 176453081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8hzrPbSCkQ8v10Qnm9lcAuWwHXtD%2fJ3mA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLSOUTH ADVERTISING & PUBLISHING CORP",
+          "date": "5/27/1997",
+          "fileNumber": "1997 R 176514622"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2by49ElCn4aBZxLrXYEPa9wiElTqaH%2bBTQQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "WITTICH K C (JR)",
+          "date": "6/4/1997",
+          "fileNumber": "1997 R 176680198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2by49ElCn4aBZb2iKmJH3VrgbWxivaEiYog%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "6/9/1997",
+          "fileNumber": "1997 R 176682372"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBUNvMeCTSW%2b8fKgbGpkzBqpixrKjoH6TTlOn430joY%2bw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUAREZ LAZARO",
+          "date": "6/23/1997",
+          "fileNumber": "1997 R 176891418"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmStCaomnnSGpBtI%2bM%2bfmtug%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "PORRATA MARIA F",
+          "date": "5/4/2000",
+          "fileNumber": "2000 R 191000241"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmbrnCOwfSgKwaevcUP9sdQw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "CITIBANK (SD) (NA)",
+          "date": "5/5/2000",
+          "fileNumber": "2000 R 191001559"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmtXnTopd%2ftYfk%2bxQZtsoRaA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "RODRIGUEZ ADRIANA M",
+          "date": "5/4/2000",
+          "fileNumber": "2000 R 191001600"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmJiYRtcSvoMWlN1lYJF5dvg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "PORRATA MARIA F",
+          "date": "5/5/2000",
+          "fileNumber": "2000 R 191004155"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmzpxfG6jHyaUyyQGtknhWWQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "DELGADO MARIA",
+          "date": "5/8/2000",
+          "fileNumber": "2000 R 191050198"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmYi%2fT6I2yhN%2bpQX45JwpR1Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SOMEILLAN AXEL J",
+          "date": "5/9/2000",
+          "fileNumber": "2000 R 191052010"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XfLmw48ggEAmfLRhXnAzVyhEhbnfBpbdug%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BROADVIEW IMPORT & EXPORT (LTD) (ETC)",
+          "date": "5/11/2000",
+          "fileNumber": "2000 R 191053017"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJfvMJKjB7uKgk%2b7MvKqL6Ejg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "BELLA AUTOMOTIVE GROUP LTD",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191104687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJftfKI7jdY6lC9gvFWNYnAwQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "RANDOL GARY A",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191104873"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJf6u94nbpIpKjGop4j1AJIQg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "IPINA JORGE A",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191142212"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6Xd%2fBNRgBWHJfSDSeTepJ6hCRPIBTOcw2%2bA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "LABORATORY CORP OF AMERICA",
+          "date": "5/15/2000",
+          "fileNumber": "2000 R 191142275"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoSAf81QblcWgWO2bZErWDqA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "EASTERN FINANCIAL FEDERAL CREDIT UNION",
+          "date": "5/17/2000",
+          "fileNumber": "2000 R 191242604"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoRtNTU1%2fixS9ETZ0yqsOA3Q%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "FCC NATIONAL BANK",
+          "date": "5/22/2000",
+          "fileNumber": "2000 R 191242635"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoQEbPTAZ4nSM3lgnOk7%2bLPg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BUCHANAN EDWARD",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243049"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwsoG1YHLaK7Ss0ZmdtDYdpNlA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "APONTE REINA L",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243072"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XQh8lodGTwso41SE0U0PkxNkG3QDtsQFyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BERNAL MARIA",
+          "date": "5/23/2000",
+          "fileNumber": "2000 R 191243074"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6OnCSb9yeI4xqZQvmq%2fRtiQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "DUFFY DIANN MARIE",
+          "date": "5/26/2000",
+          "fileNumber": "2000 R 191302926"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6gFHvjLeg9USZB9m6fuJnvw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "BLACK BARBARA",
+          "date": "5/31/2000",
+          "fileNumber": "2000 R 191340838"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6%2b%2flD2c0TozmLWiiOfjO6zA%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "SUNTRUST BANK S FLA (NA)",
+          "date": "5/26/2000",
+          "fileNumber": "2000 R 191341447"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6IYTE8ChG4lfKodYogJwRyg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "D E T CARD L C",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191341614"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6sqccwLDfNmlsyB9RCgnxmw%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "UNIVERSITY OF MIAMI",
+          "date": "5/31/2000",
+          "fileNumber": "2000 R 191342645"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6SSa%2bNXNmMEfMnNLyE%2fLQrg%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "STARKS MATTHEW",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191344529"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6wVs8Y3gSdJ1bAhU8vALmMQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (R)",
+          "secondParty": "GUMENICK FAMILY INVESTMENTS NO 1 (LTD)",
+          "date": "6/1/2000",
+          "fileNumber": "2000 R 191390329"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZUNtQEMp6XVsweia1Pgp6FWWQw2PQJUzVzUsi2wVm3w%3d%3d",
+          "type": "CVP",
+          "firstParty": "SUNTRUST BANK (D)",
+          "secondParty": "HABANOS DISTRIBUTORS INC",
+          "date": "6/7/2000",
+          "fileNumber": "2000 R 191393328"
+        }
+      ],
+      [],
+      []
+    ]
+  }
+]

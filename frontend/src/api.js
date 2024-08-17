@@ -12,6 +12,24 @@ const config = {
 
 }
 
+const login = async (username, password) => {
+    const url = new URL(config.apiUrl + '/login')
+
+    const response = await fetch(url, {
+        body: JSON.stringify({
+          username,
+          password,
+        }),
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        method: 'POST',
+      })
+      .then(response => response.json())
+
+    return response
+}
+
 const getAuctions = async ({ cursor, filter } ) => {
     const url = new URL(config.apiUrl + '/auctions')
     const options = config.options
@@ -46,4 +64,5 @@ const updateAuction = async (id, changes) => {
 export {
     getAuctions,
     updateAuction,
+    login,
 }

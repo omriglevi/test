@@ -60,8 +60,8 @@ const main = async () => {
 
     for (const file of files) {
         const data = require('./data/' + file)
-        // from file name get the auction date by removeing step5_ and .json then replace all appearances of - with /
-        const auctionDate = file.replace('step5_', '').replace('.json', '').replace(/-/g, '/')
+        // from file name get the auction date by removeing step5_output and .json then replace all appearances of _ with /
+        const auctionDate = file.replace('step5_output', '').replace('.json', '').replace(/_/g, '/')
         console.log(auctionDate);
         const normalizedData = normalizeData(data).map((auction) => ({ ...auction, auctionDate }))
         console.log('Inserting data for', normalizedData[0].auctionDate);

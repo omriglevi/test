@@ -1,0 +1,2106 @@
+[
+  {
+    "caseNumber(Count)": "2019-007379-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$171,003.88",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Hinton, Michael"
+      },
+      {
+        "DEFENDANT": "Nationstart Mortgage LLC"
+      },
+      {
+        "DEFENDANT": "Deal Properties LLC"
+      },
+      {
+        "DEFENDANT AKA": "Hinton, Michael D"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Pomeranz, Mr Mark L"
+      },
+      {
+        "PLAINTIFF": "PNC BANK NATIONAL ASSOCIATION"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Bradford, Erin Michelle"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Allen S Katz ,"
+      }
+    ],
+    "violations": [],
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBWjk9AtIeR4s81kOF233n9k5FX5NsKpXgWkTo5xNqaHQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL H GDN OF (D)",
+          "secondParty": "SMITH ADELE M",
+          "date": "8/11/1970",
+          "fileNumber": "1970 R 144002"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkR3qpz7ZXs7J3w5zT%2f3qE9ARfK%2b0wb1aoA%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W (R)",
+          "secondParty": "F & R BLDR INC",
+          "date": "5/3/1972",
+          "fileNumber": "1972 R 96128"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkY9U1yVodNjQDv3wvxhpZJq6oWDa9VT3gw%3d%3d",
+          "type": "QCD",
+          "firstParty": "HINTON MICHAEL F &W (D)",
+          "secondParty": "HINTON MARY L",
+          "date": "7/18/1972",
+          "fileNumber": "1972 R 159967"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXMeqj2TQFBC9xt99AA%2b2GPRF3o3rpVr7ng%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W (D)",
+          "secondParty": "HANNAN PATRICK E &W",
+          "date": "9/5/1973",
+          "fileNumber": "1973 R 205227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXOX6HvVKcRW8VHoe7coPhUFYhmu8iY07Yw%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL E &W (R)",
+          "secondParty": "CARAVEL HOMES OF FLA INC",
+          "date": "12/4/1973",
+          "fileNumber": "1973 R 289835"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOie2s8IADG0ihBTqXCdnP5Hgo7Vk3N8so1g%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W MILDRED H (D)",
+          "secondParty": "FARROW DANA L &W DONNA M",
+          "date": "12/19/1977",
+          "fileNumber": "1977 R 313312"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCFMDVKGTIBwMe0CUmGmnV4pICGZgs2Ssf2uuJopbwbhA%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "JACKSON BONNIE",
+          "date": "5/30/1995",
+          "fileNumber": "1995 R 168012077"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCFMDVKGTIBwMe0CUmGmnV4hhCHAbIxhtRdOrAKaRcssw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "JACKSON BONNIE",
+          "date": "5/30/1995",
+          "fileNumber": "1995 R 168012081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8KBoTw0fPGobbyD5vHXgQQh9R6Gp%2f45juw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A (D)",
+          "secondParty": "MARSHALL MICHAEL",
+          "date": "3/20/1996",
+          "fileNumber": "1996 R 171351044"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8KBoTw0fPGob5zzyYuDGYx2ACLo5REVdyQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A (D)",
+          "secondParty": "MARSHALL MICHAEL",
+          "date": "3/19/1996",
+          "fileNumber": "1996 R 171351792"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8OgUtuoOK%2fkLhVY2aTOFiJ5Jq4gYgjL7pw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A. (R)",
+          "secondParty": "YORK GARY E.",
+          "date": "5/21/1996",
+          "fileNumber": "1996 R 172113554"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8OgUtuoOK%2fkLsz3u2jytP0uYiQsqURA8PA%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A. (R)",
+          "secondParty": "YORK GARY E.",
+          "date": "5/21/1996",
+          "fileNumber": "1996 R 172113605"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4N4uuxdRORhaIN2mUXPM6qA%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "DEAL PROP INC",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4e5TdOPn7GDi0K2J6hFid7w%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL M (D)",
+          "secondParty": "FREMONT INVEST & LOAN",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339632"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4HRsjIc0Bb0gJMnw%2ffut3uA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "DEAL PROP INC",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339633"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D3xxwOXpgYbUX3QHExUt2dNDfjhNh4yPwg%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "LATTA DEREK",
+          "date": "8/24/2001",
+          "fileNumber": "2001 R 464875"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2benhCTKF%2bQ4WV2%2bmKH%2f3GM3ycjWhVH7JYog%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "TONY ST",
+          "date": "2/13/2002",
+          "fileNumber": "2002 R 89904"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beoGbvTxq1RGRCX0S%2fTbVNrItWhtfbl8urg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "DEAL PROP LLC",
+          "date": "4/22/2002",
+          "fileNumber": "2002 R 246125"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beoGbvTxq1RGRGEHsprgBlck6ozPlKpTHGg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "LATTA DEREK",
+          "date": "4/22/2002",
+          "fileNumber": "2002 R 246126"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fAZjIjB20dFwX44T2soEfmw1qgZyP9iSkg%3d%3d",
+          "type": "FTL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "8/11/2003",
+          "fileNumber": "2003 R 562228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8a3bWYZDIMZ4dC4Krz%2fTz9T2%2fpSJDrMfGg%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "5/19/2005",
+          "fileNumber": "2005 R 510177"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC4PoGxedXaU4IKefkJUt4kw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC6kXeiBlHT9QEPtG%2fXmLYeA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008909"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fDeBQg1xcl2JcdvoNUmv1BAbmogT7uWXg%3d%3d",
+          "type": "REL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "10/4/2005",
+          "fileNumber": "2005 R 1039615"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8YLNp5eIVJULXZ6JChMxk3OjcOZtidzY4A%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL M (R)",
+          "secondParty": "OCWEN LOAN SERV LLC",
+          "date": "10/14/2005",
+          "fileNumber": "2005 R 1085454"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8YLNp5eIVJULOXaJAXQvqFoRHFLLw40VoQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL M (R)",
+          "secondParty": "OCWEN LOAN SERVICING LLC",
+          "date": "10/14/2005",
+          "fileNumber": "2005 R 1085455"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpapPFI7XVP7Us3NXCTec8Z4DWaxDU4Dvj5g%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "6/6/2007",
+          "fileNumber": "2007 R 567550"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpal3lopANg9uPH%2bsCMANMcc1qGbzT%2f96PuQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "NATIONAL CITY BNK",
+          "date": "7/6/2007",
+          "fileNumber": "2007 R 669024"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jparoWqnrHtc1cdJJjmHPvT7vzVKvHQn3HQA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "AMERIFIRST HOME IMPROVEMENT FIN CO",
+          "date": "8/3/2007",
+          "fileNumber": "2007 R 768057"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpag9RQeFsz%2fsTCJpNH96jmx2X1uCAh4pVcw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "STREET TONY",
+          "date": "8/22/2007",
+          "fileNumber": "2007 R 833911"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpamA0ge5bfELPOS%2fdxi0u2wrj9IF4LBUtqw%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/14/2007",
+          "fileNumber": "2007 R 910923"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZnW2PkP3Dl%2fa3JAXW%2boGJRA61W8mszw2A%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "AMERIFIRST HOME IMPROVEMENT FIN CO",
+          "date": "2/6/2008",
+          "fileNumber": "2008 R 98026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7nbVYACgcQgpZGybCBcORtBNyasxUtPRgg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "SENZIG MICHAEL J",
+          "date": "6/12/2009",
+          "fileNumber": "2009 R 426761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLALkODfgeBizXSGMt0wA3KisFfBu2PtWyQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "MITRANI DOLORES H",
+          "date": "6/6/2012",
+          "fileNumber": "2012 R 396419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpv%2bEACKqaozWxJpB4Ux1hypd%2b7QY5PTTA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "ARD ANTHONY TRU",
+          "date": "7/11/2013",
+          "fileNumber": "2013 R 547513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4aLKopdNXxGDUYE1w%2b%2bKyrvA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "EVERBANK",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946686"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4a11VWPF4vYPSOSemINiUpLg%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuhILr4TW5VLw2oHpURVz0uucpBTUa1Qw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 8493"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJAhJFbUbfT9Yln55ItafPNrV1K2b7432A%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "GREEN TREE SERVICING LLC",
+          "date": "2/6/2015",
+          "fileNumber": "2015 R 79321"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsD310ufhyd0%2fpKnyFKBTSvsLyfL9J2ObFg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "ANTHONY ARD MD PA PROFIT SHARING PLAN",
+          "date": "5/11/2015",
+          "fileNumber": "2015 R 300602"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCQ0NdQ529QJxaNC3fxcTf5T2qW4AtKSgQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "date": "5/20/2015",
+          "fileNumber": "2015 R 323858"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsGucl4%2fvEZ0aXNUTH8Av4SFRwIj84JwQWA%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "12/29/2015",
+          "fileNumber": "2015 R 815790"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhaxshNccyFBdkP6YXborqn4RilpSWzayg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "MCBURNETTE MARY A",
+          "date": "2/9/2016",
+          "fileNumber": "2016 R 79149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bndNES2F80KXuPuZ2BLg0brI55n0vHVOhGA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "3/18/2019",
+          "fileNumber": "2019 R 173295"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnUygIi7Pr9YFVkpXYEzM6QA23VTlmUUffw%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "CITIGROUP MORTGAGE LOAN TRUST INC",
+          "date": "10/31/2019",
+          "fileNumber": "2019 R 684136"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEKrPoa8vLfZlyIz8TJ6Cx1lCmNmalEGRg%3d%3d",
+          "type": "NOT",
+          "firstParty": "NATIONSTART MORTGAGE LLC (D)",
+          "date": "1/2/2015",
+          "fileNumber": "2015 R 2224"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhHMI57ZfYkvmR1W%2fI2GLqD%2fCxc4wWeZdg%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTART MORTGAGE LLC (D)",
+          "secondParty": "COMMUNITY LOAN FUND OF NJ INC",
+          "date": "7/21/2016",
+          "fileNumber": "2016 R 425704"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8BVUXG8ZfBJmX6v0JwlF91a2VJxA1AJYA%3d%3d",
+          "type": "DCP",
+          "firstParty": "NATIONSTART MORTGAGE LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "7/25/2024",
+          "fileNumber": "2024 R 562329"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8BVUXG8ZfBJmX6v0JwlF91a2VJxA1AJYA%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "7/25/2024",
+          "fileNumber": "2024 R 562329"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fAZjIjB20dFwX44T2soEfmw1qgZyP9iSkg%3d%3d",
+          "type": "FTL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "8/11/2003",
+          "fileNumber": "2003 R 562228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC4PoGxedXaU4IKefkJUt4kw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC6kXeiBlHT9QEPtG%2fXmLYeA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008909"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fDeBQg1xcl2JcdvoNUmv1BAbmogT7uWXg%3d%3d",
+          "type": "REL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "10/4/2005",
+          "fileNumber": "2005 R 1039615"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpal3lopANg9uPH%2bsCMANMcc1qGbzT%2f96PuQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "NATIONAL CITY BNK",
+          "date": "7/6/2007",
+          "fileNumber": "2007 R 669024"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7nbVYACgcQgpZGybCBcORtBNyasxUtPRgg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "SENZIG MICHAEL J",
+          "date": "6/12/2009",
+          "fileNumber": "2009 R 426761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLALkODfgeBizXSGMt0wA3KisFfBu2PtWyQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "MITRANI DOLORES H",
+          "date": "6/6/2012",
+          "fileNumber": "2012 R 396419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpv%2bEACKqaozWxJpB4Ux1hypd%2b7QY5PTTA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "ARD ANTHONY TRU",
+          "date": "7/11/2013",
+          "fileNumber": "2013 R 547513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4aLKopdNXxGDUYE1w%2b%2bKyrvA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "EVERBANK",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946686"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuhILr4TW5VLw2oHpURVz0uucpBTUa1Qw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 8493"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsD310ufhyd0%2fpKnyFKBTSvsLyfL9J2ObFg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "ANTHONY ARD MD PA PROFIT SHARING PLAN",
+          "date": "5/11/2015",
+          "fileNumber": "2015 R 300602"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCQ0NdQ529QJxaNC3fxcTf5T2qW4AtKSgQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "date": "5/20/2015",
+          "fileNumber": "2015 R 323858"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhaxshNccyFBdkP6YXborqn4RilpSWzayg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "MCBURNETTE MARY A",
+          "date": "2/9/2016",
+          "fileNumber": "2016 R 79149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7SJL7lBuI85gVJVarD%2bi6gZ00TbIllkBcQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "12/27/2021",
+          "fileNumber": "2021 R 963390"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjugzuwFHs8tSmzMtQod%2b%2bSQeE8Mopdy3g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "NATIONAL CITY MORT CO",
+          "date": "6/25/2010",
+          "fileNumber": "2010 R 429172"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYGZGCAK%2bxBesypYcqlmeDyCtE6BZ1u17dg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/16/2011",
+          "fileNumber": "2011 R 770877"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLEB%2f37FAdYetpYtpuXRjWzYr42Px3B5I4A%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PORTOCARRERO JAVIER",
+          "date": "6/15/2012",
+          "fileNumber": "2012 R 424178"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN%2fDHTdc%2bg4fEd6MpAvPwnagOzLDlGY9CQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAZ VICTOR IVAN",
+          "date": "11/1/2012",
+          "fileNumber": "2012 R 784293"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPpAKcbw0O1LqurSc2%2b2A5sCDw4fTf%2b5Sw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ESTRADA RAMON N",
+          "date": "11/30/2012",
+          "fileNumber": "2012 R 860266"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKIpJ2H0dpTz0hp65VhTU0ma9rMzkVlH9w%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "THOMAS ANTHONY",
+          "date": "12/7/2012",
+          "fileNumber": "2012 R 880575"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgVCyLx1cY0Inano7%2bltCQtD5vgo%2b8dpsA%3d%3d",
+          "type": "FST",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EXECUTIVE FUELING SERVICES LLC",
+          "date": "1/18/2013",
+          "fileNumber": "2013 R 48913"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgCmNdXXZ%2fNDiAN26d8peDyVDL%2fwB%2fedww%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "INDYMAC FEDERAL BANK (FSB)",
+          "date": "1/28/2013",
+          "fileNumber": "2013 R 70974"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboGScTUzxtw3RhRhIzi4837gHiCUWElw9g%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CASTRILLON LILIANA P",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 457453"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmF%2fXd6mvuc0DLK6m%2fNlPDbC5wrdPsYNyg%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JONES CAROLYN",
+          "date": "6/11/2013",
+          "fileNumber": "2013 R 461797"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbp9pwG6%2ftNZt5hXF9EUs2WgMcznIXNu7lA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAZ VICTOR IVAN",
+          "date": "6/12/2013",
+          "fileNumber": "2013 R 466221"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtlCQlGrkfx%2f4Vg3Odi3RBJ1exMnxfP6%2bw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PORTOCARRERO JAVIER",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 493511"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqESrjmOxOL9LR9fzv2yuywr3M%2f5l%2fzR6A%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "NATIONAL CITY MORT CO",
+          "date": "7/5/2013",
+          "fileNumber": "2013 R 531251"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblROhAqxvz%2fesduvs%2b9JllX%2bxY9ey%2brX3w%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SAN MARCO AT FOUNTAINEBLEAU CONDOMINIUM",
+          "date": "7/5/2013",
+          "fileNumber": "2013 R 531671"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbi%2fJ6LXlemDlxAAqtLEQpJl8AG9bu5ta2g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CHASE HOME MORTGAGE",
+          "date": "7/22/2013",
+          "fileNumber": "2013 R 573213"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqBDVcBOVtv8MGl5gGWh8sbLc0NQVoWJ9A%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+          "date": "8/21/2013",
+          "fileNumber": "2013 R 664122"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqmEBMNJplNLpLtb8R0QS1wWZ8AMml10tA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "9/24/2013",
+          "fileNumber": "2013 R 757748"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdF1VJNwFreR%2bo5lyQx7doST7iRTS40RiDw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "FERNANDEZ JOSE R",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 10006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKm%2fYtAHeVcmsLMpePNAiCtnGA38JTtxPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "OFFICE 2020 (LLC)",
+          "date": "1/10/2014",
+          "fileNumber": "2014 R 23360"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCK3objYnC%2f5hpcqYzLGZ9Gp9MvXwZeFbA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GHAZAL TANIA L",
+          "date": "1/15/2014",
+          "fileNumber": "2014 R 37122"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIWb62ovz9elYQLyUJTjENH3ttB1%2fuuu%2fA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NA",
+          "date": "1/23/2014",
+          "fileNumber": "2014 R 54124"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDZdUZnNggT7db7uolCJgbV%2bs3dlgLpYCQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MARGARITA C DIAZ GARCIA",
+          "date": "1/23/2014",
+          "fileNumber": "2014 R 56842"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKowTnU7jDJ752As6QvC3Ceilpbz3BWgtQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "RIVERA JUDITH N",
+          "date": "1/29/2014",
+          "fileNumber": "2014 R 71803"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIsg2uBCbYKKrK7az7ZOZdXiCDscLd7ytw%3d%3d",
+          "type": "DEE",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "UPSTATE ENTERPRISES LLC",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 78956"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdNzxf8W0X80gkTzpAFO8YOgrYY%2b9YDY3VQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "THOMPSON MARY M",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 79666"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOmalQ7cUW6JHHwo26rVlqibG9ClfzxXjA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+          "date": "2/3/2014",
+          "fileNumber": "2014 R 82044"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMKAw0FQi0RKTFZvqaNUFYOCtslgm6%2bQ3g%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "COUNTRY LANE CONDOMINIUM NO 2 ASSOCIATIO",
+          "date": "2/5/2014",
+          "fileNumber": "2014 R 91355"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdICpq0QvMTkRAXip8c664fYq%2bLiZyI9e7Q%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "WILLIAMS JACQUELINE M",
+          "date": "2/12/2014",
+          "fileNumber": "2014 R 108202"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJSPDIAaCClgSC2SBLIsPxrkT6cWQ1QQZw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ROCHA LEONEL",
+          "date": "2/20/2014",
+          "fileNumber": "2014 R 131363"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMRP8rJHBxZZ9rmVBm0hOmOQBKSJhZ5Srw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CAMARAZA HIRAM",
+          "date": "2/27/2014",
+          "fileNumber": "2014 R 147795"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDrt7Fj4%2fFY%2btx7HHEHaeTUt4DyW2QJeJA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GARCIA EMILIANA",
+          "date": "2/28/2014",
+          "fileNumber": "2014 R 149723"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGEbTVRwAA3k%2bY7ATU8L0Dc9REyNJcDOAA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NATIONAL ASSOCIATION",
+          "date": "3/31/2014",
+          "fileNumber": "2014 R 228115"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDxwWUSbIS6f1RmwilxVZPwyNqehS63tjg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CARBAJAL RAMON",
+          "date": "4/11/2014",
+          "fileNumber": "2014 R 264200"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMYENMngSARMJkKSOOT4t%2bkg0RwTZo5gww%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "4/23/2014",
+          "fileNumber": "2014 R 293665"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPQ7Np6gKX1bPaEguaYqht92AyfdlF3V5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "AVILA DANAY",
+          "date": "5/7/2014",
+          "fileNumber": "2014 R 328793"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPQ7Np6gKX1bPaEguaYqht92AyfdlF3V5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "5/7/2014",
+          "fileNumber": "2014 R 328793"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdB6%2b9tAr9e9kleSM475oaBR93S%2fAtVu0Zg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAUL ANDREE MARIE JOSEE",
+          "date": "6/17/2014",
+          "fileNumber": "2014 R 430751"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdELGrR7TTzYnS9ziqkzJUDFneRrChdk4RQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ALLSTATE LIFE INSURANCE COMPANY",
+          "date": "6/25/2014",
+          "fileNumber": "2014 R 452260"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdE%2bd1pMNkUfugbAj9wJgUzPgGR%2fHRUXifA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CORBAN CHARLES J",
+          "date": "7/8/2014",
+          "fileNumber": "2014 R 480207"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCKnno77KPwAM7l2b3xjhgHYYcq05dS7Pw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CHASE HOME MORTGAGE",
+          "date": "7/21/2014",
+          "fileNumber": "2014 R 510349"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdFqoKV3ttgBOhGQ1Lzt%2fdesACFTRKpLbGw%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "US BANK NATIONAL ASSOCIATION",
+          "date": "7/21/2014",
+          "fileNumber": "2014 R 510659"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJ3hUQQ5Z3evWy99A3CFQGGFOJqB%2fgPTyw%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "7/28/2014",
+          "fileNumber": "2014 R 525792"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCvYljOhlD3u5p1VDIOUEpsGpJrOoA6Euw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "9/10/2014",
+          "fileNumber": "2014 R 630631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGmuRzH80LDE6T4fGkqhz%2bJSmWNNm6IoQA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BETSY DE LA CARIDAD PEREZ",
+          "date": "10/30/2014",
+          "fileNumber": "2014 R 753931"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJeIXSxMTF7JwSmdkq2uhG%2f57skItUD3Gg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JONES CAROLYN",
+          "date": "11/4/2014",
+          "fileNumber": "2014 R 761717"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdElQa3reYfqHwSd969rB7bWJ%2bZtlQLNZ3w%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GRONOWICH DAVID",
+          "date": "11/4/2014",
+          "fileNumber": "2014 R 763646"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdH%2bFpdrFAVXNy0o2T2Ke6Z7gGcaMfSkjuA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NATIONAL ASSOCIATION",
+          "date": "11/5/2014",
+          "fileNumber": "2014 R 767121"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOlLWYl8yV%2bxg5y3vj7Th9yH8ds3PMMHPA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MARGARITA C DIAZ GARCIA",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770138"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdG1edDvFMvzwW1%2fud48ivN9Fu0a6gpmhQA%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770253"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdM6cgCF7Khoo%2bceZrVN9ZQ9FWrUIyH5Zsw%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770373"
+        }
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "caseNumber(Count)": "2019-007379-CA-01",
+    "caseType": "FORECLOSURE",
+    "finalJudgmentAmount": "$171,003.88",
+    "partyDetails": [
+      {
+        "DEFENDANT": "Hinton, Michael"
+      },
+      {
+        "DEFENDANT": "Nationstart Mortgage LLC"
+      },
+      {
+        "DEFENDANT": "Deal Properties LLC"
+      },
+      {
+        "DEFENDANT AKA": "Hinton, Michael D"
+      },
+      {
+        "DEFENDANT-ATTORNEY": "Pomeranz, Mr Mark L"
+      },
+      {
+        "PLAINTIFF": "PNC BANK NATIONAL ASSOCIATION"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Bradford, Erin Michelle"
+      },
+      {
+        "PLAINTIFF-ATTORNEY": "Allen S Katz ,"
+      }
+    ],
+    "violations": [],
+    "legalDocuments": [
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBWjk9AtIeR4s81kOF233n9k5FX5NsKpXgWkTo5xNqaHQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL H GDN OF (D)",
+          "secondParty": "SMITH ADELE M",
+          "date": "8/11/1970",
+          "fileNumber": "1970 R 144002"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkR3qpz7ZXs7J3w5zT%2f3qE9ARfK%2b0wb1aoA%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W (R)",
+          "secondParty": "F & R BLDR INC",
+          "date": "5/3/1972",
+          "fileNumber": "1972 R 96128"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBZsQRMg8oOkY9U1yVodNjQDv3wvxhpZJq6oWDa9VT3gw%3d%3d",
+          "type": "QCD",
+          "firstParty": "HINTON MICHAEL F &W (D)",
+          "secondParty": "HINTON MARY L",
+          "date": "7/18/1972",
+          "fileNumber": "1972 R 159967"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXMeqj2TQFBC9xt99AA%2b2GPRF3o3rpVr7ng%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W (D)",
+          "secondParty": "HANNAN PATRICK E &W",
+          "date": "9/5/1973",
+          "fileNumber": "1973 R 205227"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC1Zi5EMbwbXOX6HvVKcRW8VHoe7coPhUFYhmu8iY07Yw%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL E &W (R)",
+          "secondParty": "CARAVEL HOMES OF FLA INC",
+          "date": "12/4/1973",
+          "fileNumber": "1973 R 289835"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBoHagFtVLOie2s8IADG0ihBTqXCdnP5Hgo7Vk3N8so1g%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL F &W MILDRED H (D)",
+          "secondParty": "FARROW DANA L &W DONNA M",
+          "date": "12/19/1977",
+          "fileNumber": "1977 R 313312"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCFMDVKGTIBwMe0CUmGmnV4pICGZgs2Ssf2uuJopbwbhA%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "JACKSON BONNIE",
+          "date": "5/30/1995",
+          "fileNumber": "1995 R 168012077"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCFMDVKGTIBwMe0CUmGmnV4hhCHAbIxhtRdOrAKaRcssw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "JACKSON BONNIE",
+          "date": "5/30/1995",
+          "fileNumber": "1995 R 168012081"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8KBoTw0fPGobbyD5vHXgQQh9R6Gp%2f45juw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A (D)",
+          "secondParty": "MARSHALL MICHAEL",
+          "date": "3/20/1996",
+          "fileNumber": "1996 R 171351044"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8KBoTw0fPGob5zzyYuDGYx2ACLo5REVdyQ%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A (D)",
+          "secondParty": "MARSHALL MICHAEL",
+          "date": "3/19/1996",
+          "fileNumber": "1996 R 171351792"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8OgUtuoOK%2fkLhVY2aTOFiJ5Jq4gYgjL7pw%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A. (R)",
+          "secondParty": "YORK GARY E.",
+          "date": "5/21/1996",
+          "fileNumber": "1996 R 172113554"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAp%2fO4%2bNZ2e8OgUtuoOK%2fkLsz3u2jytP0uYiQsqURA8PA%3d%3d",
+          "type": "FCP",
+          "firstParty": "HINTON MICHAEL A. (R)",
+          "secondParty": "YORK GARY E.",
+          "date": "5/21/1996",
+          "fileNumber": "1996 R 172113605"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4N4uuxdRORhaIN2mUXPM6qA%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "DEAL PROP INC",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4e5TdOPn7GDi0K2J6hFid7w%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL M (D)",
+          "secondParty": "FREMONT INVEST & LOAN",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339632"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5DxhpvjUotUr4HRsjIc0Bb0gJMnw%2ffut3uA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "DEAL PROP INC",
+          "date": "6/28/2001",
+          "fileNumber": "2001 R 339633"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCSkfXJA2s5D3xxwOXpgYbUX3QHExUt2dNDfjhNh4yPwg%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "LATTA DEREK",
+          "date": "8/24/2001",
+          "fileNumber": "2001 R 464875"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2benhCTKF%2bQ4WV2%2bmKH%2f3GM3ycjWhVH7JYog%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "TONY ST",
+          "date": "2/13/2002",
+          "fileNumber": "2002 R 89904"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beoGbvTxq1RGRCX0S%2fTbVNrItWhtfbl8urg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "DEAL PROP LLC",
+          "date": "4/22/2002",
+          "fileNumber": "2002 R 246125"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDTiMXOa3E%2beoGbvTxq1RGRGEHsprgBlck6ozPlKpTHGg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "LATTA DEREK",
+          "date": "4/22/2002",
+          "fileNumber": "2002 R 246126"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fAZjIjB20dFwX44T2soEfmw1qgZyP9iSkg%3d%3d",
+          "type": "FTL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "8/11/2003",
+          "fileNumber": "2003 R 562228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8a3bWYZDIMZ4dC4Krz%2fTz9T2%2fpSJDrMfGg%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "5/19/2005",
+          "fileNumber": "2005 R 510177"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC4PoGxedXaU4IKefkJUt4kw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC6kXeiBlHT9QEPtG%2fXmLYeA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008909"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fDeBQg1xcl2JcdvoNUmv1BAbmogT7uWXg%3d%3d",
+          "type": "REL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "10/4/2005",
+          "fileNumber": "2005 R 1039615"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8YLNp5eIVJULXZ6JChMxk3OjcOZtidzY4A%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL M (R)",
+          "secondParty": "OCWEN LOAN SERV LLC",
+          "date": "10/14/2005",
+          "fileNumber": "2005 R 1085454"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8YLNp5eIVJULOXaJAXQvqFoRHFLLw40VoQ%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL M (R)",
+          "secondParty": "OCWEN LOAN SERVICING LLC",
+          "date": "10/14/2005",
+          "fileNumber": "2005 R 1085455"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpapPFI7XVP7Us3NXCTec8Z4DWaxDU4Dvj5g%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "6/6/2007",
+          "fileNumber": "2007 R 567550"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpal3lopANg9uPH%2bsCMANMcc1qGbzT%2f96PuQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "NATIONAL CITY BNK",
+          "date": "7/6/2007",
+          "fileNumber": "2007 R 669024"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jparoWqnrHtc1cdJJjmHPvT7vzVKvHQn3HQA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "AMERIFIRST HOME IMPROVEMENT FIN CO",
+          "date": "8/3/2007",
+          "fileNumber": "2007 R 768057"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpag9RQeFsz%2fsTCJpNH96jmx2X1uCAh4pVcw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "STREET TONY",
+          "date": "8/22/2007",
+          "fileNumber": "2007 R 833911"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpamA0ge5bfELPOS%2fdxi0u2wrj9IF4LBUtqw%3d%3d",
+          "type": "NCO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/14/2007",
+          "fileNumber": "2007 R 910923"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCbDl578yU8jZnW2PkP3Dl%2fa3JAXW%2boGJRA61W8mszw2A%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "AMERIFIRST HOME IMPROVEMENT FIN CO",
+          "date": "2/6/2008",
+          "fileNumber": "2008 R 98026"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7nbVYACgcQgpZGybCBcORtBNyasxUtPRgg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "SENZIG MICHAEL J",
+          "date": "6/12/2009",
+          "fileNumber": "2009 R 426761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLALkODfgeBizXSGMt0wA3KisFfBu2PtWyQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "MITRANI DOLORES H",
+          "date": "6/6/2012",
+          "fileNumber": "2012 R 396419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpv%2bEACKqaozWxJpB4Ux1hypd%2b7QY5PTTA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "ARD ANTHONY TRU",
+          "date": "7/11/2013",
+          "fileNumber": "2013 R 547513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4aLKopdNXxGDUYE1w%2b%2bKyrvA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "EVERBANK",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946686"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4a11VWPF4vYPSOSemINiUpLg%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946687"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuhILr4TW5VLw2oHpURVz0uucpBTUa1Qw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 8493"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsJAhJFbUbfT9Yln55ItafPNrV1K2b7432A%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "GREEN TREE SERVICING LLC",
+          "date": "2/6/2015",
+          "fileNumber": "2015 R 79321"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsD310ufhyd0%2fpKnyFKBTSvsLyfL9J2ObFg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "ANTHONY ARD MD PA PROFIT SHARING PLAN",
+          "date": "5/11/2015",
+          "fileNumber": "2015 R 300602"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCQ0NdQ529QJxaNC3fxcTf5T2qW4AtKSgQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "date": "5/20/2015",
+          "fileNumber": "2015 R 323858"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsGucl4%2fvEZ0aXNUTH8Av4SFRwIj84JwQWA%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "NATIONSTAR MORTGAGE LLC",
+          "date": "12/29/2015",
+          "fileNumber": "2015 R 815790"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhaxshNccyFBdkP6YXborqn4RilpSWzayg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "MCBURNETTE MARY A",
+          "date": "2/9/2016",
+          "fileNumber": "2016 R 79149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bndNES2F80KXuPuZ2BLg0brI55n0vHVOhGA%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "3/18/2019",
+          "fileNumber": "2019 R 173295"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC3mpaYv1a%2bnUygIi7Pr9YFVkpXYEzM6QA23VTlmUUffw%3d%3d",
+          "type": "AMO",
+          "firstParty": "HINTON MICHAEL (D)",
+          "secondParty": "CITIGROUP MORTGAGE LOAN TRUST INC",
+          "date": "10/31/2019",
+          "fileNumber": "2019 R 684136"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsEKrPoa8vLfZlyIz8TJ6Cx1lCmNmalEGRg%3d%3d",
+          "type": "NOT",
+          "firstParty": "NATIONSTART MORTGAGE LLC (D)",
+          "date": "1/2/2015",
+          "fileNumber": "2015 R 2224"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhHMI57ZfYkvmR1W%2fI2GLqD%2fCxc4wWeZdg%3d%3d",
+          "type": "AMO",
+          "firstParty": "NATIONSTART MORTGAGE LLC (D)",
+          "secondParty": "COMMUNITY LOAN FUND OF NJ INC",
+          "date": "7/21/2016",
+          "fileNumber": "2016 R 425704"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8BVUXG8ZfBJmX6v0JwlF91a2VJxA1AJYA%3d%3d",
+          "type": "DCP",
+          "firstParty": "NATIONSTART MORTGAGE LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "7/25/2024",
+          "fileNumber": "2024 R 562329"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYA4k247K9v%2bZ8BVUXG8ZfBJmX6v0JwlF91a2VJxA1AJYA%3d%3d",
+          "type": "DCP",
+          "firstParty": "DEAL PROPERTIES LLC (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "7/25/2024",
+          "fileNumber": "2024 R 562329"
+        }
+      ],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYADfeUkpIta%2fAZjIjB20dFwX44T2soEfmw1qgZyP9iSkg%3d%3d",
+          "type": "FTL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "8/11/2003",
+          "fileNumber": "2003 R 562228"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC4PoGxedXaU4IKefkJUt4kw%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "WHOM CONCERNED",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008908"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8XavrS4pS6FC6kXeiBlHT9QEPtG%2fXmLYeA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "9/27/2005",
+          "fileNumber": "2005 R 1008909"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDai3x3nFAC8fDeBQg1xcl2JcdvoNUmv1BAbmogT7uWXg%3d%3d",
+          "type": "REL",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "INTERNAL REV SERV",
+          "date": "10/4/2005",
+          "fileNumber": "2005 R 1039615"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBrv5PqL7jpal3lopANg9uPH%2bsCMANMcc1qGbzT%2f96PuQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "NATIONAL CITY BNK",
+          "date": "7/6/2007",
+          "fileNumber": "2007 R 669024"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYC%2bngTlCtjh7nbVYACgcQgpZGybCBcORtBNyasxUtPRgg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "SENZIG MICHAEL J",
+          "date": "6/12/2009",
+          "fileNumber": "2009 R 426761"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLALkODfgeBizXSGMt0wA3KisFfBu2PtWyQ%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "MITRANI DOLORES H",
+          "date": "6/6/2012",
+          "fileNumber": "2012 R 396419"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbpv%2bEACKqaozWxJpB4Ux1hypd%2b7QY5PTTA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "ARD ANTHONY TRU",
+          "date": "7/11/2013",
+          "fileNumber": "2013 R 547513"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbjSjAOBMNm4aLKopdNXxGDUYE1w%2b%2bKyrvA%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "EVERBANK",
+          "date": "12/3/2013",
+          "fileNumber": "2013 R 946686"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGuhILr4TW5VLw2oHpURVz0uucpBTUa1Qw%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "AMPRO MTG CORP",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 8493"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsD310ufhyd0%2fpKnyFKBTSvsLyfL9J2ObFg%3d%3d",
+          "type": "SMO",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "ANTHONY ARD MD PA PROFIT SHARING PLAN",
+          "date": "5/11/2015",
+          "fileNumber": "2015 R 300602"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsCQ0NdQ529QJxaNC3fxcTf5T2qW4AtKSgQ%3d%3d",
+          "type": "AFF",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "date": "5/20/2015",
+          "fileNumber": "2015 R 323858"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDDI4sN%2bnxlsP1sHKRik%2fIAklIaiLWAVVgBYptrJeI1KQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "8/7/2015",
+          "fileNumber": "2015 R 508246"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMhaxshNccyFBdkP6YXborqn4RilpSWzayg%3d%3d",
+          "type": "DEE",
+          "firstParty": "HINTON MICHAEL D (D)",
+          "secondParty": "MCBURNETTE MARY A",
+          "date": "2/9/2016",
+          "fileNumber": "2016 R 79149"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAl7lSyJYsvMgnTDFdcQlBbDyQ%2bLq2diNe5B2fNP8J9kg%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "9/19/2016",
+          "fileNumber": "2016 R 546821"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyBYcKpvreyX9M6SIq6UEZZeQ%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209826"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBarc%2fJA16mTpYf6hYKdkyByq2915LFMg9LL25MZy0Iiw%3d%3d",
+          "type": "DCP",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "4/13/2017",
+          "fileNumber": "2017 R 209829"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDRzABGJcc%2b7SJL7lBuI85gVJVarD%2bi6gZ00TbIllkBcQ%3d%3d",
+          "type": "MOR",
+          "firstParty": "HINTON MICHAEL D (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "12/27/2021",
+          "fileNumber": "2021 R 963390"
+        }
+      ],
+      [],
+      [
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCZJNiAve76mjugzuwFHs8tSmzMtQod%2b%2bSQeE8Mopdy3g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "NATIONAL CITY MORT CO",
+          "date": "6/25/2010",
+          "fileNumber": "2010 R 429172"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYDaI4%2fTgV0MYGZGCAK%2bxBesypYcqlmeDyCtE6BZ1u17dg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CAPITAL ONE BANK (USA) (NA)",
+          "date": "11/16/2011",
+          "fileNumber": "2011 R 770877"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLEB%2f37FAdYetpYtpuXRjWzYr42Px3B5I4A%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PORTOCARRERO JAVIER",
+          "date": "6/15/2012",
+          "fileNumber": "2012 R 424178"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLN%2fDHTdc%2bg4fEd6MpAvPwnagOzLDlGY9CQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAZ VICTOR IVAN",
+          "date": "11/1/2012",
+          "fileNumber": "2012 R 784293"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLPpAKcbw0O1LqurSc2%2b2A5sCDw4fTf%2b5Sw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ESTRADA RAMON N",
+          "date": "11/30/2012",
+          "fileNumber": "2012 R 860266"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYBQJBqSqapiLKIpJ2H0dpTz0hp65VhTU0ma9rMzkVlH9w%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "THOMAS ANTHONY",
+          "date": "12/7/2012",
+          "fileNumber": "2012 R 880575"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgVCyLx1cY0Inano7%2bltCQtD5vgo%2b8dpsA%3d%3d",
+          "type": "FST",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "EXECUTIVE FUELING SERVICES LLC",
+          "date": "1/18/2013",
+          "fileNumber": "2013 R 48913"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbgCmNdXXZ%2fNDiAN26d8peDyVDL%2fwB%2fedww%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "INDYMAC FEDERAL BANK (FSB)",
+          "date": "1/28/2013",
+          "fileNumber": "2013 R 70974"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fboGScTUzxtw3RhRhIzi4837gHiCUWElw9g%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CASTRILLON LILIANA P",
+          "date": "6/10/2013",
+          "fileNumber": "2013 R 457453"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbmF%2fXd6mvuc0DLK6m%2fNlPDbC5wrdPsYNyg%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JONES CAROLYN",
+          "date": "6/11/2013",
+          "fileNumber": "2013 R 461797"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbp9pwG6%2ftNZt5hXF9EUs2WgMcznIXNu7lA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAZ VICTOR IVAN",
+          "date": "6/12/2013",
+          "fileNumber": "2013 R 466221"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbtlCQlGrkfx%2f4Vg3Odi3RBJ1exMnxfP6%2bw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PORTOCARRERO JAVIER",
+          "date": "6/20/2013",
+          "fileNumber": "2013 R 493511"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqESrjmOxOL9LR9fzv2yuywr3M%2f5l%2fzR6A%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "NATIONAL CITY MORT CO",
+          "date": "7/5/2013",
+          "fileNumber": "2013 R 531251"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fblROhAqxvz%2fesduvs%2b9JllX%2bxY9ey%2brX3w%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "SAN MARCO AT FOUNTAINEBLEAU CONDOMINIUM",
+          "date": "7/5/2013",
+          "fileNumber": "2013 R 531671"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbi%2fJ6LXlemDlxAAqtLEQpJl8AG9bu5ta2g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CHASE HOME MORTGAGE",
+          "date": "7/22/2013",
+          "fileNumber": "2013 R 573213"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqBDVcBOVtv8MGl5gGWh8sbLc0NQVoWJ9A%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+          "date": "8/21/2013",
+          "fileNumber": "2013 R 664122"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYCQv467PRR%2fbqmEBMNJplNLpLtb8R0QS1wWZ8AMml10tA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "9/24/2013",
+          "fileNumber": "2013 R 757748"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdF1VJNwFreR%2bo5lyQx7doST7iRTS40RiDw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "FERNANDEZ JOSE R",
+          "date": "1/6/2014",
+          "fileNumber": "2014 R 10006"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKm%2fYtAHeVcmsLMpePNAiCtnGA38JTtxPw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "OFFICE 2020 (LLC)",
+          "date": "1/10/2014",
+          "fileNumber": "2014 R 23360"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCK3objYnC%2f5hpcqYzLGZ9Gp9MvXwZeFbA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GHAZAL TANIA L",
+          "date": "1/15/2014",
+          "fileNumber": "2014 R 37122"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIWb62ovz9elYQLyUJTjENH3ttB1%2fuuu%2fA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NA",
+          "date": "1/23/2014",
+          "fileNumber": "2014 R 54124"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDZdUZnNggT7db7uolCJgbV%2bs3dlgLpYCQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MARGARITA C DIAZ GARCIA",
+          "date": "1/23/2014",
+          "fileNumber": "2014 R 56842"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdKowTnU7jDJ752As6QvC3Ceilpbz3BWgtQ%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "RIVERA JUDITH N",
+          "date": "1/29/2014",
+          "fileNumber": "2014 R 71803"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdIsg2uBCbYKKrK7az7ZOZdXiCDscLd7ytw%3d%3d",
+          "type": "DEE",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "UPSTATE ENTERPRISES LLC",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 78956"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdNzxf8W0X80gkTzpAFO8YOgrYY%2b9YDY3VQ%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "THOMPSON MARY M",
+          "date": "1/31/2014",
+          "fileNumber": "2014 R 79666"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOmalQ7cUW6JHHwo26rVlqibG9ClfzxXjA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+          "date": "2/3/2014",
+          "fileNumber": "2014 R 82044"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMKAw0FQi0RKTFZvqaNUFYOCtslgm6%2bQ3g%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "COUNTRY LANE CONDOMINIUM NO 2 ASSOCIATIO",
+          "date": "2/5/2014",
+          "fileNumber": "2014 R 91355"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdICpq0QvMTkRAXip8c664fYq%2bLiZyI9e7Q%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "WILLIAMS JACQUELINE M",
+          "date": "2/12/2014",
+          "fileNumber": "2014 R 108202"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJSPDIAaCClgSC2SBLIsPxrkT6cWQ1QQZw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "ROCHA LEONEL",
+          "date": "2/20/2014",
+          "fileNumber": "2014 R 131363"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMRP8rJHBxZZ9rmVBm0hOmOQBKSJhZ5Srw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CAMARAZA HIRAM",
+          "date": "2/27/2014",
+          "fileNumber": "2014 R 147795"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDrt7Fj4%2fFY%2btx7HHEHaeTUt4DyW2QJeJA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GARCIA EMILIANA",
+          "date": "2/28/2014",
+          "fileNumber": "2014 R 149723"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGEbTVRwAA3k%2bY7ATU8L0Dc9REyNJcDOAA%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NATIONAL ASSOCIATION",
+          "date": "3/31/2014",
+          "fileNumber": "2014 R 228115"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdDxwWUSbIS6f1RmwilxVZPwyNqehS63tjg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CARBAJAL RAMON",
+          "date": "4/11/2014",
+          "fileNumber": "2014 R 264200"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdMYENMngSARMJkKSOOT4t%2bkg0RwTZo5gww%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "WELLS FARGO BANK NA",
+          "date": "4/23/2014",
+          "fileNumber": "2014 R 293665"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPQ7Np6gKX1bPaEguaYqht92AyfdlF3V5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "AVILA DANAY",
+          "date": "5/7/2014",
+          "fileNumber": "2014 R 328793"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdPQ7Np6gKX1bPaEguaYqht92AyfdlF3V5g%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "PNC BANK NATIONAL ASSOCIATION",
+          "date": "5/7/2014",
+          "fileNumber": "2014 R 328793"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdB6%2b9tAr9e9kleSM475oaBR93S%2fAtVu0Zg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "PAUL ANDREE MARIE JOSEE",
+          "date": "6/17/2014",
+          "fileNumber": "2014 R 430751"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdELGrR7TTzYnS9ziqkzJUDFneRrChdk4RQ%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "ALLSTATE LIFE INSURANCE COMPANY",
+          "date": "6/25/2014",
+          "fileNumber": "2014 R 452260"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdE%2bd1pMNkUfugbAj9wJgUzPgGR%2fHRUXifA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "CORBAN CHARLES J",
+          "date": "7/8/2014",
+          "fileNumber": "2014 R 480207"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCKnno77KPwAM7l2b3xjhgHYYcq05dS7Pw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CHASE HOME MORTGAGE",
+          "date": "7/21/2014",
+          "fileNumber": "2014 R 510349"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdFqoKV3ttgBOhGQ1Lzt%2fdesACFTRKpLbGw%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "US BANK NATIONAL ASSOCIATION",
+          "date": "7/21/2014",
+          "fileNumber": "2014 R 510659"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJ3hUQQ5Z3evWy99A3CFQGGFOJqB%2fgPTyw%3d%3d",
+          "type": "LIS",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "CITIMORTGAGE INC",
+          "date": "7/28/2014",
+          "fileNumber": "2014 R 525792"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdCvYljOhlD3u5p1VDIOUEpsGpJrOoA6Euw%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "9/10/2014",
+          "fileNumber": "2014 R 630631"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdGmuRzH80LDE6T4fGkqhz%2bJSmWNNm6IoQA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "BETSY DE LA CARIDAD PEREZ",
+          "date": "10/30/2014",
+          "fileNumber": "2014 R 753931"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdJeIXSxMTF7JwSmdkq2uhG%2f57skItUD3Gg%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JONES CAROLYN",
+          "date": "11/4/2014",
+          "fileNumber": "2014 R 761717"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdElQa3reYfqHwSd969rB7bWJ%2bZtlQLNZ3w%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "GRONOWICH DAVID",
+          "date": "11/4/2014",
+          "fileNumber": "2014 R 763646"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdH%2bFpdrFAVXNy0o2T2Ke6Z7gGcaMfSkjuA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (R)",
+          "secondParty": "HSBC BANK USA NATIONAL ASSOCIATION",
+          "date": "11/5/2014",
+          "fileNumber": "2014 R 767121"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdOlLWYl8yV%2bxg5y3vj7Th9yH8ds3PMMHPA%3d%3d",
+          "type": "CVP",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "MARGARITA C DIAZ GARCIA",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770138"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdG1edDvFMvzwW1%2fud48ivN9Fu0a6gpmhQA%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770253"
+        },
+        {
+          "url": "https://onlineservices.miamidadeclerk.gov/officialrecords/CFNDetailsPDF.aspx?QS=5p8%2fNlBjKYAED%2fdD21SFdM6cgCF7Khoo%2bceZrVN9ZQ9FWrUIyH5Zsw%3d%3d",
+          "type": "AMO",
+          "firstParty": "PNC BANK NATIONAL ASSOCIATION (D)",
+          "secondParty": "JPMORGAN CHASE BANK NATIONAL ASSOCIATION",
+          "date": "11/6/2014",
+          "fileNumber": "2014 R 770373"
+        }
+      ],
+      [],
+      []
+    ]
+  }
+]
