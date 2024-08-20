@@ -580,10 +580,10 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
         <TableCell align="center">{row.caseNumber}</TableCell>
 
         <TableCell> {row.address} </TableCell>
-        <TableCell align="center">{row.assessedValue + '$'}</TableCell>
+        <TableCell align="center">{'$' + row.assessedValue}</TableCell>
         <TableCell align="center">{formatDate(row.auctionDate)}</TableCell>
         <TableCell align="center">{row.caseType}</TableCell>
-        <TableCell align="center">{row.finalJudgmentAmount ? row.finalJudgmentAmount + '$' : '0$'}</TableCell>
+        <TableCell align="center">{row.finalJudgmentAmount ? '$' + row.finalJudgmentAmount : '$0'}</TableCell>
       </TableRow>
 
       {isExpanded && (
@@ -743,7 +743,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Opening Bid" secondary={row.openingBid + '$'} />
+                      <ListItemText primary="Opening Bid" secondary={'$' + row.openingBid} />
                     </ListItem>
                     <Divider />
 
@@ -763,12 +763,12 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Assessed Value" secondary={row.assessedValue + '$'} />
+                      <ListItemText primary="Assessed Value" secondary={'$' + row.assessedValue} />
                     </ListItem>
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Final Judgment Amount" secondary={row.finalJudgmentAmount ? row.finalJudgmentAmount + '$' : '0$'} />
+                      <ListItemText primary="Final Judgment Amount" secondary={row.finalJudgmentAmount ? '$' + row.finalJudgmentAmount : '$0'} />
                     </ListItem>
                     <Divider />
 
@@ -783,7 +783,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Tax Collector Debt" secondary={row?.taxCollectorDebt + "$" || 'None'} />
+                      <ListItemText primary="Tax Collector Debt" secondary={'$' + row?.taxCollectorDebt || 'None'} />
                     </ListItem>
                     <Divider />
 
