@@ -37,6 +37,15 @@ import useAuctions from './use-auctions';
 import { useAuth } from './hooks/use-auth';
 
 
+// Covert number to string with commas
+function numberToStringWithCommas (x) {
+  if (typeof x !== 'number') {
+    return x
+  }
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+
+
 
 function descendingComparator (a, b, orderBy) {
   if (b[orderBy] < a[orderBy]) {
@@ -115,7 +124,7 @@ const headCells = [
   },
   {
     id: 'finalJudgmentAmount',
-    numeric: false,
+    numeric: true,
     disablePadding: false,
     label: 'Final Judgment Amount',
   },
@@ -580,10 +589,16 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
         <TableCell align="center">{row.caseNumber}</TableCell>
 
         <TableCell> {row.address} </TableCell>
-        <TableCell align="center">{'$' + row.assessedValue}</TableCell>
+        <TableCell align="center">{row?.assessedValue
+          ? '$' + numberToStringWithCommas(row.assessedValue )
+          : '-'
+          }</TableCell>
         <TableCell align="center">{formatDate(row.auctionDate)}</TableCell>
         <TableCell align="center">{row.caseType}</TableCell>
-        <TableCell align="center">{row.finalJudgmentAmount ? '$' + row.finalJudgmentAmount : '$0'}</TableCell>
+        <TableCell align="center">{row.finalJudgmentAmount
+          ? '$' + numberToStringWithCommas(row.finalJudgmentAmount)
+          : '-'
+          }</TableCell>
       </TableRow>
 
       {isExpanded && (
@@ -743,7 +758,7 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Opening Bid" secondary={'$' + row.openingBid} />
+                      <ListItemText primary="Opening Bid" secondary={'$' + numberToStringWithCommas(row.openingBid)} />
                     </ListItem>
                     <Divider />
 
@@ -763,17 +778,26 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Assessed Value" secondary={'$' + row.assessedValue} />
+                      <ListItemText
+                        primary="Assessed Value"
+                        secondary={'$' + numberToStringWithCommas(row.assessedValue)} />
                     </ListItem>
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Final Judgment Amount" secondary={row.finalJudgmentAmount ? '$' + row.finalJudgmentAmount : '$0'} />
+                      <ListItemText
+                      primary="Final Judgment Amount"
+                      secondary={row.finalJudgmentAmount
+                        ? '$' + numberToStringWithCommas(row.finalJudgmentAmount )
+                        : '-'}
+                        />
                     </ListItem>
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Property Appraiser Description" secondary={row.propertyAppraiserLegalDescription} />
+                      <ListItemText
+                        primary="Property Appraiser Description"
+                        secondary={row.propertyAppraiserLegalDescription} />
                     </ListItem>
                     <Divider />
 
@@ -783,7 +807,10 @@ const ExpandableTableRow = ({ row, labelId, openDocsDialog, updateAuctionField }
                     <Divider />
 
                     <ListItem>
-                      <ListItemText primary="Tax Collector Debt" secondary={'$' + row?.taxCollectorDebt || 'None'} />
+                      <ListItemText primary="Tax Collector Debt" secondary={row?.taxCollectorDebt
+                        ? '$' + numberToStringWithCommas(row?.taxCollectorDebt)
+                        : '-'}
+                        />
                     </ListItem>
                     <Divider />
 
